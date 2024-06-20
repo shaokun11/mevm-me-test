@@ -23,9 +23,13 @@ async function listFiles() {
 }
 const files = await listFiles()
 
-let RUNNING_COUNT = 0
+let RUN_STATUS = {
+  PASSED: 0,
+  FAILED: 0,
+  ERROR: 0
+}
 try {
-  RUNNING_COUNT = parseInt(await readFile("count.txt", 'utf8'))
+  RUN_STATUS = JSON.parse((await readFile("status.txt", 'utf8')))
 } catch (error) {
 
 }
@@ -43,13 +47,10 @@ function toBuffer(hex) {
   return new HexString(hex).toUint8Array();
 }
 
-let RUN_STATUS = {
-  PASSED: 0,
-  FAILED: 0,
-  ERROR: 0
-}
-let current_count = 0
+const getCurrentCount = () => RUN_STATUS.ERROR + RUN_STATUS.FAILED + RUN_STATUS.PASSED
 
+
+let current_count = 0
 
 export async function sendTest(source) {
   const file_path = files.find((file) => file.includes(source));
@@ -72,7 +73,8 @@ export async function sendTest(source) {
   }
   for (let i = 0; i < tx.data.length; i++) {
     current_count++
-    if (current_count <= RUNNING_COUNT) continue
+    const all_count = getCurrentCount()
+    if (current_count <= all_count) continue
     const payload = {
       function: `0x1::evm_for_test::run_test`,
       type_arguments: [],
@@ -113,25 +115,20 @@ export async function sendTest(source) {
       msg += res.vm_status
       RUN_STATUS.ERROR++
     }
-    const count = RUN_STATUS.PASSED + RUN_STATUS.FAILED + RUN_STATUS.ERROR
     const per = `${RUN_STATUS.PASSED}:${RUN_STATUS.FAILED}:${RUN_STATUS.ERROR} ${(RUN_STATUS.PASSED / (
-      count) * 100).toFixed(4)}% `
+      getCurrentCount()) * 100).toFixed(4)}% `
     // const summary = chalk.gray(per)
     const summary = per
     const output = `${status} ${summary} ${loc} ${msg}`
     await appendFile("summary.txt", output + "\n")
-    await writeFile("count.txt", `${count}`)
-    RUNNING_COUNT += 1
+    await writeFile("status.txt", `${JSON.stringify(RUN_STATUS)}`)
     if (current_count % 5 === 0) {
-      console.log("running test count", current_count)
+      console.log("running status ", RUN_STATUS)
     }
   }
 }
 
 // sendTest("vmArithmeticTest/add.json")
-
-
-
 
 for (let i = 0; i < files.length; i++) {
   await sendTest(files[i])
