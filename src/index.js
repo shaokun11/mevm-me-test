@@ -87,7 +87,7 @@ export async function sendTest(source) {
         toBuffer(tx.to),
         toBuffer(tx.data[i]),
         toBuffer(tx.gasPrice),
-        toBuffer(tx.value[i] || tx.value[0] || "0x0"),
+        toBuffer(tx.value[i] || "0x0"),
       ],
     };
     let loc = `${source} ${info["labels"]?.[i] ?? ""} `
