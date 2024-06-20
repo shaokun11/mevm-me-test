@@ -23,6 +23,13 @@ async function listFiles() {
 }
 const files = await listFiles()
 
+let RUNNING_COUNT = 0
+try {
+  RUNNING_COUNT = parseInt(await readFile("count.txt", 'utf8'))
+} catch (error) {
+
+}
+
 export async function sendTx(payload) {
   const from = SENDER_ACCOUNT.address()
   const txnRequest = await client.generateTransaction(from.hexString, payload);
@@ -41,6 +48,8 @@ let RUN_STATUS = {
   FAILED: 0,
   ERROR: 0
 }
+let current_count = 0
+
 
 export async function sendTest(source) {
   const file_path = files.find((file) => file.includes(source));
@@ -62,6 +71,8 @@ export async function sendTest(source) {
     nonces.push(parseInt(v['nonce']))
   }
   for (let i = 0; i < tx.data.length; i++) {
+    current_count++
+    if (current_count <= RUNNING_COUNT) continue
     const payload = {
       function: `0x1::evm_for_test::run_test`,
       type_arguments: [],
@@ -110,17 +121,19 @@ export async function sendTest(source) {
     const output = `${status} ${summary} ${loc} ${msg}`
     await appendFile("summary.txt", output + "\n")
     await writeFile("count.txt", `${count}`)
+    RUNNING_COUNT += 1
+    if (current_count % 5 === 0) {
+      console.log("running test count", current_count)
+    }
   }
 }
 
 // sendTest("vmArithmeticTest/add.json")
-let start = 0
-try {
-  start = parseInt(await readFile("count.txt", 'utf8'))
-} catch (error) {
 
-}
-for (let i = start; i < files.length; i++) {
+
+
+
+for (let i = 0; i < files.length; i++) {
   await sendTest(files[i])
 }
 
