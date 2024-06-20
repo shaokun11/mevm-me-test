@@ -2,3 +2,5 @@ node_modules
 ethereum-tests
 .vscode
 .env
+count.txt
+summary.txt
