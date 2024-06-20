@@ -1,0 +1,4 @@
+node_modules
+ethereum-tests
+.vscode
+.env
