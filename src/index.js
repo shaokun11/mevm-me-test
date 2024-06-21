@@ -22,6 +22,7 @@ async function listFiles() {
   }
 }
 const files = await listFiles()
+files.sort()
 
 let RUN_STATUS = {
   PASSED: 0,
@@ -29,7 +30,7 @@ let RUN_STATUS = {
   ERROR: 0
 }
 try {
-  RUN_STATUS = JSON.parse((await readFile("status.txt", 'utf8')))
+  // RUN_STATUS = JSON.parse((await readFile("status.txt", 'utf8')))
 } catch (error) {
 
 }
@@ -95,7 +96,7 @@ export async function sendTest(source) {
         toBuffer(indexes['value'] !== undefined ? tx.value[indexes['value']] : "0x0"),
       ],
     };
-    let loc = `${source} ${info["labels"]?.[i] ?? ""} `
+    let loc = `${source} ${i +1} ${info["labels"]?.[i] ?? ""} `
     let status = ""
     let msg = ""
     const res = await sendTx(payload)
@@ -138,8 +139,9 @@ export async function sendTest(source) {
 }
 
 // sendTest("vmArithmeticTest/add.json")
+sendTest("vmArithmeticTest/divByZero.json")
 
-for (let i = 0; i < files.length; i++) {
-  await sendTest(files[i])
-}
+// for (let i = 0; i < files.length; i++) {
+//   await sendTest(files[i])
+// }
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
