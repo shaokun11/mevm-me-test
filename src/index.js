@@ -68,16 +68,18 @@ export async function sendTest(source) {
   const codes = []
   const balances = []
   const nonces = []
+
   for (let [k, v] of Object.entries(pre)) {
     addresses.push(toBuffer(k))
     codes.push(toBuffer(v['code']))
     balances.push(toBuffer(v['balance']))
     nonces.push(parseInt(v['nonce']))
   }
-  for (let i = 0; i < tx.data.length; i++) {
+  for (let i = 0; i < post.length; i++) {
     current_count++
     const all_count = getCurrentCount()
     if (current_count <= all_count) continue
+    const indexes = post[i].indexes
     const payload = {
       function: `0x1::evm_for_test::run_test`,
       type_arguments: [],
@@ -88,9 +90,9 @@ export async function sendTest(source) {
         balances,
         toBuffer(tx.sender),
         toBuffer(tx.to),
-        toBuffer(tx.data[i]),
+        toBuffer(indexes['data'] !== undefined ? tx.data[indexes['data']] : "0x"),
         toBuffer(tx.gasPrice),
-        toBuffer(tx.value[i] || tx.value[0] || "0x0"),
+        toBuffer(indexes['value'] !== undefined ? tx.value[indexes['value']] : "0x0"),
       ],
     };
     let loc = `${source} ${info["labels"]?.[i] ?? ""} `
@@ -108,14 +110,18 @@ export async function sendTest(source) {
         status += "[FAILED]"
         msg += JSON.stringify({
           ...root_data.data,
-          expected: post[i].hash
+          expected: post[i].hash,
+          hash: res.hash
         })
         RUN_STATUS.FAILED++
       }
     } else {
       // status += chalk.red("[ERROR]")
       status += "[ERROR]"
-      msg += res.vm_status
+      msg += JSON.stringify({
+        error: res.vm_status,
+        hash: res.hash
+      })
       RUN_STATUS.ERROR++
     }
     const per = `${RUN_STATUS.PASSED}:${RUN_STATUS.FAILED}:${RUN_STATUS.ERROR} ${(RUN_STATUS.PASSED / (
