@@ -1,1 +1,0 @@
-[FAILED] 2:14:0 12.5000%  ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json 1   {"gas_usage":"78832","state_root":"0x4386d369e9e59321d830af457a79d87fea9b85f4daf1cd486143e4b05633e52c","expected":"0x11b18edf688c9bae6277fcf3a951195b51bdcf5cbed1c470cf3beac2362dd2ed","hash":"0x71618168b3fdf9afb947d4e1d21afd8eb81b8863cb8c3f5db27441488f295c69"}

@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/**/*.test.js",
-    "dev": "node src/index.js | tap-spec-emoji"
+    "dev": "node src/index.js | tap-spec"
   },
   "keywords": [],
   "author": "shaokun",
@@ -20,5 +20,8 @@
     "fast-glob": "^3.3.2",
     "tap-spec-emoji": "^6.1.2",
     "tape": "^5.8.1"
+  },
+  "devDependencies": {
+    "tap-spec": "^5.0.0"
   }
 }

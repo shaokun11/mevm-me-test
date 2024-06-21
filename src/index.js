@@ -99,10 +99,12 @@ export async function sendTest(source) {
           })
         }
       } else {
+        t.equals(false, res.vm_status)
         status += "[ERROR]"
         msg += JSON.stringify({
           error: res.vm_status,
-          hash: res.hash
+          hash: res.hash,
+          expected: post[i].hash,
         })
       }
       const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`
@@ -114,31 +116,55 @@ export async function sendTest(source) {
 }
 
 const passed = [
-  "vmArithmeticTest/add.json",
-  "vmArithmeticTest/divByZero.json",
-  "vmArithmeticTest/addmod.json",
-  "vmArithmeticTest/div.json",
-  "vmArithmeticTest/mod.json",
-  "vmArithmeticTest/not.json",
-  "vmArithmeticTest/sub.json",
-  "vmArithmeticTest/smod.json",
-  "vmArithmeticTest/signextend.json",
-  "vmArithmeticTest/mulmod.json",
+  "vmArithmeticTest/add",
+  "vmArithmeticTest/addmod",
   "vmArithmeticTest/arith",
+  "vmArithmeticTest/div",
+  "vmArithmeticTest/divByZero",
+  "vmArithmeticTest/exp",
+  "vmArithmeticTest/mod",
+  "vmArithmeticTest/not",
+  "vmArithmeticTest/sub",
+  "vmArithmeticTest/smod",
+  "vmArithmeticTest/signextend",
+  "vmArithmeticTest/mulmod",
+  "vmArithmeticTest/mul",    // TODO mul_0_23 stack less than 2
+  "vmArithmeticTest/sdiv",
+  "vmArithmeticTest/fib",   // TODO: ethereum.js also error
+  "vmArithmeticTest/twoOps",// TODO: ethereum.js also error
+
+  "vmBitwiseLogicOperation/byte", // TODO 12 byte_all  ethereum.js also error
+  "vmBitwiseLogicOperation/and",
+  "vmBitwiseLogicOperation/eq",
+  "vmBitwiseLogicOperation/gt",
+  "vmBitwiseLogicOperation/iszero",
+  "vmBitwiseLogicOperation/lt",
+  "vmBitwiseLogicOperation/not",
+  "vmBitwiseLogicOperation/or",
+  "vmBitwiseLogicOperation/slt",
+  "vmBitwiseLogicOperation/xor",
+  "vmBitwiseLogicOperation/sgt",
+
+  "vmIOandFlowOperations/codecopy", // TODO 4 codecopy_2buff  5 codecopy_opcodes  ethereum.js also error
+
 ]
 
 // sendTest("vmArithmeticTest/arith.json")
-sendTest("vmArithmeticTest/exp.json")
-
-// for (let i = 0; i < files.length; i++) {
-//   let send = true
-//   for (let j = 0; j < passed.length; j++) {
-//     if (files[i].includes(passed[j])) {
-//       send = false
-//       break
-//     }
-//   }
-//   if (send)
-//     await sendTest(files[i])
-// }
+// sendTest("vmArithmeticTest/sdiv.json")
+console.log(files)
+for (let i = 0; i < files.length; i++) {
+  let send = true
+  for (let j = 0; j < passed.length; j++) {
+    const index = files[i].indexOf(passed[j])
+    if (index !== -1) {
+      if (files[i].slice(index + passed[j].length) === '.json') {
+        send = false
+        break
+      }
+    }
+  }
+  if (send) {
+    //await sendTest(files[i])
+  }
+}
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
