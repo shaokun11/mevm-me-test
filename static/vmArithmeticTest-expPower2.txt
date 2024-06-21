@@ -1,0 +1,1 @@
+[FAILED] 2:11:0 15.3846%  ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower2.json 1   {"gas_usage":"512944","state_root":"0xd0efe95123d35fec49500297d3e9c4728238957b96e95f5094c98a2c277179b1","expected":"0xf05338920ed32079c1b83632b527a796385ceba9ac0b5cb92826a8419585dec0","hash":"0x86a1e89ba8de731b36ab71eb0b509fd9750a4a802031e6725bb9c424050e39e9"}

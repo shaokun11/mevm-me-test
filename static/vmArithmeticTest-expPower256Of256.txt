@@ -1,0 +1,1 @@
+[FAILED] 2:13:0 13.3333%  ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower256Of256.json 1   {"gas_usage":"4867364","state_root":"0x1aceba380ba15983b6dded60f041c8b07484cff2f78bbaccff654b0256677a17","expected":"0x07e29d5f4b74d32e38d9369ce15638a0622657bf7e876d34ebeedff0ba10c9fe","hash":"0x6ba220946a26c3089f91cfcd5a3729cc1dace3de0664d090a12683915ccaaf29"}

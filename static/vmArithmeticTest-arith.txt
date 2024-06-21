@@ -1,0 +1,1 @@
+[FAILED] 0:1:0 0.0000%  ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/arith.json 1   {"gas_usage":"43217","state_root":"0x1f59c2de04f095a6ba9178059cddf7cc1838e21849952c018a9a00b2dc5ab1a1","expected":"0x4c6e15a60aaab17fd64cdb35d269c1a4035566d57a8f9f29a88271b703d94132","hash":"0x8df6bb64aa8b4ebb2fa3a19d1582191fa47b72cee78ce6be75b8faa03f35d3b6"}

@@ -6,19 +6,19 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/**/*.test.js",
-    "dev": "node src/index.js"
+    "dev": "node src/index.js | tap-spec-emoji"
   },
   "keywords": [],
   "author": "shaokun",
   "license": "ISC",
   "dependencies": {
-    "@types/mocha": "^10.0.6",
     "@types/node": "^20.14.6",
     "aptos": "^1.21.0",
-    "chai": "^5.1.1",
     "chalk": "^5.3.0",
+    "colortape": "^0.1.2",
     "dotenv": "^16.4.5",
     "fast-glob": "^3.3.2",
-    "mocha": "^10.4.0"
+    "tap-spec-emoji": "^6.1.2",
+    "tape": "^5.8.1"
   }
 }
