@@ -1,7 +1,7 @@
 import { AptosAccount, AptosClient, HexString } from "aptos"
 import { NODE_URL, EVM_SENDER } from "./config.js";
 import fg from 'fast-glob';
-import { appendFile, readFile, unlink, writeFile } from 'node:fs/promises'
+import { appendFile, readFile, unlink } from 'node:fs/promises'
 import tape from "tape";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -40,12 +40,6 @@ function toBuffer(hex) {
 }
 
 export async function sendTest(source) {
-  const RUN_STATUS = {
-    PASSED: 0,
-    FAILED: 0,
-    ERROR: 0
-  }
-  const getCurrentCount = () => RUN_STATUS.ERROR + RUN_STATUS.FAILED + RUN_STATUS.PASSED
   const file_path = files.find((file) => file.includes(source));
   if (!file_path) throw new Error(source + " not found ")
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
@@ -95,33 +89,23 @@ export async function sendTest(source) {
         const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent")
         t.equals(root_data.data.state_root, post[i].hash)
         if (post[i].hash === root_data.data.state_root) {
-          // status += chalk.green("[PASSED]")
           status += "[PASSED]"
-          RUN_STATUS.PASSED++
         } else {
-          // status += chalk.yellow("[FAILED]")
           status += "[FAILED]"
           msg += JSON.stringify({
             ...root_data.data,
             expected: post[i].hash,
             hash: res.hash
           })
-          RUN_STATUS.FAILED++
         }
       } else {
-        // status += chalk.red("[ERROR]")
         status += "[ERROR]"
         msg += JSON.stringify({
           error: res.vm_status,
           hash: res.hash
         })
-        RUN_STATUS.ERROR++
       }
-      const per = `${RUN_STATUS.PASSED}:${RUN_STATUS.FAILED}:${RUN_STATUS.ERROR} ${(RUN_STATUS.PASSED / (
-        getCurrentCount()) * 100).toFixed(2)}% `
-      // const summary = chalk.gray(per)
-      const summary = per
-      const output = `${new Date().toISOString()} ${status} ${summary} ${loc} ${msg}`
+      const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`
       await appendFile(summary_file, output + "\n")
 
     })
