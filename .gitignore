@@ -4,3 +4,4 @@ ethereum-tests
 .env
 count.txt
 summary.txt
+status.txt

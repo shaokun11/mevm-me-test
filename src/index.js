@@ -44,6 +44,9 @@ export async function sendTx(payload) {
 
 }
 function toBuffer(hex) {
+  if (hex.startsWith("0x")) hex = hex.slice(2)
+  if (hex.length % 2 !== 0) hex = "0" + hex
+  hex = "0x" + hex
   return new HexString(hex).toUint8Array();
 }
 
@@ -87,7 +90,7 @@ export async function sendTest(source) {
         toBuffer(tx.to),
         toBuffer(tx.data[i]),
         toBuffer(tx.gasPrice),
-        toBuffer(tx.value[i] || "0x0"),
+        toBuffer(tx.value[i] || tx.value[0] || "0x0"),
       ],
     };
     let loc = `${source} ${info["labels"]?.[i] ?? ""} `
