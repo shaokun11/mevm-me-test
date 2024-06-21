@@ -124,11 +124,11 @@ const passed = [
   "vmArithmeticTest/smod.json",
   "vmArithmeticTest/signextend.json",
   "vmArithmeticTest/mulmod.json",
-
+  "vmArithmeticTest/arith",
 ]
 
-sendTest("vmArithmeticTest/add.json")
-// sendTest("vmArithmeticTest/divByZero.json")
+// sendTest("vmArithmeticTest/arith.json")
+sendTest("vmArithmeticTest/exp.json")
 
 // for (let i = 0; i < files.length; i++) {
 //   let send = true
