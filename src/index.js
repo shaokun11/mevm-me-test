@@ -39,7 +39,11 @@ function toBuffer(hex) {
   return new HexString(hex).toUint8Array();
 }
 
-export async function sendTest(source) {
+export async function sendTest(data) {
+  let source = data
+  if (data instanceof Object) {
+    source = data.name
+  }
   const file_path = files.find((file) => file.includes(source));
   if (!file_path) throw new Error(source + " not found ")
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
@@ -56,7 +60,6 @@ export async function sendTest(source) {
   const codes = []
   const balances = []
   const nonces = []
-
   for (let [k, v] of Object.entries(pre)) {
     addresses.push(toBuffer(k))
     codes.push(toBuffer(v['code']))
@@ -80,7 +83,8 @@ export async function sendTest(source) {
         toBuffer(indexes['value'] !== undefined ? tx.value[indexes['value']] : "0x0"),
       ],
     };
-    let loc = `${source} ${i + 1} ${info["labels"]?.[i] ?? ""} `
+    const label = info["labels"]?.[i] ?? ""
+    let loc = `${source} ${i + 1} ${label} `
     let status = ""
     let msg = ""
     tape(loc, async (t) => {
@@ -109,9 +113,7 @@ export async function sendTest(source) {
       }
       const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`
       await appendFile(summary_file, output + "\n")
-
     })
-
   }
 }
 
@@ -128,12 +130,43 @@ const passed = [
   "vmArithmeticTest/smod",
   "vmArithmeticTest/signextend",
   "vmArithmeticTest/mulmod",
-  "vmArithmeticTest/mul",    // TODO mul_0_23 stack less than 2
+  {
+    name: "vmArithmeticTest/mul",
+    errors: [
+      {
+        error: 'stack underflow',
+        label: "mul_0_23"
+      }
+    ]
+  },
   "vmArithmeticTest/sdiv",
-  "vmArithmeticTest/fib",   // TODO: ethereum.js also error
-  "vmArithmeticTest/twoOps",// TODO: ethereum.js also error
-
-  "vmBitwiseLogicOperation/byte", // TODO 12 byte_all  ethereum.js also error
+  {
+    name: "vmArithmeticTest/fib",
+    errors: [
+      {
+        error: 'TODO', // this label for also test at ethereumjs failed
+        label: ""
+      }
+    ]
+  },
+  {
+    name: "vmArithmeticTest/twoOps",
+    errors: [
+      {
+        error: 'TODO',
+        label: ""
+      }
+    ]
+  },
+  {
+    name: "vmBitwiseLogicOperation/byte",
+    errors: [
+      {
+        error: 'TODO',
+        label: "byte_all"
+      }
+    ]
+  },
   "vmBitwiseLogicOperation/and",
   "vmBitwiseLogicOperation/eq",
   "vmBitwiseLogicOperation/gt",
@@ -144,20 +177,34 @@ const passed = [
   "vmBitwiseLogicOperation/slt",
   "vmBitwiseLogicOperation/xor",
   "vmBitwiseLogicOperation/sgt",
-
-  "vmIOandFlowOperations/codecopy", // TODO 4 codecopy_2buff  5 codecopy_opcodes  ethereum.js also error
-
+  {
+    name: "vmIOandFlowOperations/codecopy",
+    errors: [
+      {
+        error: 'out of gas',
+        label: "codecopy_bigbuff"
+      },
+      {
+        error: 'TODO',
+        label: "codecopy_opcodes"
+      },
+      {
+        error: 'TODO',
+        label: "codecopy_2buff"
+      },
+    ]
+  },
 ]
 
-// sendTest("vmArithmeticTest/arith.json")
-// sendTest("vmArithmeticTest/sdiv.json")
-console.log(files)
+// sendTest("vmIOandFlowOperations/codecopy.json")
+
 for (let i = 0; i < files.length; i++) {
   let send = true
   for (let j = 0; j < passed.length; j++) {
-    const index = files[i].indexOf(passed[j])
+    const passed_name = passed[j].name ?? passed[j]
+    const index = files[i].indexOf(passed_name)
     if (index !== -1) {
-      if (files[i].slice(index + passed[j].length) === '.json') {
+      if (files[i].slice(index + passed_name.length) === '.json') {
         send = false
         break
       }
