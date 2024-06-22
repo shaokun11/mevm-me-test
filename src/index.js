@@ -128,6 +128,9 @@ const passed = [
   "vmArithmeticTest/not",
   "vmArithmeticTest/sub",
   "vmArithmeticTest/smod",
+  "vmArithmeticTest/expPower2",
+  "vmArithmeticTest/expPower256",
+  "vmArithmeticTest/expPower256Of256",
   "vmArithmeticTest/signextend",
   "vmArithmeticTest/mulmod",
   {
@@ -194,6 +197,19 @@ const passed = [
       },
     ]
   },
+  {
+    name:"vmIOandFlowOperations/gas",
+    errors:[
+      {
+        error: 'TODO',
+        label: "gas1"
+      },
+      {
+        error: 'TODO',
+        label: "gas2"
+      },
+    ]
+  }
 ]
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
@@ -211,7 +227,7 @@ for (let i = 0; i < files.length; i++) {
     }
   }
   if (send) {
-    //await sendTest(files[i])
+    // await sendTest(files[i])
   }
 }
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
