@@ -1,2 +1,2 @@
-2024-06-27T09:37:40.858Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 1 gas1  {"gas_usage":"23818","state_root":"0x95f7fcb912bc2163ed2f9a4518aa472d185d353b41fb1486fa53f65abff7ac0a","expected":"0x77a51a882a2994945343cef4c9da8e93637bec485b074de725129b43018f43d0","hash":"0x5e8eb561049f43c812a5757adbc6000c063d6ece0094d488905e12ea24e4428f"}
-2024-06-27T09:37:43.831Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 2 gas2  {"gas_usage":"23830","state_root":"0x76df87e6dfc6389c21a7ff14c29fe142f55553d63c985bd1d7c80da87ded72fb","expected":"0x48bbbbc10529c4a4e40663e54a8b50117b6a2c7f64323890da93480eb259e049","hash":"0xf127907c0c70830ef2b62f2441a86c053f113ee40fa0123bd17deef75d6ca637"}
+2024-06-27T11:44:24.649Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 1 gas1  
+2024-06-27T11:44:27.168Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 2 gas2  
