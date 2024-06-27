@@ -41,7 +41,7 @@ function toBuffer(hex) {
 
 
 async function timeoutExe(ms) {
-  await new Promise(resolve => setTimeout(resolve, ms));
+  await sleep(ms);
   return {
     success: false,
     vm_status: 'timeout',
