@@ -1,7 +1,7 @@
 import { AptosAccount, AptosClient, HexString } from "aptos"
 import { NODE_URL, EVM_SENDER } from "./config.js";
 import fg from 'fast-glob';
-import { appendFile, readFile, unlink } from 'node:fs/promises'
+import { appendFile, readFile, writeFile } from 'node:fs/promises'
 import tape from "tape";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -61,7 +61,7 @@ export async function sendTest(index, data) {
   const parts = source.split('/');
   const result = `${parts[parts.length - 2]}/${parts[parts.length - 1].replace('.json', '')}`;
   const summary_file = `static/${index}-${result.replace("/", "-")}.txt`
-  await unlink(summary_file).catch(() => { })
+  await writeFile(summary_file, "")
   const json = await JSON.parse((await readFile(file_path, 'utf8')).toString());
   const pre = json[key]['pre']
   const post = json[key]['post']["Cancun"]
