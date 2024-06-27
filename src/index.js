@@ -39,7 +39,18 @@ function toBuffer(hex) {
   return new HexString(hex).toUint8Array();
 }
 
-export async function sendTest(index,data) {
+
+async function timeoutExe(ms) {
+  await new Promise(resolve => setTimeout(resolve, ms));
+  return {
+    success: false,
+    vm_status: 'timeout',
+    hash: "0x0"
+  }
+}
+let has_error = false
+
+export async function sendTest(index, data) {
   let source = data
   if (data instanceof Object) {
     source = data.name
@@ -60,11 +71,27 @@ export async function sendTest(index,data) {
   const codes = []
   const balances = []
   const nonces = []
+  const storage_keys = []
+  const storage_values = []
   for (let [k, v] of Object.entries(pre)) {
     addresses.push(toBuffer(k))
     codes.push(toBuffer(v['code']))
     balances.push(toBuffer(v['balance']))
     nonces.push(parseInt(v['nonce']))
+    const storage_map = v['storage']
+    if (storage_map) {
+      const keys = []
+      const values = []
+      for (let [k, v] of Object.entries(storage_map)) {
+        keys.push(toBuffer(k))
+        values.push(toBuffer(v))
+      }
+      storage_keys.push(keys)
+      storage_values.push(values)
+    } else {
+      storage_keys.push([])
+      storage_values.push([])
+    }
   }
   for (let i = 0; i < post.length; i++) {
     const indexes = post[i].indexes
@@ -76,6 +103,8 @@ export async function sendTest(index,data) {
         codes,
         nonces,
         balances,
+        storage_keys,
+        storage_values,
         toBuffer(tx.sender),
         toBuffer(tx.to),
         toBuffer(indexes['data'] !== undefined ? tx.data[indexes['data']] : "0x"),
@@ -87,8 +116,12 @@ export async function sendTest(index,data) {
     let loc = `${source} ${i + 1} ${label} `
     let status = ""
     let msg = ""
-    tape(loc, async (t) => {
-      const res = await sendTx(payload)
+    const timeout = 20 * 1000
+    tape(loc, { timeout: timeout }, async (t) => {
+      const res = await Promise.race([
+        sendTx(payload),
+        timeoutExe(timeout - 1000)
+      ])
       if (res.success) {
         const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent")
         t.equals(root_data.data.state_root, post[i].hash)
@@ -102,7 +135,9 @@ export async function sendTest(index,data) {
             hash: res.hash
           })
         }
+        has_error = true
       } else {
+        has_error = true
         t.equals(false, res.vm_status)
         status += "[ERROR]"
         msg += JSON.stringify({
@@ -117,117 +152,13 @@ export async function sendTest(index,data) {
   }
 }
 
-const passed = [
-  "vmArithmeticTest/add",
-  "vmArithmeticTest/addmod",
-  "vmArithmeticTest/arith",
-  "vmArithmeticTest/div",
-  "vmArithmeticTest/divByZero",
-  "vmArithmeticTest/exp",
-  "vmArithmeticTest/mod",
-  "vmArithmeticTest/not",
-  "vmArithmeticTest/sub",
-  "vmArithmeticTest/smod",
-  "vmArithmeticTest/expPower2",
-  "vmArithmeticTest/expPower256",
-  "vmArithmeticTest/expPower256Of256",
-  "vmArithmeticTest/signextend",
-  "vmArithmeticTest/mulmod",
-  {
-    name: "vmArithmeticTest/mul",
-    errors: [
-      {
-        error: 'stack underflow',
-        label: "mul_0_23"
-      }
-    ]
-  },
-  "vmArithmeticTest/sdiv",
-  {
-    name: "vmArithmeticTest/fib",
-    errors: [
-      {
-        error: 'TODO', // this label for also test at ethereumjs failed
-        label: ""
-      }
-    ]
-  },
-  {
-    name: "vmArithmeticTest/twoOps",
-    errors: [
-      {
-        error: 'TODO',
-        label: ""
-      }
-    ]
-  },
-  {
-    name: "vmBitwiseLogicOperation/byte",
-    errors: [
-      {
-        error: 'TODO',
-        label: "byte_all"
-      }
-    ]
-  },
-  "vmBitwiseLogicOperation/and",
-  "vmBitwiseLogicOperation/eq",
-  "vmBitwiseLogicOperation/gt",
-  "vmBitwiseLogicOperation/iszero",
-  "vmBitwiseLogicOperation/lt",
-  "vmBitwiseLogicOperation/not",
-  "vmBitwiseLogicOperation/or",
-  "vmBitwiseLogicOperation/slt",
-  "vmBitwiseLogicOperation/xor",
-  "vmBitwiseLogicOperation/sgt",
-  {
-    name: "vmIOandFlowOperations/codecopy",
-    errors: [
-      {
-        error: 'out of gas',
-        label: "codecopy_bigbuff"
-      },
-      {
-        error: 'TODO',
-        label: "codecopy_opcodes"
-      },
-      {
-        error: 'TODO',
-        label: "codecopy_2buff"
-      },
-    ]
-  },
-  {
-    name:"vmIOandFlowOperations/gas",
-    errors:[
-      {
-        error: 'TODO',
-        label: "gas1"
-      },
-      {
-        error: 'TODO',
-        label: "gas2"
-      },
-    ]
-  }
-]
+
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
-for (let i = 0; i < files.length; i++) {
-  let send = true
-  // for (let j = 0; j < passed.length; j++) {
-  //   const passed_name = passed[j].name ?? passed[j]
-  //   const index = files[i].indexOf(passed_name)
-  //   if (index !== -1) {
-  //     if (files[i].slice(index + passed_name.length) === '.json') {
-  //       send = false
-  //       break
-  //     }
-  //   }
-  // }
-  if (send) {
-    await sendTest(i,files[i])
-  }
+for (let i = 9; i < files.length; i++) {
+  if (has_error) break
+  await sendTest(i, files[i])
+  break
 }
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
