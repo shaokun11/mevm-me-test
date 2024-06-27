@@ -134,8 +134,8 @@ export async function sendTest(index, data) {
             expected: post[i].hash,
             hash: res.hash
           })
+          has_error = true
         }
-        has_error = true
       } else {
         has_error = true
         t.equals(false, res.vm_status)
