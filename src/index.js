@@ -156,7 +156,7 @@ export async function sendTest(index, data) {
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
-for (let i = 20; i < files.length; i++) {
+for (let i = 30; i < files.length; i++) {
   if (has_error) break
   await sendTest(i, files[i])
   break
