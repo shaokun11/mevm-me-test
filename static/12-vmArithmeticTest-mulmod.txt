@@ -1,0 +1,16 @@
+2024-06-27T05:48:04.322Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 1 mm_1_2_2  
+2024-06-27T05:48:06.176Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 2 mm_neg1_neg2_3  
+2024-06-27T05:48:09.141Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 3 mm_neg5_1_3  
+2024-06-27T05:48:12.468Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 4 mm_5_1_neg3  
+2024-06-27T05:48:15.362Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 5 mm_27_37_100  
+2024-06-27T05:48:18.299Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 6 mm_2pow255_2_5  
+2024-06-27T05:48:21.658Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 7 mm_neg1_2_5  
+2024-06-27T05:48:23.364Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 8 mm_2pow255min1_2_5  
+2024-06-27T05:48:28.097Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 9 mm_2pow255plus1_2_5  
+2024-06-27T05:48:29.892Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 10 mulmod_vs_smod  
+2024-06-27T05:48:33.033Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 11 mulmod_vs_mod  
+2024-06-27T05:48:36.133Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 12 mulmod_pos_pos_neg  
+2024-06-27T05:48:38.355Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 13 mm_0_1_0  
+2024-06-27T05:48:41.497Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 14 mm_1_0_0  
+2024-06-27T05:48:44.431Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 15 one_minus_mm_0_0_0  
+2024-06-27T05:48:48.768Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 16 mm_5_1_0  

@@ -39,7 +39,7 @@ function toBuffer(hex) {
   return new HexString(hex).toUint8Array();
 }
 
-export async function sendTest(data) {
+export async function sendTest(index,data) {
   let source = data
   if (data instanceof Object) {
     source = data.name
@@ -49,7 +49,7 @@ export async function sendTest(data) {
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
   const parts = source.split('/');
   const result = `${parts[parts.length - 2]}/${parts[parts.length - 1].replace('.json', '')}`;
-  const summary_file = `static/${result.replace("/", "-")}.txt`
+  const summary_file = `static/${index}-${result.replace("/", "-")}.txt`
   await unlink(summary_file).catch(() => { })
   const json = await JSON.parse((await readFile(file_path, 'utf8')).toString());
   const pre = json[key]['pre']
@@ -216,18 +216,18 @@ const passed = [
 
 for (let i = 0; i < files.length; i++) {
   let send = true
-  for (let j = 0; j < passed.length; j++) {
-    const passed_name = passed[j].name ?? passed[j]
-    const index = files[i].indexOf(passed_name)
-    if (index !== -1) {
-      if (files[i].slice(index + passed_name.length) === '.json') {
-        send = false
-        break
-      }
-    }
-  }
+  // for (let j = 0; j < passed.length; j++) {
+  //   const passed_name = passed[j].name ?? passed[j]
+  //   const index = files[i].indexOf(passed_name)
+  //   if (index !== -1) {
+  //     if (files[i].slice(index + passed_name.length) === '.json') {
+  //       send = false
+  //       break
+  //     }
+  //   }
+  // }
   if (send) {
-    // await sendTest(files[i])
+    await sendTest(i,files[i])
   }
 }
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d

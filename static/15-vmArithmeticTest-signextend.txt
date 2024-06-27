@@ -1,0 +1,15 @@
+2024-06-27T05:49:44.388Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 1 invalid_byte  
+2024-06-27T05:49:46.375Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 2 zero_zero  
+2024-06-27T05:49:48.055Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 3 zero_neg1  
+2024-06-27T05:49:49.744Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 4 neg2_neg2  
+2024-06-27T05:49:51.659Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 5 neg1_neg1  
+2024-06-27T05:49:53.565Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 6 large_ff  
+2024-06-27T05:49:55.273Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 7 neg1_zero  
+2024-06-27T05:49:57.390Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 8 bit_is_not_set  
+2024-06-27T05:50:00.342Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 9 bit_is_not_set_high  
+2024-06-27T05:50:03.298Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 10 bit_is_set_high  
+2024-06-27T05:50:04.891Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 11 overflow_bytenum  
+2024-06-27T05:50:10.952Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 12 overflow_bytenum2  
+2024-06-27T05:50:13.226Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 13 bit_is_set  
+2024-06-27T05:50:15.723Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 14 byte31_pos  
+2024-06-27T05:50:17.219Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json 15 byte31_neg  

@@ -1,0 +1,3 @@
+2024-06-27T05:52:45.500Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/eq.json 1 eq_neg5_neg3  
+2024-06-27T05:52:48.530Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/eq.json 2 eq_0_0  
+2024-06-27T05:52:51.347Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/eq.json 3 eq_neg1_neg1  

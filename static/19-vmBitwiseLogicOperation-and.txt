@@ -1,0 +1,4 @@
+2024-06-27T05:51:59.862Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 2 and_2_1  
+2024-06-27T05:52:02.737Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 3 and_3_1  
+2024-06-27T05:52:05.929Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 4 and_allones_bignum  
+2024-06-27T05:52:08.819Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 5 and_allones_eefee  

@@ -1,0 +1,9 @@
+2024-06-27T05:47:40.858Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 1 mul_2_3  
+2024-06-27T05:47:44.305Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 2 mul_neg1_neg1  
+2024-06-27T05:47:46.589Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 3 mul_0_23  
+2024-06-27T05:47:48.845Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 4 mul_23_1  
+2024-06-27T05:47:51.641Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 5 mul_2pow255_neg1  
+2024-06-27T05:47:54.159Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 6 mul_2pow255_2pow255  
+2024-06-27T05:47:55.810Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 7 mul_2pow255min1_2pow255min1  
+2024-06-27T05:47:59.657Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 8 big_pow_3  
+2024-06-27T05:48:02.657Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mul.json 9 stack_underflow  

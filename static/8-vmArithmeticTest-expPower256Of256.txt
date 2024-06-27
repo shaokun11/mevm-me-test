@@ -1,0 +1,1 @@
+2024-06-27T05:47:16.394Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower256Of256.json 1   

@@ -1,0 +1,3 @@
+2024-06-27T05:53:03.784Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/iszero.json 1 iszero_neg1  
+2024-06-27T05:53:07.312Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/iszero.json 2 iszero_0  
+2024-06-27T05:53:10.116Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/iszero.json 3 iszero_neg2  
