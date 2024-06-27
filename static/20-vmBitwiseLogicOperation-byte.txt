@@ -1,12 +1,12 @@
-2024-06-27T05:52:11.782Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 1 byte_31_big  
-2024-06-27T05:52:14.942Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 2 byte_30_big  
-2024-06-27T05:52:18.019Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 3 byte_29_big  
-2024-06-27T05:52:21.188Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 4 byte_28_big  
-2024-06-27T05:52:24.120Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 5 byte_27_big  
-2024-06-27T05:52:27.215Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 6 byte_26_big  
-2024-06-27T05:52:28.977Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 7 byte_25_big  
-2024-06-27T05:52:31.708Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 8 byte_24_big  
-2024-06-27T05:52:33.609Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 9 byte_00_big  
-2024-06-27T05:52:35.263Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 10 byte_00_big_2nd  
-2024-06-27T05:52:38.272Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 11 byte_asm  
-2024-06-27T05:52:41.132Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 12 byte_all  {"gas_usage":"713599","state_root":"0xce38a239cec3662e15835fbab07852fbcee05b153ebfecb679b235d199512e4e","expected":"0xd03d99602c3d7aee95b35b0d34b3d50351d242df747586dc841d3be34c6b791f","hash":"0xedcd7b7cb050bb0f9c446bb9a987b3e7b8fed02035a42c0dbd78f80c9579d48e"}
+2024-06-27T07:28:51.850Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 1 byte_31_big  
+2024-06-27T07:28:54.349Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 2 byte_30_big  
+2024-06-27T07:28:56.848Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 3 byte_29_big  
+2024-06-27T07:28:59.307Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 4 byte_28_big  
+2024-06-27T07:29:01.768Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 5 byte_27_big  
+2024-06-27T07:29:04.234Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 6 byte_26_big  
+2024-06-27T07:29:06.684Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 7 byte_25_big  
+2024-06-27T07:29:09.135Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 8 byte_24_big  
+2024-06-27T07:29:11.590Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 9 byte_00_big  
+2024-06-27T07:29:14.047Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 10 byte_00_big_2nd  
+2024-06-27T07:29:16.498Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 11 byte_asm  
+2024-06-27T07:29:18.956Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 12 byte_all  {"gas_usage":"713599","state_root":"0xce38a239cec3662e15835fbab07852fbcee05b153ebfecb679b235d199512e4e","expected":"0xd03d99602c3d7aee95b35b0d34b3d50351d242df747586dc841d3be34c6b791f","hash":"0xe292ce4fe7625976907117e13a10521c29bcb6cdedda07fcc80c692b1e73ea95"}
