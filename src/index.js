@@ -51,6 +51,7 @@ async function timeoutExe(ms) {
 let has_error = false
 
 export async function sendTest(index, source) {
+  console.log('start ', source, has_error)
   const file_path = files.find((file) => file.includes(source));
   if (!file_path) throw new Error(source + " not found ")
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
@@ -58,7 +59,7 @@ export async function sendTest(index, source) {
   const result = `${parts[parts.length - 2]}/${parts[parts.length - 1].replace('.json', '')}`;
   const summary_file = `static/${index}-${result.replace("/", "-")}.txt`
   await writeFile(summary_file, "")
-  const json = await JSON.parse((await readFile(file_path, 'utf8')).toString());
+  const json = JSON.parse((await readFile(file_path, 'utf8')).toString());
   const pre = json[key]['pre']
   const post = json[key]['post']["Cancun"]
   const tx = json[key]['transaction']
@@ -113,37 +114,40 @@ export async function sendTest(index, source) {
     let status = ""
     let msg = ""
     const timeout = 20 * 1000
-    tape(loc, { timeout: timeout }, async (t) => {
-      const res = await Promise.race([
-        sendTx(payload),
-        timeoutExe(timeout - 1000)
-      ])
-      if (res.success) {
-        const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent")
-        t.equals(root_data.data.state_root, post[i].hash)
-        if (post[i].hash === root_data.data.state_root) {
-          status += "[PASSED]"
+    await new Promise((resolve) => {
+      tape(loc, { timeout: timeout }, async (t) => {
+        const res = await Promise.race([
+          sendTx(payload),
+          timeoutExe(timeout - 1000)
+        ])
+        if (res.success) {
+          const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent")
+          t.equals(root_data.data.state_root, post[i].hash)
+          if (post[i].hash === root_data.data.state_root) {
+            status += "[PASSED]"
+          } else {
+            status += "[FAILED]"
+            msg += JSON.stringify({
+              ...root_data.data,
+              expected: post[i].hash,
+              hash: res.hash
+            })
+            has_error = true
+          }
         } else {
-          status += "[FAILED]"
-          msg += JSON.stringify({
-            ...root_data.data,
-            expected: post[i].hash,
-            hash: res.hash
-          })
           has_error = true
+          t.fail(res.vm_status)
+          status += "[ERROR]"
+          msg += JSON.stringify({
+            error: res.vm_status,
+            hash: res.hash,
+            expected: post[i].hash,
+          })
         }
-      } else {
-        has_error = true
-        t.fail(res.vm_status)
-        status += "[ERROR]"
-        msg += JSON.stringify({
-          error: res.vm_status,
-          hash: res.hash,
-          expected: post[i].hash,
-        })
-      }
-      const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`
-      await appendFile(summary_file, output + "\n")
+        const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`
+        await appendFile(summary_file, output + "\n")
+        resolve()
+      })
     })
   }
 }
@@ -153,6 +157,7 @@ export async function sendTest(index, source) {
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
 for (let i = 34; i < files.length; i++) {
+  console.log('start ', i, has_error)
   if (has_error) break
   await sendTest(i, files[i])
   // break
