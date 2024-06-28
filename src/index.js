@@ -51,7 +51,6 @@ async function timeoutExe(ms) {
 let has_error = false
 
 export async function sendTest(index, source) {
-  console.log('start ', source, has_error)
   const file_path = files.find((file) => file.includes(source));
   if (!file_path) throw new Error(source + " not found ")
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
