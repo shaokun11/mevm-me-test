@@ -155,6 +155,5 @@ for (let i = 37; i < files.length; i++) {
 
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
 // ```
-// retesteth -t GeneralStateTests -- --clients t8ntool --vmtrace --testfile /home/ubuntu/shaokun/geth-test/test/tests/GeneralStateTests/VMTests/vmIOandFlowOperations/loopsConditionals.json --testpath /home/ubuntu/shaokun/geth-test/test/tests
-
+//
 // ```
