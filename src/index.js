@@ -111,7 +111,6 @@ export async function test(opt) {
         let status = "";
         let msg = "";
         const timeout = 20 * 1000;
-        has_result = false
         tape(loc, { timeout: timeout }, async (t) => {
             const res = await Promise.race([sendTx(payload), timeoutExe(timeout - 1000)]);
             if (res.success) {
