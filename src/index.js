@@ -156,9 +156,9 @@ export async function sendTest(index, data) {
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
-for (let i = 32; i < files.length; i++) {
+for (let i = 34; i < files.length; i++) {
   if (has_error) break
   await sendTest(i, files[i])
-  break
+  // break
 }
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
