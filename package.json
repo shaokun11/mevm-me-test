@@ -14,14 +14,12 @@
   "dependencies": {
     "@types/node": "^20.14.6",
     "aptos": "^1.21.0",
-    "chalk": "^5.3.0",
-    "colortape": "^0.1.2",
     "dotenv": "^16.4.5",
     "fast-glob": "^3.3.2",
-    "tap-spec-emoji": "^6.1.2",
+    "tap-spec": "^5.0.0",
     "tape": "^5.8.1"
   },
   "devDependencies": {
-    "tap-spec": "^5.0.0"
+    
   }
 }
