@@ -9,10 +9,10 @@ const client = new AptosClient(NODE_URL);
 const SENDER_ACCOUNT = AptosAccount.fromAptosAccountObject({
     privateKeyHex: EVM_SENDER,
 });
-
+const DIR = "ethereum-tests/GeneralStateTests/VMTests/";
+const TEST_FORK = "Cancun"
 async function listFiles() {
-    const DIR = "ethereum-tests/GeneralStateTests/VMTests";
-    const pattern = `${DIR}/**/*.json`;
+    const pattern = `${DIR}**/*.json`;
     try {
         const files = await fg(pattern);
         return files;
@@ -52,13 +52,17 @@ export async function sendTest(index, source) {
     const file_path = files.find((file) => file.includes(source));
     if (!file_path) throw new Error(source + " not found ");
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
-    const parts = source.split("/");
-    const result = `${parts[parts.length - 2]}/${parts[parts.length - 1].replace(".json", "")}`;
-    const summary_file = `static/${index}-${result.replace("/", "-")}.txt`;
+    const source_file = source.slice(DIR.length)
+    const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
+    // reset summary file
     await writeFile(summary_file, "");
     const json = JSON.parse((await readFile(file_path, "utf8")).toString());
     const pre = json[key]["pre"];
-    const post = json[key]["post"]["Cancun"];
+    const post = json[key]["post"][TEST_FORK];
+    if (!post || post.length === 0) {
+        console.log("No post state found for ", source)
+        return
+    }
     const tx = json[key]["transaction"];
     const info = json[key]["_info"];
     const addresses = [];
@@ -148,7 +152,8 @@ export async function sendTest(index, source) {
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
-for (let i = 34; i < files.length; i++) {
+
+for (let i = 36; i < files.length; i++) {
     if (has_error) break;
     await sendTest(i, files[i]);
     // break
