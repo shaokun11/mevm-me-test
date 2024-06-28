@@ -110,7 +110,7 @@ export async function sendTest(index, source) {
       ],
     };
     const label = info["labels"]?.[i] ?? ""
-    let loc = `${source} ${i + 1} ${label} `
+    let loc = `${source} ${i + 1}/${post.length} ${label} `
     let status = ""
     let msg = ""
     const timeout = 20 * 1000
@@ -157,7 +157,6 @@ export async function sendTest(index, source) {
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
 for (let i = 34; i < files.length; i++) {
-  console.log('start ', i, has_error)
   if (has_error) break
   await sendTest(i, files[i])
   // break
