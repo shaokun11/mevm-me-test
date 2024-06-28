@@ -7,7 +7,7 @@ import { tap } from "node:test/reporters";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const client = new AptosClient(NODE_URL);
-let SENDER_ACCOUNT
+let SENDER_ACCOUNT;
 
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
@@ -32,11 +32,11 @@ async function timeoutExe(ms) {
         hash: "0x0",
     };
 }
-let has_error = false;
+
 
 export async function test(opt) {
     const { index, source, account } = opt;
-    SENDER_ACCOUNT = SENDER_ACCOUNTS[account]
+    SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
@@ -77,6 +77,7 @@ export async function test(opt) {
             storage_values.push([]);
         }
     }
+    let has_error = false;
     for (let i = 0; i < post.length; i++) {
         const indexes = post[i].indexes;
         const payload = {
@@ -130,6 +131,7 @@ export async function test(opt) {
                 }
                 const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`;
                 await appendFile(summary_file, output + "\n");
+                t.end();
                 resolve();
             });
         });
