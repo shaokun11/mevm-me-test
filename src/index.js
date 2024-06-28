@@ -50,11 +50,7 @@ async function timeoutExe(ms) {
 }
 let has_error = false
 
-export async function sendTest(index, data) {
-  let source = data
-  if (data instanceof Object) {
-    source = data.name
-  }
+export async function sendTest(index, source) {
   const file_path = files.find((file) => file.includes(source));
   if (!file_path) throw new Error(source + " not found ")
   const key = source.substring(source.lastIndexOf('/') + 1, source.lastIndexOf('.'));
@@ -138,7 +134,7 @@ export async function sendTest(index, data) {
         }
       } else {
         has_error = true
-        t.equals(false, res.vm_status)
+        t.fail(res.vm_status)
         status += "[ERROR]"
         msg += JSON.stringify({
           error: res.vm_status,
