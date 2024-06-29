@@ -1,2 +1,2 @@
-2024-06-29T03:31:32.973Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json 1/2 pc1 {"error":"Move abort in 0x1::evm_for_test: 0x58","hash":"0xe68624f40d6f62dd50fe63a289af77ac987f0cc9ccec7b42e1b5cd72508a0191","expected":"0xdac2f4b80be804cf73cfa612bcb90cc844e7251a1d0af6355ee99d6826fd628a"}
-2024-06-29T03:31:34.496Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json 2/2 pc2 {"error":"Move abort in 0x1::evm_for_test: 0x58","hash":"0x9255f3afb7ed4edecc71cff31103caf4334c2f3c88b278e849cd25e6522c57e0","expected":"0x7c67bffc04e52cc0cc1a2ff0f801e16894bc4c95a2e5985a609cc3593bf93269"}
+2024-06-29T03:45:33.313Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json 1/2 pc1 
+2024-06-29T03:45:35.849Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json 2/2 pc2 

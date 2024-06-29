@@ -1,3 +1,3 @@
-2024-06-29T03:31:28.376Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 1/3 mstore8_onebyte 
-2024-06-29T03:31:29.904Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 2/3 mstore8_twobytes 
-2024-06-29T03:31:31.438Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 3/3 mstore8_neg1 
+2024-06-29T03:45:25.614Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 1/3 mstore8_onebyte 
+2024-06-29T03:45:28.165Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 2/3 mstore8_twobytes 
+2024-06-29T03:45:30.743Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 3/3 mstore8_neg1 

@@ -1,0 +1,2 @@
+2024-06-29T03:45:38.412Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 1/2 pop1 
+2024-06-29T03:45:40.972Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 2/2 pop2 
