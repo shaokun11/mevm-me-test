@@ -1,6 +1,6 @@
-2024-06-27T05:47:21.076Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 1 mod_2_3  
-2024-06-27T05:47:25.366Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 2 mod_neg1_2  
-2024-06-27T05:47:29.088Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 3 mod_0_neg1  
-2024-06-27T05:47:32.183Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 4 mod_3_0  
-2024-06-27T05:47:34.571Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 5 mod_neg2_3  
-2024-06-27T05:47:37.393Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 6 mod_16_0  
+2024-06-29T14:00:28.130Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 1/6 mod_2_3 
+2024-06-29T14:00:30.639Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 2/6 mod_neg1_2 
+2024-06-29T14:00:33.146Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 3/6 mod_0_neg1 
+2024-06-29T14:00:35.664Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 4/6 mod_3_0 
+2024-06-29T14:00:38.159Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 5/6 mod_neg2_3 
+2024-06-29T14:00:40.670Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mod.json 6/6 mod_16_0 

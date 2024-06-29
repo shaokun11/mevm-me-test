@@ -1,1 +1,1 @@
-2024-06-27T06:54:17.968Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json 1   
+2024-06-29T14:00:25.631Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json 1/1  

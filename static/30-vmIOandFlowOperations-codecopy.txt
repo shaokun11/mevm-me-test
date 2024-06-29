@@ -1,5 +1,0 @@
-2024-06-27T09:36:44.194Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 1 codecopy  
-2024-06-27T09:36:48.414Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 2 codecopy_infbuff  
-2024-06-27T09:36:50.663Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 3 codecopy_bigbuff  
-2024-06-27T09:36:54.251Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 4 codecopy_2buff  
-2024-06-27T09:36:58.795Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 5 codecopy_opcodes  

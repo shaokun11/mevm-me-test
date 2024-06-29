@@ -1,6 +1,0 @@
-2024-06-27T05:53:23.797Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 1 not_0  
-2024-06-27T05:53:26.626Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 2 not_2  
-2024-06-27T05:53:29.854Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 3 not_allones  
-2024-06-27T05:53:32.661Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 4 not_neg2  
-2024-06-27T05:53:35.494Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 5 not_neg_2_pow_256  
-2024-06-27T05:53:39.100Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json 6 not_neg0  

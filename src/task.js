@@ -1,5 +1,5 @@
 import { HexString } from "aptos";
-import { appendFile, readFile, writeFile } from "node:fs/promises";
+import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
 import tape from "tape";
 import { DIR, IGNORE_TEST, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { AptosClient } from "aptos";
@@ -9,9 +9,12 @@ const client = new AptosClient(NODE_URL);
 let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
-    const txnRequest = await client.generateTransaction(from.hexString, payload);
+    const txnRequest = await client.generateTransaction(from.hexString, payload, {
+        expiration_timestamp_secs: Math.trunc(Date.now() / 1000) + 15
+    });
     const signedTxn = await client.signTransaction(SENDER_ACCOUNT, txnRequest);
     const transactionRes = await client.submitTransaction(signedTxn);
+    console.log("Transaction submitted with hash:", transactionRes.hash);   
     await client.waitForTransaction(transactionRes.hash);
     return client.getTransactionByHash(transactionRes.hash);
 }
@@ -42,8 +45,7 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    // reset summary file
-    await writeFile(summary_file, "");
+    await unlink(summary_file).catch(() => { });
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
@@ -104,6 +106,7 @@ export async function runTask(opt) {
         if (isSkip(source, label)) {
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             await appendFile(summary_file, output + "\n");
+            tape.skip(loc)
             continue
         }
         let status = "";

@@ -1,2 +1,0 @@
-2024-06-27T11:44:24.649Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 1 gas1  
-2024-06-27T11:44:27.168Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json 2 gas2  
