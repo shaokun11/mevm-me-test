@@ -5,7 +5,7 @@
 
  dr -t GeneralStateTests  --  --clients t8ntool --vmtrace --testfile  GeneralStateTests/VMTests/vmIOandFlowOperations/loopsConditionals.json --nologcolor >1.log 2>&1
  
-dr -t GeneralStateTests  --  --clients t8ntool --vmtraceraw 1 --nologcolor --testfile  GeneralStateTests/VMTests/vmIOandFlowOperations/loopsConditionals.json>1.log 2>&1 
+dr -t GeneralStateTests  --  --clients t8ntool --vmtraceraw 1 --nologcolor --testfile  GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json>1.log 2>&1 
 
 mv 1.log ../../ethereumjs-monorepo/
 ```

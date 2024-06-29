@@ -1,0 +1,6 @@
+2024-06-29T15:52:38.061Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 1/78 jump-ok {"error":"Move abort in 0x1::simple_map: EKEY_NOT_FOUND(0x10002): Map key is not found","hash":"0x3a468edb7333169f4574d685c69cc44e4b513c2616d43e6d21be4cd67d8a986e","expected":"0x44dff2ebad00b1672ba11882d78f525b5f74d47a7d5959403b6d5e5976529e20"}
+2024-06-29T15:52:40.778Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 2/78 jump-ok 
+2024-06-29T15:52:43.447Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 3/78 jump-ok 
+2024-06-29T15:52:46.215Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 4/78 jump-ok 
+2024-06-29T15:52:49.065Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 5/78 jump-ok 
+2024-06-29T15:52:51.865Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpToPush.json 6/78 jump-ok 

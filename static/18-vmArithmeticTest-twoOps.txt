@@ -1,1 +1,1 @@
-2024-06-29T14:34:17.107Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json 1/1  {"gas_refund":"0","gas_usage":"14264832","state_root":"0xe8d047a8b139e1759ec7a0764f2e8a0202a8062ee606dd62f983d596a8f0054c","expected":"0x661f7670cd6a2240c0a91861bd5cdf2d1eb2552c6c137e048f0f4edd30ae0771","hash":"0x7a14791386390eaa25bdf108646d91d4394c1e9166f91497eb6d29f31bbd7d35"}
+2024-06-29T15:49:55.020Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json 1/1  
