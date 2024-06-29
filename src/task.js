@@ -9,7 +9,7 @@ const client = new AptosClient(NODE_URL);
 let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
-    const timeoutSecs =  120
+    const timeoutSecs =  60
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
         expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
     });
