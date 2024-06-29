@@ -1,3 +1,3 @@
-2024-06-29T02:54:21.475Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 1/3 mstore8_onebyte 
-2024-06-29T02:54:24.011Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 2/3 mstore8_twobytes 
-2024-06-29T02:54:26.537Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 3/3 mstore8_neg1 {"gas_refund":"0","gas_usage":"28863","state_root":"0x829c7f4162f02f8892ca976df0bba37c696ee03f15cf3c32a104815451d3a853","expected":"0xb0a2d071785e1c15228be4749bcd362604084db0e826c6d06838e49993722f3d","hash":"0x26e23fc18ce67aae93e97f14706d836262f98806f79cb3281e9ba420297177dc"}
+2024-06-29T03:31:28.376Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 1/3 mstore8_onebyte 
+2024-06-29T03:31:29.904Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 2/3 mstore8_twobytes 
+2024-06-29T03:31:31.438Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 3/3 mstore8_neg1 
