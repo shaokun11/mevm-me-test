@@ -89,7 +89,7 @@ export async function runTask(opt) {
                 toBuffer(tx.sender),
                 toBuffer(tx.to),
                 toBuffer(indexes["data"] !== undefined ? tx.data[indexes["data"]] : "0x"),
-                toBuffer(indexes["gas"] !== undefined ? tx.data[indexes["gas"]] : "0x0"),
+                toBuffer(indexes["gas"] !== undefined ? tx.gasLimit[indexes["gas"]] : "0x0"),
                 toBuffer(tx.gasPrice),
                 toBuffer(indexes["value"] !== undefined ? tx.value[indexes["value"]] : "0x0"),
             ],
