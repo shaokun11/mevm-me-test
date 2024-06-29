@@ -50,8 +50,8 @@ export async function runTask(opt) {
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
     if (!post || post.length === 0) {
-        console.log("No post state found for ", source);
-        return has_error;
+        console.error("No post state found for ", source);
+        return;
     }
     const tx = json[key]["transaction"];
     const info = json[key]["_info"];
