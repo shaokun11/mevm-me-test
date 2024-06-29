@@ -1,0 +1,1 @@
+2024-06-29T02:54:29.075Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json 1/2 pc1 {"error":"Move abort in 0x1::evm_for_test: 0x58","hash":"0x63c782a4f5380175c2f6c9249fdc92aff8a0259ac19912425f1a9664b88444a5","expected":"0xdac2f4b80be804cf73cfa612bcb90cc844e7251a1d0af6355ee99d6826fd628a"}

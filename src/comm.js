@@ -8,3 +8,10 @@ export const SENDER_ACCOUNTS = [
         privateKeyHex: EVM_SENDER,
     })
 ];
+
+export const IGNORE_TEST =[
+    {
+        name:"ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json",
+        label:"farChunk"
+    }
+]

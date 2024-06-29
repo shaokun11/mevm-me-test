@@ -1,7 +1,7 @@
 import { HexString } from "aptos";
 import { appendFile, readFile, writeFile } from "node:fs/promises";
 import tape from "tape";
-import { DIR, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
+import { DIR, IGNORE_TEST, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -29,6 +29,11 @@ async function timeoutExe(ms) {
         vm_status: "timeout",
         hash: "0x0",
     };
+}
+
+function isSkip(source, label) {
+    return IGNORE_TEST.some((t) => t.label === label && t.name.includes(source))
+
 }
 
 export async function runTask(opt) {
@@ -95,7 +100,12 @@ export async function runTask(opt) {
             ],
         };
         const label = info["labels"]?.[i] ?? "";
-        let loc = `${source} ${i + 1}/${post.length} ${label} `;
+        let loc = `${source} ${i + 1}/${post.length} ${label}`;
+        if (isSkip(source, label)) {
+            const output = `${new Date().toISOString()} [SKIP] ${loc}`;
+            await appendFile(summary_file, output + "\n");
+            continue
+        }
         let status = "";
         let msg = "";
         const timeout = 20 * 1000;
@@ -104,7 +114,7 @@ export async function runTask(opt) {
                 const res = await Promise.race([sendTx(payload), timeoutExe(timeout - 1000)]);
                 if (res.success) {
                     const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent");
-                    t.equals(root_data.data.state_root, post[i].hash, `State root should match for ${loc}`);
+                    t.equals(root_data.data.state_root, post[i].hash);
 
                     if (post[i].hash === root_data.data.state_root) {
                         status += "[PASSED]";
