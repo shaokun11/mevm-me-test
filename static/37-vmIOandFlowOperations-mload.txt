@@ -1,0 +1,3 @@
+2024-06-29T23:36:45.327Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 1/3 mload 
+2024-06-29T23:36:47.557Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 2/3 mloadOOG 
+2024-06-29T23:36:49.762Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 3/3 mloadOOG 

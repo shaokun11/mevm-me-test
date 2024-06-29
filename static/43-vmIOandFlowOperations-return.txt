@@ -1,0 +1,5 @@
+2024-06-29T23:37:33.164Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json 1/5 return 
+2024-06-29T23:37:35.379Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json 2/5 returnInfBuff 
+2024-06-29T23:37:37.591Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json 3/5 returnBigBuff 
+2024-06-29T23:37:39.806Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json 4/5 returnOffset 
+2024-06-29T23:37:42.008Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json 5/5 returnOld 

@@ -11,7 +11,7 @@ export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
     const timeoutSecs =  120
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
-        expiration_timestamp_secs: timeoutSecs
+        expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
     });
     const signedTxn = await client.signTransaction(SENDER_ACCOUNT, txnRequest);
     const transactionRes = await client.submitTransaction(signedTxn);

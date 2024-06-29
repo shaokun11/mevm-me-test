@@ -1,0 +1,6 @@
+2024-06-29T23:36:52.026Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 1/6 msize0 
+2024-06-29T23:36:54.209Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 2/6 msize1 
+2024-06-29T23:36:56.389Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 3/6 msize2 
+2024-06-29T23:36:58.574Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 4/6 msize3 
+2024-06-29T23:37:00.777Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 5/6 chunks {"gas_refund":"0","gas_usage":"90175","state_root":"0x65a60fd7dcd4b813d7bd4f2869313135eb231ccfa99ed5dcbe95cd6abdf18edd","expected":"0xd5f50ffbaba2c953e0f4c67cd562c7a22d29f4d068392eb801d43a3228177540","hash":"0x1b60bdd9f11cd5963c02b79b9f7800b89e68edc428852b2eb7b4d4482ce96ce7"}
+2024-06-29T23:37:03.086Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 6/6 farChunk {"gas_refund":"0","gas_usage":"254882680","state_root":"0xf3f0f1add9d392e790a7aefc7d7ba7ceefba3805650e14cbd608e27414b8c24e","expected":"0x44f115a2e0b2150d3d9f76f403c68da6a63d59d71be1ce52bb66c482d6ebc4f8","hash":"0x620122faa1a94f485ece344571536c8472ae93be5419bd7505ade77a649cdd46"}
