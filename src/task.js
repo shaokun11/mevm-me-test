@@ -9,14 +9,14 @@ const client = new AptosClient(NODE_URL);
 let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
-    const timeout = Math.trunc(Date.now() / 1000) + 60
+    const timeoutSecs =  120
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
-        expiration_timestamp_secs: timeout
+        expiration_timestamp_secs: timeoutSecs
     });
     const signedTxn = await client.signTransaction(SENDER_ACCOUNT, txnRequest);
     const transactionRes = await client.submitTransaction(signedTxn);
     console.log("Transaction submitted with hash:", transactionRes.hash);
-    return client.waitForTransactionWithResult(transactionRes.hash, { timeoutSecs: 120 });
+    return client.waitForTransactionWithResult(transactionRes.hash, { timeoutSecs: timeoutSecs });
 }
 function toBuffer(hex) {
     if (hex.startsWith("0x")) hex = hex.slice(2);
