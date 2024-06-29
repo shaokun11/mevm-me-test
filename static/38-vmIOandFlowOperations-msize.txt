@@ -1,6 +1,6 @@
-2024-06-28T10:45:50.918Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 1/6 msize0  
-2024-06-28T10:45:53.421Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 2/6 msize1  
-2024-06-28T10:45:55.911Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 3/6 msize2  
-2024-06-28T10:45:58.397Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 4/6 msize3  {"gas_refund":"0","gas_usage":"45965","state_root":"0x37c5f88aa3f903757269f46b7ac2a0b3a75ea7604b3ffe41f8567f22f7783257","expected":"0x40927429b8ec8647cc2c21d08b8934f0a43360ab7f425b6bd3bcaf5ef0cef28b","hash":"0xa9ece9ea97a2b0ec3963ffda4da3d539c2fd1fa37644d24512110b5609a10de6"}
-2024-06-28T10:46:00.914Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 5/6 chunks  {"error":"Execution failed in 0x1::evm_for_test::run at code offset 1473","hash":"0xa2de9871f9fe30a75bf79708f5814fcc45814e3764995585976dd68d50639669","expected":"0xd5f50ffbaba2c953e0f4c67cd562c7a22d29f4d068392eb801d43a3228177540"}
-2024-06-28T10:46:03.410Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 6/6 farChunk  {"error":"Execution failed in 0x1::evm_for_test::run at code offset 1473","hash":"0x18ee4442b21175c2a36d4be333eb885b7296cb9a89674663e15c2819951d5e49","expected":"0x44f115a2e0b2150d3d9f76f403c68da6a63d59d71be1ce52bb66c482d6ebc4f8"}
+2024-06-29T01:32:08.298Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 1/6 msize0  
+2024-06-29T01:32:11.205Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 2/6 msize1  
+2024-06-29T01:32:14.087Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 3/6 msize2  
+2024-06-29T01:32:16.980Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 4/6 msize3  
+2024-06-29T01:32:19.868Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 5/6 chunks  
+2024-06-29T01:32:23.061Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 6/6 farChunk  {"error":"Execution failed in 0x1::evm_util::new_fixed_length_vector at code offset 0","hash":"0x56cd1d26d51968db80187e6dd239c8c1cc14b4305b533d40d7e8871c5de9fdbe","expected":"0x44f115a2e0b2150d3d9f76f403c68da6a63d59d71be1ce52bb66c482d6ebc4f8"}

@@ -1,2 +1,3 @@
-2024-06-28T10:50:42.863Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 1/3 mload  
-2024-06-28T10:50:45.391Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 2/3 mloadOOG  
+2024-06-29T01:31:59.621Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 1/3 mload  
+2024-06-29T01:32:02.530Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 2/3 mloadOOG  {"gas_refund":"0","gas_usage":"264241525","state_root":"0x38c4b69e4eda92d1ab95fd604f738b9f913788804597bdb6d8d5496de1e7e932","expected":"0x8e6376b93350f095d572cb119d2bd17dbcee109400e291354327e5005a8e4aa9","hash":"0x418489d6c7e5d9f83b255cd4c1c89b922d2e40281cb88a0e95f46a58a255f33b"}
+2024-06-29T01:32:05.401Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 3/3 mloadOOG  {"gas_refund":"4800","gas_usage":"107722926","state_root":"0x3ae2efeff41a78efaf1d0bb799e54bdac46413d2ecb3e4f26de68ea64352784f","expected":"0x8e6376b93350f095d572cb119d2bd17dbcee109400e291354327e5005a8e4aa9","hash":"0xe9508368eec093323e56ea44ddde286244d0cb8e60f393cd653a0823117cde44"}

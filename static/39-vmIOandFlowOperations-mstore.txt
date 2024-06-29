@@ -1,5 +1,0 @@
-2024-06-28T10:46:05.914Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 1/5 mstore_allF  
-2024-06-28T10:46:08.421Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 2/5 mstore_one  
-2024-06-28T10:46:12.220Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 3/5 mstore_neg1  
-2024-06-28T10:46:14.714Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 4/5 mstore_byte32  
-2024-06-28T10:46:17.213Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 5/5 mstore_byte31  
