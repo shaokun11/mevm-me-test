@@ -22,6 +22,7 @@ for (let i = 18; i < files.length; i++) {
         source: files[i],
         account: 0,
     });
+    break
 }
 
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d

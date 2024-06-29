@@ -1,0 +1,6 @@
+2024-06-29T14:16:14.352Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 1/6 xor_2_2 
+2024-06-29T14:16:16.703Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 2/6 xor_2_1 
+2024-06-29T14:16:19.043Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 3/6 xor_3_1 
+2024-06-29T14:16:21.378Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 4/6 xor_allones_bignum 
+2024-06-29T14:16:23.723Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 5/6 xor_allones_1110s 
+2024-06-29T14:16:26.077Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 6/6 xor_allones_eefee 

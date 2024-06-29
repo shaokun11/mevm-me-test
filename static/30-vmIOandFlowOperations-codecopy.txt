@@ -1,0 +1,3 @@
+2024-06-29T14:16:28.396Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 1/5 codecopy 
+2024-06-29T14:16:30.733Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 2/5 codecopy_infbuff {"gas_refund":"0","gas_usage":"48929","state_root":"0xe24959dc2742f73ff2c828a5184feb8ada80e253882a67837ccec0364eb7cb7e","expected":"0x0b1c1f67129a15c9339586b267a723d9cf884a4991270a5fd5ed5831fb5905e7","hash":"0x58d53f0d413bf1b6ccd7afba6226f977870d950ed75e087595a510f39a5c3786"}
+2024-06-29T14:16:33.144Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 3/5 codecopy_bigbuff 

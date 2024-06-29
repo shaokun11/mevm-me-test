@@ -1,0 +1,12 @@
+2024-06-29T14:14:23.795Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 1/12 byte_31_big 
+2024-06-29T14:14:26.149Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 2/12 byte_30_big 
+2024-06-29T14:14:28.500Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 3/12 byte_29_big 
+2024-06-29T14:14:30.848Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 4/12 byte_28_big 
+2024-06-29T14:14:33.191Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 5/12 byte_27_big 
+2024-06-29T14:14:35.522Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 6/12 byte_26_big 
+2024-06-29T14:14:37.865Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 7/12 byte_25_big 
+2024-06-29T14:14:40.225Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 8/12 byte_24_big 
+2024-06-29T14:14:42.572Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 9/12 byte_00_big 
+2024-06-29T14:14:44.942Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 10/12 byte_00_big_2nd 
+2024-06-29T14:14:47.291Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 11/12 byte_asm 
+2024-06-29T14:14:49.652Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 12/12 byte_all 
