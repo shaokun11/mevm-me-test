@@ -6,17 +6,19 @@ import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const client = new AptosClient(NODE_URL);
+
 let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
-    const timeoutSecs =  60
+    // there is one tx need about 60s to finish
+    const timeoutSecs = 60;
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
         expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
     });
     const signedTxn = await client.signTransaction(SENDER_ACCOUNT, txnRequest);
     const transactionRes = await client.submitTransaction(signedTxn);
     console.log("Transaction submitted with hash:", transactionRes.hash);
-    return client.waitForTransactionWithResult(transactionRes.hash, { timeoutSecs: timeoutSecs });
+    return client.waitForTransactionWithResult(transactionRes.hash, { timeoutSecs });
 }
 function toBuffer(hex) {
     if (hex.startsWith("0x")) hex = hex.slice(2);
@@ -45,7 +47,7 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch();
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
@@ -111,11 +113,9 @@ export async function runTask(opt) {
         }
         let status = "";
         let msg = "";
-        const timeout = 60 * 1000;
         tape(loc, async (t) => {
-            t.timeoutAfter(timeout);
             try {
-                const res = await Promise.race([sendTx(payload), timeoutExe(timeout - 1000)]);
+                const res = await sendTx(payload);
                 if (res.success) {
                     const root_data = res.events.find((e) => e.type === "0x1::evm_for_test::ExecResultEvent");
                     t.equals(root_data.data.state_root, post[i].hash);
