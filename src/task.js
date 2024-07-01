@@ -101,10 +101,10 @@ export async function runTask(opt) {
                 storage_values,
                 toBuffer(tx.sender),
                 toBuffer(tx.to),
-                toBuffer(indexes["data"] !== undefined ? tx.data[indexes["data"]] : "0x"),
-                toBuffer(indexes["gas"] !== undefined ? tx.gasLimit[indexes["gas"]] : "0x0"),
+                toBuffer(tx.data[indexes["data"]]),
+                toBuffer(tx.gasLimit[indexes["gas"]]),
                 toBuffer(tx.gasPrice),
-                toBuffer(indexes["value"] !== undefined ? tx.value[indexes["value"]] : "0x0"),
+                toBuffer(tx.value[indexes["value"]]),
             ],
         };
         const label = info["labels"]?.[i] ?? "";
