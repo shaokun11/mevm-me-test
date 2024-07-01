@@ -4,6 +4,7 @@ import tape from "tape";
 import { DIR, IGNORE_TEST, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
+import { appendFileSync } from "node:fs";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const client = new AptosClient(NODE_URL);
 
@@ -27,13 +28,13 @@ function toBuffer(hex) {
     return new HexString(hex).toUint8Array();
 }
 
-async function timeoutExe(ms) {
-    await sleep(ms);
-    return {
-        success: false,
-        vm_status: "timeout",
-        hash: "0x0",
-    };
+const EXE_SUMMARY = {
+    passed: 0,
+    failed: 0,
+    error: 0,
+    exception: 0,
+    ignore: 0,
+    total: 0,
 }
 
 function isSkip(source, label) {
@@ -106,15 +107,17 @@ export async function runTask(opt) {
             ],
         };
         const label = info["labels"]?.[i] ?? "";
-        let loc = `${source} ${i + 1}/${post.length} ${label}`;
         if (isSkip(source, label)) {
+            let loc = `${source} ${i + 1}/${post.length} ${label}`;
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
-            await appendFile(summary_file, output + "\n");
+            appendFileSync(summary_file, output + "\n");
+            tape(loc, { skip: true });
+            EXE_SUMMARY.ignore++;
             continue
         }
         let status = "";
         let msg = "";
-        tape(loc, async (t) => {
+        tape(loc, { skip: skipTest }, async (t) => {
             try {
                 const res = await sendTx(payload);
                 if (res.success) {
@@ -123,7 +126,9 @@ export async function runTask(opt) {
 
                     if (post[i].hash === root_data.data.state_root) {
                         status += "[PASSED]";
+                        EXE_SUMMARY.passed++;
                     } else {
+                        EXE_SUMMARY.failed++;
                         status += "[FAILED]";
                         msg += JSON.stringify({
                             ...root_data.data,
@@ -132,6 +137,7 @@ export async function runTask(opt) {
                         });
                     }
                 } else {
+                    EXE_SUMMARY.error++;
                     t.fail(res.vm_status);
                     status += "[ERROR]";
                     msg += JSON.stringify({
@@ -141,6 +147,7 @@ export async function runTask(opt) {
                     });
                 }
             } catch (error) {
+                EXE_SUMMARY.exception++;
                 t.fail(` ${error.message}`);
                 status += "[EXCEPTION]";
                 msg += `${error.message}`;
@@ -152,3 +159,7 @@ export async function runTask(opt) {
         });
     }
 }
+
+process.on("exit", () => {
+    console.log(EXE_SUMMARY);
+});
