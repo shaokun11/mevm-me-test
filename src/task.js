@@ -1,7 +1,8 @@
 import { HexString } from "aptos";
-import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
+import { appendFile, readFile, unlink } from "node:fs/promises";
 import tape from "tape";
-import { DIR, IGNORE_TEST, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
+import { DIR, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
+import { IGNORE_TEST } from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
