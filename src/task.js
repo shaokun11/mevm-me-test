@@ -107,8 +107,8 @@ export async function runTask(opt) {
             ],
         };
         const label = info["labels"]?.[i] ?? "";
+        let loc = `${source} ${i + 1}/${post.length} ${label}`;
         if (isSkip(source, label)) {
-            let loc = `${source} ${i + 1}/${post.length} ${label}`;
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             appendFileSync(summary_file, output + "\n");
             tape(loc, { skip: true });
@@ -117,7 +117,7 @@ export async function runTask(opt) {
         }
         let status = "";
         let msg = "";
-        tape(loc, { skip: skipTest }, async (t) => {
+        tape(loc, async (t) => {
             try {
                 const res = await sendTx(payload);
                 if (res.success) {
