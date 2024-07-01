@@ -1,0 +1,10 @@
+2024-07-01T04:21:15.282Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address
+2024-07-01T04:21:15.284Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy
+2024-07-01T04:21:15.285Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 3/10 codecopy_len0
+2024-07-01T04:21:15.285Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 4/10 codecopy_neg_offset
+2024-07-01T04:21:15.286Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 5/10 caller
+2024-07-01T04:21:15.286Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 6/10 callvalue
+2024-07-01T04:21:15.297Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 7/10 codesize
+2024-07-01T04:21:15.297Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 8/10 gasprice
+2024-07-01T04:21:15.298Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 9/10 origin
+2024-07-01T04:21:15.299Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 10/10 calldatasize
