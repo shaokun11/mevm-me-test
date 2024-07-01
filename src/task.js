@@ -50,12 +50,16 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch(() => {});
+    await unlink(summary_file).catch(() => { });
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
     if (!post || post.length === 0) {
-        console.error("No post state found for ", source);
+        const msg = "No " + TEST_FORK + " post state found";;
+        const output = `${new Date().toISOString()} [SKIP] ${loc} ${msg}`;
+        appendFileSync(summary_file, output + "\n");
+        tape(loc, { skip: true });
+        EXE_SUMMARY.ignore++;
         return;
     }
     const tx = json[key]["transaction"];
