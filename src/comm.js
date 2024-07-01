@@ -8,10 +8,26 @@ export const SENDER_ACCOUNTS = [
         privateKeyHex: EVM_SENDER,
     })
 ];
-console.log("sender account 0  ",SENDER_ACCOUNTS[0].address().hexString)
-export const IGNORE_TEST =[
-    // {
-    //     name:"ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json",
-    //     label:"farChunk"
-    // }
+console.log("sender account 0  ", SENDER_ACCOUNTS[0].address().hexString)
+export const IGNORE_TEST = [
+    {
+        name: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/loopExp.json",
+        label: "all",
+        comment: "No need to test performance, it depends on the move-vm implementation"
+    },
+    {
+        name: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/loopMul.json",
+        label: "all",
+        comment: "No need to test performance, it depends on the move-vm implementation"
+    },
+    {
+        name: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/performanceTester.json",
+        label: "all",
+        comment: "No need to test performance, it depends on the move-vm implementation"
+    },
+    {
+        name: "ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json",
+        label: "all",
+        comment: "Block info  depends on the aptos block info, so we skip it"
+    },
 ]

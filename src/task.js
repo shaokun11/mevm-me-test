@@ -37,7 +37,9 @@ async function timeoutExe(ms) {
 }
 
 function isSkip(source, label) {
-    return IGNORE_TEST.some((t) => t.label === label && t.name.includes(source))
+    return IGNORE_TEST.some((t) => {
+        return (t.label === label || t.label === "all") && t.name.includes(source)
+    })
 
 }
 
@@ -47,7 +49,7 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch();
+    await unlink(summary_file).catch(() => { });
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
@@ -108,7 +110,6 @@ export async function runTask(opt) {
         if (isSkip(source, label)) {
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             await appendFile(summary_file, output + "\n");
-            tape.skip(loc)
             continue
         }
         let status = "";
