@@ -1,10 +1,2 @@
-2024-07-01T04:21:15.282Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address
-2024-07-01T04:21:15.284Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy
-2024-07-01T04:21:15.285Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 3/10 codecopy_len0
-2024-07-01T04:21:15.285Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 4/10 codecopy_neg_offset
-2024-07-01T04:21:15.286Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 5/10 caller
-2024-07-01T04:21:15.286Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 6/10 callvalue
-2024-07-01T04:21:15.297Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 7/10 codesize
-2024-07-01T04:21:15.297Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 8/10 gasprice
-2024-07-01T04:21:15.298Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 9/10 origin
-2024-07-01T04:21:15.299Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 10/10 calldatasize
+2024-07-01T11:10:38.040Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address {"gas_refund":"0","gas_usage":"54927","state_root":"0x22c607330c55b8c4f7d56d6f271d4cb6652b826fd49a9d269b8f07c00adc9a07","expected":"0x2afc5c186e8e0e9241b9bc16662a857c77c6bf51449bc0bd65246af8d35fe081","hash":"0x0f97b45d335d705c86471c5987b8b43190ef83bd621ce8bb4801235a7292065c"}
+2024-07-01T11:10:41.960Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy {"gas_refund":"0","gas_usage":"54961","state_root":"0xe427d88ef6c5396b6d9dbcdb9923da4143b2889e359544b918e87e37ad763bec","expected":"0x5eacf8fafbd962909dd25d08461991a5f56edffacc9cbef976275f2b8bcc9096","hash":"0xd109d468a44484d126b4b7491ce14da08130dce0dda81ca18884d83290fe7f42"}

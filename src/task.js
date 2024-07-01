@@ -36,13 +36,12 @@ const EXE_SUMMARY = {
     exception: 0,
     ignore: 0,
     total: 0,
-}
+};
 
 function isSkip(source, label) {
     return IGNORE_TEST.some((t) => {
-        return (t.label === label || t.label === "all") && t.name.includes(source)
-    })
-
+        return (t.label === label || t.label === "all") && t.name.includes(source);
+    });
 }
 
 export async function runTask(opt) {
@@ -51,7 +50,7 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch(() => {});
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
@@ -61,12 +60,23 @@ export async function runTask(opt) {
     }
     const tx = json[key]["transaction"];
     const info = json[key]["_info"];
+    const env = json[key]["env"];
     const addresses = [];
     const codes = [];
     const balances = [];
     const nonces = [];
     const storage_keys = [];
     const storage_values = [];
+    const envs = [
+        toBuffer(env["currentBaseFee"]),
+        toBuffer(env["currentCoinbase"]),
+        toBuffer(env["currentDifficulty"]),
+        toBuffer(env["currentExcessBlobGas"]),
+        toBuffer(env["currentGasLimit"]),
+        toBuffer(env["currentNumber"]),
+        toBuffer(env["currentRandom"]),
+        toBuffer(env["currentTimestamp"]),
+    ];
     for (let [k, v] of Object.entries(pre)) {
         addresses.push(toBuffer(k));
         codes.push(toBuffer(v["code"]));
@@ -105,6 +115,7 @@ export async function runTask(opt) {
                 toBuffer(tx.gasLimit[indexes["gas"]]),
                 toBuffer(tx.gasPrice),
                 toBuffer(tx.value[indexes["value"]]),
+                envs,
             ],
         };
         const label = info["labels"]?.[i] ?? "";
@@ -114,7 +125,7 @@ export async function runTask(opt) {
             appendFileSync(summary_file, output + "\n");
             tape(loc, { skip: true });
             EXE_SUMMARY.ignore++;
-            continue
+            continue;
         }
         let status = "";
         let msg = "";

@@ -1,0 +1,17 @@
+2024-07-01T11:11:56.165Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 1/17 sha3_nodata 
+2024-07-01T11:11:58.690Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 2/17 sha3_five_0s 
+2024-07-01T11:12:01.280Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 3/17 sha3_ten_0s 
+2024-07-01T11:12:03.834Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 4/17 sha3_0xFFFFF_0s 
+2024-07-01T11:12:06.373Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 5/17 sha3_highmem 
+2024-07-01T11:12:08.900Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 6/17 sha3_huge_buffer 
+2024-07-01T11:12:11.442Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 7/17 sha3_neg1_neg1 
+2024-07-01T11:12:13.988Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 8/17 sha3_neg1_2 
+2024-07-01T11:12:16.523Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 9/17 sha3_0x1000000_2 
+2024-07-01T11:12:19.062Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 10/17 sha3_960_1 
+2024-07-01T11:12:21.587Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 11/17 sha3_992_1 
+2024-07-01T11:12:24.110Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 12/17 sha3_1024_1 
+2024-07-01T11:12:26.633Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 13/17 sha3_1984_1 
+2024-07-01T11:12:29.151Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 14/17 sha3_2016_1 
+2024-07-01T11:12:31.739Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 15/17 sha3_2016_32 
+2024-07-01T11:12:34.272Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 16/17 sha3_2048_1 
+2024-07-01T11:12:36.826Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 17/17 sha3_1024_0 
