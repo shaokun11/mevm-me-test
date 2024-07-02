@@ -14,4 +14,9 @@ export const IGNORE_TEST = [
         label: "all",
         comment: "No need to test performance, it depends on the move-vm implementation"
     },
+    {
+        name: "ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json",
+        label: "all",
+        comment: "No implementation current"
+    },
 ];
