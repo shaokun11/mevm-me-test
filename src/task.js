@@ -29,14 +29,6 @@ function toBuffer(hex) {
     return new HexString(hex).toUint8Array();
 }
 
-const EXE_SUMMARY = {
-    passed: 0,
-    failed: 0,
-    error: 0,
-    exception: 0,
-    ignore: 0,
-    total: 0,
-};
 
 function isSkip(source, label) {
     return IGNORE_TEST.some((t) => {
@@ -59,7 +51,6 @@ export async function runTask(opt) {
         const output = `${new Date().toISOString()} [SKIP] ${loc} ${msg}`;
         appendFileSync(summary_file, output + "\n");
         tape(loc, { skip: true });
-        EXE_SUMMARY.ignore++;
         return;
     }
     const tx = json[key]["transaction"];
@@ -128,7 +119,6 @@ export async function runTask(opt) {
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             appendFileSync(summary_file, output + "\n");
             tape(loc, { skip: true });
-            EXE_SUMMARY.ignore++;
             continue;
         }
         let status = "";
@@ -142,9 +132,7 @@ export async function runTask(opt) {
 
                     if (post[i].hash === root_data.data.state_root) {
                         status += "[PASSED]";
-                        EXE_SUMMARY.passed++;
                     } else {
-                        EXE_SUMMARY.failed++;
                         status += "[FAILED]";
                         msg += JSON.stringify({
                             ...root_data.data,
@@ -153,7 +141,6 @@ export async function runTask(opt) {
                         });
                     }
                 } else {
-                    EXE_SUMMARY.error++;
                     t.fail(res.vm_status);
                     status += "[ERROR]";
                     msg += JSON.stringify({
@@ -163,7 +150,6 @@ export async function runTask(opt) {
                     });
                 }
             } catch (error) {
-                EXE_SUMMARY.exception++;
                 t.fail(` ${error.message}`);
                 status += "[EXCEPTION]";
                 msg += `${error.message}`;
