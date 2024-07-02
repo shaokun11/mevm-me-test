@@ -17,6 +17,6 @@ export const IGNORE_TEST = [
     {
         name: "ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json",
         label: "all",
-        comment: "No implementation current"
+        comment: "No implementation SELFDESTRUCT opcode"
     },
 ];

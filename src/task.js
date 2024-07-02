@@ -29,7 +29,6 @@ function toBuffer(hex) {
     return new HexString(hex).toUint8Array();
 }
 
-
 function isSkip(source, label) {
     return IGNORE_TEST.some((t) => {
         return (t.label === label || t.label === "all") && t.name.includes(source);
@@ -42,12 +41,12 @@ export async function runTask(opt) {
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const source_file = source.slice(DIR.length);
     const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch(() => {});
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
     if (!post || post.length === 0) {
-        const msg = "No " + TEST_FORK + " post state found";;
+        const msg = "No " + TEST_FORK + " post state found";
         const output = `${new Date().toISOString()} [SKIP] ${loc} ${msg}`;
         appendFileSync(summary_file, output + "\n");
         tape(loc, { skip: true });
@@ -94,6 +93,15 @@ export async function runTask(opt) {
     }
     for (let i = 0; i < post.length; i++) {
         const indexes = post[i].indexes;
+        let gasPrice = tx.gasPrice;
+        if (!gasPrice) {
+            gasPrice =
+                "0x" +
+                Math.min(
+                    parseInt(env["currentBaseFee"]) + parseInt(tx.maxPriorityFeePerGas),
+                    parseInt(tx.maxFeePerGas)
+                ).toString(16);
+        }
         const payload = {
             function: `0x1::evm_for_test::run_test`,
             type_arguments: [],
@@ -108,7 +116,7 @@ export async function runTask(opt) {
                 toBuffer(tx.to),
                 toBuffer(tx.data[indexes["data"]]),
                 toBuffer(tx.gasLimit[indexes["gas"]]),
-                toBuffer(tx.gasPrice),
+                toBuffer(gasPrice),
                 toBuffer(tx.value[indexes["value"]]),
                 envs,
             ],
