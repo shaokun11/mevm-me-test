@@ -1,9 +1,17 @@
-2024-07-02T03:05:10.086Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 1/17 sha3_nodata 
-2024-07-02T03:05:13.935Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 2/17 sha3_five_0s 
-2024-07-02T03:05:16.410Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 3/17 sha3_ten_0s 
-2024-07-02T03:05:18.878Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 4/17 sha3_0xFFFFF_0s 
-2024-07-02T03:05:21.354Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 5/17 sha3_highmem {"error":"Execution failed in 0x1::evm_global_state::commit_call_state at code offset 33","hash":"0xac3367940f946f8d23859fae64335cca562d9335a6f879fbefc9b213da3b7c07","expected":"0x31d6eaa18588f2ac6bf9c3ebc8247391b404a61d536f5b4362c964fc92bc3d2d"}
-2024-07-02T03:06:44.706Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 6/17 sha3_huge_buffer Waiting for transaction 0x210359e076979e1ff5b8cdf267020d1bbfb348ab9058a503363d2707e5b6dfea timed out after 60 seconds
-2024-07-02T03:08:08.244Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 7/17 sha3_neg1_neg1 Waiting for transaction 0x1218e2c054bd948f29dc19cbd25046489cc310691f8036b6cab6c8c3a847611c timed out after 60 seconds
-2024-07-02T03:09:32.165Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 8/17 sha3_neg1_2 Waiting for transaction 0x321aa782a6c68e581e869548115168283c278d402d9f94ac7409024f0188da44 timed out after 60 seconds
-2024-07-02T03:10:58.126Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 9/17 sha3_0x1000000_2 Waiting for transaction 0x7b9ee84fe79a10db48cdcee26f020021fa8bc12ddd92b0673762912eb04c582e timed out after 60 seconds
+2024-07-02T03:49:56.153Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 1/17 sha3_nodata 
+2024-07-02T03:49:58.308Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 2/17 sha3_five_0s 
+2024-07-02T03:50:00.472Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 3/17 sha3_ten_0s 
+2024-07-02T03:50:02.666Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 4/17 sha3_0xFFFFF_0s 
+2024-07-02T03:50:04.825Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 5/17 sha3_highmem 
+2024-07-02T03:50:06.988Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 6/17 sha3_huge_buffer 
+2024-07-02T03:50:09.203Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 7/17 sha3_neg1_neg1 
+2024-07-02T03:50:12.653Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 8/17 sha3_neg1_2 
+2024-07-02T03:50:14.815Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 9/17 sha3_0x1000000_2 
+2024-07-02T03:50:16.993Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 10/17 sha3_960_1 
+2024-07-02T03:50:19.154Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 11/17 sha3_992_1 
+2024-07-02T03:50:21.313Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 12/17 sha3_1024_1 
+2024-07-02T03:50:23.466Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 13/17 sha3_1984_1 
+2024-07-02T03:50:25.629Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 14/17 sha3_2016_1 
+2024-07-02T03:50:27.783Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 15/17 sha3_2016_32 
+2024-07-02T03:50:29.945Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 16/17 sha3_2048_1 
+2024-07-02T03:50:32.123Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 17/17 sha3_1024_0 

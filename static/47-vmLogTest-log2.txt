@@ -1,9 +1,9 @@
-2024-07-02T02:59:38.897Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 1/9 emptyMem 
-2024-07-02T02:59:41.397Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 2/9 memStartTooHigh 
-2024-07-02T02:59:43.902Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 3/9 memSizeTooHigh 
-2024-07-02T02:59:46.397Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 4/9 memSizeZero 
-2024-07-02T02:59:48.943Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 5/9 nonEmptyMem 
-2024-07-02T02:59:51.442Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 6/9 log_0_1 
-2024-07-02T02:59:53.947Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 7/9 log_31_1 
-2024-07-02T02:59:56.437Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 8/9 caller {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x1205a0143f17e33202fb87fb7035308bfb20ba889e42d36c20560dbde29d538f","expected":"0x75d5f502d1c3d012d2bbeaefef77ca4541b736666cdfd2f4963a861f2be56db4"}
-2024-07-02T02:59:58.941Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 9/9 maxTopic {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x9efc6ff62a601cfc8bb288b09ce8e1f6dbf98ecaab7578dad4aa95248e95c4a9","expected":"0x75d5f502d1c3d012d2bbeaefef77ca4541b736666cdfd2f4963a861f2be56db4"}
+2024-07-02T03:45:09.579Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 1/9 emptyMem 
+2024-07-02T03:45:11.754Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 2/9 memStartTooHigh 
+2024-07-02T03:45:13.933Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 3/9 memSizeTooHigh 
+2024-07-02T03:45:16.113Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 4/9 memSizeZero 
+2024-07-02T03:45:18.279Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 5/9 nonEmptyMem 
+2024-07-02T03:45:20.473Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 6/9 log_0_1 
+2024-07-02T03:45:22.653Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 7/9 log_31_1 
+2024-07-02T03:45:24.822Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 8/9 caller 
+2024-07-02T03:45:27.025Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json 9/9 maxTopic 

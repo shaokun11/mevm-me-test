@@ -1,8 +1,8 @@
-2024-07-02T03:01:06.477Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 1/8 cdc_0_1_2 
-2024-07-02T03:01:08.966Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 2/8 cdc_0_1_1 
-2024-07-02T03:01:11.437Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 3/8 cdc_0_1_0 
-2024-07-02T03:01:13.910Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 4/8 cdc_0_0_0 
-2024-07-02T03:01:16.386Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 5/8 cdc_0_neg6_ff 
-2024-07-02T03:01:18.872Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 6/8 cdc_0_neg6_9 
-2024-07-02T03:01:21.344Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 7/8 underflow 
-2024-07-02T03:01:23.808Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 8/8 sec 
+2024-07-02T03:46:24.964Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 1/8 cdc_0_1_2 {"gas_refund":"0","gas_usage":"50392","state_root":"0x3d626e852f36f70d0f09c0862972c8fdd57438eaed96379f5ff6f94860c905a3","expected":"0xc554280c3c8e58e4439e95254ce5f48926f7b59164c1701cbadfc9c92c5b7e62","hash":"0x8f92fc61e18d11c9dfe3eb1245e44baff8248694439d173d552c7f2d2dee4fe8"}
+2024-07-02T03:46:27.127Z [FAILED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 2/8 cdc_0_1_1 {"gas_refund":"0","gas_usage":"50404","state_root":"0x668772828783d4ac3a9a2f1b912ffa1c3fee04cbd72549873f3a45e93be64374","expected":"0xba91307cd773325f5a5a1eaced058f695875cee11771cd537f07d41269245b92","hash":"0x3896fa8c26fe83a305d49e0908473bbcbf9d7b420ecb6e4a1a2b70847119374c"}
+2024-07-02T03:46:29.306Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 3/8 cdc_0_1_0 
+2024-07-02T03:46:31.494Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 4/8 cdc_0_0_0 
+2024-07-02T03:46:33.662Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 5/8 cdc_0_neg6_ff 
+2024-07-02T03:46:35.917Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 6/8 cdc_0_neg6_9 
+2024-07-02T03:46:38.104Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 7/8 underflow 
+2024-07-02T03:46:40.277Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 8/8 sec 

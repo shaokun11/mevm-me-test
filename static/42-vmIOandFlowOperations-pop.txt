@@ -1,2 +1,2 @@
-2024-07-02T02:58:29.976Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 1/2 pop1 
-2024-07-02T02:58:32.571Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 2/2 pop2 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0xac6e18b5f6253f289ebcfb6dc6135ef850115fedaab4c44ed87a3ed07817a2af","expected":"0x80dd521d211449cdbce0f2841788533f2dd746d9fd623c763db9f9a343798f75"}
+2024-07-02T03:44:06.864Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 1/2 pop1 
+2024-07-02T03:44:09.164Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json 2/2 pop2 

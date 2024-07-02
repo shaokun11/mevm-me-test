@@ -1,3 +1,3 @@
-2024-07-02T02:57:39.083Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 1/3 mload 
-2024-07-02T02:57:41.583Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 2/3 mloadOOG {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x8835bb07af6701ce7acd258da01ce4472af3d971a3be2ec19a7dcb0ae13b741a","expected":"0x8e6376b93350f095d572cb119d2bd17dbcee109400e291354327e5005a8e4aa9"}
-2024-07-02T02:57:44.089Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 3/3 mloadOOG {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x65564ef6566b5cbef7a64c1522da816af3293fab0375d779dab40c0b1f47aa41","expected":"0x8e6376b93350f095d572cb119d2bd17dbcee109400e291354327e5005a8e4aa9"}
+2024-07-02T03:43:40.388Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 1/3 mload 
+2024-07-02T03:43:42.596Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 2/3 mloadOOG 
+2024-07-02T03:43:44.817Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json 3/3 mloadOOG 

@@ -1,6 +1,6 @@
-2024-07-02T03:04:55.283Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 1/6 random0 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x95d52890d24df8cd82e65421b051752922a3c41b0bf755f76ea27ec0b4f7f772","expected":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a"}
-2024-07-02T03:04:57.747Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 2/6 random1 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x81af470965daeb23ecfb805113f2b8b569cd5ad367a3d76bd0865324f267984c","expected":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a"}
-2024-07-02T03:05:00.225Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 3/6 random2 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0xd0eaf242d000843e640b8b70ae626e3820a286c1e326b36d59594da9d84f2881","expected":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a"}
-2024-07-02T03:05:02.688Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 4/6 random3 
-2024-07-02T03:05:05.150Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 5/6 random4 
-2024-07-02T03:05:07.619Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 6/6 random5 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x17c1e50fa2d0fd50e58d27fa42b77a76d60b83a6907ff9e545bab89cb6f7fa9d","expected":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a"}
+2024-07-02T03:49:43.211Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 1/6 random0 
+2024-07-02T03:49:45.364Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 2/6 random1 
+2024-07-02T03:49:47.515Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 3/6 random2 
+2024-07-02T03:49:49.662Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 4/6 random3 
+2024-07-02T03:49:51.810Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 5/6 random4 
+2024-07-02T03:49:53.970Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json 6/6 random5 

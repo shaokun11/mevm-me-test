@@ -1,5 +1,5 @@
-2024-07-02T03:00:52.751Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 1/5 coinbase 
-2024-07-02T03:00:55.218Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 2/5 difficulty 
-2024-07-02T03:00:57.685Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 3/5 gaslimit 
-2024-07-02T03:01:00.161Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 4/5 number 
-2024-07-02T03:01:02.619Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 5/5 timestamp 
+2024-07-02T03:46:14.126Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 1/5 coinbase 
+2024-07-02T03:46:16.294Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 2/5 difficulty 
+2024-07-02T03:46:18.462Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 3/5 gaslimit 
+2024-07-02T03:46:20.621Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 4/5 number 
+2024-07-02T03:46:22.784Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 5/5 timestamp 

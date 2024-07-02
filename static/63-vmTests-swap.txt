@@ -1,0 +1,16 @@
+2024-07-02T03:50:40.788Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 1/16 swap1 
+2024-07-02T03:50:42.973Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 2/16 swap2 
+2024-07-02T03:50:45.131Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 3/16 swap3 
+2024-07-02T03:50:47.290Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 4/16 swap4 
+2024-07-02T03:50:49.460Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 5/16 swap5 
+2024-07-02T03:50:51.626Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 6/16 swap6 
+2024-07-02T03:50:53.793Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 7/16 swap7 
+2024-07-02T03:50:55.951Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 8/16 swap8 
+2024-07-02T03:50:58.172Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 9/16 swap9 
+2024-07-02T03:51:00.366Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 10/16 swap10 
+2024-07-02T03:51:02.564Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 11/16 swap11 
+2024-07-02T03:51:04.741Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 12/16 swap12 
+2024-07-02T03:51:06.932Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 13/16 swap13 
+2024-07-02T03:51:09.113Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 14/16 swap14 
+2024-07-02T03:51:11.296Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 15/16 swap15 
+2024-07-02T03:51:14.786Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 16/16 swap16 

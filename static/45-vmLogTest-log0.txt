@@ -1,8 +1,8 @@
-2024-07-02T02:58:55.066Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 1/8 emptyMem 
-2024-07-02T02:58:57.563Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 2/8 memStartTooHigh 
-2024-07-02T02:59:01.444Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 3/8 memSizeTooHigh 
-2024-07-02T02:59:03.944Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 4/8 memSizeZero 
-2024-07-02T02:59:06.442Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 5/8 nonEmptyMem 
-2024-07-02T02:59:08.939Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 6/8 log_0_1 
-2024-07-02T02:59:11.446Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 7/8 log_31_1 {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x8104c42adf9741f420f75c03c8f4f147c0fc238c365acfc55f82a2b012138ece","expected":"0xd6be195ca1dc4ff122035467bf0ce553b666ffc02363c6aa78d14c789e8a2a26"}
-2024-07-02T02:59:13.953Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 8/8 logTwice {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x1d84da423eeef62e3b2b1ff54dd41e4279a3f4d8d8342257b033ca8b6ce89b3e","expected":"0xd6be195ca1dc4ff122035467bf0ce553b666ffc02363c6aa78d14c789e8a2a26"}
+2024-07-02T03:44:31.276Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 1/8 emptyMem 
+2024-07-02T03:44:33.456Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 2/8 memStartTooHigh 
+2024-07-02T03:44:35.628Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 3/8 memSizeTooHigh 
+2024-07-02T03:44:37.810Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 4/8 memSizeZero 
+2024-07-02T03:44:39.979Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 5/8 nonEmptyMem 
+2024-07-02T03:44:42.141Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 6/8 log_0_1 
+2024-07-02T03:44:44.327Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 7/8 log_31_1 
+2024-07-02T03:44:46.496Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 8/8 logTwice 
