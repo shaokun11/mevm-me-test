@@ -1,0 +1,1 @@
+2024-07-02T16:03:14.379Z [ERROR] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/14_revertAfterNestedStaticcall.json 1/1  {"error":"Move abort in 0x1::evm_gas: 0xfa","hash":"0x73a061db672d614db4483718b1fe67713d920c0c652a419c828d721c1aeb415e","expected":"0x3545179eb3e772543b6d84e8d6836f7d40a48f0f2bc9157a6c141b290207f22d"}

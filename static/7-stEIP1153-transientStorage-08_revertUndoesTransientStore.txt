@@ -1,1 +1,1 @@
-2024-07-02T15:39:10.014Z [ERROR] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/08_revertUndoesTransientStore.json 1/1  {"error":"Move abort in 0x1::evm_gas: 0xfd","hash":"0xaafd14161d64879ff6984fde3d8c720598eff440986c1bda1163b113d5dc5f18","expected":"0x475746d61c92c05877b9582319fa63dfc63f858ec32952d112744218fea451b9"}
+2024-07-02T16:03:01.199Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/08_revertUndoesTransientStore.json 1/1  
