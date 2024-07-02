@@ -1,5 +1,5 @@
-2024-06-29T14:14:12.070Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 1/5 and_2_2 
-2024-06-29T14:14:14.408Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 2/5 and_2_1 
-2024-06-29T14:14:16.767Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 3/5 and_3_1 
-2024-06-29T14:14:19.108Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 4/5 and_allones_bignum 
-2024-06-29T14:14:21.437Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 5/5 and_allones_eefee 
+2024-07-02T02:48:29.192Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 1/5 and_2_2 
+2024-07-02T02:48:33.071Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 2/5 and_2_1 
+2024-07-02T02:48:35.577Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 3/5 and_3_1 
+2024-07-02T02:48:38.066Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 4/5 and_allones_bignum 
+2024-07-02T02:48:40.592Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 5/5 and_allones_eefee 

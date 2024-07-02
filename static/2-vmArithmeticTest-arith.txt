@@ -1,1 +1,1 @@
-2024-06-29T13:55:06.286Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/arith.json 1/1  
+2024-07-02T02:39:17.015Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/arith.json 1/1  

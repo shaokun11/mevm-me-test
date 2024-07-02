@@ -1,10 +1,10 @@
-2024-07-02T02:11:02.408Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address 
-2024-07-02T02:11:04.639Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy 
-2024-07-02T02:11:06.865Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 3/10 codecopy_len0 
-2024-07-02T02:11:09.097Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 4/10 codecopy_neg_offset 
-2024-07-02T02:11:11.325Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 5/10 caller 
-2024-07-02T02:11:13.534Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 6/10 callvalue 
-2024-07-02T02:11:15.754Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 7/10 codesize 
-2024-07-02T02:11:17.981Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 8/10 gasprice {"error":"Move abort in 0x1::evm_for_test: 0x3a","hash":"0x22cbc6e714e41678fc543584b1f36e5ca2be42845c73274bbc34b35c03757165","expected":"0x6dfadd0b584333849170b12fe8a018f4c404cfc592ad6b2ad2089bb7e8a8120d"}
-2024-07-02T02:11:20.197Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 9/10 origin 
-2024-07-02T02:11:22.418Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 10/10 calldatasize 
+2024-07-02T03:03:06.404Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address 
+2024-07-02T03:03:10.298Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy 
+2024-07-02T03:03:12.816Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 3/10 codecopy_len0 
+2024-07-02T03:03:15.328Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 4/10 codecopy_neg_offset 
+2024-07-02T03:03:17.829Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 5/10 caller 
+2024-07-02T03:03:20.345Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 6/10 callvalue 
+2024-07-02T03:03:22.862Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 7/10 codesize 
+2024-07-02T03:03:25.368Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 8/10 gasprice 
+2024-07-02T03:03:27.873Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 9/10 origin 
+2024-07-02T03:03:30.383Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 10/10 calldatasize 

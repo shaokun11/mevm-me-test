@@ -1,10 +1,10 @@
-2024-07-01T02:28:51.751Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 1/10 emptyMem 
-2024-07-01T02:28:53.976Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 2/10 memStartTooHigh 
-2024-07-01T02:28:56.188Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 3/10 memSizeTooHigh 
-2024-07-01T02:28:58.418Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 4/10 memSizeZero 
-2024-07-01T02:29:00.642Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 5/10 nonEmptyMem 
-2024-07-01T02:29:02.866Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 6/10 log_0_1 
-2024-07-01T02:29:05.090Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 7/10 log_31_1 
-2024-07-01T02:29:07.319Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 8/10 caller 
-2024-07-01T02:29:09.552Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 9/10 maxTopic 
-2024-07-01T02:29:13.091Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 10/10 pc 
+2024-07-02T03:00:02.838Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 1/10 emptyMem 
+2024-07-02T03:00:05.340Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 2/10 memStartTooHigh 
+2024-07-02T03:00:07.848Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 3/10 memSizeTooHigh 
+2024-07-02T03:00:10.349Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 4/10 memSizeZero 
+2024-07-02T03:00:12.899Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 5/10 nonEmptyMem 
+2024-07-02T03:00:15.392Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 6/10 log_0_1 
+2024-07-02T03:00:17.905Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 7/10 log_31_1 
+2024-07-02T03:00:20.405Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 8/10 caller 
+2024-07-02T03:00:22.908Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 9/10 maxTopic {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x3dce4bc2d97074842e09a70f1e7d0e7fe9c651df880f3a0240faf7da410a9f72","expected":"0xa14d9a813ff4ac2178940ec3d36c797fe36b563e77726c05e24811bf6b72482d"}
+2024-07-02T03:00:25.485Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json 10/10 pc {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0xa7ef78bab2ced409de20523d3552628388840caf38a882814ce54d919fb4fbb9","expected":"0xa14d9a813ff4ac2178940ec3d36c797fe36b563e77726c05e24811bf6b72482d"}

@@ -1,0 +1,9 @@
+2024-07-02T03:05:10.086Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 1/17 sha3_nodata 
+2024-07-02T03:05:13.935Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 2/17 sha3_five_0s 
+2024-07-02T03:05:16.410Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 3/17 sha3_ten_0s 
+2024-07-02T03:05:18.878Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 4/17 sha3_0xFFFFF_0s 
+2024-07-02T03:05:21.354Z [ERROR] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 5/17 sha3_highmem {"error":"Execution failed in 0x1::evm_global_state::commit_call_state at code offset 33","hash":"0xac3367940f946f8d23859fae64335cca562d9335a6f879fbefc9b213da3b7c07","expected":"0x31d6eaa18588f2ac6bf9c3ebc8247391b404a61d536f5b4362c964fc92bc3d2d"}
+2024-07-02T03:06:44.706Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 6/17 sha3_huge_buffer Waiting for transaction 0x210359e076979e1ff5b8cdf267020d1bbfb348ab9058a503363d2707e5b6dfea timed out after 60 seconds
+2024-07-02T03:08:08.244Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 7/17 sha3_neg1_neg1 Waiting for transaction 0x1218e2c054bd948f29dc19cbd25046489cc310691f8036b6cab6c8c3a847611c timed out after 60 seconds
+2024-07-02T03:09:32.165Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 8/17 sha3_neg1_2 Waiting for transaction 0x321aa782a6c68e581e869548115168283c278d402d9f94ac7409024f0188da44 timed out after 60 seconds
+2024-07-02T03:10:58.126Z [EXCEPTION] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 9/17 sha3_0x1000000_2 Waiting for transaction 0x7b9ee84fe79a10db48cdcee26f020021fa8bc12ddd92b0673762912eb04c582e timed out after 60 seconds

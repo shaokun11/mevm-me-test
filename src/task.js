@@ -175,7 +175,3 @@ export async function runTask(opt) {
         });
     }
 }
-
-process.on("exit", () => {
-    console.log(EXE_SUMMARY);
-});

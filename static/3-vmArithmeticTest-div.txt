@@ -1,8 +1,8 @@
-2024-06-29T13:55:08.814Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 1/8 div_2_big 
-2024-06-29T13:55:11.331Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 2/8 div_boost_bug 
-2024-06-29T13:55:15.155Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 3/8 div_5_2 
-2024-06-29T13:55:17.661Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 4/8 div_23_24 
-2024-06-29T13:55:20.184Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 5/8 div_0_24 
-2024-06-29T13:55:22.700Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 6/8 div_1_0 
-2024-06-29T13:55:25.254Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 7/8 div_2_0 
-2024-06-29T13:55:27.768Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 8/8 div_0_add 
+2024-07-02T02:39:19.547Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 1/8 div_2_big 
+2024-07-02T02:39:22.073Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 2/8 div_boost_bug 
+2024-07-02T02:39:24.609Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 3/8 div_5_2 
+2024-07-02T02:39:27.144Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 4/8 div_23_24 
+2024-07-02T02:39:29.676Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 5/8 div_0_24 
+2024-07-02T02:39:32.215Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 6/8 div_1_0 
+2024-07-02T02:39:34.740Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 7/8 div_2_0 
+2024-07-02T02:39:37.275Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 8/8 div_0_add 

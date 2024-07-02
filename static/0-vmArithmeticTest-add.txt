@@ -1,5 +1,5 @@
-2024-06-29T13:54:13.320Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 1/5 add_neg1_neg1 
-2024-06-29T13:54:15.897Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 2/5 add_neg1_4 
-2024-06-29T13:54:18.446Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 3/5 add_neg1_1 
-2024-06-29T13:54:20.965Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 4/5 add_0_0 
-2024-06-29T13:54:23.475Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 5/5 add_1_neg1 
+2024-07-02T02:38:22.286Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 1/5 add_neg1_neg1 
+2024-07-02T02:38:24.817Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 2/5 add_neg1_4 
+2024-07-02T02:38:27.361Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 3/5 add_neg1_1 
+2024-07-02T02:38:29.900Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 4/5 add_0_0 
+2024-07-02T02:38:32.448Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json 5/5 add_1_neg1 

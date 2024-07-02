@@ -1,1 +1,1 @@
-2024-06-29T15:49:55.020Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json 1/1  
+2024-07-02T02:48:24.779Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json 1/1  

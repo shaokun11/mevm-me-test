@@ -1,4 +1,4 @@
-2024-06-29T14:14:59.110Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 1/4 gt_neg2_0 
-2024-06-29T14:15:01.456Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 2/4 gt_0_neg2 
-2024-06-29T14:15:03.830Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 3/4 gt_neg1_0 
-2024-06-29T14:15:06.203Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 4/4 gt_0_neg1 
+2024-07-02T02:49:20.628Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 1/4 gt_neg2_0 
+2024-07-02T02:49:23.126Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 2/4 gt_0_neg2 
+2024-07-02T02:49:25.613Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 3/4 gt_neg1_0 
+2024-07-02T02:49:28.103Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 4/4 gt_0_neg1 
