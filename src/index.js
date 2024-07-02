@@ -16,7 +16,7 @@ files.sort();
 
 // sendTest("vmIOandFlowOperations/codecopy.json")
 
-for (let i = 5; i < files.length; i++) {
+for (let i = 7; i < files.length; i++) {
     await runTask({
         index: i,
         source: files[i],
