@@ -1,2 +1,20 @@
-2024-07-03T06:07:52.163Z [ERROR] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 1/20 0 forward_size0_0 {"error":"Move abort in 0x1::evm_gas: 0x5e","hash":"0x682cb8d9d0b9b37221bcd79dd42a52b8f61638e93bd11e37ab6231e63c4f7ebb","expected":"0x92617f832af29309d3ad2bfad3e759ad500bdc849dd31bae416dc82762940ad7"}
-2024-07-03T06:07:54.695Z [ERROR] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 2/20 1 forward_size0_1 {"error":"Move abort in 0x1::evm_gas: 0x5e","hash":"0xcbbde8732762dfa3208adb5a3950d4df31201ceffc79da7db8607127a7b2b4d8","expected":"0x68de97da2373984692943d18a9955c54a76846f58c51e85769810d13470a9529"}
+2024-07-03T06:45:28.829Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 1/20 0 forward_size0_0 
+2024-07-03T06:45:30.997Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 2/20 1 forward_size0_1 
+2024-07-03T06:45:33.181Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 3/20 2 backward_size0_0 
+2024-07-03T06:45:35.355Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 4/20 3 backward_size0_1 
+2024-07-03T06:45:37.516Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 5/20 4 inplace_size0_0 
+2024-07-03T06:45:39.683Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 6/20 5 inplace_size0_1 
+2024-07-03T06:45:43.159Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 7/20 18 forward_overlapped_0 
+2024-07-03T06:45:45.320Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 8/20 19 forward_overlapped_1 
+2024-07-03T06:45:47.485Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 9/20 6 forward_disjoint_0 
+2024-07-03T06:45:49.646Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 10/20 7 forward_disjoint_1 
+2024-07-03T06:45:51.818Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 11/20 8 forward_adjacent_0 
+2024-07-03T06:45:53.994Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 12/20 9 forward_adjacent_1 
+2024-07-03T06:45:56.184Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 13/20 10 backward_overlapped_0 
+2024-07-03T06:45:58.372Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 14/20 11 backward_overlapped_1 
+2024-07-03T06:46:00.541Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 15/20 12 backward_disjoint_0 
+2024-07-03T06:46:02.704Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 16/20 13 backward_disjoint_1 
+2024-07-03T06:46:04.867Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 17/20 14 backward_adjacent_0 
+2024-07-03T06:46:07.026Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 18/20 15 backward_adjacent_1 
+2024-07-03T06:46:09.189Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 19/20 16 inplace_0 
+2024-07-03T06:46:11.359Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 20/20 17 inplace_1 
