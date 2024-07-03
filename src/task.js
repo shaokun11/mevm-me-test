@@ -41,6 +41,13 @@ function isSkip(source, label) {
     });
 }
 
+function hasAccessListOrBlob(tx) {
+    return (
+        (tx.accessLists && tx.accessLists.length > 0) ||
+        (tx.blobVersionedHashes && tx.blobVersionedHashes.length > 0)
+    );
+}
+
 function getNewFileName(source, i) {
     const p = path.parse(source);
     fse.ensureDirSync(p.dir.replace("ethereum-tests", "static"));
@@ -64,6 +71,12 @@ export async function runTask(opt) {
         return;
     }
     const tx = json[key]["transaction"];
+    if (hasAccessListOrBlob(tx)) {
+        const msg = "AccessList or Blob is not supported";
+        const output = `${new Date().toISOString()} [SKIP] ${source} ${msg}`;
+        appendFileSync(summary_file, output + "\n");
+        return;
+    }
     const info = json[key]["_info"];
     const env = json[key]["env"];
     const addresses = [];
@@ -137,7 +150,6 @@ export async function runTask(opt) {
         if (isSkip(source, label)) {
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             appendFileSync(summary_file, output + "\n");
-            tape(loc, { skip: true });
             continue;
         }
         let status = "";
