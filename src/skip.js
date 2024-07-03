@@ -22,11 +22,11 @@ export const IGNORE_TEST = [
     {
         name: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json",
         label: "__all__",
-        comment: "Will dropped from move-vm",
+        comment: "Will execute long time and dropped from move-vm",
     },
     {
         name: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/21_tstoreCannotBeDosdOOO.json",
         label: "__all__",
-        comment: "Will dropped from move-vm",
+        comment: "Will execute long time and dropped from move-vm",
     },
 ];

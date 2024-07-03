@@ -32,13 +32,18 @@ function toBuffer(hex) {
 }
 
 function isSkip(source, label) {
-    return IGNORE_TEST.some((t) => {
+    let comment = "";
+    const skip = IGNORE_TEST.some((t) => {
         const skip_labels = t.label.split(",");
         const isSkipLabel =
             skip_labels.includes("__all__") || label.length === 0 ? true : skip_labels.includes(label);
         const isSKipName = t.name.includes(source);
+        if (isSKipName && isSkipLabel) {
+            comment = t.comment;
+        }
         return isSKipName && isSkipLabel;
     });
+    return { skip, comment };
 }
 
 function hasAccessListOrBlob(tx) {
@@ -59,7 +64,7 @@ export async function runTask(opt) {
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
     const summary_file = getNewFileName(source, index);
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch(() => {});
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
@@ -147,8 +152,9 @@ export async function runTask(opt) {
         };
         let label = info["labels"]?.[i] ?? "";
         let loc = `${source} ${i + 1}/${post.length} ${indexes["data"]} ${label}`;
-        if (isSkip(source, label)) {
-            const output = `${new Date().toISOString()} [SKIP] ${loc}`;
+        const { skip, comment } = isSkip(source, label);
+        if (skip) {
+            const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
             appendFileSync(summary_file, output + "\n");
             continue;
         }
