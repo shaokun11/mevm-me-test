@@ -1,1 +1,1 @@
-2024-07-03T02:22:18.579Z [ERROR] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/13_tloadStaticCall.json 1/1  {"error":"Move abort in 0x1::evm_gas: 0xfa","hash":"0x17223ad1c83f7ca182ba975c15aea8d1f8144d316ce80f008d3d98e229d3decc","expected":"0x77825674bc60bc90ff40c07a1947bc3d4330a61e69948ed4f707b5ff01ab0674"}
+2024-07-03T03:09:00.147Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/13_tloadStaticCall.json 1/1  
