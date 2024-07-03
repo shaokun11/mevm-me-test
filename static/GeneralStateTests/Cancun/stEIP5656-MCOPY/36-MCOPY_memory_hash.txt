@@ -1,0 +1,6 @@
+2024-07-03T09:04:29.656Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 1/6 {"data":0,"gas":0,"value":0} clear_low_half_0 
+2024-07-03T09:04:32.240Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 2/6 {"data":1,"gas":0,"value":0} clear_low_half_1 
+2024-07-03T09:04:34.812Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 3/6 {"data":2,"gas":0,"value":0} clear_low_half_2 
+2024-07-03T09:04:37.383Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 4/6 {"data":3,"gas":0,"value":0} clear_high_half_0 
+2024-07-03T09:04:39.975Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 5/6 {"data":4,"gas":0,"value":0} memmove_forward 
+2024-07-03T09:04:42.544Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json 6/6 {"data":5,"gas":0,"value":0} memmove_backward 

@@ -1,2 +1,64 @@
-2024-07-03T06:46:25.589Z [FAILED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 1/64 0 src0_size0 {"gas_refund":"0","gas_usage":"100000","state_root":"0xdcc7dc8e6bf5d213c3ff880b74d3bd177c9a5783947d3cb5136701cf77b2b304","expected":"0xf147dab1882fe8c66d65fd7936abf800bd86040051a445f978ab5390067f4f9a","hash":"0x2a09a5a99702f60d574a780aed6afe6736ae38e57db92dfe91ace89e1399dfc2"}
-2024-07-03T06:46:27.806Z [FAILED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 2/64 1 src0_size1 {"gas_refund":"0","gas_usage":"100000","state_root":"0xdcc7dc8e6bf5d213c3ff880b74d3bd177c9a5783947d3cb5136701cf77b2b304","expected":"0x776fd5517e7745bea755af7fc910976586679373827a8833159cba2eca638dfe","hash":"0x2ba1998c37ec6bd3ad050821b93d3068772b5fcbd3f64835bc0963902be07608"}
+2024-07-03T08:34:04.407Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 1/64 {"data":0,"gas":0,"value":0} src0_size0 
+2024-07-03T08:34:06.934Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 2/64 {"data":1,"gas":0,"value":0} src0_size1 
+2024-07-03T08:34:09.500Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 3/64 {"data":2,"gas":0,"value":0} src0_size31 
+2024-07-03T08:34:12.047Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 4/64 {"data":3,"gas":0,"value":0} src0_size32 
+2024-07-03T08:34:14.599Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 5/64 {"data":4,"gas":0,"value":0} src0_size33 
+2024-07-03T08:34:17.125Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 6/64 {"data":5,"gas":0,"value":0} src0_size44767 
+2024-07-03T08:34:19.679Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 7/64 {"data":6,"gas":0,"value":0} src0_size44768 
+2024-07-03T08:34:22.202Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 8/64 {"data":7,"gas":0,"value":0} src0_size44769 
+2024-07-03T08:34:24.739Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 9/64 {"data":8,"gas":0,"value":0} src1_size0 
+2024-07-03T08:34:27.273Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 10/64 {"data":9,"gas":0,"value":0} src1_size1 
+2024-07-03T08:34:29.805Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 11/64 {"data":10,"gas":0,"value":0} src1_size31 
+2024-07-03T08:34:32.318Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 12/64 {"data":11,"gas":0,"value":0} src1_size32 
+2024-07-03T08:34:34.852Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 13/64 {"data":12,"gas":0,"value":0} src1_size33 
+2024-07-03T08:34:37.369Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 14/64 {"data":13,"gas":0,"value":0} src1_size44767 
+2024-07-03T08:34:39.891Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 15/64 {"data":14,"gas":0,"value":0} src1_size44768 
+2024-07-03T08:34:42.443Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 16/64 {"data":15,"gas":0,"value":0} src1_size44769 
+2024-07-03T08:34:44.955Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 17/64 {"data":16,"gas":0,"value":0} src31_size0 
+2024-07-03T08:34:47.471Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 18/64 {"data":17,"gas":0,"value":0} src31_size1 
+2024-07-03T08:34:50.002Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 19/64 {"data":18,"gas":0,"value":0} src31_size31 
+2024-07-03T08:34:52.541Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 20/64 {"data":19,"gas":0,"value":0} src31_size32 
+2024-07-03T08:34:55.062Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 21/64 {"data":20,"gas":0,"value":0} src31_size33 
+2024-07-03T08:34:57.607Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 22/64 {"data":21,"gas":0,"value":0} src31_size44767 
+2024-07-03T08:35:00.158Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 23/64 {"data":22,"gas":0,"value":0} src31_size44768 
+2024-07-03T08:35:04.096Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 24/64 {"data":23,"gas":0,"value":0} src31_size44769 
+2024-07-03T08:35:06.625Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 25/64 {"data":24,"gas":0,"value":0} src32_size0 
+2024-07-03T08:35:09.135Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 26/64 {"data":25,"gas":0,"value":0} src32_size1 
+2024-07-03T08:35:11.693Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 27/64 {"data":26,"gas":0,"value":0} src32_size31 
+2024-07-03T08:35:14.194Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 28/64 {"data":27,"gas":0,"value":0} src32_size32 
+2024-07-03T08:35:16.709Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 29/64 {"data":28,"gas":0,"value":0} src32_size33 
+2024-07-03T08:35:19.228Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 30/64 {"data":29,"gas":0,"value":0} src32_size44767 
+2024-07-03T08:35:21.772Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 31/64 {"data":30,"gas":0,"value":0} src32_size44768 
+2024-07-03T08:35:24.337Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 32/64 {"data":31,"gas":0,"value":0} src32_size44769 
+2024-07-03T08:35:26.883Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 33/64 {"data":0,"gas":1,"value":0}  
+2024-07-03T08:35:29.400Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 34/64 {"data":1,"gas":1,"value":0}  
+2024-07-03T08:35:31.979Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 35/64 {"data":2,"gas":1,"value":0}  
+2024-07-03T08:35:34.504Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 36/64 {"data":3,"gas":1,"value":0}  
+2024-07-03T08:35:37.018Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 37/64 {"data":4,"gas":1,"value":0}  
+2024-07-03T08:35:39.537Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 38/64 {"data":5,"gas":1,"value":0}  
+2024-07-03T08:35:42.065Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 39/64 {"data":6,"gas":1,"value":0}  
+2024-07-03T08:35:44.584Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 40/64 {"data":7,"gas":1,"value":0}  
+2024-07-03T08:35:47.091Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 41/64 {"data":8,"gas":1,"value":0}  
+2024-07-03T08:35:49.621Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 42/64 {"data":9,"gas":1,"value":0}  
+2024-07-03T08:35:52.154Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 43/64 {"data":10,"gas":1,"value":0}  
+2024-07-03T08:35:54.722Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 44/64 {"data":11,"gas":1,"value":0}  
+2024-07-03T08:35:57.248Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 45/64 {"data":12,"gas":1,"value":0}  
+2024-07-03T08:35:59.773Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 46/64 {"data":16,"gas":1,"value":0}  
+2024-07-03T08:36:02.328Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 47/64 {"data":17,"gas":1,"value":0}  
+2024-07-03T08:36:06.219Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 48/64 {"data":18,"gas":1,"value":0}  
+2024-07-03T08:36:08.740Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 49/64 {"data":19,"gas":1,"value":0}  
+2024-07-03T08:36:11.278Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 50/64 {"data":20,"gas":1,"value":0}  
+2024-07-03T08:36:13.800Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 51/64 {"data":24,"gas":1,"value":0}  
+2024-07-03T08:36:16.396Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 52/64 {"data":25,"gas":1,"value":0}  
+2024-07-03T08:36:18.957Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 53/64 {"data":26,"gas":1,"value":0}  
+2024-07-03T08:36:21.490Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 54/64 {"data":27,"gas":1,"value":0}  
+2024-07-03T08:36:24.011Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 55/64 {"data":28,"gas":1,"value":0}  
+2024-07-03T08:36:26.580Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 56/64 {"data":13,"gas":1,"value":0}  
+2024-07-03T08:36:29.109Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 57/64 {"data":14,"gas":1,"value":0}  
+2024-07-03T08:36:31.633Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 58/64 {"data":15,"gas":1,"value":0}  
+2024-07-03T08:36:34.176Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 59/64 {"data":21,"gas":1,"value":0}  
+2024-07-03T08:36:36.713Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 60/64 {"data":22,"gas":1,"value":0}  
+2024-07-03T08:36:39.247Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 61/64 {"data":23,"gas":1,"value":0}  
+2024-07-03T08:36:41.790Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 62/64 {"data":29,"gas":1,"value":0}  
+2024-07-03T08:36:44.324Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 63/64 {"data":30,"gas":1,"value":0}  
+2024-07-03T08:36:46.826Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json 64/64 {"data":31,"gas":1,"value":0}  

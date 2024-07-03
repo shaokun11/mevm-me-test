@@ -72,7 +72,6 @@ export async function runTask(opt) {
         const msg = "No " + TEST_FORK + " post state found";
         const output = `${new Date().toISOString()} [SKIP] ${loc} ${msg}`;
         appendFileSync(summary_file, output + "\n");
-        tape(loc, { skip: true });
         return;
     }
     const tx = json[key]["transaction"];
@@ -151,7 +150,7 @@ export async function runTask(opt) {
             ],
         };
         let label = info["labels"]?.[i] ?? "";
-        let loc = `${source} ${i + 1}/${post.length} ${indexes["data"]} ${label}`;
+        let loc = `${source} ${i + 1}/${post.length} ${JSON.stringify(indexes)} ${label}`;
         const { skip, comment } = isSkip(source, label);
         if (skip) {
             const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
