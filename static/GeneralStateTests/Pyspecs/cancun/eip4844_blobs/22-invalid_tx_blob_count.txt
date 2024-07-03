@@ -1,3 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_tx_blob_count.json
-2024-07-03T10:29:20.534Z [SKIP] 22,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_few_blobs] AccessList or Blob is not supported
-2024-07-03T10:29:20.535Z [SKIP] 22,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_many_blobs] AccessList or Blob is not supported
+2024-07-03T11:24:39.744Z [SKIP] 22,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_many_blobs] AccessList or Blob is not supported
