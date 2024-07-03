@@ -1,0 +1,8 @@
+2024-07-03T02:14:17.673Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 1/8 emptyMem 
+2024-07-03T02:14:19.911Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 2/8 memStartTooHigh 
+2024-07-03T02:14:22.158Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 3/8 memSizeTooHigh 
+2024-07-03T02:14:24.382Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 4/8 memSizeZero 
+2024-07-03T02:14:27.944Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 5/8 nonEmptyMem 
+2024-07-03T02:14:30.176Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 6/8 log_0_1 
+2024-07-03T02:14:32.404Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 7/8 log_31_1 
+2024-07-03T02:14:34.652Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json 8/8 logTwice 

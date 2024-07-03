@@ -1,0 +1,11 @@
+2024-07-03T02:00:58.519Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 1/11 exp_2_2 
+2024-07-03T02:01:00.752Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 2/11 exp_neg1_neg2 
+2024-07-03T02:01:02.973Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 3/11 exp_big_big 
+2024-07-03T02:01:05.200Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 4/11 exp_0_big 
+2024-07-03T02:01:07.433Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 5/11 exp_big_0 
+2024-07-03T02:01:09.716Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 6/11 exp_257_1 
+2024-07-03T02:01:11.963Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 7/11 exp_1_257 
+2024-07-03T02:01:14.204Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 8/11 exp_2_257 
+2024-07-03T02:01:16.424Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 9/11 exp_0_0 
+2024-07-03T02:01:18.646Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 10/11 exp_2_big 
+2024-07-03T02:01:20.860Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 11/11 exp_2_15 

@@ -1,0 +1,1 @@
+2024-07-03T02:22:09.746Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/09_revertUndoesAll.json 1/1  

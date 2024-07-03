@@ -1,0 +1,1 @@
+2024-07-03T02:22:16.351Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/12_tloadDelegateCall.json 1/1  

@@ -1,0 +1,3 @@
+2024-07-03T01:56:03.436Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json 1/3 caller
+2024-07-03T01:56:03.437Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json 2/3 random
+2024-07-03T01:56:03.439Z [SKIP] ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json 3/3 myself

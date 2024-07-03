@@ -1,0 +1,6 @@
+2024-07-03T02:04:05.329Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 1/6 smod_2_3 
+2024-07-03T02:04:07.553Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 2/6 smod_neg1_2 
+2024-07-03T02:04:09.792Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 3/6 smod_0_neg1 
+2024-07-03T02:04:12.024Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 4/6 smod_3_0 
+2024-07-03T02:04:14.265Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 5/6 smod_neg2_3 
+2024-07-03T02:04:16.505Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json 6/6 smod_16_0 

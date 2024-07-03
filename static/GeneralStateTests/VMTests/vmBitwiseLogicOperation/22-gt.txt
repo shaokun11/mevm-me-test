@@ -1,0 +1,4 @@
+2024-07-03T02:05:50.119Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 1/4 gt_neg2_0 
+2024-07-03T02:05:52.403Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 2/4 gt_0_neg2 
+2024-07-03T02:05:54.623Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 3/4 gt_neg1_0 
+2024-07-03T02:05:57.005Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json 4/4 gt_0_neg1 

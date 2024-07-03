@@ -1,0 +1,5 @@
+2024-07-03T02:16:03.316Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 1/5 coinbase 
+2024-07-03T02:16:05.706Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 2/5 difficulty 
+2024-07-03T02:16:09.458Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 3/5 gaslimit 
+2024-07-03T02:16:11.749Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 4/5 number 
+2024-07-03T02:16:14.043Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json 5/5 timestamp 

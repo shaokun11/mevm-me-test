@@ -12,14 +12,13 @@
   "author": "shaokun",
   "license": "ISC",
   "dependencies": {
+    "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.14.6",
     "aptos": "^1.21.0",
     "dotenv": "^16.4.5",
     "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
     "tap-spec": "^5.0.0",
     "tape": "^5.8.1"
-  },
-  "devDependencies": {
-    
   }
 }

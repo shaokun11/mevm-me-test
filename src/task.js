@@ -6,6 +6,8 @@ import { IGNORE_TEST } from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
+import fse from "fs-extra/esm";
+import path from "node:path";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const client = new AptosClient(NODE_URL);
 
@@ -35,13 +37,18 @@ function isSkip(source, label) {
     });
 }
 
+function getNewFileName(source, i) {
+    const p = path.parse(source);
+    fse.ensureDirSync(p.dir.replace("ethereum-tests", "static"));
+    return `${p.dir.replace("ethereum-tests", "static")}/${i}-${p.name}.txt`;
+}
+
 export async function runTask(opt) {
     const { index, source, account } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const key = source.substring(source.lastIndexOf("/") + 1, source.lastIndexOf("."));
-    const source_file = source.slice(DIR.length);
-    const summary_file = `static/${index}-${source_file.replace("/", "-").replace(".json", "")}.txt`;
-    await unlink(summary_file).catch(() => {});
+    const summary_file = getNewFileName(source, index);
+    await unlink(summary_file).catch(() => { });
     const json = JSON.parse((await readFile(source, "utf8")).toString());
     const pre = json[key]["pre"];
     const post = json[key]["post"][TEST_FORK];
