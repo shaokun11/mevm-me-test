@@ -33,7 +33,11 @@ function toBuffer(hex) {
 
 function isSkip(source, label) {
     return IGNORE_TEST.some((t) => {
-        return (t.label === label || t.label === "all") && t.name.includes(source);
+        const skip_labels = t.label.split(",");
+        const isSkipLabel =
+            skip_labels.includes("__all__") || label.length === 0 ? true : skip_labels.includes(label);
+        const isSKipName = t.name.includes(source);
+        return isSKipName && isSkipLabel;
     });
 }
 
@@ -128,8 +132,8 @@ export async function runTask(opt) {
                 envs,
             ],
         };
-        const label = info["labels"]?.[i] ?? "";
-        let loc = `${source} ${i + 1}/${post.length} ${label}`;
+        let label = info["labels"]?.[i] ?? "";
+        let loc = `${source} ${i + 1}/${post.length} ${indexes["data"]} ${label}`;
         if (isSkip(source, label)) {
             const output = `${new Date().toISOString()} [SKIP] ${loc}`;
             appendFileSync(summary_file, output + "\n");

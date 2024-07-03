@@ -1,0 +1,16 @@
+2024-07-03T05:03:01.571Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 1/16 sum_16 
+2024-07-03T05:03:05.169Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 2/16 callcode_sum_16 
+2024-07-03T05:03:08.745Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 3/16 delegate_sum_16 
+2024-07-03T05:03:30.710Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 4/16 sum_256 
+2024-07-03T05:03:34.281Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 5/16 callback_sum_10 
+2024-07-03T05:03:43.138Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 6/16 callback_sum_50 
+2024-07-03T05:03:57.212Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 7/16 bin_tree_6 
+2024-07-03T05:04:08.634Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 8/16 delegate_bin_tree_6 
+2024-07-03T05:04:10.885Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 9/16 inherit_trans 
+2024-07-03T05:04:14.440Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 10/16 deep_call 
+2024-07-03T05:04:18.007Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 11/16 deep_call 
+2024-07-03T05:04:21.557Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 12/16 deep_call 
+2024-07-03T05:04:25.107Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 13/16 deep_call 
+2024-07-03T05:04:28.671Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 14/16 deep_call 
+2024-07-03T05:04:33.532Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 15/16 deep_call 
+2024-07-03T05:04:35.776Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json 16/16 static_call 
