@@ -1,0 +1,72 @@
+{
+  "47": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test the MODEXP precompile",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "88a8e04e6bc8f67f4a53e65a50f3b121055274060d46564e6ba3f0f9de681ff7",
+      "hash": "0x0593225efa8b5a072635e63d7ccb38b2596e0379d750472361cbcb905792aca8",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/byzantium/eip198_modexp_precompile/test_modexp.py",
+      "sourceHash": "7a749d367206afbfbac09812d2dcfb8b80b65d4e2002444c3a0d0bd191e39d13",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_c55892fd_7bca_450d_a74a_810bad241eab/test_modexp.py#L91"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x1d97d9ad4922a59df450ba879e37f4b4ca55ba4cd59ac1c601259dc86fd13adc",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf8c4800a8307a12094000000000000000000000000000000000000010080b86300000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000102020525a070720a3dd72413ae6e887af54d091b8f0a93c74ce98eaeb729d5ee5d21b79deea032adb4dee838be049113b2e24895cffe3f75db8ebee17934614b80d23e76ddbf"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x00",
+        "code": "0x36600060003760006000366000600060055af16000557f601038036010600039601038036000f3000000000000000000000000000000006000523d600060103e3d60100160006000f000",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x3635c9adc5dea00000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001020205"
+      ],
+      "gasLimit": [
+        "0x07a120"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

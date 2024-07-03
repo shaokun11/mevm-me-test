@@ -1,7 +1,7 @@
 import { HexString } from "aptos";
-import { appendFile, readFile, unlink } from "node:fs/promises";
+import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
 import tape from "tape";
-import { DIR, SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
+import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { IGNORE_TEST, SKIP_ALL_LABEL } from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
@@ -60,11 +60,28 @@ function getNewFileName(source, i) {
     return `${p.dir.replace("ethereum-tests", "static")}/${i}-${p.name}.txt`;
 }
 
+async function saveMulEnvJson(source, name, data, total) {
+    if (total <= 1) return;
+    const p = path.parse(source);
+    const dir = p.dir.replace("ethereum-tests", "ethereum-tests-parsed");
+    fse.ensureDirSync(dir);
+    await writeFile(
+        `${dir}/${name}.json`,
+        JSON.stringify(
+            {
+                [name]: data,
+            },
+            null,
+            2
+        )
+    );
+}
+
 export async function runTask(opt) {
     const { index, source, account } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const summary_file = getNewFileName(source, index);
-    await unlink(summary_file).catch(() => {});
+    await unlink(summary_file).catch(() => { });
     await appendFile(summary_file, source + "\n");
     const testCase = JSON.parse((await readFile(source, "utf8")).toString());
     const testEnvs = Object.values(testCase);
@@ -106,6 +123,7 @@ export async function runTask(opt) {
             toBuffer(env["currentRandom"]),
             toBuffer(env["currentTimestamp"]),
         ];
+        await saveMulEnvJson(source, i, json, testNames.length);
         for (let [k, v] of Object.entries(pre)) {
             addresses.push(toBuffer(k));
             codes.push(toBuffer(v["code"]));
@@ -126,6 +144,7 @@ export async function runTask(opt) {
                 storage_values.push([]);
             }
         }
+
         for (let i = 0; i < post.length; i++) {
             const indexes = post[i].indexes;
             let gasPrice = tx.gasPrice;
@@ -157,9 +176,8 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${
-                indexes.value
-            } ${label}`;
+            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
+                } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, label);
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
