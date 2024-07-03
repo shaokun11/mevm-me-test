@@ -1,8 +1,9 @@
-2024-07-03T02:16:16.264Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 1/8 cdc_0_1_2 
-2024-07-03T02:16:18.499Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 2/8 cdc_0_1_1 
-2024-07-03T02:16:20.714Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 3/8 cdc_0_1_0 
-2024-07-03T02:16:22.930Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 4/8 cdc_0_0_0 
-2024-07-03T02:16:25.166Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 5/8 cdc_0_neg6_ff 
-2024-07-03T02:16:27.394Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 6/8 cdc_0_neg6_9 
-2024-07-03T02:16:30.960Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 7/8 underflow 
-2024-07-03T02:16:33.207Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json 8/8 sec 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json
+2024-07-03T10:21:35.925Z [PASSED] 54 calldatacopy 1/8 {"data":0,"gas":0,"value":0} cdc_0_1_2 
+2024-07-03T10:21:38.497Z [PASSED] 54 calldatacopy 2/8 {"data":1,"gas":0,"value":0} cdc_0_1_1 
+2024-07-03T10:21:41.076Z [PASSED] 54 calldatacopy 3/8 {"data":2,"gas":0,"value":0} cdc_0_1_0 
+2024-07-03T10:21:43.643Z [PASSED] 54 calldatacopy 4/8 {"data":3,"gas":0,"value":0} cdc_0_0_0 
+2024-07-03T10:21:46.240Z [PASSED] 54 calldatacopy 5/8 {"data":4,"gas":0,"value":0} cdc_0_neg6_ff 
+2024-07-03T10:21:48.806Z [PASSED] 54 calldatacopy 6/8 {"data":5,"gas":0,"value":0} cdc_0_neg6_9 
+2024-07-03T10:21:51.399Z [PASSED] 54 calldatacopy 7/8 {"data":6,"gas":0,"value":0} underflow 
+2024-07-03T10:21:53.972Z [PASSED] 54 calldatacopy 8/8 {"data":7,"gas":0,"value":0} sec 

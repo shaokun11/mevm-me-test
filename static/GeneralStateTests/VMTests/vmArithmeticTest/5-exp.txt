@@ -1,11 +1,12 @@
-2024-07-03T02:00:58.519Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 1/11 exp_2_2 
-2024-07-03T02:01:00.752Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 2/11 exp_neg1_neg2 
-2024-07-03T02:01:02.973Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 3/11 exp_big_big 
-2024-07-03T02:01:05.200Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 4/11 exp_0_big 
-2024-07-03T02:01:07.433Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 5/11 exp_big_0 
-2024-07-03T02:01:09.716Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 6/11 exp_257_1 
-2024-07-03T02:01:11.963Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 7/11 exp_1_257 
-2024-07-03T02:01:14.204Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 8/11 exp_2_257 
-2024-07-03T02:01:16.424Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 9/11 exp_0_0 
-2024-07-03T02:01:18.646Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 10/11 exp_2_big 
-2024-07-03T02:01:20.860Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json 11/11 exp_2_15 
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json
+2024-07-03T09:55:24.320Z [PASSED] 5 exp 1/11 {"data":3,"gas":0,"value":0} exp_2_2 
+2024-07-03T09:55:26.863Z [PASSED] 5 exp 2/11 {"data":7,"gas":0,"value":0} exp_neg1_neg2 
+2024-07-03T09:55:29.396Z [PASSED] 5 exp 3/11 {"data":9,"gas":0,"value":0} exp_big_big 
+2024-07-03T09:55:31.944Z [PASSED] 5 exp 4/11 {"data":0,"gas":0,"value":0} exp_0_big 
+2024-07-03T09:55:34.505Z [PASSED] 5 exp 5/11 {"data":1,"gas":0,"value":0} exp_big_0 
+2024-07-03T09:55:37.050Z [PASSED] 5 exp 6/11 {"data":2,"gas":0,"value":0} exp_257_1 
+2024-07-03T09:55:39.611Z [PASSED] 5 exp 7/11 {"data":4,"gas":0,"value":0} exp_1_257 
+2024-07-03T09:55:42.165Z [PASSED] 5 exp 8/11 {"data":5,"gas":0,"value":0} exp_2_257 
+2024-07-03T09:55:44.743Z [PASSED] 5 exp 9/11 {"data":6,"gas":0,"value":0} exp_0_0 
+2024-07-03T09:55:47.303Z [PASSED] 5 exp 10/11 {"data":8,"gas":0,"value":0} exp_2_big 
+2024-07-03T09:55:49.875Z [PASSED] 5 exp 11/11 {"data":10,"gas":0,"value":0} exp_2_15 

@@ -1,5 +1,6 @@
-2024-07-03T02:05:04.478Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 1/5 and_2_2 
-2024-07-03T02:05:08.007Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 2/5 and_2_1 
-2024-07-03T02:05:10.230Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 3/5 and_3_1 
-2024-07-03T02:05:12.448Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 4/5 and_allones_bignum 
-2024-07-03T02:05:14.663Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json 5/5 and_allones_eefee 
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json
+2024-07-03T10:00:01.712Z [PASSED] 19 and 1/5 {"data":0,"gas":0,"value":0} and_2_2 
+2024-07-03T10:00:04.253Z [PASSED] 19 and 2/5 {"data":2,"gas":0,"value":0} and_2_1 
+2024-07-03T10:00:06.770Z [PASSED] 19 and 3/5 {"data":3,"gas":0,"value":0} and_3_1 
+2024-07-03T10:00:09.317Z [PASSED] 19 and 4/5 {"data":4,"gas":0,"value":0} and_allones_bignum 
+2024-07-03T10:00:13.241Z [PASSED] 19 and 5/5 {"data":1,"gas":0,"value":0} and_allones_eefee 

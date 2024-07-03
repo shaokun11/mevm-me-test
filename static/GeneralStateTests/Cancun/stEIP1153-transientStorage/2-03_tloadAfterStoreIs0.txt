@@ -1,1 +1,2 @@
-2024-07-03T02:21:56.497Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/03_tloadAfterStoreIs0.json 1/1  
+ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/03_tloadAfterStoreIs0.json
+2024-07-03T10:36:57.406Z [PASSED] 2,0 03_tloadAfterStoreIs0 1/1 data:0,gas:0,value:0  

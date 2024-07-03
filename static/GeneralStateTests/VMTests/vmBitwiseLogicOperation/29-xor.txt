@@ -1,6 +1,7 @@
-2024-07-03T02:07:02.868Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 1/6 xor_2_2 
-2024-07-03T02:07:05.122Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 2/6 xor_2_1 
-2024-07-03T02:07:07.361Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 3/6 xor_3_1 
-2024-07-03T02:07:09.617Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 4/6 xor_allones_bignum 
-2024-07-03T02:07:13.166Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 5/6 xor_allones_1110s 
-2024-07-03T02:07:15.405Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json 6/6 xor_allones_eefee 
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json
+2024-07-03T10:02:13.961Z [PASSED] 29 xor 1/6 {"data":0,"gas":0,"value":0} xor_2_2 
+2024-07-03T10:02:17.966Z [PASSED] 29 xor 2/6 {"data":1,"gas":0,"value":0} xor_2_1 
+2024-07-03T10:02:20.567Z [PASSED] 29 xor 3/6 {"data":2,"gas":0,"value":0} xor_3_1 
+2024-07-03T10:02:23.187Z [PASSED] 29 xor 4/6 {"data":3,"gas":0,"value":0} xor_allones_bignum 
+2024-07-03T10:02:25.772Z [PASSED] 29 xor 5/6 {"data":4,"gas":0,"value":0} xor_allones_1110s 
+2024-07-03T10:02:28.385Z [PASSED] 29 xor 6/6 {"data":5,"gas":0,"value":0} xor_allones_eefee 

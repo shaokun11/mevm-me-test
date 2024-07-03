@@ -1,1 +1,2 @@
-2024-07-03T02:21:52.064Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/01_tloadBeginningTxn.json 1/1  
+ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/01_tloadBeginningTxn.json
+2024-07-03T10:36:52.953Z [PASSED] 0,0 01_tloadBeginningTxn 1/1 data:0,gas:0,value:0  

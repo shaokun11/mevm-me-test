@@ -1,17 +1,18 @@
-2024-07-03T02:07:33.316Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 1/17 jump-hyperspace 
-2024-07-03T02:07:35.556Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 2/17 jump-hyperspace 
-2024-07-03T02:07:37.793Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 3/17 jump-stop-dest 
-2024-07-03T02:07:40.031Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 4/17 jump-hyperspace 
-2024-07-03T02:07:56.716Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 5/17 jump-not-jumpdest 
-2024-07-03T02:07:58.960Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 6/17 endless-loop 
-2024-07-03T02:08:01.214Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 7/17 jump-dest 
-2024-07-03T02:08:03.440Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 8/17 jump-dest 
-2024-07-03T02:08:05.684Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 9/17 jump-dynamic 
-2024-07-03T02:08:07.922Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 10/17 jump-2-push 
-2024-07-03T02:08:10.146Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 11/17 jump-2-push 
-2024-07-03T02:08:12.381Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 12/17 jump-not-jumpdest 
-2024-07-03T02:08:15.948Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 13/17 jump-not-jumpdest 
-2024-07-03T02:08:18.192Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 14/17 jump-hyperspace 
-2024-07-03T02:08:20.432Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 15/17 jump-hyperspace 
-2024-07-03T02:08:22.674Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 16/17 jump-hyperspace 
-2024-07-03T02:08:24.910Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json 17/17 jump-to-list 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jump.json
+2024-07-03T10:02:49.205Z [PASSED] 32 jump 1/17 {"data":0,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:02:51.795Z [PASSED] 32 jump 2/17 {"data":1,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:02:54.387Z [PASSED] 32 jump 3/17 {"data":3,"gas":0,"value":0} jump-stop-dest 
+2024-07-03T10:02:56.980Z [PASSED] 32 jump 4/17 {"data":4,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:03:12.162Z [PASSED] 32 jump 5/17 {"data":5,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:03:14.756Z [PASSED] 32 jump 6/17 {"data":9,"gas":0,"value":0} endless-loop 
+2024-07-03T10:03:17.425Z [PASSED] 32 jump 7/17 {"data":10,"gas":0,"value":0} jump-dest 
+2024-07-03T10:03:21.358Z [PASSED] 32 jump 8/17 {"data":11,"gas":0,"value":0} jump-dest 
+2024-07-03T10:03:23.933Z [PASSED] 32 jump 9/17 {"data":12,"gas":0,"value":0} jump-dynamic 
+2024-07-03T10:03:26.491Z [PASSED] 32 jump 10/17 {"data":13,"gas":0,"value":0} jump-2-push 
+2024-07-03T10:03:29.051Z [PASSED] 32 jump 11/17 {"data":14,"gas":0,"value":0} jump-2-push 
+2024-07-03T10:03:31.604Z [PASSED] 32 jump 12/17 {"data":15,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:03:34.181Z [PASSED] 32 jump 13/17 {"data":2,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:03:36.745Z [PASSED] 32 jump 14/17 {"data":6,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:03:39.287Z [PASSED] 32 jump 15/17 {"data":7,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:03:41.818Z [PASSED] 32 jump 16/17 {"data":8,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:03:44.357Z [PASSED] 32 jump 17/17 {"data":16,"gas":0,"value":0} jump-to-list 

@@ -1,5 +1,6 @@
-2024-07-03T02:07:17.656Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 1/5 codecopy 
-2024-07-03T02:07:19.882Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 2/5 codecopy_infbuff 
-2024-07-03T02:07:22.107Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 3/5 codecopy_bigbuff 
-2024-07-03T02:07:24.346Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 4/5 codecopy_2buff 
-2024-07-03T02:07:26.570Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json 5/5 codecopy_opcodes 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json
+2024-07-03T10:02:30.988Z [PASSED] 30 codecopy 1/5 {"data":0,"gas":0,"value":0} codecopy 
+2024-07-03T10:02:33.591Z [PASSED] 30 codecopy 2/5 {"data":2,"gas":0,"value":0} codecopy_infbuff 
+2024-07-03T10:02:36.191Z [PASSED] 30 codecopy 3/5 {"data":1,"gas":0,"value":0} codecopy_bigbuff 
+2024-07-03T10:02:38.778Z [PASSED] 30 codecopy 4/5 {"data":3,"gas":0,"value":0} codecopy_2buff 
+2024-07-03T10:02:41.364Z [PASSED] 30 codecopy 5/5 {"data":4,"gas":0,"value":0} codecopy_opcodes 

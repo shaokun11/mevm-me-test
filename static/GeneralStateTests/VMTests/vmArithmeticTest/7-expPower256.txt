@@ -1,1 +1,2 @@
-2024-07-03T02:01:26.640Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower256.json 1/1  
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower256.json
+2024-07-03T09:55:56.397Z [PASSED] 7 expPower256 1/1 {"data":0,"gas":0,"value":0}  

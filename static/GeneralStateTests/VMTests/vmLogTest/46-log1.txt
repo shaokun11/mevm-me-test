@@ -1,9 +1,10 @@
-2024-07-03T02:14:36.883Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 1/9 emptyMem 
-2024-07-03T02:14:39.108Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 2/9 memStartTooHigh 
-2024-07-03T02:14:41.332Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 3/9 memSizeTooHigh 
-2024-07-03T02:14:43.633Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 4/9 memSizeZero 
-2024-07-03T02:14:45.870Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 5/9 nonEmptyMem 
-2024-07-03T02:14:48.107Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 6/9 log_0_1 
-2024-07-03T02:14:50.335Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 7/9 log_31_1 
-2024-07-03T02:14:52.580Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 8/9 caller 
-2024-07-03T02:14:54.818Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json 9/9 maxTopic 
+ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log1.json
+2024-07-03T10:10:59.217Z [PASSED] 46 log1 1/9 {"data":0,"gas":0,"value":0} emptyMem 
+2024-07-03T10:11:01.816Z [PASSED] 46 log1 2/9 {"data":3,"gas":0,"value":0} memStartTooHigh 
+2024-07-03T10:11:04.432Z [PASSED] 46 log1 3/9 {"data":4,"gas":0,"value":0} memSizeTooHigh 
+2024-07-03T10:11:07.049Z [PASSED] 46 log1 4/9 {"data":5,"gas":0,"value":0} memSizeZero 
+2024-07-03T10:11:09.659Z [PASSED] 46 log1 5/9 {"data":6,"gas":0,"value":0} nonEmptyMem 
+2024-07-03T10:11:12.369Z [PASSED] 46 log1 6/9 {"data":7,"gas":0,"value":0} log_0_1 
+2024-07-03T10:11:14.905Z [PASSED] 46 log1 7/9 {"data":8,"gas":0,"value":0} log_31_1 
+2024-07-03T10:11:17.457Z [PASSED] 46 log1 8/9 {"data":1,"gas":0,"value":0} caller 
+2024-07-03T10:11:20.003Z [PASSED] 46 log1 9/9 {"data":2,"gas":0,"value":0} maxTopic 

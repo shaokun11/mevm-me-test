@@ -1,5 +1,6 @@
-2024-07-03T02:13:32.987Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 1/5 mstore_allF 
-2024-07-03T02:13:35.210Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 2/5 mstore_one 
-2024-07-03T02:13:37.443Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 3/5 mstore_neg1 
-2024-07-03T02:13:39.657Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 4/5 mstore_byte32 
-2024-07-03T02:13:41.931Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json 5/5 mstore_byte31 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json
+2024-07-03T10:09:42.664Z [PASSED] 39 mstore 1/5 {"data":0,"gas":0,"value":0} mstore_allF 
+2024-07-03T10:09:45.264Z [PASSED] 39 mstore 2/5 {"data":2,"gas":0,"value":0} mstore_one 
+2024-07-03T10:09:47.859Z [PASSED] 39 mstore 3/5 {"data":1,"gas":0,"value":0} mstore_neg1 
+2024-07-03T10:09:50.446Z [PASSED] 39 mstore 4/5 {"data":3,"gas":0,"value":0} mstore_byte32 
+2024-07-03T10:09:53.056Z [PASSED] 39 mstore 5/5 {"data":4,"gas":0,"value":0} mstore_byte31 

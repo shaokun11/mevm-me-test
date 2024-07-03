@@ -1,1 +1,2 @@
-2024-07-03T02:22:03.093Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/06_tstoreInReentrancyCall.json 1/1  
+ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/06_tstoreInReentrancyCall.json
+2024-07-03T10:37:04.063Z [PASSED] 5,0 06_tstoreInReentrancyCall 1/1 data:0,gas:0,value:0  

@@ -1,1 +1,2 @@
-2024-07-03T02:02:48.891Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/not.json 1/1  
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/not.json
+2024-07-03T09:57:30.585Z [PASSED] 13 not 1/1 {"data":0,"gas":0,"value":0}  

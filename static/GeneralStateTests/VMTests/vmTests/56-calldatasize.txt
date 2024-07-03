@@ -1,20 +1,21 @@
-2024-07-03T02:16:42.079Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 1/20 data1_2 
-2024-07-03T02:16:44.361Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 2/20 data1_11 
-2024-07-03T02:16:46.582Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 3/20 data1_21 
-2024-07-03T02:16:48.805Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 4/20 data1_31 
-2024-07-03T02:16:51.028Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 5/20 data1_101 
-2024-07-03T02:16:53.251Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 6/20 data2_2 
-2024-07-03T02:16:55.502Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 7/20 data2_11 
-2024-07-03T02:16:57.735Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 8/20 data2_21 
-2024-07-03T02:16:59.964Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 9/20 data2_31 
-2024-07-03T02:17:02.178Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 10/20 data2_101 
-2024-07-03T02:17:04.395Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 11/20 data3_2 
-2024-07-03T02:17:06.601Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 12/20 data3_11 
-2024-07-03T02:17:08.824Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 13/20 data3_21 
-2024-07-03T02:17:11.044Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 14/20 data3_31 
-2024-07-03T02:17:13.267Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 15/20 data3_101 
-2024-07-03T02:17:15.478Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 16/20 data4_2 
-2024-07-03T02:17:17.697Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 17/20 data4_11 
-2024-07-03T02:17:19.923Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 18/20 data4_21 
-2024-07-03T02:17:22.130Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 19/20 data4_31 
-2024-07-03T02:17:24.342Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json 20/20 data4_101 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json
+2024-07-03T10:22:04.290Z [PASSED] 56 calldatasize 1/20 {"data":0,"gas":0,"value":0} data1_2 
+2024-07-03T10:22:06.865Z [PASSED] 56 calldatasize 2/20 {"data":5,"gas":0,"value":0} data1_11 
+2024-07-03T10:22:09.438Z [PASSED] 56 calldatasize 3/20 {"data":10,"gas":0,"value":0} data1_21 
+2024-07-03T10:22:12.024Z [PASSED] 56 calldatasize 4/20 {"data":15,"gas":0,"value":0} data1_31 
+2024-07-03T10:22:14.592Z [PASSED] 56 calldatasize 5/20 {"data":1,"gas":0,"value":0} data1_101 
+2024-07-03T10:22:17.163Z [PASSED] 56 calldatasize 6/20 {"data":6,"gas":0,"value":0} data2_2 
+2024-07-03T10:22:19.753Z [PASSED] 56 calldatasize 7/20 {"data":11,"gas":0,"value":0} data2_11 
+2024-07-03T10:22:22.325Z [PASSED] 56 calldatasize 8/20 {"data":16,"gas":0,"value":0} data2_21 
+2024-07-03T10:22:26.306Z [PASSED] 56 calldatasize 9/20 {"data":2,"gas":0,"value":0} data2_31 
+2024-07-03T10:22:28.886Z [PASSED] 56 calldatasize 10/20 {"data":7,"gas":0,"value":0} data2_101 
+2024-07-03T10:22:31.449Z [PASSED] 56 calldatasize 11/20 {"data":12,"gas":0,"value":0} data3_2 
+2024-07-03T10:22:34.018Z [PASSED] 56 calldatasize 12/20 {"data":17,"gas":0,"value":0} data3_11 
+2024-07-03T10:22:36.581Z [PASSED] 56 calldatasize 13/20 {"data":3,"gas":0,"value":0} data3_21 
+2024-07-03T10:22:39.264Z [PASSED] 56 calldatasize 14/20 {"data":8,"gas":0,"value":0} data3_31 
+2024-07-03T10:22:41.839Z [PASSED] 56 calldatasize 15/20 {"data":13,"gas":0,"value":0} data3_101 
+2024-07-03T10:22:44.430Z [PASSED] 56 calldatasize 16/20 {"data":18,"gas":0,"value":0} data4_2 
+2024-07-03T10:22:46.999Z [PASSED] 56 calldatasize 17/20 {"data":4,"gas":0,"value":0} data4_11 
+2024-07-03T10:22:49.556Z [PASSED] 56 calldatasize 18/20 {"data":9,"gas":0,"value":0} data4_21 
+2024-07-03T10:22:52.148Z [PASSED] 56 calldatasize 19/20 {"data":14,"gas":0,"value":0} data4_31 
+2024-07-03T10:22:54.724Z [PASSED] 56 calldatasize 20/20 {"data":19,"gas":0,"value":0} data4_101 

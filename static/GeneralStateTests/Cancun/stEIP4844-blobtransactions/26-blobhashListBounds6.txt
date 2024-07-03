@@ -1,1 +1,2 @@
-2024-07-03T06:07:46.199Z [SKIP] ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/blobhashListBounds6.json AccessList or Blob is not supported
+ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/blobhashListBounds6.json
+2024-07-03T10:36:47.972Z [SKIP] 26,0 blobhashListBounds6 AccessList or Blob is not supported

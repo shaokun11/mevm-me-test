@@ -1,16 +1,17 @@
-2024-07-03T02:20:31.456Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 1/16 swap1 
-2024-07-03T02:20:33.696Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 2/16 swap2 
-2024-07-03T02:20:37.217Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 3/16 swap3 
-2024-07-03T02:20:39.439Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 4/16 swap4 
-2024-07-03T02:20:41.684Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 5/16 swap5 
-2024-07-03T02:20:43.896Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 6/16 swap6 
-2024-07-03T02:20:46.116Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 7/16 swap7 
-2024-07-03T02:20:48.350Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 8/16 swap8 
-2024-07-03T02:20:50.570Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 9/16 swap9 
-2024-07-03T02:20:52.770Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 10/16 swap10 
-2024-07-03T02:20:54.983Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 11/16 swap11 
-2024-07-03T02:20:57.203Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 12/16 swap12 
-2024-07-03T02:20:59.429Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 13/16 swap13 
-2024-07-03T02:21:01.648Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 14/16 swap14 
-2024-07-03T02:21:03.887Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 15/16 swap15 
-2024-07-03T02:21:06.102Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json 16/16 swap16 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/swap.json
+2024-07-03T10:26:33.461Z [PASSED] 63 swap 1/16 {"data":0,"gas":0,"value":0} swap1 
+2024-07-03T10:26:37.581Z [PASSED] 63 swap 2/16 {"data":1,"gas":0,"value":0} swap2 
+2024-07-03T10:26:40.179Z [PASSED] 63 swap 3/16 {"data":2,"gas":0,"value":0} swap3 
+2024-07-03T10:26:42.784Z [PASSED] 63 swap 4/16 {"data":3,"gas":0,"value":0} swap4 
+2024-07-03T10:26:45.398Z [PASSED] 63 swap 5/16 {"data":4,"gas":0,"value":0} swap5 
+2024-07-03T10:26:48.014Z [PASSED] 63 swap 6/16 {"data":5,"gas":0,"value":0} swap6 
+2024-07-03T10:26:50.632Z [PASSED] 63 swap 7/16 {"data":6,"gas":0,"value":0} swap7 
+2024-07-03T10:26:53.246Z [PASSED] 63 swap 8/16 {"data":7,"gas":0,"value":0} swap8 
+2024-07-03T10:26:55.850Z [PASSED] 63 swap 9/16 {"data":8,"gas":0,"value":0} swap9 
+2024-07-03T10:26:58.479Z [PASSED] 63 swap 10/16 {"data":9,"gas":0,"value":0} swap10 
+2024-07-03T10:27:01.107Z [PASSED] 63 swap 11/16 {"data":10,"gas":0,"value":0} swap11 
+2024-07-03T10:27:03.717Z [PASSED] 63 swap 12/16 {"data":11,"gas":0,"value":0} swap12 
+2024-07-03T10:27:06.331Z [PASSED] 63 swap 13/16 {"data":12,"gas":0,"value":0} swap13 
+2024-07-03T10:27:08.963Z [PASSED] 63 swap 14/16 {"data":13,"gas":0,"value":0} swap14 
+2024-07-03T10:27:11.628Z [PASSED] 63 swap 15/16 {"data":14,"gas":0,"value":0} swap15 
+2024-07-03T10:27:14.276Z [PASSED] 63 swap 16/16 {"data":15,"gas":0,"value":0} swap16 

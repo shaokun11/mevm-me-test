@@ -1,5 +1,6 @@
-2024-07-03T02:04:18.752Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json 1/5 sub_23_1 
-2024-07-03T02:04:20.986Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json 2/5 sub_2_3 
-2024-07-03T02:04:23.217Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json 3/5 sub_0_23 
-2024-07-03T02:04:25.441Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json 4/5 sub_0_neg1 
-2024-07-03T02:04:27.674Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json 5/5 sub_neg1_0 
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json
+2024-07-03T09:59:12.655Z [PASSED] 17 sub 1/5 {"data":0,"gas":0,"value":0} sub_23_1 
+2024-07-03T09:59:15.174Z [PASSED] 17 sub 2/5 {"data":1,"gas":0,"value":0} sub_2_3 
+2024-07-03T09:59:17.679Z [PASSED] 17 sub 3/5 {"data":2,"gas":0,"value":0} sub_0_23 
+2024-07-03T09:59:20.187Z [PASSED] 17 sub 4/5 {"data":3,"gas":0,"value":0} sub_0_neg1 
+2024-07-03T09:59:22.722Z [PASSED] 17 sub 5/5 {"data":4,"gas":0,"value":0} sub_neg1_0 

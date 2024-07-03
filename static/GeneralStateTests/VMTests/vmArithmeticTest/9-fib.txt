@@ -1,1 +1,2 @@
-2024-07-03T02:01:36.385Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json 1/1  
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json
+2024-07-03T09:56:07.288Z [PASSED] 9 fib 1/1 {"data":0,"gas":0,"value":0}  

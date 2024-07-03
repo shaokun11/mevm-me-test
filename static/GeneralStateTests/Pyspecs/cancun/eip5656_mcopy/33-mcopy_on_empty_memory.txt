@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip5656_mcopy/mcopy_on_empty_memory.json

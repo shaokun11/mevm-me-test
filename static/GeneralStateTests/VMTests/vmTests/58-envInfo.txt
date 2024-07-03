@@ -1,10 +1,11 @@
-2024-07-03T02:18:03.847Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 1/10 address 
-2024-07-03T02:18:06.070Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 2/10 codecopy 
-2024-07-03T02:18:08.305Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 3/10 codecopy_len0 
-2024-07-03T02:18:10.530Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 4/10 codecopy_neg_offset 
-2024-07-03T02:18:12.754Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 5/10 caller 
-2024-07-03T02:18:14.988Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 6/10 callvalue 
-2024-07-03T02:18:17.233Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 7/10 codesize 
-2024-07-03T02:18:19.493Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 8/10 gasprice 
-2024-07-03T02:18:21.703Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 9/10 origin 
-2024-07-03T02:18:23.922Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json 10/10 calldatasize 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json
+2024-07-03T10:23:40.492Z [PASSED] 58 envInfo 1/10 {"data":0,"gas":0,"value":0} address 
+2024-07-03T10:23:43.036Z [PASSED] 58 envInfo 2/10 {"data":1,"gas":0,"value":0} codecopy 
+2024-07-03T10:23:45.662Z [PASSED] 58 envInfo 3/10 {"data":2,"gas":0,"value":0} codecopy_len0 
+2024-07-03T10:23:48.204Z [PASSED] 58 envInfo 4/10 {"data":3,"gas":0,"value":0} codecopy_neg_offset 
+2024-07-03T10:23:50.758Z [PASSED] 58 envInfo 5/10 {"data":4,"gas":0,"value":0} caller 
+2024-07-03T10:23:53.334Z [PASSED] 58 envInfo 6/10 {"data":5,"gas":0,"value":0} callvalue 
+2024-07-03T10:23:55.901Z [PASSED] 58 envInfo 7/10 {"data":6,"gas":0,"value":0} codesize 
+2024-07-03T10:23:58.457Z [PASSED] 58 envInfo 8/10 {"data":7,"gas":0,"value":0} gasprice 
+2024-07-03T10:24:01.007Z [PASSED] 58 envInfo 9/10 {"data":8,"gas":0,"value":0} origin 
+2024-07-03T10:24:03.553Z [PASSED] 58 envInfo 10/10 {"data":9,"gas":0,"value":0} calldatasize 

@@ -1,30 +1,31 @@
-2024-07-03T05:45:35.169Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 1/30 0 reverter-call-call-stop 
-2024-07-03T05:45:37.684Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 2/30 3 reverter-call-call-revert 
-2024-07-03T05:45:40.180Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 3/30 6 reverter-call-call-invalid 
-2024-07-03T05:45:42.678Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 4/30 9 reverter-delegate-call-stop 
-2024-07-03T05:45:45.183Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 5/30 12 reverter-delegate-call-revert 
-2024-07-03T05:45:47.692Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 6/30 15 reverter-delegate-call-invalid 
-2024-07-03T05:45:50.191Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 7/30 18 reverter-code-call-stop 
-2024-07-03T05:45:52.691Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 8/30 24 reverter-code-call-revert 
-2024-07-03T05:45:55.190Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 9/30 27 reverter-code-call-invalid 
-2024-07-03T05:45:57.687Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 10/30 1 reverter-delegate-delegate-stop 
-2024-07-03T05:46:00.214Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 11/30 2 reverter-delegate-delegate-revert 
-2024-07-03T05:46:02.718Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 12/30 4 reverter-delegate-delegate-invalid 
-2024-07-03T05:46:06.599Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 13/30 5 reverter-delegate-code-stop 
-2024-07-03T05:46:09.086Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 14/30 7 reverter-delegate-code-revert 
-2024-07-03T05:46:11.582Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 15/30 8 reverter-delegate-code-invalid 
-2024-07-03T05:46:14.074Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 16/30 10 reverter-code-delegate-stop 
-2024-07-03T05:46:16.571Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 17/30 11 reverter-code-delegate-revert 
-2024-07-03T05:46:19.055Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 18/30 13 reverter-code-delegate-invalid 
-2024-07-03T05:46:21.550Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 19/30 14 reverter-code-code-stop 
-2024-07-03T05:46:24.042Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 20/30 16 reverter-code-code-revert 
-2024-07-03T05:46:26.540Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 21/30 17 reverter-code-code-invalid 
-2024-07-03T05:46:29.039Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 22/30 19 reverter-call-nop-stop 
-2024-07-03T05:46:31.555Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 23/30 20 reverter-call-nop-revert 
-2024-07-03T05:46:34.050Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 24/30 22 reverter-call-nop-invalid 
-2024-07-03T05:46:36.557Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 25/30 23 reverter-delegate-nop-stop 
-2024-07-03T05:46:39.056Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 26/30 25 reverter-delegate-nop-revert 
-2024-07-03T05:46:41.543Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 27/30 26 reverter-delegate-nop-invalid 
-2024-07-03T05:46:44.031Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 28/30 28 reverter-code-nop-stop 
-2024-07-03T05:46:46.539Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 29/30 29 reverter-code-nop-revert 
-2024-07-03T05:46:49.024Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json 30/30 21 reverter-code-nop-invalid 
+ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageReset.json
+2024-07-03T10:39:04.835Z [PASSED] 22,0 transStorageReset 1/30 data:0,gas:0,value:0 reverter-call-call-stop 
+2024-07-03T10:39:07.045Z [PASSED] 22,0 transStorageReset 2/30 data:3,gas:0,value:0 reverter-call-call-revert 
+2024-07-03T10:39:09.264Z [PASSED] 22,0 transStorageReset 3/30 data:6,gas:0,value:0 reverter-call-call-invalid 
+2024-07-03T10:39:11.487Z [PASSED] 22,0 transStorageReset 4/30 data:9,gas:0,value:0 reverter-delegate-call-stop 
+2024-07-03T10:39:13.709Z [PASSED] 22,0 transStorageReset 5/30 data:12,gas:0,value:0 reverter-delegate-call-revert 
+2024-07-03T10:39:15.924Z [PASSED] 22,0 transStorageReset 6/30 data:15,gas:0,value:0 reverter-delegate-call-invalid 
+2024-07-03T10:39:18.149Z [PASSED] 22,0 transStorageReset 7/30 data:18,gas:0,value:0 reverter-code-call-stop 
+2024-07-03T10:39:21.704Z [PASSED] 22,0 transStorageReset 8/30 data:24,gas:0,value:0 reverter-code-call-revert 
+2024-07-03T10:39:23.929Z [PASSED] 22,0 transStorageReset 9/30 data:27,gas:0,value:0 reverter-code-call-invalid 
+2024-07-03T10:39:26.135Z [PASSED] 22,0 transStorageReset 10/30 data:1,gas:0,value:0 reverter-delegate-delegate-stop 
+2024-07-03T10:39:28.356Z [PASSED] 22,0 transStorageReset 11/30 data:2,gas:0,value:0 reverter-delegate-delegate-revert 
+2024-07-03T10:39:30.582Z [PASSED] 22,0 transStorageReset 12/30 data:4,gas:0,value:0 reverter-delegate-delegate-invalid 
+2024-07-03T10:39:32.800Z [PASSED] 22,0 transStorageReset 13/30 data:5,gas:0,value:0 reverter-delegate-code-stop 
+2024-07-03T10:39:35.019Z [PASSED] 22,0 transStorageReset 14/30 data:7,gas:0,value:0 reverter-delegate-code-revert 
+2024-07-03T10:39:37.238Z [PASSED] 22,0 transStorageReset 15/30 data:8,gas:0,value:0 reverter-delegate-code-invalid 
+2024-07-03T10:39:39.448Z [PASSED] 22,0 transStorageReset 16/30 data:10,gas:0,value:0 reverter-code-delegate-stop 
+2024-07-03T10:39:41.658Z [PASSED] 22,0 transStorageReset 17/30 data:11,gas:0,value:0 reverter-code-delegate-revert 
+2024-07-03T10:39:43.879Z [PASSED] 22,0 transStorageReset 18/30 data:13,gas:0,value:0 reverter-code-delegate-invalid 
+2024-07-03T10:39:46.093Z [PASSED] 22,0 transStorageReset 19/30 data:14,gas:0,value:0 reverter-code-code-stop 
+2024-07-03T10:39:48.308Z [PASSED] 22,0 transStorageReset 20/30 data:16,gas:0,value:0 reverter-code-code-revert 
+2024-07-03T10:39:50.527Z [PASSED] 22,0 transStorageReset 21/30 data:17,gas:0,value:0 reverter-code-code-invalid 
+2024-07-03T10:39:52.754Z [PASSED] 22,0 transStorageReset 22/30 data:19,gas:0,value:0 reverter-call-nop-stop 
+2024-07-03T10:39:54.962Z [PASSED] 22,0 transStorageReset 23/30 data:20,gas:0,value:0 reverter-call-nop-revert 
+2024-07-03T10:39:57.179Z [PASSED] 22,0 transStorageReset 24/30 data:22,gas:0,value:0 reverter-call-nop-invalid 
+2024-07-03T10:39:59.397Z [PASSED] 22,0 transStorageReset 25/30 data:23,gas:0,value:0 reverter-delegate-nop-stop 
+2024-07-03T10:40:01.620Z [PASSED] 22,0 transStorageReset 26/30 data:25,gas:0,value:0 reverter-delegate-nop-revert 
+2024-07-03T10:40:03.849Z [PASSED] 22,0 transStorageReset 27/30 data:26,gas:0,value:0 reverter-delegate-nop-invalid 
+2024-07-03T10:40:06.057Z [PASSED] 22,0 transStorageReset 28/30 data:28,gas:0,value:0 reverter-code-nop-stop 
+2024-07-03T10:40:08.340Z [PASSED] 22,0 transStorageReset 29/30 data:29,gas:0,value:0 reverter-code-nop-revert 
+2024-07-03T10:40:10.570Z [PASSED] 22,0 transStorageReset 30/30 data:21,gas:0,value:0 reverter-code-nop-invalid 

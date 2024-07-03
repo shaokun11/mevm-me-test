@@ -1,12 +1,13 @@
-2024-07-03T02:05:16.893Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 1/12 byte_31_big 
-2024-07-03T02:05:19.100Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 2/12 byte_30_big 
-2024-07-03T02:05:21.301Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 3/12 byte_29_big 
-2024-07-03T02:05:23.516Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 4/12 byte_28_big 
-2024-07-03T02:05:25.728Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 5/12 byte_27_big 
-2024-07-03T02:05:27.936Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 6/12 byte_26_big 
-2024-07-03T02:05:30.170Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 7/12 byte_25_big 
-2024-07-03T02:05:32.389Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 8/12 byte_24_big 
-2024-07-03T02:05:34.602Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 9/12 byte_00_big 
-2024-07-03T02:05:36.832Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 10/12 byte_00_big_2nd 
-2024-07-03T02:05:39.043Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 11/12 byte_asm 
-2024-07-03T02:05:41.251Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json 12/12 byte_all 
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json
+2024-07-03T10:00:15.766Z [PASSED] 20 byte 1/12 {"data":0,"gas":0,"value":0} byte_31_big 
+2024-07-03T10:00:18.295Z [PASSED] 20 byte 2/12 {"data":1,"gas":0,"value":0} byte_30_big 
+2024-07-03T10:00:20.835Z [PASSED] 20 byte 3/12 {"data":2,"gas":0,"value":0} byte_29_big 
+2024-07-03T10:00:23.365Z [PASSED] 20 byte 4/12 {"data":3,"gas":0,"value":0} byte_28_big 
+2024-07-03T10:00:25.923Z [PASSED] 20 byte 5/12 {"data":4,"gas":0,"value":0} byte_27_big 
+2024-07-03T10:00:28.466Z [PASSED] 20 byte 6/12 {"data":5,"gas":0,"value":0} byte_26_big 
+2024-07-03T10:00:31.018Z [PASSED] 20 byte 7/12 {"data":6,"gas":0,"value":0} byte_25_big 
+2024-07-03T10:00:33.550Z [PASSED] 20 byte 8/12 {"data":7,"gas":0,"value":0} byte_24_big 
+2024-07-03T10:00:36.111Z [PASSED] 20 byte 9/12 {"data":8,"gas":0,"value":0} byte_00_big 
+2024-07-03T10:00:38.631Z [PASSED] 20 byte 10/12 {"data":9,"gas":0,"value":0} byte_00_big_2nd 
+2024-07-03T10:00:41.137Z [PASSED] 20 byte 11/12 {"data":10,"gas":0,"value":0} byte_asm 
+2024-07-03T10:00:43.648Z [PASSED] 20 byte 12/12 {"data":11,"gas":0,"value":0} byte_all 

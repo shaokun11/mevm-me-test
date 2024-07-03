@@ -1,32 +1,33 @@
-2024-07-03T02:18:26.153Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 1/32 push1 
-2024-07-03T02:18:28.445Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 2/32 push2 
-2024-07-03T02:18:30.663Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 3/32 push3 
-2024-07-03T02:18:34.184Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 4/32 push4 
-2024-07-03T02:18:36.406Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 5/32 push5 
-2024-07-03T02:18:38.643Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 6/32 push6 
-2024-07-03T02:18:40.875Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 7/32 push7 
-2024-07-03T02:18:43.104Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 8/32 push8 
-2024-07-03T02:18:45.367Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 9/32 push9 
-2024-07-03T02:18:47.583Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 10/32 push10 
-2024-07-03T02:18:49.804Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 11/32 push11 
-2024-07-03T02:18:52.026Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 12/32 push12 
-2024-07-03T02:18:54.237Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 13/32 push13 
-2024-07-03T02:18:56.463Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 14/32 push14 
-2024-07-03T02:18:58.681Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 15/32 push15 
-2024-07-03T02:19:00.891Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 16/32 push16 
-2024-07-03T02:19:03.114Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 17/32 push17 
-2024-07-03T02:19:05.344Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 18/32 push18 
-2024-07-03T02:19:07.564Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 19/32 push19 
-2024-07-03T02:19:09.793Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 20/32 push20 
-2024-07-03T02:19:12.010Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 21/32 push21 
-2024-07-03T02:19:14.236Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 22/32 push22 
-2024-07-03T02:19:16.466Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 23/32 push23 
-2024-07-03T02:19:18.694Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 24/32 push24 
-2024-07-03T02:19:20.915Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 25/32 push25 
-2024-07-03T02:19:23.146Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 26/32 push26 
-2024-07-03T02:19:25.433Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 27/32 push27 
-2024-07-03T02:19:27.668Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 28/32 push28 
-2024-07-03T02:19:29.908Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 29/32 push29 
-2024-07-03T02:19:32.151Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 30/32 push30 
-2024-07-03T02:19:35.711Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 31/32 push31 
-2024-07-03T02:19:37.938Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json 32/32 push32 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/push.json
+2024-07-03T10:24:06.154Z [PASSED] 59 push 1/32 {"data":0,"gas":0,"value":0} push1 
+2024-07-03T10:24:08.779Z [PASSED] 59 push 2/32 {"data":1,"gas":0,"value":0} push2 
+2024-07-03T10:24:11.337Z [PASSED] 59 push 3/32 {"data":2,"gas":0,"value":0} push3 
+2024-07-03T10:24:13.905Z [PASSED] 59 push 4/32 {"data":3,"gas":0,"value":0} push4 
+2024-07-03T10:24:16.471Z [PASSED] 59 push 5/32 {"data":4,"gas":0,"value":0} push5 
+2024-07-03T10:24:19.051Z [PASSED] 59 push 6/32 {"data":5,"gas":0,"value":0} push6 
+2024-07-03T10:24:21.622Z [PASSED] 59 push 7/32 {"data":6,"gas":0,"value":0} push7 
+2024-07-03T10:24:24.185Z [PASSED] 59 push 8/32 {"data":7,"gas":0,"value":0} push8 
+2024-07-03T10:24:26.748Z [PASSED] 59 push 9/32 {"data":8,"gas":0,"value":0} push9 
+2024-07-03T10:24:29.487Z [PASSED] 59 push 10/32 {"data":9,"gas":0,"value":0} push10 
+2024-07-03T10:24:33.507Z [PASSED] 59 push 11/32 {"data":10,"gas":0,"value":0} push11 
+2024-07-03T10:24:36.131Z [PASSED] 59 push 12/32 {"data":11,"gas":0,"value":0} push12 
+2024-07-03T10:24:38.739Z [PASSED] 59 push 13/32 {"data":12,"gas":0,"value":0} push13 
+2024-07-03T10:24:41.345Z [PASSED] 59 push 14/32 {"data":13,"gas":0,"value":0} push14 
+2024-07-03T10:24:43.958Z [PASSED] 59 push 15/32 {"data":14,"gas":0,"value":0} push15 
+2024-07-03T10:24:47.143Z [PASSED] 59 push 16/32 {"data":15,"gas":0,"value":0} push16 
+2024-07-03T10:24:49.984Z [PASSED] 59 push 17/32 {"data":16,"gas":0,"value":0} push17 
+2024-07-03T10:24:52.600Z [PASSED] 59 push 18/32 {"data":17,"gas":0,"value":0} push18 
+2024-07-03T10:24:55.218Z [PASSED] 59 push 19/32 {"data":18,"gas":0,"value":0} push19 
+2024-07-03T10:24:57.829Z [PASSED] 59 push 20/32 {"data":19,"gas":0,"value":0} push20 
+2024-07-03T10:25:00.436Z [PASSED] 59 push 21/32 {"data":20,"gas":0,"value":0} push21 
+2024-07-03T10:25:03.068Z [PASSED] 59 push 22/32 {"data":21,"gas":0,"value":0} push22 
+2024-07-03T10:25:05.714Z [PASSED] 59 push 23/32 {"data":22,"gas":0,"value":0} push23 
+2024-07-03T10:25:08.356Z [PASSED] 59 push 24/32 {"data":23,"gas":0,"value":0} push24 
+2024-07-03T10:25:10.969Z [PASSED] 59 push 25/32 {"data":24,"gas":0,"value":0} push25 
+2024-07-03T10:25:13.604Z [PASSED] 59 push 26/32 {"data":25,"gas":0,"value":0} push26 
+2024-07-03T10:25:16.210Z [PASSED] 59 push 27/32 {"data":26,"gas":0,"value":0} push27 
+2024-07-03T10:25:18.838Z [PASSED] 59 push 28/32 {"data":27,"gas":0,"value":0} push28 
+2024-07-03T10:25:21.456Z [PASSED] 59 push 29/32 {"data":28,"gas":0,"value":0} push29 
+2024-07-03T10:25:24.065Z [PASSED] 59 push 30/32 {"data":29,"gas":0,"value":0} push30 
+2024-07-03T10:25:26.674Z [PASSED] 59 push 31/32 {"data":30,"gas":0,"value":0} push31 
+2024-07-03T10:25:29.281Z [PASSED] 59 push 32/32 {"data":31,"gas":0,"value":0} push32 

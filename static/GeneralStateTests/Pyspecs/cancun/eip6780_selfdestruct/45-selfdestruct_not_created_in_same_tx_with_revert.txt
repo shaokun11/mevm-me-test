@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip6780_selfdestruct/selfdestruct_not_created_in_same_tx_with_revert.json

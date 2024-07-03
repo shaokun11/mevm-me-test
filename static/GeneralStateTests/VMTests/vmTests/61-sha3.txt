@@ -1,17 +1,18 @@
-2024-07-03T02:19:53.536Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 1/17 sha3_nodata 
-2024-07-03T02:19:55.764Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 2/17 sha3_five_0s 
-2024-07-03T02:19:58.005Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 3/17 sha3_ten_0s 
-2024-07-03T02:20:00.230Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 4/17 sha3_0xFFFFF_0s 
-2024-07-03T02:20:02.468Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 5/17 sha3_highmem 
-2024-07-03T02:20:04.691Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 6/17 sha3_huge_buffer 
-2024-07-03T02:20:06.916Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 7/17 sha3_neg1_neg1 
-2024-07-03T02:20:09.151Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 8/17 sha3_neg1_2 
-2024-07-03T02:20:11.373Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 9/17 sha3_0x1000000_2 
-2024-07-03T02:20:13.609Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 10/17 sha3_960_1 
-2024-07-03T02:20:15.845Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 11/17 sha3_992_1 
-2024-07-03T02:20:18.068Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 12/17 sha3_1024_1 
-2024-07-03T02:20:20.305Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 13/17 sha3_1984_1 
-2024-07-03T02:20:22.578Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 14/17 sha3_2016_1 
-2024-07-03T02:20:24.797Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 15/17 sha3_2016_32 
-2024-07-03T02:20:27.013Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 16/17 sha3_2048_1 
-2024-07-03T02:20:29.225Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json 17/17 sha3_1024_0 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json
+2024-07-03T10:25:49.036Z [PASSED] 61 sha3 1/17 {"data":0,"gas":0,"value":0} sha3_nodata 
+2024-07-03T10:25:51.644Z [PASSED] 61 sha3 2/17 {"data":1,"gas":0,"value":0} sha3_five_0s 
+2024-07-03T10:25:54.239Z [PASSED] 61 sha3 3/17 {"data":2,"gas":0,"value":0} sha3_ten_0s 
+2024-07-03T10:25:56.850Z [PASSED] 61 sha3 4/17 {"data":3,"gas":0,"value":0} sha3_0xFFFFF_0s 
+2024-07-03T10:25:59.439Z [PASSED] 61 sha3 5/17 {"data":4,"gas":0,"value":0} sha3_highmem 
+2024-07-03T10:26:02.042Z [PASSED] 61 sha3 6/17 {"data":5,"gas":0,"value":0} sha3_huge_buffer 
+2024-07-03T10:26:04.683Z [PASSED] 61 sha3 7/17 {"data":6,"gas":0,"value":0} sha3_neg1_neg1 
+2024-07-03T10:26:07.284Z [PASSED] 61 sha3 8/17 {"data":7,"gas":0,"value":0} sha3_neg1_2 
+2024-07-03T10:26:09.891Z [PASSED] 61 sha3 9/17 {"data":8,"gas":0,"value":0} sha3_0x1000000_2 
+2024-07-03T10:26:12.482Z [PASSED] 61 sha3 10/17 {"data":9,"gas":0,"value":0} sha3_960_1 
+2024-07-03T10:26:15.074Z [PASSED] 61 sha3 11/17 {"data":10,"gas":0,"value":0} sha3_992_1 
+2024-07-03T10:26:17.668Z [PASSED] 61 sha3 12/17 {"data":11,"gas":0,"value":0} sha3_1024_1 
+2024-07-03T10:26:20.288Z [PASSED] 61 sha3 13/17 {"data":12,"gas":0,"value":0} sha3_1984_1 
+2024-07-03T10:26:22.932Z [PASSED] 61 sha3 14/17 {"data":13,"gas":0,"value":0} sha3_2016_1 
+2024-07-03T10:26:25.528Z [PASSED] 61 sha3 15/17 {"data":15,"gas":0,"value":0} sha3_2016_32 
+2024-07-03T10:26:28.237Z [PASSED] 61 sha3 16/17 {"data":16,"gas":0,"value":0} sha3_2048_1 
+2024-07-03T10:26:30.837Z [PASSED] 61 sha3 17/17 {"data":14,"gas":0,"value":0} sha3_1024_0 

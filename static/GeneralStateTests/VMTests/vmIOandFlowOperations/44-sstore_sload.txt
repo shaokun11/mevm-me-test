@@ -1,3 +1,4 @@
-2024-07-03T02:14:10.974Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/sstore_sload.json 1/3 sstore_sload_3 
-2024-07-03T02:14:13.198Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/sstore_sload.json 2/3 sstore_sload_noinit 
-2024-07-03T02:14:15.437Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/sstore_sload.json 3/3 sstore_sload_4 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/sstore_sload.json
+2024-07-03T10:10:29.099Z [PASSED] 44 sstore_sload 1/3 {"data":0,"gas":0,"value":0} sstore_sload_3 
+2024-07-03T10:10:31.773Z [PASSED] 44 sstore_sload 2/3 {"data":1,"gas":0,"value":0} sstore_sload_noinit 
+2024-07-03T10:10:34.372Z [PASSED] 44 sstore_sload 3/3 {"data":2,"gas":0,"value":0} sstore_sload_4 

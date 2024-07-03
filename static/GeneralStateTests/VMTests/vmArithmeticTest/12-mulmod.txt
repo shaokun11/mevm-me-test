@@ -1,16 +1,17 @@
-2024-07-03T02:02:13.191Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 1/16 mm_1_2_2 
-2024-07-03T02:02:15.416Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 2/16 mm_neg1_neg2_3 
-2024-07-03T02:02:17.635Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 3/16 mm_neg5_1_3 
-2024-07-03T02:02:19.855Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 4/16 mm_5_1_neg3 
-2024-07-03T02:02:22.068Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 5/16 mm_27_37_100 
-2024-07-03T02:02:24.291Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 6/16 mm_2pow255_2_5 
-2024-07-03T02:02:26.550Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 7/16 mm_neg1_2_5 
-2024-07-03T02:02:28.768Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 8/16 mm_2pow255min1_2_5 
-2024-07-03T02:02:30.998Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 9/16 mm_2pow255plus1_2_5 
-2024-07-03T02:02:33.216Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 10/16 mulmod_vs_smod 
-2024-07-03T02:02:35.450Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 11/16 mulmod_vs_mod 
-2024-07-03T02:02:37.665Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 12/16 mulmod_pos_pos_neg 
-2024-07-03T02:02:39.888Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 13/16 mm_0_1_0 
-2024-07-03T02:02:42.190Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 14/16 mm_1_0_0 
-2024-07-03T02:02:44.430Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 15/16 one_minus_mm_0_0_0 
-2024-07-03T02:02:46.670Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json 16/16 mm_5_1_0 
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/mulmod.json
+2024-07-03T09:56:48.784Z [PASSED] 12 mulmod 1/16 {"data":0,"gas":0,"value":0} mm_1_2_2 
+2024-07-03T09:56:51.463Z [PASSED] 12 mulmod 2/16 {"data":1,"gas":0,"value":0} mm_neg1_neg2_3 
+2024-07-03T09:56:54.075Z [PASSED] 12 mulmod 3/16 {"data":6,"gas":0,"value":0} mm_neg5_1_3 
+2024-07-03T09:56:56.696Z [PASSED] 12 mulmod 4/16 {"data":9,"gas":0,"value":0} mm_5_1_neg3 
+2024-07-03T09:56:59.287Z [PASSED] 12 mulmod 5/16 {"data":11,"gas":0,"value":0} mm_27_37_100 
+2024-07-03T09:57:03.297Z [PASSED] 12 mulmod 6/16 {"data":12,"gas":0,"value":0} mm_2pow255_2_5 
+2024-07-03T09:57:05.908Z [PASSED] 12 mulmod 7/16 {"data":13,"gas":0,"value":0} mm_neg1_2_5 
+2024-07-03T09:57:08.527Z [PASSED] 12 mulmod 8/16 {"data":15,"gas":0,"value":0} mm_2pow255min1_2_5 
+2024-07-03T09:57:11.119Z [PASSED] 12 mulmod 9/16 {"data":2,"gas":0,"value":0} mm_2pow255plus1_2_5 
+2024-07-03T09:57:13.713Z [PASSED] 12 mulmod 10/16 {"data":3,"gas":0,"value":0} mulmod_vs_smod 
+2024-07-03T09:57:16.305Z [PASSED] 12 mulmod 11/16 {"data":4,"gas":0,"value":0} mulmod_vs_mod 
+2024-07-03T09:57:18.899Z [PASSED] 12 mulmod 12/16 {"data":5,"gas":0,"value":0} mulmod_pos_pos_neg 
+2024-07-03T09:57:21.502Z [PASSED] 12 mulmod 13/16 {"data":7,"gas":0,"value":0} mm_0_1_0 
+2024-07-03T09:57:24.130Z [PASSED] 12 mulmod 14/16 {"data":8,"gas":0,"value":0} mm_1_0_0 
+2024-07-03T09:57:26.740Z [PASSED] 12 mulmod 15/16 {"data":10,"gas":0,"value":0} one_minus_mm_0_0_0 
+2024-07-03T09:57:28.034Z [PASSED] 12 mulmod 16/16 {"data":14,"gas":0,"value":0} mm_5_1_0 

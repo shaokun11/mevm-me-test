@@ -1,20 +1,21 @@
-2024-07-03T06:45:28.829Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 1/20 0 forward_size0_0 
-2024-07-03T06:45:30.997Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 2/20 1 forward_size0_1 
-2024-07-03T06:45:33.181Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 3/20 2 backward_size0_0 
-2024-07-03T06:45:35.355Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 4/20 3 backward_size0_1 
-2024-07-03T06:45:37.516Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 5/20 4 inplace_size0_0 
-2024-07-03T06:45:39.683Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 6/20 5 inplace_size0_1 
-2024-07-03T06:45:43.159Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 7/20 18 forward_overlapped_0 
-2024-07-03T06:45:45.320Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 8/20 19 forward_overlapped_1 
-2024-07-03T06:45:47.485Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 9/20 6 forward_disjoint_0 
-2024-07-03T06:45:49.646Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 10/20 7 forward_disjoint_1 
-2024-07-03T06:45:51.818Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 11/20 8 forward_adjacent_0 
-2024-07-03T06:45:53.994Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 12/20 9 forward_adjacent_1 
-2024-07-03T06:45:56.184Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 13/20 10 backward_overlapped_0 
-2024-07-03T06:45:58.372Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 14/20 11 backward_overlapped_1 
-2024-07-03T06:46:00.541Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 15/20 12 backward_disjoint_0 
-2024-07-03T06:46:02.704Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 16/20 13 backward_disjoint_1 
-2024-07-03T06:46:04.867Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 17/20 14 backward_adjacent_0 
-2024-07-03T06:46:07.026Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 18/20 15 backward_adjacent_1 
-2024-07-03T06:46:09.189Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 19/20 16 inplace_0 
-2024-07-03T06:46:11.359Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json 20/20 17 inplace_1 
+ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json
+2024-07-03T10:40:12.784Z [PASSED] 33,0 MCOPY 1/20 data:0,gas:0,value:0 forward_size0_0 
+2024-07-03T10:40:14.988Z [PASSED] 33,0 MCOPY 2/20 data:1,gas:0,value:0 forward_size0_1 
+2024-07-03T10:40:17.192Z [PASSED] 33,0 MCOPY 3/20 data:2,gas:0,value:0 backward_size0_0 
+2024-07-03T10:40:19.403Z [PASSED] 33,0 MCOPY 4/20 data:3,gas:0,value:0 backward_size0_1 
+2024-07-03T10:40:22.923Z [PASSED] 33,0 MCOPY 5/20 data:4,gas:0,value:0 inplace_size0_0 
+2024-07-03T10:40:25.129Z [PASSED] 33,0 MCOPY 6/20 data:5,gas:0,value:0 inplace_size0_1 
+2024-07-03T10:40:27.327Z [PASSED] 33,0 MCOPY 7/20 data:18,gas:0,value:0 forward_overlapped_0 
+2024-07-03T10:40:29.534Z [PASSED] 33,0 MCOPY 8/20 data:19,gas:0,value:0 forward_overlapped_1 
+2024-07-03T10:40:31.762Z [PASSED] 33,0 MCOPY 9/20 data:6,gas:0,value:0 forward_disjoint_0 
+2024-07-03T10:40:33.958Z [PASSED] 33,0 MCOPY 10/20 data:7,gas:0,value:0 forward_disjoint_1 
+2024-07-03T10:40:36.162Z [PASSED] 33,0 MCOPY 11/20 data:8,gas:0,value:0 forward_adjacent_0 
+2024-07-03T10:40:38.363Z [PASSED] 33,0 MCOPY 12/20 data:9,gas:0,value:0 forward_adjacent_1 
+2024-07-03T10:40:40.566Z [PASSED] 33,0 MCOPY 13/20 data:10,gas:0,value:0 backward_overlapped_0 
+2024-07-03T10:40:42.776Z [PASSED] 33,0 MCOPY 14/20 data:11,gas:0,value:0 backward_overlapped_1 
+2024-07-03T10:40:44.999Z [PASSED] 33,0 MCOPY 15/20 data:12,gas:0,value:0 backward_disjoint_0 
+2024-07-03T10:40:47.205Z [PASSED] 33,0 MCOPY 16/20 data:13,gas:0,value:0 backward_disjoint_1 
+2024-07-03T10:40:49.409Z [PASSED] 33,0 MCOPY 17/20 data:14,gas:0,value:0 backward_adjacent_0 
+2024-07-03T10:40:51.629Z [PASSED] 33,0 MCOPY 18/20 data:15,gas:0,value:0 backward_adjacent_1 
+2024-07-03T10:40:53.841Z [PASSED] 33,0 MCOPY 19/20 data:16,gas:0,value:0 inplace_0 
+2024-07-03T10:40:56.071Z [PASSED] 33,0 MCOPY 20/20 data:17,gas:0,value:0 inplace_1 

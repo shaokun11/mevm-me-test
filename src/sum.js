@@ -26,6 +26,8 @@ for (let i = 0; i < files.length; i++) {
     let isErr = false;
     const content = await readFile(files[i], "utf8");
     const txtArr = content.split("\n").filter(it => it.length > 0);
+    // the first line is test file path
+    txtArr.shift();
     txtArr.forEach(line => {
         if (line.includes("[PASSED]")) {
             SUMMARY.passed += 1;

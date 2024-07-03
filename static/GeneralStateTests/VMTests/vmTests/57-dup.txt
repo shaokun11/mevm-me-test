@@ -1,16 +1,17 @@
-2024-07-03T02:17:26.569Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 1/16 dup1 
-2024-07-03T02:17:28.792Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 2/16 dup2 
-2024-07-03T02:17:32.393Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 3/16 dup3 
-2024-07-03T02:17:34.636Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 4/16 dup4 
-2024-07-03T02:17:36.873Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 5/16 dup5 
-2024-07-03T02:17:39.111Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 6/16 dup6 
-2024-07-03T02:17:41.342Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 7/16 dup7 
-2024-07-03T02:17:43.589Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 8/16 dup8 
-2024-07-03T02:17:45.831Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 9/16 dup9 
-2024-07-03T02:17:48.075Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 10/16 dup10 
-2024-07-03T02:17:50.305Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 11/16 dup11 
-2024-07-03T02:17:52.554Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 12/16 dup12 
-2024-07-03T02:17:54.802Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 13/16 dup13 
-2024-07-03T02:17:57.040Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 14/16 dup14 
-2024-07-03T02:17:59.318Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 15/16 dup15 
-2024-07-03T02:18:01.547Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json 16/16 dup16 
+ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json
+2024-07-03T10:22:57.317Z [PASSED] 57 dup 1/16 {"data":0,"gas":0,"value":0} dup1 
+2024-07-03T10:22:59.941Z [PASSED] 57 dup 2/16 {"data":1,"gas":0,"value":0} dup2 
+2024-07-03T10:23:02.568Z [PASSED] 57 dup 3/16 {"data":2,"gas":0,"value":0} dup3 
+2024-07-03T10:23:05.148Z [PASSED] 57 dup 4/16 {"data":3,"gas":0,"value":0} dup4 
+2024-07-03T10:23:07.745Z [PASSED] 57 dup 5/16 {"data":4,"gas":0,"value":0} dup5 
+2024-07-03T10:23:10.376Z [PASSED] 57 dup 6/16 {"data":5,"gas":0,"value":0} dup6 
+2024-07-03T10:23:13.008Z [PASSED] 57 dup 7/16 {"data":6,"gas":0,"value":0} dup7 
+2024-07-03T10:23:15.649Z [PASSED] 57 dup 8/16 {"data":7,"gas":0,"value":0} dup8 
+2024-07-03T10:23:18.263Z [PASSED] 57 dup 9/16 {"data":8,"gas":0,"value":0} dup9 
+2024-07-03T10:23:20.890Z [PASSED] 57 dup 10/16 {"data":9,"gas":0,"value":0} dup10 
+2024-07-03T10:23:23.578Z [PASSED] 57 dup 11/16 {"data":10,"gas":0,"value":0} dup11 
+2024-07-03T10:23:26.164Z [PASSED] 57 dup 12/16 {"data":11,"gas":0,"value":0} dup12 
+2024-07-03T10:23:30.107Z [PASSED] 57 dup 13/16 {"data":12,"gas":0,"value":0} dup13 
+2024-07-03T10:23:32.675Z [PASSED] 57 dup 14/16 {"data":13,"gas":0,"value":0} dup14 
+2024-07-03T10:23:35.365Z [PASSED] 57 dup 15/16 {"data":14,"gas":0,"value":0} dup15 
+2024-07-03T10:23:37.941Z [PASSED] 57 dup 16/16 {"data":15,"gas":0,"value":0} dup16 

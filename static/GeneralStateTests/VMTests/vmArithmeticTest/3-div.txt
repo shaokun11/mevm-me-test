@@ -1,8 +1,9 @@
-2024-07-03T01:56:58.870Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 1/8 div_2_big 
-2024-07-03T01:57:01.082Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 2/8 div_boost_bug 
-2024-07-03T01:57:03.300Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 3/8 div_5_2 
-2024-07-03T01:57:05.537Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 4/8 div_23_24 
-2024-07-03T01:57:07.785Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 5/8 div_0_24 
-2024-07-03T01:57:10.014Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 6/8 div_1_0 
-2024-07-03T01:57:12.265Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 7/8 div_2_0 
-2024-07-03T01:57:14.493Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json 8/8 div_0_add 
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json
+2024-07-03T09:50:47.923Z [PASSED] 3 div 1/8 {"data":0,"gas":0,"value":0} div_2_big 
+2024-07-03T09:50:50.467Z [PASSED] 3 div 2/8 {"data":3,"gas":0,"value":0} div_boost_bug 
+2024-07-03T09:50:53.004Z [PASSED] 3 div 3/8 {"data":4,"gas":0,"value":0} div_5_2 
+2024-07-03T09:50:55.541Z [PASSED] 3 div 4/8 {"data":6,"gas":0,"value":0} div_23_24 
+2024-07-03T09:50:58.087Z [PASSED] 3 div 5/8 {"data":1,"gas":0,"value":0} div_0_24 
+2024-07-03T09:51:00.626Z [PASSED] 3 div 6/8 {"data":2,"gas":0,"value":0} div_1_0 
+2024-07-03T09:51:03.178Z [PASSED] 3 div 7/8 {"data":5,"gas":0,"value":0} div_2_0 
+2024-07-03T09:51:05.705Z [PASSED] 3 div 8/8 {"data":7,"gas":0,"value":0} div_0_add 

@@ -1,1 +1,2 @@
-2024-07-03T04:34:44.950Z [PASSED] ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/16_tloadGas.json 1/1  
+ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/16_tloadGas.json
+2024-07-03T10:37:25.675Z [PASSED] 15,0 16_tloadGas 1/1 data:0,gas:0,value:0  

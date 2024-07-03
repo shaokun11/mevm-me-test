@@ -1,26 +1,27 @@
-2024-07-03T02:11:31.327Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 1/26 jump-hyperspace 
-2024-07-03T02:11:33.556Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 2/26 jump-hyperspace 
-2024-07-03T02:11:35.777Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 3/26 not-jump-hyperspace 
-2024-07-03T02:11:38.010Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 4/26 not-jump-hyperspace 
-2024-07-03T02:11:40.236Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 5/26 jump-stop-dest 
-2024-07-03T02:11:54.312Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 6/26 not-jump-stop-dest 
-2024-07-03T02:11:56.527Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 7/26 jump-hyperspace 
-2024-07-03T02:11:58.748Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 8/26 not-jump-hyperspace 
-2024-07-03T02:12:00.974Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 9/26 jump-not-jumpdest 
-2024-07-03T02:12:03.211Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 10/26 endless-loop 
-2024-07-03T02:12:05.433Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 11/26 jump-dest 
-2024-07-03T02:12:07.656Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 12/26 jump-dest 
-2024-07-03T02:12:09.876Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 13/26 jump-dynamic 
-2024-07-03T02:12:12.099Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 14/26 not-jump-dynamic 
-2024-07-03T02:12:14.333Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 15/26 jump-2-push 
-2024-07-03T02:12:16.572Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 16/26 jump-2-push 
-2024-07-03T02:12:18.805Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 17/26 jump-not-jumpdest 
-2024-07-03T02:12:21.044Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 18/26 jump-not-jumpdest 
-2024-07-03T02:12:24.593Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 19/26 jump-hyperspace 
-2024-07-03T02:12:26.812Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 20/26 not-jump-hyperspace 
-2024-07-03T02:12:29.041Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 21/26 jump-hyperspace 
-2024-07-03T02:12:31.281Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 22/26 not-jump-hyperspace 
-2024-07-03T02:12:33.518Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 23/26 jump-hyperspace 
-2024-07-03T02:12:35.777Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 24/26 not-jump-hyperspace 
-2024-07-03T02:12:38.025Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 25/26 jump-to-list 
-2024-07-03T02:12:40.301Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json 26/26 loop 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/jumpi.json
+2024-07-03T10:07:22.265Z [PASSED] 34 jumpi 1/26 {"data":0,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:07:24.831Z [PASSED] 34 jumpi 2/26 {"data":1,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:07:27.388Z [PASSED] 34 jumpi 3/26 {"data":5,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:07:31.357Z [PASSED] 34 jumpi 4/26 {"data":6,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:07:33.922Z [PASSED] 34 jumpi 5/26 {"data":8,"gas":0,"value":0} jump-stop-dest 
+2024-07-03T10:07:47.551Z [PASSED] 34 jumpi 6/26 {"data":9,"gas":0,"value":0} not-jump-stop-dest 
+2024-07-03T10:07:50.105Z [PASSED] 34 jumpi 7/26 {"data":13,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:07:52.691Z [PASSED] 34 jumpi 8/26 {"data":14,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:07:55.404Z [PASSED] 34 jumpi 9/26 {"data":15,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:07:58.008Z [PASSED] 34 jumpi 10/26 {"data":16,"gas":0,"value":0} endless-loop 
+2024-07-03T10:08:00.615Z [PASSED] 34 jumpi 11/26 {"data":17,"gas":0,"value":0} jump-dest 
+2024-07-03T10:08:03.214Z [PASSED] 34 jumpi 12/26 {"data":18,"gas":0,"value":0} jump-dest 
+2024-07-03T10:08:05.833Z [PASSED] 34 jumpi 13/26 {"data":20,"gas":0,"value":0} jump-dynamic 
+2024-07-03T10:08:08.453Z [PASSED] 34 jumpi 14/26 {"data":22,"gas":0,"value":0} not-jump-dynamic 
+2024-07-03T10:08:11.055Z [PASSED] 34 jumpi 15/26 {"data":2,"gas":0,"value":0} jump-2-push 
+2024-07-03T10:08:13.664Z [PASSED] 34 jumpi 16/26 {"data":3,"gas":0,"value":0} jump-2-push 
+2024-07-03T10:08:16.257Z [PASSED] 34 jumpi 17/26 {"data":4,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:08:18.869Z [PASSED] 34 jumpi 18/26 {"data":7,"gas":0,"value":0} jump-not-jumpdest 
+2024-07-03T10:08:21.504Z [PASSED] 34 jumpi 19/26 {"data":10,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:08:24.118Z [PASSED] 34 jumpi 20/26 {"data":11,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:08:26.738Z [PASSED] 34 jumpi 21/26 {"data":12,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:08:29.348Z [PASSED] 34 jumpi 22/26 {"data":19,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:08:33.369Z [PASSED] 34 jumpi 23/26 {"data":21,"gas":0,"value":0} jump-hyperspace 
+2024-07-03T10:08:36.012Z [PASSED] 34 jumpi 24/26 {"data":23,"gas":0,"value":0} not-jump-hyperspace 
+2024-07-03T10:08:38.599Z [PASSED] 34 jumpi 25/26 {"data":24,"gas":0,"value":0} jump-to-list 
+2024-07-03T10:08:41.194Z [PASSED] 34 jumpi 26/26 {"data":25,"gas":0,"value":0} loop 

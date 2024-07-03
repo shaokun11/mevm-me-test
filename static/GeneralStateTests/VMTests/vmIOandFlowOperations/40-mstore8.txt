@@ -1,3 +1,4 @@
-2024-07-03T02:13:44.153Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 1/3 mstore8_onebyte 
-2024-07-03T02:13:46.442Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 2/3 mstore8_twobytes 
-2024-07-03T02:13:48.667Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json 3/3 mstore8_neg1 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore8.json
+2024-07-03T10:09:55.664Z [PASSED] 40 mstore8 1/3 {"data":0,"gas":0,"value":0} mstore8_onebyte 
+2024-07-03T10:09:58.292Z [PASSED] 40 mstore8 2/3 {"data":2,"gas":0,"value":0} mstore8_twobytes 
+2024-07-03T10:10:03.111Z [PASSED] 40 mstore8 3/3 {"data":1,"gas":0,"value":0} mstore8_neg1 

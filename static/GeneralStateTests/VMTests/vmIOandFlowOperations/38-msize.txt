@@ -1,6 +1,7 @@
-2024-07-03T02:13:18.286Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 1/6 msize0 
-2024-07-03T02:13:20.515Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 2/6 msize1 
-2024-07-03T02:13:22.747Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 3/6 msize2 
-2024-07-03T02:13:26.294Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 4/6 msize3 
-2024-07-03T02:13:28.513Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 5/6 chunks 
-2024-07-03T02:13:30.746Z [PASSED] ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json 6/6 farChunk 
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json
+2024-07-03T10:09:25.651Z [PASSED] 38 msize 1/6 {"data":0,"gas":0,"value":0} msize0 
+2024-07-03T10:09:28.253Z [PASSED] 38 msize 2/6 {"data":1,"gas":0,"value":0} msize1 
+2024-07-03T10:09:30.844Z [PASSED] 38 msize 3/6 {"data":2,"gas":0,"value":0} msize2 
+2024-07-03T10:09:34.857Z [PASSED] 38 msize 4/6 {"data":3,"gas":0,"value":0} msize3 
+2024-07-03T10:09:37.471Z [PASSED] 38 msize 5/6 {"data":4,"gas":0,"value":0} chunks 
+2024-07-03T10:09:40.069Z [PASSED] 38 msize 6/6 {"data":5,"gas":0,"value":0} farChunk 

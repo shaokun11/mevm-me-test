@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/gas_usage.json
