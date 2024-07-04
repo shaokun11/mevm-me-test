@@ -1,7 +1,9 @@
 import fg from "fast-glob";
-import { DIR } from "./comm.js";
+import { SUPPORT_DIR } from "./comm.js";
 import { runTask } from "./task.js";
-
+import parse from "minimist"
+const args = parse(process.argv.slice(2))
+const DIR = "ethereum-tests/GeneralStateTests/" + SUPPORT_DIR[args.index || 0] + "/";
 async function listFiles() {
     const pattern = `${DIR}**/*.json`;
     try {

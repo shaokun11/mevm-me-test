@@ -1,6 +1,6 @@
 import { AptosAccount } from "aptos";
 import { EVM_SENDER } from "./config.js";
-const SUPPORT_DIR = {
+export const SUPPORT_DIR = {
     1: "Cancun",
     2: "Pyspecs",
     3: "Shanghai",
@@ -63,7 +63,6 @@ const SUPPORT_DIR = {
     60: "stZeroKnowledge2",
 };
 
-export const DIR = "ethereum-tests/GeneralStateTests/" + SUPPORT_DIR[2] + "/";
 export const TEST_FORK = "Cancun";
 export const SENDER_ACCOUNTS = [
     AptosAccount.fromAptosAccountObject({

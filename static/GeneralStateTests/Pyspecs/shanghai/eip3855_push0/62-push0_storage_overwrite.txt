@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/shanghai/eip3855_push0/push0_storage_overwrite.json
-2024-07-04T09:28:02.947Z [SKIP] 62,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_storage_overwrite[fork_Shanghai-state_test] No Cancun post state found
+2024-07-04T09:40:22.091Z [SKIP] 62,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_storage_overwrite[fork_Shanghai-state_test] No Cancun post state found
