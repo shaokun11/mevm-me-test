@@ -50,4 +50,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: "Will execute long time and dropped from move-vm",
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_tx_blob_count.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "Not support blob tx",
+    },
 ];

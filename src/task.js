@@ -39,7 +39,7 @@ function isSkip(source, name, label) {
         const isSkipLabel =
             skip_labels.includes(SKIP_ALL_LABEL) || label.length === 0 ? true : skip_labels.includes(label);
         const isPathSkip = t.path.includes(source);
-        const isSKipName = skip_names.includes(SKIP_ALL_LABEL)
+        const isSKipName = skip_names.includes(SKIP_ALL_LABEL) || skip_names.includes(name);
         const isSkip = isSKipName && isSkipLabel && isPathSkip;
         if (isSkip) {
             comment = t.comment;
@@ -61,8 +61,7 @@ function getNewFileName(source, i) {
     return `${p.dir.replace("ethereum-tests", "static")}/${i}-${p.name}.txt`;
 }
 
-async function saveMulEnvJson(source, index, data, total) {
-    if (total <= 1) return;
+async function saveMulEnvJson(source, index, data) {
     const p = path.parse(source);
     const name = p.name + "-" + index;
     const dir = p.dir.replace("ethereum-tests", "ethereum-tests-parsed");
@@ -125,7 +124,7 @@ export async function runTask(opt) {
             toBuffer(env["currentRandom"]),
             toBuffer(env["currentTimestamp"]),
         ];
-        await saveMulEnvJson(source, i, json, testNames.length);
+        await saveMulEnvJson(source, i, json);
         for (let [k, v] of Object.entries(pre)) {
             addresses.push(toBuffer(k));
             codes.push(toBuffer(v["code"]));
