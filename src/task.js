@@ -60,9 +60,10 @@ function getNewFileName(source, i) {
     return `${p.dir.replace("ethereum-tests", "static")}/${i}-${p.name}.txt`;
 }
 
-async function saveMulEnvJson(source, name, data, total) {
+async function saveMulEnvJson(source, index, data, total) {
     if (total <= 1) return;
     const p = path.parse(source);
+    const name = p.name + "-" + index;
     const dir = p.dir.replace("ethereum-tests", "ethereum-tests-parsed");
     fse.ensureDirSync(dir);
     await writeFile(
