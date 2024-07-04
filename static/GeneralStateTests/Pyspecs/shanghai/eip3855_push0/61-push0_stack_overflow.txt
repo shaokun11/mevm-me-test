@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/shanghai/eip3855_push0/push0_stack_overflow.json
-2024-07-04T07:31:03.495Z [SKIP] 61,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_stack_overflow[fork_Shanghai-state_test] No Cancun post state found
+2024-07-04T09:28:02.945Z [SKIP] 61,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_stack_overflow[fork_Shanghai-state_test] No Cancun post state found
