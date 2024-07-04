@@ -1,5 +1,5 @@
 {
-  "43": {
+  "modexp-43": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
       "description": "Test function documentation:\n\n    Test the MODEXP precompile",
