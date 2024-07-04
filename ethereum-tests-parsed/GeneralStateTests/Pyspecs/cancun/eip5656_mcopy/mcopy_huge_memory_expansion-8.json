@@ -1,0 +1,82 @@
+{
+  "mcopy_huge_memory_expansion-8": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Perform MCOPY operations that expand the memory by huge amounts, and verify that it correctly\n    runs out of gas.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "a44c065ea644d7545e5596018644113036cf097728a216db5d99ebe02a7258da",
+      "hash": "0xcdad36726f77fda3713996e91b5e507533f2fc3cd429fa0aae6f63a0fb9f94e7",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy_memory_expansion.py",
+      "sourceHash": "aa6911701ec28c6c7997e7bd82916483fbde772a1a9de663e049343378e23484",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_0cf7c744_3edf_4222_98de_26b4f015ef78/test_mcopy_memory_expansion.py#L222"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x05f5e100",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x53ce63dc41f9dccff61a2926c4216631418e79841c638f66ee79a626716f1778",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x02f864018080078405f5e1009400000000000000000000000000000000000001008080c080a0e49a7c5447460fc9d4945f17a6640ab919bc0a019d23b6ebacf8ff8f23b328aea00ebc5d132650d7d535e3e8fc03b1425b0020801c2d9e48fce05c7beae1b8d1da"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x00",
+        "code": "0x36600060003760016000600036600060006102006ffffffffffffffffffffffffffffffffef155",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x0000000000000000000000000000000000000200": {
+        "balance": "0x00",
+        "code": "0x3660006000376000600060017fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff60005ef3",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x29b92700",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        []
+      ],
+      "data": [
+        "0x"
+      ],
+      "gasLimit": [
+        "0x05f5e100"
+      ],
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

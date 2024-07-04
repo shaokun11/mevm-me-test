@@ -1,0 +1,76 @@
+{
+  "invalid_precompile_calls-6": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test invalid precompile calls:\n\n    - Out of bounds inputs `z` and `y`\n    - Correct proof, commitment, z and y, but incorrect lengths\n    - Null inputs\n    - Zero inputs\n    - Correct proof, commitment, z and y, but incorrect version versioned hash",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "5b5459f4d7b9abc2ae92d2b70b611f2ddee2bb1d34b64b55190f9b58fcd5fe51",
+      "hash": "0xf11cd628048a4030f5f38fc85658aac7ff4eade9d448dda6f2a928fb2a9eba55",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_point_evaluation_precompile.py",
+      "sourceHash": "25da6025e98b42cd56330bedd4365f4b4f06034368beeebad323569fdc415097",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_f8115fbb_8e6a_4abd_8bc3_36e8d18b35d5/test_point_evaluation_precompile.py#L270"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0xa2f42c6ef91a2f186a4ec285e64fb912b0c5c579ab8477f639baa4324a93a354",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x02f8f501808007830f424094000000000000000000000000000000000000010080b891010657f37554c781402a22917dee2f75def7ab966d7b770905398eba3c444014623ce31cf9759a5c8daf3a357992f9f3dd7f9339d8998bc8e68373e54f00b75e0000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c0c001a04e95ec79ec1d800110e3d156cd7481b694367b44cc6c5346a70ae9ccc055ae5ca045164313d41a5bc9779173f4c64868a97f7e54b803797d6e991aa402658f989e"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x01000000000000000000",
+        "code": "0x366000600037604060003660006000600a61c350f16000556000516001556020516002553d6003553d600060003e600051600455602051600555",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x01000000000000000000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        []
+      ],
+      "data": [
+        "0x010657f37554c781402a22917dee2f75def7ab966d7b770905398eba3c444014623ce31cf9759a5c8daf3a357992f9f3dd7f9339d8998bc8e68373e54f00b75e0000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c0"
+      ],
+      "gasLimit": [
+        "0x0f4240"
+      ],
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

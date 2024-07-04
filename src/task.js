@@ -35,10 +35,11 @@ function isSkip(source, name, label) {
     let comment = "";
     const skip = IGNORE_TEST.some((t) => {
         const skip_labels = t.label.split(",");
+        const skip_names = t.name.split(",");
         const isSkipLabel =
             skip_labels.includes(SKIP_ALL_LABEL) || label.length === 0 ? true : skip_labels.includes(label);
         const isPathSkip = t.path.includes(source);
-        const isSKipName = t.name === name;
+        const isSKipName = skip_names.includes(SKIP_ALL_LABEL)
         const isSkip = isSKipName && isSkipLabel && isPathSkip;
         if (isSkip) {
             comment = t.comment;

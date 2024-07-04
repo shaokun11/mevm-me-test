@@ -1,0 +1,92 @@
+{
+  "delegatecall_from_pre_existing_contract_to_new_contract-3": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test that if an account created in the current transaction contains a self-destruct and is\n    delegate-called by an account created before the current transaction, the calling account\n    is not deleted.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "046b8675c58eb4685f41c3977c4d9e84d7dc12cdb944496e674498bf81ba1fb3",
+      "hash": "0xf9d468b190b8ef7261719c674c71016ae0445ca70e2392518567d827d0515778",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
+      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L1179"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x333b264daf4619eae4e42b8530e52760fd6141590d242277f5f241c5f6cf5667",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf9011d800a8405f5e10080830186a0b8cc602f6000600073000000000000000000000000000000000000abcd3c602f60006000f06000557322222222222222222222222222222222222222223b6001557322222222222222222222222222222222222222223f6002556000600060006000600073222222222222222222222222222222222222222245f1600355732222222222222222222222222222222222222222316004557322222222222222222222222222222222222222223b6005557322222222222222222222222222222222222222223f6006556001602ff31ca09dfc82b0db39cb947b34b271e2aff158d751bc3b333cbe32450fd883fffd9e13a06b9d9f7abe758a178119e0bc2ad2573e417d99aa8b33988d759d68a9a5a3a35e"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000001234": {
+        "balance": "0x00",
+        "code": "0x6000600055",
+        "nonce": "0x00",
+        "storage": {
+          "0x00": "0x01"
+        }
+      },
+      "0x000000000000000000000000000000000000abcd": {
+        "balance": "0x00",
+        "code": "0x610024600081600b8239f3600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x1111111111111111111111111111111111111111": {
+        "balance": "0x00",
+        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x2222222222222222222222222222222222222222": {
+        "balance": "0x00",
+        "code": "0x60006000600060007364e2ebd6405af8cb348aec519084d3fff42ebba65af4",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x056bc75e2d63100000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x602f6000600073000000000000000000000000000000000000abcd3c602f60006000f06000557322222222222222222222222222222222222222223b6001557322222222222222222222222222222222222222223f6002556000600060006000600073222222222222222222222222222222222222222245f1600355732222222222222222222222222222222222222222316004557322222222222222222222222222222222222222223b6005557322222222222222222222222222222222222222223f6006556001602ff3"
+      ],
+      "gasLimit": [
+        "0x05f5e100"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "",
+      "value": [
+        "0x0186a0"
+      ]
+    }
+  }
+}

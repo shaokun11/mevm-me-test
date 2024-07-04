@@ -1,0 +1,86 @@
+{
+  "self_destructing_initcode-3": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test that a contract can self-destruct in its initcode.\n\n    Behavior is the same before and after EIP-6780.\n\n    Test using:\n        - Different initial balances for the self-destructing contract\n        - Different opcodes: CREATE, CREATE2\n        - Different number of calls to the self-destructing contract in the same tx",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "feaa9ccce134d8b3a4e34f35f3d6a4de8ee14e660a25d6b5e8cac0e731e0bc58",
+      "hash": "0xd2d1623e8432f2581f4e1d151d8facab0970294a2d2ece4c4fdc71e498b9b549",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
+      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L433"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x75355ebe5747fdae9a523184ac438e29271a076811b999777667d2642bec173c",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf8eb800a8405f5e10080830186a0b89a60246000600073000000000000000000000000000000000000abcd3c602460006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255600060006000600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba63160045560016024f31ba0532a8c47a6ecbb391ff0d5da263a162eee8aedc7aee2e0f351bead2b263f9caea063ae5683f826f53706fd4955094a3d1d4378d1da31236ef6f54e7a166f03666f"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000001234": {
+        "balance": "0x00",
+        "code": "0x6000600055",
+        "nonce": "0x00",
+        "storage": {
+          "0x00": "0x01"
+        }
+      },
+      "0x000000000000000000000000000000000000abcd": {
+        "balance": "0x00",
+        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x1111111111111111111111111111111111111111": {
+        "balance": "0x00",
+        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x056bc75e2d63100000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x60246000600073000000000000000000000000000000000000abcd3c602460006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255600060006000600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba63160045560016024f3"
+      ],
+      "gasLimit": [
+        "0x05f5e100"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "",
+      "value": [
+        "0x0186a0"
+      ]
+    }
+  }
+}

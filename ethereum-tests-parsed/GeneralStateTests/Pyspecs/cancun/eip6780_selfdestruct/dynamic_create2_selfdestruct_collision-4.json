@@ -1,0 +1,87 @@
+{
+  "dynamic_create2_selfdestruct_collision-4": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\nDynamic Create2->Suicide->Create2 collision scenario:\n\n    Perform a CREATE2, make sure that the initcode sets at least a couple of storage keys,\n    then on a different call, in the same tx, perform a self-destruct.\n    Then:\n        a) on the same tx, attempt to recreate the contract   <=== Covered in this test\n            1) and create2 contract already in the state\n            2) and create2 contract is not in the state\n        b) on a different tx, attempt to recreate the contract\n    Perform a CREATE2, make sure that the initcode sets at least a couple of storage keys,\n    then in a different tx, perform a self-destruct.\n    Then:\n        a) on the same tx, attempt to recreate the contract\n        b) on a different tx, attempt to recreate the contract\n    Verify that the test case described\n    in https://wiki.hyperledger.org/pages/viewpage.action?pageId=117440824 is covered",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "7f8906561fef42c2c4db9470a7041de2c21d4ce2b6317d40b3d8869cf49b6242",
+      "hash": "0x393ae0f3b1c0a192f2ebe8e23bb79492ef7024378e32fb90e3a229749d9f54f2",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_dynamic_create2_selfdestruct_collision.py",
+      "sourceHash": "74d096154e76bd7598cbd456e1e3d6bbccc5dba79a6b582710111d90717db23f",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_f87fedc7_aaa3_4327_adc9_00a885ecec0c/test_dynamic_create2_selfdestruct_collision.py#L42"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0xff112233445566",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x1706b6dd78e464e60626b3d092b3dd3e4424ba11411c866893e6667bc891a081",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf8a8800a834c4b4094000000000000000000000000000000000000060080b8476001600155600060006000600060007300000000000000000000000000000000000005125af161001660008160318239f37300000000000000000000000000000000000003e8ff1ba0cd94b6f466a1c91e7aa7319743ed7534e7809f7cac05b44d41f0b3ce367706f8a0115dc44dc84b36c3885716a772818e8b3c3c2ea1c04f39aa306c600cfe404a41"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000512": {
+        "balance": "0x6124fee993bc0000",
+        "code": "0x6001600155",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x0000000000000000000000000000000000000600": {
+        "balance": "0x05f5e100",
+        "code": "0x5b36600060003760206000366000600a730000000000000000000000000000000000000601620186a0f160005160025560006000600060006000730000000000000000000000000000000000000601620186a0f16000600060006000606473b7dcf81fd9a41a6b4c61278048dbc99b01765806620186a0f1366000600037602060003660006103e8730000000000000000000000000000000000000601620186a0f1600051600355600060006000600061271073b7dcf81fd9a41a6b4c61278048dbc99b01765806620186a0f16001600455",
+        "nonce": "0x00",
+        "storage": {
+          "0x02": "0xff",
+          "0x03": "0xff"
+        }
+      },
+      "0x0000000000000000000000000000000000000601": {
+        "balance": "0x00",
+        "code": "0x366000600037600136600047f560005260206000f3",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x6124fee993bc0000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x6001600155600060006000600060007300000000000000000000000000000000000005125af161001660008160318239f37300000000000000000000000000000000000003e8ff"
+      ],
+      "gasLimit": [
+        "0x4c4b40"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000600",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

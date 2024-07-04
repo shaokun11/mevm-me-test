@@ -1,0 +1,86 @@
+{
+  "create_selfdestruct_same_tx-12": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Use CREATE or CREATE2 to create a self-destructing contract, and call it in the same\n    transaction.\n\n    Behavior should be the same before and after EIP-6780.\n\n    Test using:\n        - Different send-all recipient addresses: single, multiple, including self\n        - Different initial balances for the self-destructing contract\n        - Different opcodes: CREATE, CREATE2",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "b55b5cb4e07b5b8816c14b6eae9e258e94868f8bdce150721930214f58f49e42",
+      "hash": "0xd9b23807c009641ceaeb9f15eb686e005948e172cf49edf650ff971b9085626d",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
+      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L230"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0xcba1bdc343d188258e9605f9b8e7d42a690c0c539b8be177ddaf297ceb44d265",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf9018d800a8405f5e10080830186a0b9013b602f6000600073000000000000000000000000000000000000abcd3c6000602f60006000f560005573606061db11166f7a224d0523c4c0d9e7c576b5573b60015573606061db11166f7a224d0523c4c0d9e7c576b5573f6002557300000000000000000000000000000000000010006000526000600060206000600073606061db11166f7a224d0523c4c0d9e7c576b55745f160035573606061db11166f7a224d0523c4c0d9e7c576b557316004557300000000000000000000000000000000000010006000526000600060206000600173606061db11166f7a224d0523c4c0d9e7c576b55745f160055573606061db11166f7a224d0523c4c0d9e7c576b5573160065573606061db11166f7a224d0523c4c0d9e7c576b5573b60075573606061db11166f7a224d0523c4c0d9e7c576b5573f6008556001602ff31ca0288c4ec00cbdbd41e5db50594ba70980d3ae41351d94f6339db1b6a82436aee4a06df1eaf5567c1e5efc950dadff1ceb144ca3b6e61b289c4424d8a3fc9e262afa"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000001000": {
+        "balance": "0x00",
+        "code": "0x6000600055",
+        "nonce": "0x00",
+        "storage": {
+          "0x00": "0x01"
+        }
+      },
+      "0x000000000000000000000000000000000000abcd": {
+        "balance": "0x00",
+        "code": "0x610024600081600b8239f3600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0x1111111111111111111111111111111111111111": {
+        "balance": "0x00",
+        "code": "0x600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x056bc75e2d63100000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x602f6000600073000000000000000000000000000000000000abcd3c6000602f60006000f560005573606061db11166f7a224d0523c4c0d9e7c576b5573b60015573606061db11166f7a224d0523c4c0d9e7c576b5573f6002557300000000000000000000000000000000000010006000526000600060206000600073606061db11166f7a224d0523c4c0d9e7c576b55745f160035573606061db11166f7a224d0523c4c0d9e7c576b557316004557300000000000000000000000000000000000010006000526000600060206000600173606061db11166f7a224d0523c4c0d9e7c576b55745f160055573606061db11166f7a224d0523c4c0d9e7c576b5573160065573606061db11166f7a224d0523c4c0d9e7c576b5573b60075573606061db11166f7a224d0523c4c0d9e7c576b5573f6008556001602ff3"
+      ],
+      "gasLimit": [
+        "0x05f5e100"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "",
+      "value": [
+        "0x0186a0"
+      ]
+    }
+  }
+}

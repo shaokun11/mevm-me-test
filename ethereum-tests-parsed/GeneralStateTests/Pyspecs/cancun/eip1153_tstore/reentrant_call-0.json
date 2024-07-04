@@ -1,0 +1,72 @@
+{
+  "reentrant_call-0": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test transient storage in different reentrancy contexts.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "1c33f1e1df9ea0ea853d3cc71b9560390769026f8f2917616c7676cbb7a42ce0",
+      "hash": "0x5654a9dc1cc2684c5eec48bf45a6b8347d153e313e10eeeb905d2b769283743d",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage_reentrancy_contexts.py",
+      "sourceHash": "c2686c7587b69c94259eb375378e09d197565b0106b4c542175577ce6bed1fe4",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_765a7b55_764a_428a_a61e_940a212d695b/test_tstorage_reentrancy_contexts.py#L261"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x4a632d231bb80d4289abdf032a0fcbf5c4680adee47f0fef862a00dab5fb747d",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf880800a8398968094000000000000000000000000000000000000020080a0000000000000000000000000000000000000000000000000000000000000000126a0960e5f676ae96a463a82d6e66ad5e3755279ce431343c063842f5254d4287b82a03f500ed3b0e09b04183bfaf2de1460461a2b3381eafc98248f822d1fbabe95b0"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000200": {
+        "balance": "0x00",
+        "code": "0x600160003514602158015761020160fe5d61020260fe5d61020160ff5d61020260ff5dfe60355801565b61010060fe5d61010160ff5d60026000526000600060206000600061020061fffff160005560fe5c60015560ff5c6002555b",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x1d6329f1c35ca4bfabb9f5610000000000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x0000000000000000000000000000000000000000000000000000000000000001"
+      ],
+      "gasLimit": [
+        "0x989680"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000200",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

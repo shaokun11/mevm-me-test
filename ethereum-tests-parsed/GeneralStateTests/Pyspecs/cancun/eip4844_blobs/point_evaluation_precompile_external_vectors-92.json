@@ -1,0 +1,76 @@
+{
+  "point_evaluation_precompile_external_vectors-92": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test precompile calls using external test vectors compiled from different sources:\n\n    - `go_kzg_4844_verify_kzg_proof.json`: test vectors from the\n    [go-kzg-4844](https://github.com/crate-crypto/go-kzg-4844) repository.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "7dfaf7ebc46081680ea46dff0976cae633eac55ee1d27c6710ef7e6cb127f0a0",
+      "hash": "0xb81b8fc146317fdd16080a88b1fa6e52c99d10db71559c82f48f6846f7e8fce9",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_point_evaluation_precompile.py",
+      "sourceHash": "25da6025e98b42cd56330bedd4365f4b4f06034368beeebad323569fdc415097",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_f8115fbb_8e6a_4abd_8bc3_36e8d18b35d5/test_point_evaluation_precompile.py#L415"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x10d6d3ef5a3b90e164fd7ac44e10cdad126c335b82e8c728fa7ecffb27eb1e4b",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x02f9012401808007830f424094000000000000000000000000000000000000010080b8c001228461eb9cfa5aecb883d64f7434b6c092be63e8599fa9da8473a13f8b804e00000000000000000000000000000000000000000000000000000000000000001ed7d14d1b3fb1a1890d67b81715531553ad798df2009b4311d9fe2bea6cb964b49d88afcd7f6c61a8ea69eff5f609d2432b47e7e4cd50b02cdddb4e0c1460517e8df02e4e64dc55e3d8ca192d57193a98e15cbf800b69b90bfcaf1d907a9889c7743f7e5a19ee4b557471c005600f56d78e3dd887b2f5b87d76405b80dd2115c080a0095e1cc40213a480ea2851dfccecfef669a825673679ed086612336af0beacdfa0664a24c68797b38dc135d4705a58c6132853afe099432ad2d8384f9609281bba"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x01000000000000000000",
+        "code": "0x366000600037604060003660006000600a61c350f16000556000516001556020516002553d6003553d600060003e600051600455602051600555",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x01000000000000000000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        []
+      ],
+      "data": [
+        "0x01228461eb9cfa5aecb883d64f7434b6c092be63e8599fa9da8473a13f8b804e00000000000000000000000000000000000000000000000000000000000000001ed7d14d1b3fb1a1890d67b81715531553ad798df2009b4311d9fe2bea6cb964b49d88afcd7f6c61a8ea69eff5f609d2432b47e7e4cd50b02cdddb4e0c1460517e8df02e4e64dc55e3d8ca192d57193a98e15cbf800b69b90bfcaf1d907a9889c7743f7e5a19ee4b557471c005600f56d78e3dd887b2f5b87d76405b80dd2115"
+      ],
+      "gasLimit": [
+        "0x0f4240"
+      ],
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

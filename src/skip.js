@@ -1,4 +1,5 @@
 export const SKIP_ALL_LABEL = "__all__";
+export const SKIP_ALL_NAME = "__all__";
 
 export const IGNORE_TEST = [
     {
@@ -34,6 +35,18 @@ export const IGNORE_TEST = [
     {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/21_tstoreCannotBeDosdOOO.json",
         name: "21_tstoreCannotBeDosdOOO",
+        label: SKIP_ALL_LABEL,
+        comment: "Will execute long time and dropped from move-vm",
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/reentrant_selfdestructing_call.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "No implementation SELFDESTRUCT opcode",
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/run_until_out_of_gas.json",
+        name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: "Will execute long time and dropped from move-vm",
     },

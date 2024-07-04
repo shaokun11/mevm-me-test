@@ -1,0 +1,72 @@
+{
+  "dup-43": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test the DUP1-DUP16 opcodes.\n\n    note: Test case ported from:\n\n        - [ethereum/tests/GeneralStateTests/VMTests/vmTests/dup.json](https://github.com/ethereum/tests/blob/develop/GeneralStateTests/VMTests/vmTests/dup.json)\n        by Ori Pomerantz.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "cfecb65eab1176114f0a3c95748b4a7d84fa3634321c21dea56c339385652b2e",
+      "hash": "0x4c0ccb6c0a3432c3b931262051e29c28aa29663df807c3b483b579022f14327e",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/frontier/opcodes/test_dup.py",
+      "sourceHash": "9e031def962ef8da83ef45cbe9cd1f52a64aa5f3f7f89ab3816e4f0af50e89e2",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_e3b4cb46_aa29_4eb3_b69f_2c12fe218a80/test_dup.py#L14"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0xa937e85081bea8f4aba5cda0e3c9250e4ce7a100568535fd7a966405a8ef5ab4",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf860800a8307a120940000000000000000000000000000000000000100808026a02a5ee985f72d9637c4cb986d35f2675087afa5d638ffb4629271315ff077a4bfa0045661db69b1dc2868fd6e64fd5f371f4d8a36bfca793e436114bc90de3bed47"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x00",
+        "code": "0x6000600160026003600460056006600760086009600a600b600c600d600e600f601084600055600155600255600355600455600555600655600755600855600955600a55600b55600c55600d55600e55600f55601055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x3635c9adc5dea00000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x"
+      ],
+      "gasLimit": [
+        "0x07a120"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "warm_coinbase_gas_usage-6": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test the gas usage of opcodes affected by assuming a warm coinbase:\n\n    - EXTCODESIZE\n    - EXTCODECOPY\n    - EXTCODEHASH\n    - BALANCE\n    - CALL\n    - CALLCODE\n    - DELEGATECALL\n    - STATICCALL",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "7edb8b59539fc964851733f275d9e4b55e2b11436aa4dab2d8f9a76ea8f611dc",
+      "hash": "0xb87bee9e91eeffda7015c3b05a49839121739697a2ac3dc6401475f2a3f432b7",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3651_warm_coinbase/test_warm_coinbase.py",
+      "sourceHash": "961a89471e19003b28cfd6df3f0e86029f447e8df5de4e759bdbf09173838308",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_2a61a9af_a2c6_4b41_adbb_b12ca4cf0338/test_warm_coinbase.py#L212"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x02540be400",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x38648cd5ce55f92cf9dfdd6ca53ca582d913a50724c354130b713992979ae545",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf861800a8405f5e100940000000000000000000000000000000000000100808026a069c5ea620c5d1ec174f47e00ce9a062e1c537078c9c5d71e393b92b158dcb878a031d897c1764a17355aba977f5b1c59f127647c8cbebf42b3f089ba0ddf3bb34a"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x3635c9adc5dea00000",
+        "code": "0x5a413b5a905090036004900360005500",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x3635c9adc5dea00000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x"
+      ],
+      "gasLimit": [
+        "0x05f5e100"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

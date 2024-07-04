@@ -1,0 +1,67 @@
+{
+  "gas_usage-29": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test class documentation:\n\n    Test EIP-3860 Limit Initcode Gas Usage for a contract\n    creating transaction, using different initcode lengths.\n\n    Generates 4 test cases that verify the gas cost behavior of a\n    contract creating transaction:\n\n    1. Test with exact intrinsic gas minus one, contract create fails\n        and tx is invalid.\n    2. Test with exact intrinsic gas, contract create fails,\n        but tx is valid.\n    3. Test with exact execution gas minus one, contract create fails,\n        but tx is valid.\n    4. Test with exact execution gas, contract create succeeds.\n\n    Initcode must be within valid EIP-3860 length.\n    \n\nTest function documentation:\n\n        Test transaction and contract creation behavior for different gas\n        limits.",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "0bab908c440395168ccc8a69ba124b5d628cb6754c23c530603cde22374cd5fa",
+      "hash": "0x3718268b9f93f10490e2b3805065f89dc3e1d53a94febec9da41de4fe526dc39",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py",
+      "sourceHash": "4282f25f4d3c9b8259517761f8a22c3cbe2f0560c73bd7bad442f9d3ea1559b2",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_9f4beb9f_2238_40f6_a09e_8cdba701ff65/test_initcode.py#L400"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x00",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "expectException": "TransactionException.INTRINSIC_GAS_TOO_LOW",
+          "hash": "0x70c42824108fafccadbfce71e6e22660c4fad89be18be324cd15ef351969a8c8",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0xf84b800a82cf0d80800025a082244b29c33f38cc89873fc90d5d4464ba0c1120fa7b666d68dd6ba855c71006a043f9021be8aa3a95d60b888d91caf5ef3400992f45caec6e990db3a01cb985e3"
+        }
+      ]
+    },
+    "pre": {
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x3635c9adc5dea00000",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "data": [
+        "0x00"
+      ],
+      "gasLimit": [
+        "0xcf0d"
+      ],
+      "gasPrice": "0x0a",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}
