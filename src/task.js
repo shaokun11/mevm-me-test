@@ -177,7 +177,6 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            const desc = info["description"]
             let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
                 } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, label);
@@ -205,7 +204,6 @@ export async function runTask(opt) {
                                 ...root_data.data,
                                 expected: post[i].hash,
                                 hash: res.hash,
-                                desc,
                             });
                         }
                     } else {
@@ -215,7 +213,6 @@ export async function runTask(opt) {
                             error: res.vm_status,
                             hash: res.hash,
                             expected: post[i].hash,
-                            desc
                         });
                     }
                 } catch (error) {
@@ -223,7 +220,6 @@ export async function runTask(opt) {
                     status += "[EXCEPTION]";
                     msg += `${JSON.stringify({
                         error: error.message,
-                        desc
                     })}`;
                 } finally {
                     const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`;
