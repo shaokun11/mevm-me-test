@@ -42,7 +42,7 @@ export const IGNORE_TEST = [
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/reentrant_selfdestructing_call.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
-        comment: "No implementation SELFDESTRUCT opcode",
+        comment: "Not implementation SELFDESTRUCT opcode",
     },
     {
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/run_until_out_of_gas.json",
@@ -52,6 +52,24 @@ export const IGNORE_TEST = [
     },
     {
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_tx_blob_count.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "Not support blob tx",
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "Not support blob tx",
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip6780_selfdestruct/",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "Not implementation SELFDESTRUCT opcode",
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip7516_blobgasfee/",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: "Not support blob tx",

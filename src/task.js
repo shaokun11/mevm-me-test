@@ -38,7 +38,7 @@ function isSkip(source, name, label) {
         const skip_names = t.name.split(",");
         const isSkipLabel =
             skip_labels.includes(SKIP_ALL_LABEL) || label.length === 0 ? true : skip_labels.includes(label);
-        const isPathSkip = t.path.includes(source);
+        const isPathSkip = t.path.includes(source) || source.startsWith(t.path);
         const isSKipName = skip_names.includes(SKIP_ALL_LABEL) || skip_names.includes(name);
         const isSkip = isSKipName && isSkipLabel && isPathSkip;
         if (isSkip) {
