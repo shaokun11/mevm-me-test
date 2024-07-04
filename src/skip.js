@@ -3,20 +3,8 @@ export const SKIP_ALL_NAME = "__all__";
 
 export const IGNORE_TEST = [
     {
-        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/loopExp.json",
-        name: "loopExp",
-        label: SKIP_ALL_LABEL,
-        comment: "No need to test performance, it depends on the move-vm implementation",
-    },
-    {
-        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/loopMul.json",
-        name: "loopMul",
-        label: SKIP_ALL_LABEL,
-        comment: "No need to test performance, it depends on the move-vm implementation",
-    },
-    {
-        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/performanceTester.json",
-        name: "performanceTester",
+        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/",
+        name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: "No need to test performance, it depends on the move-vm implementation",
     },
@@ -24,7 +12,7 @@ export const IGNORE_TEST = [
         path: "ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json",
         name: "suicide",
         label: SKIP_ALL_LABEL,
-        comment: "No implementation SELFDESTRUCT opcode",
+        comment: "Not implementation SELFDESTRUCT opcode",
     },
     {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json",
@@ -49,12 +37,6 @@ export const IGNORE_TEST = [
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: "Will execute long time and dropped from move-vm",
-    },
-    {
-        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_tx_blob_count.json",
-        name: SKIP_ALL_NAME,
-        label: SKIP_ALL_LABEL,
-        comment: "Not support blob tx",
     },
     {
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/",
