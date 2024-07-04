@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/tload_after_tstore_is_zero.json
+2024-07-04T05:53:04.601Z [FAILED] 10,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_tload_after_tstore_is_zero[fork_Cancun-state_test] 1/1 data:0,gas:0,value:0  {"gas_refund":"38400","gas_usage":"23872","state_root":"0x4c88841a33328a610ff1a062d5a3d58fde760b51b042cedebdf81e7aed73eb35","expected":"0x86578474ddb42289072283c49c29a4e00069afe6974372e429cc7dcd062ce2e9","hash":"0x24010797e1d437eedc66f0ab751415183810141acf4cb9bfcbb16bc06b716c26"}
