@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/orNonConst.json
+2024-07-05T03:55:17.055Z [PASSED] 33/46,0 orNonConst 1/2 data:0,gas:0,value:0  
+2024-07-05T03:55:19.178Z [PASSED] 33/46,0 orNonConst 2/2 data:0,gas:0,value:1  

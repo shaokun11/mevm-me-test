@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/smodNonConst.json
+2024-07-05T03:55:52.039Z [PASSED] 41/46,0 smodNonConst 1/2 data:0,gas:0,value:0  
+2024-07-05T03:55:54.137Z [PASSED] 41/46,0 smodNonConst 2/2 data:0,gas:0,value:1  
