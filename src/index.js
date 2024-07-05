@@ -3,15 +3,17 @@ import { SUPPORT_DIR } from "./comm.js";
 import { runTask } from "./task.js";
 import parse from "minimist"
 const args = parse(process.argv.slice(2))
-let testDir
-if (args.index === -1) {
-    testDir = "ethereum-tests/GeneralStateTests/"
+let testDir = "ethereum-tests/GeneralStateTests/"
+
+if (args.index === 0) {
+    // default all tests
 } else {
-    const dir = SUPPORT_DIR[args.index || 0]
+    // not set index, default to 1
+    const dir = SUPPORT_DIR[args.index || 1]
     if (!dir) {
-        throw new Error("index must be range from 0 to " + SUPPORT_DIR.length + " or -1 for all tests")
+        throw new Error("index must be range from 1 to " + Object.keys(SUPPORT_DIR).length + " or 0 for all tests")
     }
-    testDir = "ethereum-tests/GeneralStateTests/" + SUPPORT_DIR[args.index || 0] + "/";
+    testDir = testDir + SUPPORT_DIR[args.index || 1] + "/";
 }
 
 async function listFiles() {

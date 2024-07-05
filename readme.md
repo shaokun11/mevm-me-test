@@ -1,10 +1,10 @@
 ```bash
 # for all
-node src/index.js --index -1 | tap-spec
+node src/index.js --index 0 | tap-spec
 
 # for special test
 
-node src/index.js --index 0 | tap-spec
+node src/index.js --index 1 | tap-spec
 
 # get test result
 node src/sum.js
