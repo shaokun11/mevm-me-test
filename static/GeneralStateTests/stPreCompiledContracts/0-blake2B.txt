@@ -1,7 +1,27 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts/blake2B.json
-2024-07-05T04:51:07.703Z [PASSED] 0/9,0 blake2B 1/26 data:0,gas:0,value:0 fail 
-2024-07-05T04:51:09.905Z [PASSED] 0/9,0 blake2B 2/26 data:1,gas:0,value:0 fail 
-2024-07-05T04:51:12.099Z [PASSED] 0/9,0 blake2B 3/26 data:2,gas:0,value:0 fail 
-2024-07-05T04:51:14.300Z [PASSED] 0/9,0 blake2B 4/26 data:3,gas:0,value:0 fail 
-2024-07-05T04:51:16.490Z [FAILED] 0/9,0 blake2B 5/26 data:4,gas:0,value:0 case-04 {"gas_refund":"0","gas_usage":"1014686030640","state_root":"0xda850485fe5e3bd1a6d8ae700071fb664c0e4088529a52d2800930be7f7e6952","expected":"0x10bcf00d412cfca7d5bce5d80bce2bfc82848debd29d3d75c6e42aa8f42a019a","hash":"0x91d69cc10d7b4cc6358512a3e2c42fb912c22834dd1059e92047f46c76586487"}
-2024-07-05T04:51:18.701Z [FAILED] 0/9,0 blake2B 6/26 data:5,gas:0,value:0 case-05 {"gas_refund":"0","gas_usage":"1014686030641","state_root":"0x731ddd4218dc794fe38faf2550a1f2db06460c65d8ccc5431ca97f88e2dc5249","expected":"0x09ff61372ebab5e9f60ca992ce1ca728b413d2bc88b1683204f3b1dabc3263f4","hash":"0x0f425d70b1dbc214c676de646a704097d01c81bb4edb2f22aa653e3a83bf7a39"}
+2024-07-05T09:10:13.513Z [PASSED] 0/9,0 blake2B 1/26 data:0,gas:0,value:0 fail 
+2024-07-05T09:10:15.736Z [PASSED] 0/9,0 blake2B 2/26 data:1,gas:0,value:0 fail 
+2024-07-05T09:10:17.955Z [PASSED] 0/9,0 blake2B 3/26 data:2,gas:0,value:0 fail 
+2024-07-05T09:10:20.208Z [PASSED] 0/9,0 blake2B 4/26 data:3,gas:0,value:0 fail 
+2024-07-05T09:10:22.415Z [PASSED] 0/9,0 blake2B 5/26 data:4,gas:0,value:0 case-04 
+2024-07-05T09:10:24.654Z [PASSED] 0/9,0 blake2B 6/26 data:5,gas:0,value:0 case-05 
+2024-07-05T09:10:26.871Z [PASSED] 0/9,0 blake2B 7/26 data:6,gas:0,value:0 case-06 
+2024-07-05T09:10:29.086Z [PASSED] 0/9,0 blake2B 8/26 data:7,gas:0,value:0 case-07 
+2024-07-05T09:10:31.305Z [PASSED] 0/9,0 blake2B 9/26 data:8,gas:0,value:0 case-09 
+2024-07-05T09:10:33.525Z [PASSED] 0/9,0 blake2B 10/26 data:9,gas:0,value:0 test-0016 
+2024-07-05T09:10:35.735Z [PASSED] 0/9,0 blake2B 11/26 data:10,gas:0,value:0 test-0032 
+2024-07-05T09:10:37.942Z [PASSED] 0/9,0 blake2B 12/26 data:11,gas:0,value:0 test-0064 
+2024-07-05T09:10:40.182Z [PASSED] 0/9,0 blake2B 13/26 data:12,gas:0,value:0 test-0128 
+2024-07-05T09:10:42.388Z [PASSED] 0/9,0 blake2B 14/26 data:13,gas:0,value:0 test-0256 
+2024-07-05T09:10:44.606Z [PASSED] 0/9,0 blake2B 15/26 data:14,gas:0,value:0 test-0512 
+2024-07-05T09:10:46.830Z [PASSED] 0/9,0 blake2B 16/26 data:15,gas:0,value:0 test-1024 
+2024-07-05T09:10:49.044Z [PASSED] 0/9,0 blake2B 17/26 data:16,gas:0,value:0 test-0016-16 
+2024-07-05T09:10:51.256Z [PASSED] 0/9,0 blake2B 18/26 data:17,gas:0,value:0 test-0032-16 
+2024-07-05T09:10:53.470Z [PASSED] 0/9,0 blake2B 19/26 data:18,gas:0,value:0 test-0064-16 
+2024-07-05T09:10:55.676Z [PASSED] 0/9,0 blake2B 20/26 data:19,gas:0,value:0 test-0128-16 
+2024-07-05T09:10:57.891Z [PASSED] 0/9,0 blake2B 21/26 data:20,gas:0,value:0 test-0256-16 
+2024-07-05T09:11:00.114Z [PASSED] 0/9,0 blake2B 22/26 data:21,gas:0,value:0 test-0512-16 
+2024-07-05T09:11:02.325Z [PASSED] 0/9,0 blake2B 23/26 data:22,gas:0,value:0 test-1024-16 
+2024-07-05T09:11:05.848Z [PASSED] 0/9,0 blake2B 24/26 data:23,gas:0,value:0 test-0016-120 
+2024-07-05T09:11:10.690Z [PASSED] 0/9,0 blake2B 25/26 data:24,gas:0,value:0 test-0032-120 
+2024-07-05T09:11:14.199Z [PASSED] 0/9,0 blake2B 26/26 data:25,gas:0,value:0 test-0064-120 
