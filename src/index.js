@@ -26,14 +26,14 @@ async function listFiles() {
 const files = await listFiles();
 files.sort();
 
-for (let i = 44; i < files.length; i++) {
+for (let i = 0; i < files.length; i++) {
     await runTask({
         index: i,
         source: files[i],
         account: 0,
         all: files.length,
     });
-    break;
+    // break;
 }
 
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d

@@ -1,0 +1,7 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/blake2B.json
+2024-07-05T04:51:07.703Z [PASSED] 0/9,0 blake2B 1/26 data:0,gas:0,value:0 fail 
+2024-07-05T04:51:09.905Z [PASSED] 0/9,0 blake2B 2/26 data:1,gas:0,value:0 fail 
+2024-07-05T04:51:12.099Z [PASSED] 0/9,0 blake2B 3/26 data:2,gas:0,value:0 fail 
+2024-07-05T04:51:14.300Z [PASSED] 0/9,0 blake2B 4/26 data:3,gas:0,value:0 fail 
+2024-07-05T04:51:16.490Z [FAILED] 0/9,0 blake2B 5/26 data:4,gas:0,value:0 case-04 {"gas_refund":"0","gas_usage":"1014686030640","state_root":"0xda850485fe5e3bd1a6d8ae700071fb664c0e4088529a52d2800930be7f7e6952","expected":"0x10bcf00d412cfca7d5bce5d80bce2bfc82848debd29d3d75c6e42aa8f42a019a","hash":"0x91d69cc10d7b4cc6358512a3e2c42fb912c22834dd1059e92047f46c76586487"}
+2024-07-05T04:51:18.701Z [FAILED] 0/9,0 blake2B 6/26 data:5,gas:0,value:0 case-05 {"gas_refund":"0","gas_usage":"1014686030641","state_root":"0x731ddd4218dc794fe38faf2550a1f2db06460c65d8ccc5431ca97f88e2dc5249","expected":"0x09ff61372ebab5e9f60ca992ce1ca728b413d2bc88b1683204f3b1dabc3263f4","hash":"0x0f425d70b1dbc214c676de646a704097d01c81bb4edb2f22aa653e3a83bf7a39"}

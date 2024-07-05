@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/identity_to_smaller.json
