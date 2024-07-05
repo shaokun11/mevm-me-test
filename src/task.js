@@ -1,5 +1,5 @@
 import { HexString } from "aptos";
-import { appendFile, readFile, unlink, writeFile} from "node:fs/promises";
+import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
 import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { IGNORE_TEST, SKIP_ALL_LABEL, SKIP_ALL_NAME } from "./skip.js";
@@ -30,13 +30,13 @@ function toBuffer(hex) {
     return new HexString(hex).toUint8Array();
 }
 
-function isSkip(source, name, label) {
+function isSkip(source, name, index) {
     let comment = "";
     const skip = IGNORE_TEST.some((t) => {
-        const skip_labels = t.label.split(",");
+        const skip_labels_index = t.label.split(",");
         const skip_names = t.name.split(",");
         const isSkipLabel =
-            skip_labels.includes(SKIP_ALL_LABEL) || label.length === 0 ? true : skip_labels.includes(label);
+            skip_labels_index.includes(SKIP_ALL_LABEL) || skip_labels_index.includes(index + "");
         const isPathSkip = t.path.includes(source) || source.startsWith(t.path);
         const isSKipName = skip_names.includes(SKIP_ALL_NAME) || skip_names.includes(name);
         const isSkip = isSKipName && isSkipLabel && isPathSkip;
@@ -81,7 +81,7 @@ export async function runTask(opt) {
     const { index, source, account, all } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const summary_file = getNewFileName(source, index);
-    await unlink(summary_file).catch(() => {});
+    await unlink(summary_file).catch(() => { });
     await appendFile(summary_file, source + "\n");
     const testCase = JSON.parse((await readFile(source, "utf8")).toString());
     const testEnvs = Object.values(testCase);
@@ -176,10 +176,9 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${
-                indexes.value
-            } ${label}`;
-            const { skip, comment } = isSkip(source, skipCheckName, label);
+            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
+                } ${label}`;
+            const { skip, comment } = isSkip(source, skipCheckName, i + 1);
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
                 appendFileSync(summary_file, output + "\n");

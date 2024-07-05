@@ -1,1 +1,16 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts/modexp.json
+2024-07-05T09:50:27.135Z [PASSED] 5/9,0 modexp 1/152 data:0,gas:0,value:0  
+2024-07-05T09:50:29.376Z [PASSED] 5/9,0 modexp 2/152 data:0,gas:1,value:0  
+2024-07-05T09:50:31.600Z [PASSED] 5/9,0 modexp 3/152 data:0,gas:2,value:0  
+2024-07-05T09:50:33.831Z [PASSED] 5/9,0 modexp 4/152 data:0,gas:3,value:0  
+2024-07-05T09:50:36.082Z [PASSED] 5/9,0 modexp 5/152 data:6,gas:0,value:0  
+2024-07-05T09:50:39.626Z [PASSED] 5/9,0 modexp 6/152 data:6,gas:1,value:0  
+2024-07-05T09:50:41.874Z [PASSED] 5/9,0 modexp 7/152 data:6,gas:2,value:0  
+2024-07-05T09:50:44.105Z [PASSED] 5/9,0 modexp 8/152 data:6,gas:3,value:0  
+2024-07-05T09:50:46.328Z [PASSED] 5/9,0 modexp 9/152 data:7,gas:0,value:0  
+2024-07-05T09:50:48.601Z [PASSED] 5/9,0 modexp 10/152 data:7,gas:1,value:0  
+2024-07-05T09:50:50.837Z [PASSED] 5/9,0 modexp 11/152 data:7,gas:2,value:0  
+2024-07-05T09:50:53.067Z [PASSED] 5/9,0 modexp 12/152 data:7,gas:3,value:0  
+2024-07-05T09:50:55.363Z [FAILED] 5/9,0 modexp 13/152 data:29,gas:0,value:0  {"gas_refund":"0","gas_usage":"98442249","state_root":"0x49c0f041f3d3bec26d80d63f0f8db13f076f6551bd4d1377e201383357f9cce1","expected":"0x4d37d701ec76b74cc76a15349ce3c5603e1ab3941ed88c4f375451762499809e","hash":"0xb948bc65f9f694fe642eb02542d15a60140d3a307b7361de29c0a64d2ae28dfc"}
+2024-07-05T09:50:57.590Z [FAILED] 5/9,0 modexp 14/152 data:29,gas:1,value:0  {"gas_refund":"0","gas_usage":"90000","state_root":"0x00e4d6da439660465c3480f4cfa1d1bae3dc7f68448820bb1af0f60c62d3b439","expected":"0x4d37d701ec76b74cc76a15349ce3c5603e1ab3941ed88c4f375451762499809e","hash":"0x07352901d9e90294b8441e5bc6ebb62fe77b6bd3b1e6b44931b373c37046d247"}
+2024-07-05T09:50:59.818Z [FAILED] 5/9,0 modexp 15/152 data:29,gas:2,value:0  {"gas_refund":"0","gas_usage":"110000","state_root":"0x23a635b0b349803fe3c3ed5a8a7f97c7ec253fd08f93c7fbae50e61cca948294","expected":"0x4d37d701ec76b74cc76a15349ce3c5603e1ab3941ed88c4f375451762499809e","hash":"0x6faf3de29d4bbb43b46772156da29e972fb8dff64c346d578bf339ef20959ebb"}
