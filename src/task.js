@@ -2,7 +2,7 @@ import { HexString } from "aptos";
 import { appendFile, readFile, unlink, writeFile} from "node:fs/promises";
 import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
-import { IGNORE_TEST, SKIP_ALL_LABEL } from "./skip.js";
+import { IGNORE_TEST, SKIP_ALL_LABEL, SKIP_ALL_NAME } from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
@@ -38,7 +38,7 @@ function isSkip(source, name, label) {
         const isSkipLabel =
             skip_labels.includes(SKIP_ALL_LABEL) || label.length === 0 ? true : skip_labels.includes(label);
         const isPathSkip = t.path.includes(source) || source.startsWith(t.path);
-        const isSKipName = skip_names.includes(SKIP_ALL_LABEL) || skip_names.includes(name);
+        const isSKipName = skip_names.includes(SKIP_ALL_NAME) || skip_names.includes(name);
         const isSkip = isSKipName && isSkipLabel && isPathSkip;
         if (isSkip) {
             comment = t.comment;
