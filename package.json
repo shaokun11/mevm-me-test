@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "postinstall": "patch-package",
     "summary": "node src/sum.js",
     "test": "node src/index.js --index 34 | tap-spec"
   },
@@ -19,6 +20,7 @@
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
     "minimist": "^1.2.8",
+    "patch-package": "^8.0.0",
     "tap-spec": "^5.0.0",
     "tape": "^5.8.1"
   }

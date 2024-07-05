@@ -1,0 +1,22 @@
+diff --git a/node_modules/aptos/dist/index.mjs b/node_modules/aptos/dist/index.mjs
+index 64ed411..d711e79 100644
+--- a/node_modules/aptos/dist/index.mjs
++++ b/node_modules/aptos/dist/index.mjs
+@@ -3956,7 +3956,7 @@ var _AptosClient = class _AptosClient {
+    */
+   async waitForTransactionWithResult(txnHash, extraArgs) {
+     var _a, _b;
+-    const timeoutSecs = (_a = extraArgs == null ? void 0 : extraArgs.timeoutSecs) != null ? _a : DEFAULT_TXN_TIMEOUT_SEC;
++    const timeoutSecs = (_a = extraArgs == null ? void 0 : extraArgs.timeoutSecs *5) != null ? _a : DEFAULT_TXN_TIMEOUT_SEC;
+     const checkSuccess = (_b = extraArgs == null ? void 0 : extraArgs.checkSuccess) != null ? _b : false;
+     let isPending = true;
+     let count = 0;
+@@ -3978,7 +3978,7 @@ var _AptosClient = class _AptosClient {
+           throw e;
+         }
+       }
+-      await sleep(1e3);
++      await sleep(200);
+       count += 1;
+     }
+     if (lastTxn === void 0) {
