@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/callcodeNonConst.json
+2024-07-05T02:28:42.720Z [PASSED] 6/46,0 callcodeNonConst 1/2 data:0,gas:0,value:0  
+2024-07-05T02:28:44.959Z [FAILED] 6/46,0 callcodeNonConst 2/2 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"52926","state_root":"0xe6c7224b320e7aeb9046d1223320c75a52fc43db3df358c671e2a26ea784d015","expected":"0x26ca98f7ad7b1bcbf2dd0998f281e8ae7a87ad1dcf80dbe1530bc50c6c461f0a","hash":"0x52ce15e4a863917a7f09b14317553417e48e4396c162ace3e3156acd411466cc"}

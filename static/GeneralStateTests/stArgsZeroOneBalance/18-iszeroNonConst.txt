@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/iszeroNonConst.json
+2024-07-05T02:29:46.101Z [PASSED] 18/46,0 iszeroNonConst 1/2 data:0,gas:0,value:0  

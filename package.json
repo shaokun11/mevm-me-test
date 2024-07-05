@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "summary": "node src/sum.js",
-    "test": "node src/index.js --index 4 | tap-spec"
+    "test": "node src/index.js --index 5 | tap-spec"
   },
   "keywords": [],
   "author": "shaokun",

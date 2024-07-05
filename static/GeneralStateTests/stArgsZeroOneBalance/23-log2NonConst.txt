@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/log2NonConst.json
