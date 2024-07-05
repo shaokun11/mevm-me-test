@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/suicideNonConst.json
-2024-07-05T03:56:04.655Z [ERROR] 44/46,0 suicideNonConst 1/2 data:0,gas:0,value:0  {"error":"Move abort in 0x1::evm_for_test: 0xff","hash":"0xb92307c0c124017deaa8bc003e349bce12dadb7cf54135317ab255824d4073cd","expected":"0x0cf14636c11a7945c00326710e3cef7ce74600266f5ec70bbf9b9116bc26b339"}
-2024-07-05T03:56:06.757Z [ERROR] 44/46,0 suicideNonConst 2/2 data:0,gas:0,value:1  {"error":"Move abort in 0x1::evm_for_test: 0xff","hash":"0x13bf0297153c929bd642fb44757ba961b620b690f8396f02e26daa228737fb29","expected":"0xdee9ad6b4d5bb67997a44336d71aeba77a14d16794fbf489d5bc4059a88aa709"}
+2024-07-05T04:49:50.318Z [SKIP] 44/46,0 suicideNonConst 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-05T04:49:50.320Z [SKIP] 44/46,0 suicideNonConst 2/2 data:0,gas:0,value:1  Not implementation SELFDESTRUCT opcode

@@ -56,4 +56,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: "Not support blob tx",
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/suicideNonConst.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: "Not implementation SELFDESTRUCT opcode",
+    },
 ];
