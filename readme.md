@@ -11,7 +11,7 @@ node src/sum.js
 ```
 
 ### support index 
-```json
+```javascript
     {
         1: "Cancun",
         2: "Pyspecs",
