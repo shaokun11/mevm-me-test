@@ -176,7 +176,7 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            if (i < skipIndex) continue
+            if (i < skipIndex - 1) continue
             let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
                 } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
