@@ -1,1 +1,9 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts/precompsEIP2929Cancun.json
+2024-07-05T10:47:38.785Z [PASSED] 7/9,0 precompsEIP2929Cancun 1/396 data:2,gas:0,value:0 no 
+2024-07-05T10:47:41.061Z [PASSED] 7/9,0 precompsEIP2929Cancun 2/396 data:3,gas:0,value:0 no 
+2024-07-05T10:47:43.327Z [PASSED] 7/9,0 precompsEIP2929Cancun 3/396 data:4,gas:0,value:0 yes 
+2024-07-05T10:47:45.586Z [PASSED] 7/9,0 precompsEIP2929Cancun 4/396 data:5,gas:0,value:0 yes 
+2024-07-05T10:47:47.861Z [PASSED] 7/9,0 precompsEIP2929Cancun 5/396 data:6,gas:0,value:0 yes 
+2024-07-05T10:47:50.143Z [PASSED] 7/9,0 precompsEIP2929Cancun 6/396 data:7,gas:0,value:0 yes 
+2024-07-05T10:47:52.432Z [FAILED] 7/9,0 precompsEIP2929Cancun 7/396 data:8,gas:0,value:0 yes {"gas_refund":"4800","gas_usage":"2133461","state_root":"0x48b9e99c85c46545fb34075dc51a905f5dfa5ceb2e1a38db25f8a920c6e804f0","expected":"0x566e717581671b31c9dee8c0455c30d32fab1664a68cbcdc766eb26c072d6ecc","hash":"0x8a9a5840aba69c1648baebd72596a668732156aadcd9bbad57e7c96c02b3aa87"}
+2024-07-05T10:47:54.709Z [FAILED] 7/9,0 precompsEIP2929Cancun 8/396 data:9,gas:0,value:0 yes {"gas_refund":"4800","gas_usage":"2133461","state_root":"0x48b9e99c85c46545fb34075dc51a905f5dfa5ceb2e1a38db25f8a920c6e804f0","expected":"0x5a87d2c8c8abd8d2031893cef3bcd7798ae096ececdc0edb1a9a6c675a8a8f71","hash":"0xb2517745a33ffd18b89cc22915d3e1f408b3df083348ce33b1e727ca37827629"}
