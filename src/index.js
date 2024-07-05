@@ -2,6 +2,7 @@ import fg from "fast-glob";
 import { SUPPORT_DIR } from "./comm.js";
 import { runTask } from "./task.js";
 import parse from "minimist"
+import { skip } from "tape";
 const args = parse(process.argv.slice(2))
 let testDir = "ethereum-tests/GeneralStateTests/"
 
@@ -34,6 +35,7 @@ for (let i = 7; i < files.length; i++) {
         source: files[i],
         account: 0,
         all: files.length,
+        skipIndex: 0
     });
     break;
 }

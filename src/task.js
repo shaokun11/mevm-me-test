@@ -78,7 +78,7 @@ async function saveMulEnvJson(source, index, data) {
 }
 
 export async function runTask(opt) {
-    const { index, source, account, all } = opt;
+    const { index, source, account, all, skipIndex } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const summary_file = getNewFileName(source, index);
     await unlink(summary_file).catch(() => { });
@@ -176,6 +176,7 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
+            if (i < skipIndex) continue
             let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
                 } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
