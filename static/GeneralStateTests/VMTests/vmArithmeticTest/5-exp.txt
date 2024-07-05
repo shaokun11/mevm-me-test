@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json
-2024-07-03T09:55:24.320Z [PASSED] 5 exp 1/11 {"data":3,"gas":0,"value":0} exp_2_2 
-2024-07-03T09:55:26.863Z [PASSED] 5 exp 2/11 {"data":7,"gas":0,"value":0} exp_neg1_neg2 
-2024-07-03T09:55:29.396Z [PASSED] 5 exp 3/11 {"data":9,"gas":0,"value":0} exp_big_big 
-2024-07-03T09:55:31.944Z [PASSED] 5 exp 4/11 {"data":0,"gas":0,"value":0} exp_0_big 
-2024-07-03T09:55:34.505Z [PASSED] 5 exp 5/11 {"data":1,"gas":0,"value":0} exp_big_0 
-2024-07-03T09:55:37.050Z [PASSED] 5 exp 6/11 {"data":2,"gas":0,"value":0} exp_257_1 
-2024-07-03T09:55:39.611Z [PASSED] 5 exp 7/11 {"data":4,"gas":0,"value":0} exp_1_257 
-2024-07-03T09:55:42.165Z [PASSED] 5 exp 8/11 {"data":5,"gas":0,"value":0} exp_2_257 
-2024-07-03T09:55:44.743Z [PASSED] 5 exp 9/11 {"data":6,"gas":0,"value":0} exp_0_0 
-2024-07-03T09:55:47.303Z [PASSED] 5 exp 10/11 {"data":8,"gas":0,"value":0} exp_2_big 
-2024-07-03T09:55:49.875Z [PASSED] 5 exp 11/11 {"data":10,"gas":0,"value":0} exp_2_15 
+2024-07-05T02:03:54.755Z [PASSED] 5,0 exp 1/11 data:3,gas:0,value:0 exp_2_2 
+2024-07-05T02:03:56.987Z [PASSED] 5,0 exp 2/11 data:7,gas:0,value:0 exp_neg1_neg2 
+2024-07-05T02:03:59.204Z [PASSED] 5,0 exp 3/11 data:9,gas:0,value:0 exp_big_big 
+2024-07-05T02:04:01.419Z [PASSED] 5,0 exp 4/11 data:0,gas:0,value:0 exp_0_big 
+2024-07-05T02:04:03.646Z [PASSED] 5,0 exp 5/11 data:1,gas:0,value:0 exp_big_0 
+2024-07-05T02:04:07.232Z [PASSED] 5,0 exp 6/11 data:2,gas:0,value:0 exp_257_1 
+2024-07-05T02:04:09.452Z [PASSED] 5,0 exp 7/11 data:4,gas:0,value:0 exp_1_257 
+2024-07-05T02:04:11.657Z [PASSED] 5,0 exp 8/11 data:5,gas:0,value:0 exp_2_257 
+2024-07-05T02:04:13.867Z [PASSED] 5,0 exp 9/11 data:6,gas:0,value:0 exp_0_0 
+2024-07-05T02:04:16.090Z [PASSED] 5,0 exp 10/11 data:8,gas:0,value:0 exp_2_big 
+2024-07-05T02:04:18.292Z [PASSED] 5,0 exp 11/11 data:10,gas:0,value:0 exp_2_15 

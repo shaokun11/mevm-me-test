@@ -1,5 +1,5 @@
 import { HexString } from "aptos";
-import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
+import { appendFile, readFile, unlink, writeFile} from "node:fs/promises";
 import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import { IGNORE_TEST, SKIP_ALL_LABEL } from "./skip.js";
@@ -8,7 +8,6 @@ import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
 import fse from "fs-extra/esm";
 import path from "node:path";
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const client = new AptosClient(NODE_URL);
 
 let SENDER_ACCOUNT;
@@ -79,16 +78,16 @@ async function saveMulEnvJson(source, index, data) {
 }
 
 export async function runTask(opt) {
-    const { index, source, account } = opt;
+    const { index, source, account, all } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const summary_file = getNewFileName(source, index);
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch(() => {});
     await appendFile(summary_file, source + "\n");
     const testCase = JSON.parse((await readFile(source, "utf8")).toString());
     const testEnvs = Object.values(testCase);
     const testNames = Object.keys(testCase);
     for (let i = 0; i < testNames.length; i++) {
-        const name = `${index},${i} ` + testNames[i];
+        const name = `${index}/${all},${i} ` + testNames[i];
         const skipCheckName = testNames[i];
         const json = testEnvs[i];
         const pre = json["pre"];
@@ -177,8 +176,9 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
-                } ${label}`;
+            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${
+                indexes.value
+            } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, label);
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;

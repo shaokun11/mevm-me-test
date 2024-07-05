@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/Shanghai/stEIP3651-warmcoinbase/coinbaseWarmAccountCallGas.json
+2024-07-05T01:57:46.635Z [PASSED] 0,0 coinbaseWarmAccountCallGas 1/8 data:0,gas:0,value:0  
+2024-07-05T01:57:48.869Z [PASSED] 0,0 coinbaseWarmAccountCallGas 2/8 data:1,gas:0,value:0  
+2024-07-05T01:57:52.407Z [PASSED] 0,0 coinbaseWarmAccountCallGas 3/8 data:2,gas:0,value:0  
+2024-07-05T01:57:54.618Z [PASSED] 0,0 coinbaseWarmAccountCallGas 4/8 data:3,gas:0,value:0  
+2024-07-05T01:57:56.824Z [PASSED] 0,0 coinbaseWarmAccountCallGas 5/8 data:4,gas:0,value:0  
+2024-07-05T01:57:59.031Z [PASSED] 0,0 coinbaseWarmAccountCallGas 6/8 data:5,gas:0,value:0  
+2024-07-05T01:58:01.265Z [PASSED] 0,0 coinbaseWarmAccountCallGas 7/8 data:6,gas:0,value:0  
+2024-07-05T01:58:03.476Z [PASSED] 0,0 coinbaseWarmAccountCallGas 8/8 data:7,gas:0,value:0  

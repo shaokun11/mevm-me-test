@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mload.json
-2024-07-03T10:09:17.802Z [PASSED] 37 mload 1/3 {"data":0,"gas":0,"value":0} mload 
-2024-07-03T10:09:20.417Z [PASSED] 37 mload 2/3 {"data":1,"gas":0,"value":0} mloadOOG 
-2024-07-03T10:09:23.015Z [PASSED] 37 mload 3/3 {"data":2,"gas":0,"value":0} mloadOOG 
+2024-07-05T02:16:02.709Z [PASSED] 37,0 mload 1/3 data:0,gas:0,value:0 mload 
+2024-07-05T02:16:04.914Z [PASSED] 37,0 mload 2/3 data:1,gas:0,value:0 mloadOOG 
+2024-07-05T02:16:07.122Z [PASSED] 37,0 mload 3/3 data:2,gas:0,value:0 mloadOOG 

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/arith.json
-2024-07-03T09:50:43.933Z [PASSED] 2 arith 1/1 {"data":0,"gas":0,"value":0}  
+2024-07-05T01:59:52.482Z [PASSED] 2,0 arith 1/1 data:0,gas:0,value:0  

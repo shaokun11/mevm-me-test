@@ -1,7 +1,7 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/smod.json
-2024-07-03T09:58:56.160Z [PASSED] 16 smod 1/6 {"data":0,"gas":0,"value":0} smod_2_3 
-2024-07-03T09:58:58.664Z [PASSED] 16 smod 2/6 {"data":1,"gas":0,"value":0} smod_neg1_2 
-2024-07-03T09:59:01.189Z [PASSED] 16 smod 3/6 {"data":2,"gas":0,"value":0} smod_0_neg1 
-2024-07-03T09:59:03.703Z [PASSED] 16 smod 4/6 {"data":3,"gas":0,"value":0} smod_3_0 
-2024-07-03T09:59:06.238Z [PASSED] 16 smod 5/6 {"data":4,"gas":0,"value":0} smod_neg2_3 
-2024-07-03T09:59:10.132Z [PASSED] 16 smod 6/6 {"data":5,"gas":0,"value":0} smod_16_0 
+2024-07-05T02:07:00.159Z [PASSED] 16,0 smod 1/6 data:0,gas:0,value:0 smod_2_3 
+2024-07-05T02:07:02.375Z [PASSED] 16,0 smod 2/6 data:1,gas:0,value:0 smod_neg1_2 
+2024-07-05T02:07:04.593Z [PASSED] 16,0 smod 3/6 data:2,gas:0,value:0 smod_0_neg1 
+2024-07-05T02:07:06.812Z [PASSED] 16,0 smod 4/6 data:3,gas:0,value:0 smod_3_0 
+2024-07-05T02:07:09.020Z [PASSED] 16,0 smod 5/6 data:4,gas:0,value:0 smod_neg2_3 
+2024-07-05T02:07:11.241Z [PASSED] 16,0 smod 6/6 data:5,gas:0,value:0 smod_16_0 
