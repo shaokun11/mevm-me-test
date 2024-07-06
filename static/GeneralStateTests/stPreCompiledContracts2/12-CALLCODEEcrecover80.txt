@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover80.json
-2024-07-06T04:12:36.862Z [ERROR] 12/102,0 CALLCODEEcrecover80 1/1 data:0,gas:0,value:0  {"error":"Move abort in 0x1::option: EOPTION_NOT_SET(0x40001): The `Option` is in an invalid state for the operation attempted.\n The `Option` is `None` while it should be `Some`.","hash":"0xdd8d43fda37c97006b3423b6ef9aa94d8c7ae0d2a4cdfc21ff8460ae989297aa","expected":"0x559edadd93c9864c4ad566d1182710633b5c8d4cc7e9c22ea0684e9c7ef31174"}
+2024-07-06T04:51:02.922Z [PASSED] 12/102,0 CALLCODEEcrecover80 1/1 data:0,gas:0,value:0  
