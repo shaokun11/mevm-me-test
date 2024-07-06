@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallEcrecoverInvalidSignature.json
-2024-07-06T13:36:18.611Z [FAILED] 60/102,0 CallEcrecoverInvalidSignature 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"26356","state_root":"0x0b2b04e4a02a503750191af3f127aba5fe4e2bf0fc0305cb40fb7b779341ff12","expected":"0x4741ed853d560955c0a4766ebcbb15cc48ebd77902efbc3906c25107e3cc8ebf","hash":"0xf47641ea0db696de9fe1b306034285955f21ff2f866f9d7520df4515bd4bede6"}
+2024-07-06T14:08:26.313Z [PASSED] 60/102,0 CallEcrecoverInvalidSignature 1/1 data:0,gas:0,value:0  
