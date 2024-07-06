@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallEcrecover80.json
+2024-07-06T13:36:12.929Z [PASSED] 56/102,0 CallEcrecover80 1/1 data:0,gas:0,value:0  

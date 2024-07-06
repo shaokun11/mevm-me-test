@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallEcrecoverCheckLengthWrongV.json
+2024-07-06T13:36:15.817Z [FAILED] 58/102,0 CallEcrecoverCheckLengthWrongV 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"70598","state_root":"0x3688a9a7591c7de750864599df6706bb6809b39076cd59f5f438b5d5210415b1","expected":"0x0eee4f9f5692b7eb49ff7148fb4574233ad2f71e69b0dc98d9915f72de6dd236","hash":"0x464df107048e29d3caaf3e2b1ea11e1a6257964d2449bdb1e2081fcf61cf7956"}

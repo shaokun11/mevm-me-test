@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODESha256_2.json
+2024-07-06T13:35:49.042Z [PASSED] 39/102,0 CALLCODESha256_2 1/1 data:0,gas:0,value:0  
