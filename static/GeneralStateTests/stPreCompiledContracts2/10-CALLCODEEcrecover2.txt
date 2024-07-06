@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover2.json
-2024-07-06T04:01:09.369Z [ERROR] 10/102,0 CALLCODEEcrecover2 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::precompile::ecrecover at code offset 10","hash":"0x4bd7234c06e66055f9075bc46f2f3f56f426b165f2f533179c6660c0c299345b","expected":"0x14f386f453e8e448492114ff7bd2a47b78bff6f2774315b5e2e0eae7bf5c635f"}
+2024-07-06T04:12:34.025Z [PASSED] 10/102,0 CALLCODEEcrecover2 1/1 data:0,gas:0,value:0  
