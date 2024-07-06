@@ -18,29 +18,48 @@ const SUMMARY = {
     failed: 0,
     ignore: 0,
     total: 0,
-    errors: []
-}
+    errors: [],
+};
 
+const CHILD_DIR_SUMMARY = {};
+
+const addSummary = (name, key) => {
+    if (!CHILD_DIR_SUMMARY[name]) {
+        CHILD_DIR_SUMMARY[name] = {
+            passed: 0,
+            failed: 0,
+            ignore: 0,
+            total: 0,
+        };
+    }
+    CHILD_DIR_SUMMARY[name][key] += 1;
+    CHILD_DIR_SUMMARY[name].total += 1;
+    SUMMARY.total += 1;
+    SUMMARY[key] += 1;
+};
 
 for (let i = 0; i < files.length; i++) {
     let isErr = false;
     const content = await readFile(files[i], "utf8");
-    const txtArr = content.split("\n").filter(it => it.length > 0);
+    const txtArr = content.split("\n").filter((it) => it.length > 0);
     // the first line is test file path
     const loc = txtArr.shift();
-    txtArr.forEach(line => {
+    const dir = loc.slice(33, loc.slice(33).indexOf("/") + 33);
+    txtArr.forEach((line) => {
         if (line.includes("[PASSED]")) {
-            SUMMARY.passed += 1;
+            addSummary(dir, "passed");
         } else if (line.includes("[SKIP]")) {
-            SUMMARY.ignore += 1
+            addSummary(dir, "ignore");
         } else {
-            SUMMARY.failed += 1
             isErr = true;
+            addSummary(dir, "failed");
         }
     });
     if (isErr) {
         SUMMARY.errors.push(files[i] + " | " + loc);
     }
-    SUMMARY.total += txtArr.length;
 }
-console.log(SUMMARY);
+console.log({
+    ...SUMMARY,
+    ...CHILD_DIR_SUMMARY,
+});
