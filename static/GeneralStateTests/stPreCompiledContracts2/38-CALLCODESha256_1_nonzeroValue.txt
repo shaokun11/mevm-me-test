@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODESha256_1_nonzeroValue.json
