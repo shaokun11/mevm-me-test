@@ -1,0 +1,10 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/badOpcodes.json
+2024-07-07T07:38:24.442Z [SKIP] 0/121,0 badOpcodes 109/117 data:24,gas:0,value:0  Not support blob tx
+2024-07-07T07:38:25.716Z [SKIP] 0/121,0 badOpcodes 110/117 data:25,gas:0,value:0  Not support blob tx
+2024-07-07T07:38:26.981Z [PASSED] 0/121,0 badOpcodes 111/117 data:31,gas:0,value:0  
+2024-07-07T07:38:28.246Z [PASSED] 0/121,0 badOpcodes 112/117 data:32,gas:0,value:0  
+2024-07-07T07:38:29.517Z [PASSED] 0/121,0 badOpcodes 113/117 data:33,gas:0,value:0  
+2024-07-07T07:38:30.788Z [PASSED] 0/121,0 badOpcodes 114/117 data:34,gas:0,value:0  
+2024-07-07T07:38:32.061Z [PASSED] 0/121,0 badOpcodes 115/117 data:21,gas:0,value:0  
+2024-07-07T07:38:33.322Z [PASSED] 0/121,0 badOpcodes 116/117 data:22,gas:0,value:0  
+2024-07-07T07:38:34.588Z [FAILED] 0/121,0 badOpcodes 117/117 data:110,gas:0,value:0  {"gas_refund":"0","gas_usage":"85422","state_root":"0xce73d30cd68a5e90226a058b0f2aaf2c1f227b292563fa1b834e28f08baad49f","expected":"0x754e2c643fb77b6708e6dd5ca65b0e0fcc00e84d08e8639a34fcb9538f50dd82","hash":"0xdf89655f8bcc708047b8bf662712d28c078b7dbfe1d236688042f886b5dc619e"}

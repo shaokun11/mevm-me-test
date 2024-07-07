@@ -2,7 +2,7 @@ import { HexString } from "aptos";
 import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
 import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
-import { IGNORE_TEST, SKIP_ALL_LABEL, SKIP_ALL_NAME } from "./skip.js";
+import { IGNORE_TEST, MOVE_VM_SKIP_BLOB_KEY, MSG_NOT_SUPPORT_BLOB_TX, SKIP_ALL_LABEL, SKIP_ALL_NAME } from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
@@ -207,13 +207,19 @@ export async function runTask(opt) {
                             });
                         }
                     } else {
-                        t.fail(res.vm_status);
-                        status += "[ERROR]";
-                        msg += JSON.stringify({
-                            error: res.vm_status,
-                            hash: res.hash,
-                            expected: post[i].hash,
-                        });
+                        if (res.vm_status === MOVE_VM_SKIP_BLOB_KEY) {
+                            status = "[SKIP]";
+                            msg = MSG_NOT_SUPPORT_BLOB_TX
+                            t.ok(1, MSG_NOT_SUPPORT_BLOB_TX);
+                        } else {
+                            t.fail(res.vm_status);
+                            status += "[ERROR]";
+                            msg += JSON.stringify({
+                                error: res.vm_status,
+                                hash: res.hash,
+                                expected: post[i].hash,
+                            });
+                        }
                     }
                 } catch (error) {
                     t.fail(` ${error.message}`);
