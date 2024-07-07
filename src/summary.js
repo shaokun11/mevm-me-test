@@ -56,7 +56,7 @@ for (let i = 0; i < files.length; i++) {
         }
     });
     if (isErr) {
-        SUMMARY.errors.push(files[i] + " | " + loc);
+        SUMMARY.errors.push(files[i] + "|" + loc);
     }
 }
 console.log({
