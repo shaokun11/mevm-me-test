@@ -1,1 +1,6 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/measureGas.json
+2024-07-07T14:48:29.762Z [PASSED] 4/121,0 measureGas 1/11 data:0,gas:0,value:0 CREATE 
+2024-07-07T14:48:31.954Z [PASSED] 4/121,0 measureGas 2/11 data:1,gas:0,value:0 CREATE2 
+2024-07-07T14:48:34.186Z [PASSED] 4/121,0 measureGas 3/11 data:2,gas:0,value:0 CALL 
+2024-07-07T14:48:36.845Z [PASSED] 4/121,0 measureGas 4/11 data:3,gas:0,value:0 CALLCODE 
+2024-07-07T14:48:39.042Z [PASSED] 4/121,0 measureGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
