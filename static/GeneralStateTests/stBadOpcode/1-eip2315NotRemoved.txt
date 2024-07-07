@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/eip2315NotRemoved.json
-2024-07-07T10:12:09.098Z [ERROR] 1/121,0 eip2315NotRemoved 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_mcopy_gas at code offset 8","hash":"0xde9b9d49c7c3b7d194f5ea73562ae490bdb1fc25aae873d80356445f760e811c","expected":"0x011474b1769e17f945799ad962cc2c60e7997079b9a0245dd4dc0db8a6ea4a68"}
+2024-07-07T12:18:45.249Z [PASSED] 1/121,0 eip2315NotRemoved 1/1 data:0,gas:0,value:0  
