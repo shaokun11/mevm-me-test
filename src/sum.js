@@ -60,6 +60,8 @@ for (let i = 0; i < files.length; i++) {
     }
 }
 console.log({
+    date: new Date().toISOString(),
     ...SUMMARY,
     ...CHILD_DIR_SUMMARY,
+
 });
