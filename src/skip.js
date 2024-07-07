@@ -67,4 +67,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stAttackTest",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
+    },
 ];
