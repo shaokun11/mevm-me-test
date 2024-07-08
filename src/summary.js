@@ -63,5 +63,4 @@ console.log({
     date: new Date().toISOString(),
     ...SUMMARY,
     ...CHILD_DIR_SUMMARY,
-
 });

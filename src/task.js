@@ -2,13 +2,27 @@ import { HexString } from "aptos";
 import { appendFile, readFile, unlink, writeFile } from "node:fs/promises";
 import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
-import { IGNORE_TEST, MOVE_VM_SKIP_BLOB_KEY, MSG_NOT_SUPPORT_BLOB_TX, SKIP_ALL_LABEL, SKIP_ALL_NAME } from "./skip.js";
+import {
+    IGNORE_TEST,
+    MOVE_VM_SKIP_BLOB_KEY,
+    MSG_NOT_SUPPORT_BLOB_TX,
+    SKIP_ALL_LABEL,
+    SKIP_ALL_NAME,
+} from "./skip.js";
 import { AptosClient } from "aptos";
 import { NODE_URL } from "./config.js";
 import { appendFileSync } from "node:fs";
 import fse from "fs-extra/esm";
 import path from "node:path";
 const client = new AptosClient(NODE_URL);
+
+const RUN_STATUS = {
+    PASSED: "[PASSED]",
+    FAILED: "[FAILED]",
+    ERROR: "[ERROR]",
+    EXCEPTION: "[EXCEPTION]",
+    SKIP: "[SKIP]",
+};
 
 let SENDER_ACCOUNT;
 export async function sendTx(payload) {
@@ -81,7 +95,7 @@ export async function runTask(opt) {
     const { index, source, account, all, skipIndex } = opt;
     SENDER_ACCOUNT = SENDER_ACCOUNTS[account];
     const summary_file = getNewFileName(source, index);
-    await unlink(summary_file).catch(() => { });
+    await unlink(summary_file).catch(() => {});
     await appendFile(summary_file, source + "\n");
     const testCase = JSON.parse((await readFile(source, "utf8")).toString());
     const testEnvs = Object.values(testCase);
@@ -94,14 +108,14 @@ export async function runTask(opt) {
         const post = json["post"][TEST_FORK];
         if (!post || post.length === 0) {
             const msg = "No " + TEST_FORK + " post state found";
-            const output = `${new Date().toISOString()} [SKIP] ${name} ${msg}`;
+            const output = `${new Date().toISOString()} ${RUN_STATUS.SKIP} ${name} ${msg}`;
             appendFileSync(summary_file, output + "\n");
             continue;
         }
         const tx = json["transaction"];
         if (hasAccessListOrBlob(tx)) {
             const msg = "AccessList or Blob is not supported";
-            const output = `${new Date().toISOString()} [SKIP] ${name} ${msg}`;
+            const output = `${new Date().toISOString()} ${RUN_STATUS.SKIP} ${name} ${msg}`;
             appendFileSync(summary_file, output + "\n");
             continue;
         }
@@ -176,9 +190,10 @@ export async function runTask(opt) {
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
-            if (i < skipIndex - 1) continue
-            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${indexes.value
-                } ${label}`;
+            if (i < skipIndex - 1) continue;
+            let loc = `${name} ${i + 1}/${post.length} data:${indexes.data},gas:${indexes.gas},value:${
+                indexes.value
+            } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
@@ -197,9 +212,9 @@ export async function runTask(opt) {
                         t.equals(root_data.data.state_root, post[i].hash);
 
                         if (post[i].hash === root_data.data.state_root) {
-                            status += "[PASSED]";
+                            status += RUN_STATUS.PASSED;
                         } else {
-                            status += "[FAILED]";
+                            status += RUN_STATUS.FAILED;
                             msg += JSON.stringify({
                                 ...root_data.data,
                                 expected: post[i].hash,
@@ -208,12 +223,12 @@ export async function runTask(opt) {
                         }
                     } else {
                         if (res.vm_status === MOVE_VM_SKIP_BLOB_KEY) {
-                            status = "[SKIP]";
-                            msg = MSG_NOT_SUPPORT_BLOB_TX
+                            status = RUN_STATUS.SKIP;
+                            msg = MSG_NOT_SUPPORT_BLOB_TX;
                             t.ok(1, MSG_NOT_SUPPORT_BLOB_TX);
                         } else {
                             t.fail(res.vm_status);
-                            status += "[ERROR]";
+                            status += RUN_STATUS.FAILED;
                             msg += JSON.stringify({
                                 error: res.vm_status,
                                 hash: res.hash,
@@ -223,7 +238,7 @@ export async function runTask(opt) {
                     }
                 } catch (error) {
                     t.fail(` ${error.message}`);
-                    status += "[EXCEPTION]";
+                    status += RUN_STATUS.EXCEPTION;
                     msg += `${JSON.stringify({
                         error: error.message,
                     })}`;

@@ -1,15 +1,17 @@
 import fg from "fast-glob";
 import { SUPPORT_DIR } from "./comm.js";
 import { runTask } from "./task.js";
-import parse from "minimist"
-const args = parse(process.argv.slice(2))
-let testDir = "ethereum-tests/GeneralStateTests/"
+import parse from "minimist";
+const args = parse(process.argv.slice(2));
+let testDir = "ethereum-tests/GeneralStateTests/";
 
 if (args.index !== 0) {
     // not set index, default to 1
-    const dir = SUPPORT_DIR[args.index || 1]
+    const dir = SUPPORT_DIR[args.index || 1];
     if (!dir) {
-        throw new Error("index must be range from 1 to " + Object.keys(SUPPORT_DIR).length + " or 0 for all tests")
+        throw new Error(
+            "index must be range from 1 to " + Object.keys(SUPPORT_DIR).length + " or 0 for all tests"
+        );
     }
     testDir = testDir + SUPPORT_DIR[args.index || 1] + "/";
 }
@@ -32,7 +34,7 @@ for (let i = 17; i < files.length; i++) {
         source: files[i],
         account: 0,
         all: files.length,
-        skipIndex: 0
+        skipIndex: 0,
     });
     // break;
 }
