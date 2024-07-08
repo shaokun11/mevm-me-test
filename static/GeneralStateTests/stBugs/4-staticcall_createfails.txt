@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stBugs/staticcall_createfails.json
-2024-07-08T06:20:26.139Z [ERROR] 4/5,0 staticcall_createfails 1/2 data:0,gas:0,value:0  {"error":"Move abort in 0x1::evm_trie: 0x2","hash":"0x794b2fdb781637cbacf6b26c854a09960b7b2cb76dbb3a657487e10b38d35c08","expected":"0x2ca98c6cda480e1c1f4f8a2b21a4732345f3629f5aeee55752a006d14e2b009c"}
-2024-07-08T06:20:27.397Z [ERROR] 4/5,0 staticcall_createfails 2/2 data:1,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_create_gas at code offset 6","hash":"0xaac54eb5efb792cc6882ffa04a78f4a22746751e30c152df21eb3356a2ec7535","expected":"0x2ca98c6cda480e1c1f4f8a2b21a4732345f3629f5aeee55752a006d14e2b009c"}
+2024-07-08T06:32:36.557Z [PASSED] 4/5,0 staticcall_createfails 1/2 data:0,gas:0,value:0  
+2024-07-08T06:32:37.830Z [PASSED] 4/5,0 staticcall_createfails 2/2 data:1,gas:0,value:0  
