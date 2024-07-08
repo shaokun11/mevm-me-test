@@ -5,9 +5,7 @@ import parse from "minimist"
 const args = parse(process.argv.slice(2))
 let testDir = "ethereum-tests/GeneralStateTests/"
 
-if (args.index === 0) {
-    // default all tests
-} else {
+if (args.index !== 0) {
     // not set index, default to 1
     const dir = SUPPORT_DIR[args.index || 1]
     if (!dir) {

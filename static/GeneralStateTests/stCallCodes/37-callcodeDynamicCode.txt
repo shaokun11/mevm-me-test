@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcodeDynamicCode.json
-2024-07-08T06:45:23.395Z [PASSED] 37/79,0 callcodeDynamicCode 1/4 data:0,gas:0,value:0  
-2024-07-08T06:45:24.658Z [PASSED] 37/79,0 callcodeDynamicCode 2/4 data:1,gas:0,value:0  
-2024-07-08T06:45:25.931Z [FAILED] 37/79,0 callcodeDynamicCode 3/4 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"230513","state_root":"0x0f42486f6a8791e7fb170d267d9b4380048fc153471ee6761e2dc6216c9fd2f3","expected":"0xa9558d13cf0dc302ff26ba836187132b6d03b0a907e39c1af4443c9f251060b3","hash":"0x926153bb936879827f36a13200a8c82b05789aac4fcd60a5fc7b7f060d110829"}
-2024-07-08T06:45:27.199Z [FAILED] 37/79,0 callcodeDynamicCode 4/4 data:3,gas:0,value:0  {"gas_refund":"0","gas_usage":"230522","state_root":"0xc48e359dd10f7e629190ce50fe8b2869f781804f4820d4bfd75b20a1fe63a5c6","expected":"0x5c9d2a48d958c6d81f65ceb5d4a3fd53a2a9e24b4eae2706c0d80a8621433024","hash":"0x6dc73bdd119d87ab30e7a0242d2fd8e415b845922538fb0ebbb6d3861ccef7c3"}
+2024-07-08T10:51:56.446Z [PASSED] 37/79,0 callcodeDynamicCode 1/4 data:0,gas:0,value:0  
+2024-07-08T10:51:57.712Z [PASSED] 37/79,0 callcodeDynamicCode 2/4 data:1,gas:0,value:0  
+2024-07-08T10:51:58.986Z [PASSED] 37/79,0 callcodeDynamicCode 3/4 data:2,gas:0,value:0  
+2024-07-08T10:52:00.249Z [PASSED] 37/79,0 callcodeDynamicCode 4/4 data:3,gas:0,value:0  

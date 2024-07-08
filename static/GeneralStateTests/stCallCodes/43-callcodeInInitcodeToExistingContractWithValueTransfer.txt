@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExistingContractWithValueTransfer.json
+2024-07-08T10:52:12.937Z [FAILED] 43/79,0 callcodeInInitcodeToExistingContractWithValueTransfer 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"64567","state_root":"0x1f55f84b668b26cb43b4919229b6f4bdb6a8dee9c16f7da9e0674b2431455f4d","expected":"0x8441b2135fe0e244d77798caa8a28537aafaa9d8bb9965f5d14245aa49b0d1f6","hash":"0xe3c25567b37acce62d3857d1829ab283494219d6800cb97db7766d77d8152bb8"}
