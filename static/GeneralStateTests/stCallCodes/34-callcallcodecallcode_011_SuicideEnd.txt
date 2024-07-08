@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_SuicideEnd.json
+2024-07-08T06:45:14.912Z [SKIP] 34/79,0 callcallcodecallcode_011_SuicideEnd 1/1 data:0,gas:0,value:0  Not support blob tx

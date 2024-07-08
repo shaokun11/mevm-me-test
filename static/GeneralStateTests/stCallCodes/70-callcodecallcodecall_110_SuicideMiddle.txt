@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcodecallcodecall_110_SuicideMiddle.json
