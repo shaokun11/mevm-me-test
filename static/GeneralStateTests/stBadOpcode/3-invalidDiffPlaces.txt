@@ -1,36 +1,36 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/invalidDiffPlaces.json
-2024-07-07T14:47:10.751Z [PASSED] 3/121,0 invalidDiffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-07-07T14:47:12.025Z [PASSED] 3/121,0 invalidDiffPlaces 2/35 data:1,gas:0,value:0 normal 
-2024-07-07T14:47:13.289Z [PASSED] 3/121,0 invalidDiffPlaces 3/35 data:2,gas:0,value:0 normal 
-2024-07-07T14:47:14.561Z [PASSED] 3/121,0 invalidDiffPlaces 4/35 data:3,gas:0,value:0  
-2024-07-07T14:47:15.836Z [PASSED] 3/121,0 invalidDiffPlaces 5/35 data:4,gas:0,value:0  
-2024-07-07T14:47:17.113Z [PASSED] 3/121,0 invalidDiffPlaces 6/35 data:5,gas:0,value:0  
-2024-07-07T14:47:18.378Z [PASSED] 3/121,0 invalidDiffPlaces 7/35 data:6,gas:0,value:0  
-2024-07-07T14:47:19.638Z [PASSED] 3/121,0 invalidDiffPlaces 8/35 data:7,gas:0,value:0  
-2024-07-07T14:47:20.912Z [PASSED] 3/121,0 invalidDiffPlaces 9/35 data:8,gas:0,value:0  
-2024-07-07T14:47:22.182Z [PASSED] 3/121,0 invalidDiffPlaces 10/35 data:9,gas:0,value:0  
-2024-07-07T14:47:23.448Z [PASSED] 3/121,0 invalidDiffPlaces 11/35 data:10,gas:0,value:0  
-2024-07-07T14:47:24.712Z [PASSED] 3/121,0 invalidDiffPlaces 12/35 data:11,gas:0,value:0  
-2024-07-07T14:47:25.977Z [PASSED] 3/121,0 invalidDiffPlaces 13/35 data:12,gas:0,value:0  
-2024-07-07T14:47:27.240Z [PASSED] 3/121,0 invalidDiffPlaces 14/35 data:13,gas:0,value:0  
-2024-07-07T14:47:28.502Z [PASSED] 3/121,0 invalidDiffPlaces 15/35 data:14,gas:0,value:0  
-2024-07-07T14:47:29.763Z [PASSED] 3/121,0 invalidDiffPlaces 16/35 data:15,gas:0,value:0  
-2024-07-07T14:47:31.074Z [PASSED] 3/121,0 invalidDiffPlaces 17/35 data:16,gas:0,value:0  
-2024-07-07T14:47:32.349Z [PASSED] 3/121,0 invalidDiffPlaces 18/35 data:17,gas:0,value:0  
-2024-07-07T14:47:33.611Z [PASSED] 3/121,0 invalidDiffPlaces 19/35 data:18,gas:0,value:0  
-2024-07-07T14:47:34.878Z [PASSED] 3/121,0 invalidDiffPlaces 20/35 data:19,gas:0,value:0  
-2024-07-07T14:47:36.141Z [PASSED] 3/121,0 invalidDiffPlaces 21/35 data:20,gas:0,value:0  
-2024-07-07T14:47:37.414Z [PASSED] 3/121,0 invalidDiffPlaces 22/35 data:21,gas:0,value:0  
-2024-07-07T14:47:41.031Z [PASSED] 3/121,0 invalidDiffPlaces 23/35 data:22,gas:0,value:0  
-2024-07-07T14:47:42.302Z [PASSED] 3/121,0 invalidDiffPlaces 24/35 data:23,gas:0,value:0  
-2024-07-07T14:47:44.027Z [PASSED] 3/121,0 invalidDiffPlaces 25/35 data:24,gas:0,value:0  
-2024-07-07T14:47:45.293Z [ERROR] 3/121,0 invalidDiffPlaces 26/35 data:25,gas:0,value:0  {"error":"Execution failed in 0x1::evm_global_state::revert_call_state at code offset 13","hash":"0x2dc273f434d598abf964d107bd8aaa0b365fbeeca772154f17a2d45155d2dbf8","expected":"0xb81d57683ce81699ed0e10329134cd14479a4ab1e4b6603da89f0b57e2226da0"}
-2024-07-07T14:47:46.565Z [PASSED] 3/121,0 invalidDiffPlaces 27/35 data:26,gas:0,value:0  
-2024-07-07T14:47:47.841Z [PASSED] 3/121,0 invalidDiffPlaces 28/35 data:27,gas:0,value:0  
-2024-07-07T14:47:49.582Z [PASSED] 3/121,0 invalidDiffPlaces 29/35 data:28,gas:0,value:0  
-2024-07-07T14:47:51.315Z [PASSED] 3/121,0 invalidDiffPlaces 30/35 data:29,gas:0,value:0  
-2024-07-07T14:47:52.592Z [PASSED] 3/121,0 invalidDiffPlaces 31/35 data:30,gas:0,value:0  
-2024-07-07T14:47:53.867Z [PASSED] 3/121,0 invalidDiffPlaces 32/35 data:31,gas:0,value:0  
-2024-07-07T14:47:55.607Z [PASSED] 3/121,0 invalidDiffPlaces 33/35 data:32,gas:0,value:0  
-2024-07-07T14:47:57.339Z [PASSED] 3/121,0 invalidDiffPlaces 34/35 data:33,gas:0,value:0  
-2024-07-07T14:48:27.105Z [ERROR] 3/121,0 invalidDiffPlaces 35/35 data:34,gas:0,value:0  {"error":"Execution failed in 0x1::option::some at code offset 1","hash":"0x8564b5e77b9046ae9aac774b17c5c81f1bce0b2a118fadfbf8b5a9507cec215a","expected":"0xd67b0f7a0bbaf1eea9a1d56c096b4b224ecab5ffe5be830b95dd1f5142ebe84b"}
+2024-07-08T01:01:17.921Z [PASSED] 3/121,0 invalidDiffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-07-08T01:01:19.197Z [PASSED] 3/121,0 invalidDiffPlaces 2/35 data:1,gas:0,value:0 normal 
+2024-07-08T01:01:20.467Z [PASSED] 3/121,0 invalidDiffPlaces 3/35 data:2,gas:0,value:0 normal 
+2024-07-08T01:01:21.728Z [PASSED] 3/121,0 invalidDiffPlaces 4/35 data:3,gas:0,value:0  
+2024-07-08T01:01:22.997Z [PASSED] 3/121,0 invalidDiffPlaces 5/35 data:4,gas:0,value:0  
+2024-07-08T01:01:24.270Z [PASSED] 3/121,0 invalidDiffPlaces 6/35 data:5,gas:0,value:0  
+2024-07-08T01:01:25.547Z [PASSED] 3/121,0 invalidDiffPlaces 7/35 data:6,gas:0,value:0  
+2024-07-08T01:01:26.854Z [PASSED] 3/121,0 invalidDiffPlaces 8/35 data:7,gas:0,value:0  
+2024-07-08T01:01:28.116Z [PASSED] 3/121,0 invalidDiffPlaces 9/35 data:8,gas:0,value:0  
+2024-07-08T01:01:29.378Z [PASSED] 3/121,0 invalidDiffPlaces 10/35 data:9,gas:0,value:0  
+2024-07-08T01:01:30.651Z [PASSED] 3/121,0 invalidDiffPlaces 11/35 data:10,gas:0,value:0  
+2024-07-08T01:01:31.928Z [PASSED] 3/121,0 invalidDiffPlaces 12/35 data:11,gas:0,value:0  
+2024-07-08T01:01:33.197Z [PASSED] 3/121,0 invalidDiffPlaces 13/35 data:12,gas:0,value:0  
+2024-07-08T01:01:34.461Z [PASSED] 3/121,0 invalidDiffPlaces 14/35 data:13,gas:0,value:0  
+2024-07-08T01:01:35.724Z [PASSED] 3/121,0 invalidDiffPlaces 15/35 data:14,gas:0,value:0  
+2024-07-08T01:01:36.993Z [PASSED] 3/121,0 invalidDiffPlaces 16/35 data:15,gas:0,value:0  
+2024-07-08T01:01:38.253Z [PASSED] 3/121,0 invalidDiffPlaces 17/35 data:16,gas:0,value:0  
+2024-07-08T01:01:39.517Z [PASSED] 3/121,0 invalidDiffPlaces 18/35 data:17,gas:0,value:0  
+2024-07-08T01:01:40.784Z [PASSED] 3/121,0 invalidDiffPlaces 19/35 data:18,gas:0,value:0  
+2024-07-08T01:01:42.042Z [PASSED] 3/121,0 invalidDiffPlaces 20/35 data:19,gas:0,value:0  
+2024-07-08T01:01:43.304Z [PASSED] 3/121,0 invalidDiffPlaces 21/35 data:20,gas:0,value:0  
+2024-07-08T01:01:44.576Z [PASSED] 3/121,0 invalidDiffPlaces 22/35 data:21,gas:0,value:0  
+2024-07-08T01:01:45.838Z [PASSED] 3/121,0 invalidDiffPlaces 23/35 data:22,gas:0,value:0  
+2024-07-08T01:01:47.102Z [PASSED] 3/121,0 invalidDiffPlaces 24/35 data:23,gas:0,value:0  
+2024-07-08T01:01:48.365Z [PASSED] 3/121,0 invalidDiffPlaces 25/35 data:24,gas:0,value:0  
+2024-07-08T01:01:49.628Z [PASSED] 3/121,0 invalidDiffPlaces 26/35 data:25,gas:0,value:0  
+2024-07-08T01:01:51.365Z [PASSED] 3/121,0 invalidDiffPlaces 27/35 data:26,gas:0,value:0  
+2024-07-08T01:01:53.098Z [PASSED] 3/121,0 invalidDiffPlaces 28/35 data:27,gas:0,value:0  
+2024-07-08T01:01:54.371Z [PASSED] 3/121,0 invalidDiffPlaces 29/35 data:28,gas:0,value:0  
+2024-07-08T01:01:56.097Z [PASSED] 3/121,0 invalidDiffPlaces 30/35 data:29,gas:0,value:0  
+2024-07-08T01:01:57.824Z [PASSED] 3/121,0 invalidDiffPlaces 31/35 data:30,gas:0,value:0  
+2024-07-08T01:02:01.420Z [PASSED] 3/121,0 invalidDiffPlaces 32/35 data:31,gas:0,value:0  
+2024-07-08T01:02:03.151Z [PASSED] 3/121,0 invalidDiffPlaces 33/35 data:32,gas:0,value:0  
+2024-07-08T01:02:04.874Z [PASSED] 3/121,0 invalidDiffPlaces 34/35 data:33,gas:0,value:0  
+2024-07-08T01:02:43.480Z [PASSED] 3/121,0 invalidDiffPlaces 35/35 data:34,gas:0,value:0  

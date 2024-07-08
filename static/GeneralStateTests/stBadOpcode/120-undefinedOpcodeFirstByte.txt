@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/undefinedOpcodeFirstByte.json
+2024-07-08T04:04:13.151Z [ERROR] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_exp_gas at code offset 6","hash":"0x7671db903cb632bca574207e34c5638f28161375149b37a49868fa2ea143f8d9","expected":"0xac30448254d8217e8232c4cd7c1638fde81ccf9500a769ffc2b32de3baadc2f5"}
