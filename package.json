@@ -7,7 +7,7 @@
   "scripts": {
     "postinstall": "patch-package",
     "summary": "node src/summary.js",
-    "test": "node src/index.js --index 9 | tap-spec"
+    "test": "node src/index.js --index 10 | tap-spec"
   },
   "keywords": [],
   "author": "shaokun",

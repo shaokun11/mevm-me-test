@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callWithHighValueOOGinCall.json
+2024-07-08T15:00:10.785Z [FAILED] 17/43,0 callWithHighValueOOGinCall 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"64730","state_root":"0xa07f772bbd2a0155857e0fbdba278b7ba6cbf752e9369845a61d2e7f5a25ffc7","expected":"0xa2f2ed71ffd0b9c75ea56c93eda2382962ab3db0c8d632b1b558be96068181df","hash":"0x7fbbebf2a69000b8391759edf50e029335cddcac886ccf79762c14ca49e655e9"}
