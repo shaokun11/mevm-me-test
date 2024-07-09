@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction2.json
-2024-07-09T01:36:54.973Z [FAILED] 33/43,0 createInitFailUndefinedInstruction2 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_call_gas at code offset 9","hash":"0x0550e4917fc46141d1d76d71de2b9dbc0a785105d3a0a266cfa1ec922a40d114","expected":"0xb3c7e5b0f3b4e6c782871de88d84b255f3655fc81f9cec21e920e06ace1bb534"}
+2024-07-09T01:55:18.886Z [SKIP] 33/43,0 createInitFailUndefinedInstruction2 1/1 data:0,gas:0,value:0  Not support blob tx

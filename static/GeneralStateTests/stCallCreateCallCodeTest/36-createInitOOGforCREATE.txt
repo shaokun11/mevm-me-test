@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitOOGforCREATE.json
+2024-07-09T01:55:36.107Z [PASSED] 36/43,0 createInitOOGforCREATE 1/2 data:0,gas:0,value:0  
+2024-07-09T01:55:37.394Z [SKIP] 36/43,0 createInitOOGforCREATE 2/2 data:0,gas:1,value:0  Not support blob tx
