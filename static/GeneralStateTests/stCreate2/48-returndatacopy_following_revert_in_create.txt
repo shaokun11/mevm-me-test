@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCreate2/returndatacopy_following_revert_in_create.json

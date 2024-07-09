@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCreate2/call_then_create2_successful_then_returndatasize.json

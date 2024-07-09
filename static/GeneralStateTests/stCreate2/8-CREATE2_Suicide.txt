@@ -1,0 +1,13 @@
+ethereum-tests/GeneralStateTests/stCreate2/CREATE2_Suicide.json
+2024-07-09T11:45:10.216Z [SKIP] 8/51,0 CREATE2_Suicide 1/12 data:0,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:13.048Z [SKIP] 8/51,0 CREATE2_Suicide 2/12 data:1,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:14.393Z [SKIP] 8/51,0 CREATE2_Suicide 3/12 data:2,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:15.774Z [SKIP] 8/51,0 CREATE2_Suicide 4/12 data:3,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:18.430Z [SKIP] 8/51,0 CREATE2_Suicide 5/12 data:4,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:20.324Z [SKIP] 8/51,0 CREATE2_Suicide 6/12 data:5,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:22.054Z [SKIP] 8/51,0 CREATE2_Suicide 7/12 data:6,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:23.406Z [SKIP] 8/51,0 CREATE2_Suicide 8/12 data:7,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:25.597Z [SKIP] 8/51,0 CREATE2_Suicide 9/12 data:8,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:26.945Z [SKIP] 8/51,0 CREATE2_Suicide 10/12 data:9,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:28.290Z [SKIP] 8/51,0 CREATE2_Suicide 11/12 data:10,gas:0,value:0  Not support blob tx
+2024-07-09T11:45:29.422Z [SKIP] 8/51,0 CREATE2_Suicide 12/12 data:11,gas:0,value:0  Not support blob tx

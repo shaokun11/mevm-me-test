@@ -142,7 +142,7 @@ export async function runTask(opt) {
             addresses.push(toBuffer(k));
             codes.push(toBuffer(v["code"]));
             balances.push(toBuffer(v["balance"]));
-            nonces.push(parseInt(v["nonce"]));
+            nonces.push(toBuffer(v["nonce"]));
             const storage_map = v["storage"];
             if (storage_map) {
                 const keys = [];
