@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/Create2OOGafterInitCodeReturndata.json
-2024-07-09T11:46:21.835Z [PASSED] 11/51,0 Create2OOGafterInitCodeReturndata 1/2 data:0,gas:0,value:0  
-2024-07-09T11:46:25.022Z [FAILED] 11/51,0 Create2OOGafterInitCodeReturndata 2/2 data:0,gas:1,value:0  {"gas_refund":"0","gas_usage":"64081","state_root":"0x7a16b9bf21355dd79d1de41afa47f34c78043210139608ea3e510aa6502a7377","expected":"0xd6f8386072f1d9d22d711cc0a31382e107a5eea67ed8077205c3af71400c6fbe","hash":"0xf0e13f44348d01350d1563ff48d8ce37b642f8844d9dda562322ce10608fa3cd"}
+2024-07-09T14:37:26.653Z [PASSED] 11/51,0 Create2OOGafterInitCodeReturndata 1/2 data:0,gas:0,value:0  
+2024-07-09T14:37:29.173Z [PASSED] 11/51,0 Create2OOGafterInitCodeReturndata 2/2 data:0,gas:1,value:0  
