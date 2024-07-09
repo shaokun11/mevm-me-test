@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailBadJumpDestination2.json
+2024-07-09T01:29:28.142Z [SKIP] 29/43,0 createInitFailBadJumpDestination2 1/1 data:0,gas:0,value:0  Not support blob tx

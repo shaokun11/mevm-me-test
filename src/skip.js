@@ -74,4 +74,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_DROP_FROM_MOVE_VM,
+    },
 ];

@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction.json
+2024-07-09T01:36:53.691Z [PASSED] 32/43,0 createInitFailUndefinedInstruction 1/1 data:0,gas:0,value:0  

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Callcode1024OOG.json
-2024-07-08T14:59:21.661Z [PASSED] 6/43,0 Callcode1024OOG 1/2 data:0,gas:0,value:0  
-2024-07-08T14:59:40.635Z [PASSED] 6/43,0 Callcode1024OOG 2/2 data:0,gas:1,value:0  
+2024-07-09T01:28:23.068Z [PASSED] 6/43,0 Callcode1024OOG 1/2 data:0,gas:0,value:0  
+2024-07-09T01:28:39.297Z [PASSED] 6/43,0 Callcode1024OOG 2/2 data:0,gas:1,value:0  
