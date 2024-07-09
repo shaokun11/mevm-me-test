@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createNameRegistratorendowmentTooHigh.json
-2024-07-09T02:39:19.970Z [FAILED] 42/43,0 createNameRegistratorendowmentTooHigh 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"55226","state_root":"0x12e062dd242a9a88da3596b0c3798cec9b57f8f1a4d9aa95750edf248782e912","expected":"0x74d5cd8340558540978d6ebd6d42adf00a33919897b12ab538f5aad96866b242","hash":"0x5d20a4c65b6964b3d88dcafa10dc03567591056a608e9b69fb93b2d238951b45"}
+2024-07-09T03:50:55.147Z [PASSED] 42/43,0 createNameRegistratorendowmentTooHigh 1/1 data:0,gas:0,value:0  
