@@ -4,7 +4,13 @@ import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import {
     IGNORE_TEST,
+    MOVE_VM_SKIP_BLOB_BASEFEE_KEY,
+    MOVE_VM_SKIP_BLOB_HASH_KEY,
     MOVE_VM_SKIP_BLOB_KEY,
+    MOVE_VM_SKIP_SELFDESTRUCT_KEY,
+    MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
+    MSG_NOT_SUPPORT_BLOB_BASEFEE,
+    MSG_NOT_SUPPORT_BLOB_HASH,
     MSG_NOT_SUPPORT_BLOB_TX,
     SKIP_ALL_LABEL,
     SKIP_ALL_NAME,
@@ -226,6 +232,18 @@ export async function runTask(opt) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_SUPPORT_BLOB_TX;
                             t.ok(1, MSG_NOT_SUPPORT_BLOB_TX);
+                        } else if (res.vm_status === MOVE_VM_SKIP_SELFDESTRUCT_KEY) {
+                            status = RUN_STATUS.SKIP;
+                            msg = MSG_NOT_IMPLEMENTED_SELFDESTRUCT;
+                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
+                        } else if (res.vm_status === MOVE_VM_SKIP_BLOB_HASH_KEY) {
+                            status = RUN_STATUS.SKIP;
+                            msg = MSG_NOT_SUPPORT_BLOB_HASH;
+                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
+                        } else if (res.vm_status === MOVE_VM_SKIP_BLOB_BASEFEE_KEY) {
+                            status = RUN_STATUS.SKIP;
+                            msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
+                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
                         } else {
                             t.fail(res.vm_status);
                             status += RUN_STATUS.FAILED;

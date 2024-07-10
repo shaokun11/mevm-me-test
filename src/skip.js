@@ -2,11 +2,16 @@ export const SKIP_ALL_LABEL = "__all__";
 export const SKIP_ALL_NAME = "__all__";
 
 const MSG_NO_NEED = "No need to test performance, it depends on the move-vm implementation"
-const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode"
+export const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode"
 const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm"
 const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check"
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx"
+export const MSG_NOT_SUPPORT_BLOB_BASEFEE = "Not support blob basefee opcode"
+export const MSG_NOT_SUPPORT_BLOB_HASH = "Not support blob hash opcode"
 export const MOVE_VM_SKIP_BLOB_KEY = "Move abort in 0x1::evm_for_test: 0x4e2b"
+export const MOVE_VM_SKIP_BLOB_BASEFEE_KEY = "Move abort in 0x1::evm_for_test: 0X4a"
+export const MOVE_VM_SKIP_BLOB_HASH_KEY = "Move abort in 0x1::evm_for_test: 0X49"
+export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "Move abort in 0x1::evm_for_test: 0xff"
 
 export const IGNORE_TEST = [
     {
