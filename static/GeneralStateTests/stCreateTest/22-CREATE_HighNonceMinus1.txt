@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CREATE_HighNonceMinus1.json
+2024-07-10T14:55:10.806Z [PASSED] 22/47,0 CREATE_HighNonceMinus1 1/1 data:0,gas:0,value:0  

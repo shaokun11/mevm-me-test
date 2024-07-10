@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CREATE_ContractRETURNBigOffset.json
+2024-07-10T14:54:22.709Z [PASSED] 3/47,0 CREATE_ContractRETURNBigOffset 1/4 data:0,gas:0,value:0  
+2024-07-10T14:54:24.130Z [PASSED] 3/47,0 CREATE_ContractRETURNBigOffset 2/4 data:1,gas:0,value:0  
+2024-07-10T14:54:25.536Z [PASSED] 3/47,0 CREATE_ContractRETURNBigOffset 3/4 data:2,gas:0,value:0  
+2024-07-10T14:54:26.940Z [PASSED] 3/47,0 CREATE_ContractRETURNBigOffset 4/4 data:3,gas:0,value:0  

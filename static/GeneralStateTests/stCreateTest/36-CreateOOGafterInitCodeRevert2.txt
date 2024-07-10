@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterInitCodeRevert2.json

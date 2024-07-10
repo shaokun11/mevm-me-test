@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CREATE_EmptyContract.json
+2024-07-10T14:54:42.446Z [PASSED] 13/47,0 CREATE_EmptyContract 1/1 data:0,gas:0,value:0  
