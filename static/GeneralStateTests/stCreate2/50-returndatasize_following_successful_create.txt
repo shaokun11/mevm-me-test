@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/returndatasize_following_successful_create.json
+2024-07-10T14:53:25.089Z [PASSED] 50/51,0 returndatasize_following_successful_create 1/1 data:0,gas:0,value:0  
