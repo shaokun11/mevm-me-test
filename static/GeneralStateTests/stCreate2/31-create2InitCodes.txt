@@ -1,1 +1,5 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2InitCodes.json
+2024-07-10T10:12:54.359Z [PASSED] 31/51,0 create2InitCodes 1/9 data:0,gas:0,value:0  
+2024-07-10T10:12:55.768Z [PASSED] 31/51,0 create2InitCodes 2/9 data:1,gas:0,value:0  
+2024-07-10T10:12:57.177Z [PASSED] 31/51,0 create2InitCodes 3/9 data:2,gas:0,value:0  
+2024-07-10T10:12:59.190Z [PASSED] 31/51,0 create2InitCodes 4/9 data:3,gas:0,value:0  
