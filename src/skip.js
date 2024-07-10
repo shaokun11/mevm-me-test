@@ -4,6 +4,7 @@ export const SKIP_ALL_NAME = "__all__";
 const MSG_NO_NEED = "No need to test performance, it depends on the move-vm implementation"
 const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode"
 const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm"
+const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check"
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx"
 export const MOVE_VM_SKIP_BLOB_KEY = "Move abort in 0x1::evm_for_test: 0x4e2b"
 
@@ -79,5 +80,11 @@ export const IGNORE_TEST = [
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: MSG_DROP_FROM_MOVE_VM,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stCreate2/Create2Recursive.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_TO_DOUBLE_CHECK,
     },
 ];

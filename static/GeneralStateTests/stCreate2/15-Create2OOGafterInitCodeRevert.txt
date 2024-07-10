@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/Create2OOGafterInitCodeRevert.json
-2024-07-09T14:37:38.406Z [FAILED] 15/51,0 Create2OOGafterInitCodeRevert 1/1 data:0,gas:0,value:0  {"gas_refund":"4800","gas_usage":"56892","state_root":"0xe6575ca90a240316f58df5939e72353cdc482b4a8b925c0ee8777c645ad5e77c","expected":"0xacd30437d265301dc2e1725cdbbf9d9094753ffaf56bb310edd04e028e12ddba","hash":"0x2313c1354accb9f6bcc48adc9c7aef74b3e173f6ecb5bfbd2bf0c4a7b19249d8"}
+2024-07-10T06:14:45.974Z [PASSED] 15/51,0 Create2OOGafterInitCodeRevert 1/1 data:0,gas:0,value:0  
