@@ -1,1 +1,5 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2collisionBalance.json
+2024-07-10T13:51:35.874Z [PASSED] 35/51,0 create2collisionBalance 1/4 data:0,gas:0,value:0  
+2024-07-10T13:51:37.645Z [PASSED] 35/51,0 create2collisionBalance 2/4 data:1,gas:0,value:0  
+2024-07-10T13:51:39.436Z [PASSED] 35/51,0 create2collisionBalance 3/4 data:2,gas:0,value:0  
+2024-07-10T13:51:40.719Z [PASSED] 35/51,0 create2collisionBalance 4/4 data:3,gas:0,value:0  

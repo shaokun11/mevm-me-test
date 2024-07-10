@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/call_outsize_then_create2_successful_then_returndatasize.json
-2024-07-10T10:12:49.585Z [FAILED] 29/51,0 call_outsize_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67104","state_root":"0xe2343336028a4c2923c81be4240bc13d33dabf4cbbd77167d8970de4e4ba4a45","expected":"0x7acbe2f5145f114ef6d01f0d2dcd2e5cd5c5b3e7618d05d3f0a71dbfa8cbaffc","hash":"0x17f48dfc23ba608da4429f698931533c23582b83822458cb65e7dfecc3c9f123"}
+2024-07-10T10:51:48.134Z [PASSED] 29/51,0 call_outsize_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

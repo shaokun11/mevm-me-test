@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/call_then_create2_successful_then_returndatasize.json
-2024-07-10T10:12:52.592Z [FAILED] 30/51,0 call_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67104","state_root":"0x0bf88e3f36d63504063064f1106644a6f918c96dbbf7155608f1d81b26917115","expected":"0xa80e765f10324188b7b95c80adf15a047e5383dc8f9e2c08af7b0c53073b4918","hash":"0x64f9f249c630f063dd20c01bc1ad80fc1e5a4bec5ff3fd1f79ce931abeee32b2"}
+2024-07-10T10:51:49.878Z [PASSED] 30/51,0 call_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

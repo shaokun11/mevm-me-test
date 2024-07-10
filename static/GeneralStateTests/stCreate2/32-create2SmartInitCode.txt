@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2SmartInitCode.json
+2024-07-10T10:52:15.484Z [SKIP] 32/51,0 create2SmartInitCode 1/2 data:0,gas:0,value:0  Not support blob tx
+2024-07-10T10:52:17.683Z [PASSED] 32/51,0 create2SmartInitCode 2/2 data:1,gas:0,value:0  

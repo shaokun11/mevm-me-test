@@ -1,5 +1,10 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2InitCodes.json
-2024-07-10T10:12:54.359Z [PASSED] 31/51,0 create2InitCodes 1/9 data:0,gas:0,value:0  
-2024-07-10T10:12:55.768Z [PASSED] 31/51,0 create2InitCodes 2/9 data:1,gas:0,value:0  
-2024-07-10T10:12:57.177Z [PASSED] 31/51,0 create2InitCodes 3/9 data:2,gas:0,value:0  
-2024-07-10T10:12:59.190Z [PASSED] 31/51,0 create2InitCodes 4/9 data:3,gas:0,value:0  
+2024-07-10T10:51:51.635Z [PASSED] 31/51,0 create2InitCodes 1/9 data:0,gas:0,value:0  
+2024-07-10T10:51:53.357Z [PASSED] 31/51,0 create2InitCodes 2/9 data:1,gas:0,value:0  
+2024-07-10T10:51:55.077Z [PASSED] 31/51,0 create2InitCodes 3/9 data:2,gas:0,value:0  
+2024-07-10T10:51:56.820Z [PASSED] 31/51,0 create2InitCodes 4/9 data:3,gas:0,value:0  
+2024-07-10T10:51:59.278Z [PASSED] 31/51,0 create2InitCodes 5/9 data:4,gas:0,value:0  
+2024-07-10T10:52:01.740Z [SKIP] 31/51,0 create2InitCodes 6/9 data:5,gas:0,value:0  Not support blob tx
+2024-07-10T10:52:03.539Z [SKIP] 31/51,0 create2InitCodes 7/9 data:6,gas:0,value:0  Not support blob tx
+2024-07-10T10:52:09.466Z [PASSED] 31/51,0 create2InitCodes 8/9 data:7,gas:0,value:0  
+2024-07-10T10:52:11.973Z [PASSED] 31/51,0 create2InitCodes 9/9 data:8,gas:0,value:0  
