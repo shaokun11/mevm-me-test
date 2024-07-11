@@ -161,7 +161,7 @@ export async function runTask(opt) {
             if (tx.gasPrice) {
                 gasPrice.push(toBuffer(tx.gasPrice));
             } else {
-                gasPrice.push(toBuffer(tx.maxPriorityFeePerGas), toBuffer(tx.maxFeePerGas));
+                gasPrice.push(toBuffer(tx.maxFeePerGas), toBuffer(tx.maxPriorityFeePerGas));
             }
             const access_addresses = [];
             const access_storage_keys = [];

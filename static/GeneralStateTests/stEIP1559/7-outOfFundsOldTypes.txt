@@ -1,1 +1,9 @@
 ethereum-tests/GeneralStateTests/stEIP1559/outOfFundsOldTypes.json
+2024-07-11T15:30:29.350Z [PASSED] 7/13,0 outOfFundsOldTypes 1/8 data:0,gas:0,value:0  
+2024-07-11T15:30:31.196Z [PASSED] 7/13,0 outOfFundsOldTypes 2/8 data:0,gas:0,value:1  
+2024-07-11T15:30:32.676Z [PASSED] 7/13,0 outOfFundsOldTypes 3/8 data:1,gas:0,value:0  
+2024-07-11T15:30:34.148Z [PASSED] 7/13,0 outOfFundsOldTypes 4/8 data:1,gas:0,value:1  
+2024-07-11T15:30:36.455Z [PASSED] 7/13,0 outOfFundsOldTypes 5/8 data:0,gas:1,value:0  
+2024-07-11T15:30:37.932Z [PASSED] 7/13,0 outOfFundsOldTypes 6/8 data:1,gas:1,value:0  
+2024-07-11T15:30:39.410Z [PASSED] 7/13,0 outOfFundsOldTypes 7/8 data:0,gas:1,value:1  
+2024-07-11T15:30:41.952Z [PASSED] 7/13,0 outOfFundsOldTypes 8/8 data:1,gas:1,value:1  

@@ -1,4 +1,5 @@
 ethereum-tests/GeneralStateTests/stEIP1559/outOfFunds.json
-2024-07-11T14:48:38.843Z [FAILED] 6/13,0 outOfFunds 1/4 data:0,gas:0,value:0 declaredKeyWrite {"gas_refund":"0","gas_usage":"43110","state_root":"0x557d20c767e90cef0a7dc0629f8e4e0e91c64f4f18a5acb3b45c2c7bbee2fb8f","expected":"0x716ece27b2ad0ec9edbb6bd19f1c37b65f48f10d9c0251b309b14354353da8c7","hash":"0x9ef1257208286aeb1fbb1e40a7fad3a0978ac7cb546cf6f122cf573b2f98a1ca"}
-2024-07-11T14:48:41.287Z [FAILED] 6/13,0 outOfFunds 2/4 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"43110","state_root":"0xb1b528745ef3aab8ca6f487ff9a322299e6990f12ed5211b3325a3a2d2d03fa9","expected":"0x716ece27b2ad0ec9edbb6bd19f1c37b65f48f10d9c0251b309b14354353da8c7","hash":"0x8ded07b7e89ba1a72d2225c427c111afc91af236e28767dcf20619b99396d644"}
-2024-07-11T14:48:42.767Z [PASSED] 6/13,0 outOfFunds 3/4 data:0,gas:1,value:0  
+2024-07-11T15:30:22.138Z [PASSED] 6/13,0 outOfFunds 1/4 data:0,gas:0,value:0 declaredKeyWrite 
+2024-07-11T15:30:24.146Z [PASSED] 6/13,0 outOfFunds 2/4 data:0,gas:0,value:1  
+2024-07-11T15:30:25.602Z [PASSED] 6/13,0 outOfFunds 3/4 data:0,gas:1,value:0  
+2024-07-11T15:30:27.334Z [PASSED] 6/13,0 outOfFunds 4/4 data:0,gas:1,value:1  

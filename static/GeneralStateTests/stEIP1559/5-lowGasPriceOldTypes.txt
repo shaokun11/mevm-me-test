@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stEIP1559/lowGasPriceOldTypes.json
-2024-07-11T14:48:35.517Z [FAILED] 5/13,0 lowGasPriceOldTypes 1/2 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"43110","state_root":"0xf6512fa6935c09be8436b1a2d3c7cab3e2ebbf3a7a0e174662024be3062e4e8c","expected":"0x716ece27b2ad0ec9edbb6bd19f1c37b65f48f10d9c0251b309b14354353da8c7","hash":"0xabfb0b58c86e1f18923658f2a6e806ca3749d4323a5a6fa3b1fbdef6858908e3"}
-2024-07-11T14:48:37.338Z [FAILED] 5/13,0 lowGasPriceOldTypes 2/2 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"43122","state_root":"0x315c4f51168db715bcce4a02f5680d089e78af032628ae3f13883f6dc53e0bd7","expected":"0x716ece27b2ad0ec9edbb6bd19f1c37b65f48f10d9c0251b309b14354353da8c7","hash":"0x7635cd9504d7396f6c324f79c59a290a87bc9d4357a8ef9035d7561213696181"}
+2024-07-11T15:30:18.868Z [PASSED] 5/13,0 lowGasPriceOldTypes 1/2 data:0,gas:0,value:0  
+2024-07-11T15:30:20.878Z [PASSED] 5/13,0 lowGasPriceOldTypes 2/2 data:1,gas:0,value:0  
