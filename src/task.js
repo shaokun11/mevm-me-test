@@ -156,14 +156,12 @@ export async function runTask(opt) {
 
         for (let i = 0; i < post.length; i++) {
             const indexes = post[i].indexes;
-            let gasPrice = tx.gasPrice;
-            if (!gasPrice) {
-                gasPrice =
-                    "0x" +
-                    Math.min(
-                        parseInt(env["currentBaseFee"]) + parseInt(tx.maxPriorityFeePerGas),
-                        parseInt(tx.maxFeePerGas)
-                    ).toString(16);
+            const gasPrice = [];
+            const txType = tx.gasPrice ? 0 : 1;
+            if (tx.gasPrice) {
+                gasPrice.push(toBuffer(tx.gasPrice));
+            } else {
+                gasPrice.push(toBuffer(tx.maxPriorityFeePerGas), toBuffer(tx.maxFeePerGas));
             }
             const access_addresses = [];
             const access_storage_keys = [];
@@ -189,9 +187,10 @@ export async function runTask(opt) {
                     toBuffer(tx.to),
                     toBuffer(tx.data[indexes["data"]]),
                     toBuffer(tx.gasLimit[indexes["gas"]]),
-                    toBuffer(gasPrice),
+                    gasPrice,
                     toBuffer(tx.value[indexes["value"]]),
                     envs,
+                    txType,
                 ],
             };
             let label = info["labels"]?.[i] ?? "";
