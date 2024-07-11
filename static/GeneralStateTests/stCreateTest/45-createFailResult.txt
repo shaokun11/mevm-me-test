@@ -1,1 +1,11 @@
 ethereum-tests/GeneralStateTests/stCreateTest/createFailResult.json
+2024-07-10T16:18:40.077Z [FAILED] 45/47,0 createFailResult 1/10 data:0,gas:0,value:0 CREATE--OOG {"gas_refund":"0","gas_usage":"260075","state_root":"0xf6a68b3d05f93602aa2fb51cc497b068f3125835a4c318d28b63a9f60cb9caac","expected":"0xf40f87d6fe19d24602918d8f7a0f716cd0677ce66fb36c7bf0c4442beb716ffc","hash":"0x70226031bf84057d8e3d85d355dc2cdbc6990bb9df23ccd286df196443f9fa05"}
+2024-07-10T16:18:41.779Z [FAILED] 45/47,0 createFailResult 2/10 data:1,gas:0,value:0 CREATE2-OOG {"gas_refund":"0","gas_usage":"260075","state_root":"0xf6a68b3d05f93602aa2fb51cc497b068f3125835a4c318d28b63a9f60cb9caac","expected":"0xf40f87d6fe19d24602918d8f7a0f716cd0677ce66fb36c7bf0c4442beb716ffc","hash":"0xd910359d80f302b4085ea500cdcf7766aed76890546783deb4e1046280cdabca"}
+2024-07-10T16:18:43.590Z [PASSED] 45/47,0 createFailResult 3/10 data:2,gas:0,value:0 CREATE--GOOD 
+2024-07-10T16:18:45.905Z [PASSED] 45/47,0 createFailResult 4/10 data:3,gas:0,value:0 CREATE2-GOOD 
+2024-07-10T16:18:47.712Z [PASSED] 45/47,0 createFailResult 5/10 data:4,gas:0,value:0 CREATE--BAD 
+2024-07-10T16:18:49.747Z [PASSED] 45/47,0 createFailResult 6/10 data:5,gas:0,value:0 CREATE2-BAD 
+2024-07-10T16:18:52.858Z [PASSED] 45/47,0 createFailResult 7/10 data:6,gas:0,value:0 CREATE2-BOOM 
+2024-07-10T16:18:54.810Z [PASSED] 45/47,0 createFailResult 8/10 data:7,gas:0,value:0 CREATE2-BAD-BOOM 
+2024-07-10T16:18:58.117Z [PASSED] 45/47,0 createFailResult 9/10 data:8,gas:0,value:0 CREATE--BOOM 
+2024-07-10T16:19:01.426Z [PASSED] 45/47,0 createFailResult 10/10 data:9,gas:0,value:0 CREATE--BAD-BOOM 

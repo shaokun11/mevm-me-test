@@ -201,6 +201,7 @@ export async function runTask(opt) {
                 indexes.value
             } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
+
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
                 appendFileSync(summary_file, output + "\n");

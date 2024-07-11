@@ -1,1 +1,27 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CreateResults.json
+2024-07-10T16:16:44.440Z [PASSED] 38/47,0 CreateResults 1/26 data:0,gas:0,value:0  
+2024-07-10T16:16:48.492Z [PASSED] 38/47,0 CreateResults 2/26 data:1,gas:0,value:0  
+2024-07-10T16:16:51.027Z [PASSED] 38/47,0 CreateResults 3/26 data:2,gas:0,value:0  
+2024-07-10T16:16:53.674Z [PASSED] 38/47,0 CreateResults 4/26 data:4,gas:0,value:0  
+2024-07-10T16:16:56.971Z [PASSED] 38/47,0 CreateResults 5/26 data:5,gas:0,value:0  
+2024-07-10T16:17:00.883Z [PASSED] 38/47,0 CreateResults 6/26 data:6,gas:0,value:0  
+2024-07-10T16:17:03.610Z [FAILED] 38/47,0 CreateResults 7/26 data:3,gas:0,value:0  {"gas_refund":"23615","gas_usage":"94463","state_root":"0x5de75c0599e04f829977a344b2b0beedfbbc91b8d9d1e408a133b79e9f5b03e2","expected":"0x4371e2d277af31ed72af934c26477a5c11927b594cf7cc88c91eda91f69a22f2","hash":"0xe667d1f5d79514fdf36a18acb27fae750883fdf75500734a9b6dede7d58d4e86"}
+2024-07-10T16:17:06.904Z [FAILED] 38/47,0 CreateResults 8/26 data:7,gas:0,value:0  {"gas_refund":"23620","gas_usage":"94483","state_root":"0x511f071385fc206ffb4c155f85eca2237cd6f65e9d186607a25d46733268bbc3","expected":"0x6dd56b85174764fc92a5d7a1b280db3ed5e443973b02807d004028df215724fc","hash":"0xa6517b84096bd685f9492ead5302ea154af65cbcb3a729ba2859120fc21e0a56"}
+2024-07-10T16:17:08.754Z [PASSED] 38/47,0 CreateResults 9/26 data:8,gas:0,value:0  
+2024-07-10T16:17:11.271Z [PASSED] 38/47,0 CreateResults 10/26 data:9,gas:0,value:0  
+2024-07-10T16:17:14.120Z [PASSED] 38/47,0 CreateResults 11/26 data:10,gas:0,value:0  
+2024-07-10T16:17:18.800Z [PASSED] 38/47,0 CreateResults 12/26 data:11,gas:0,value:0  
+2024-07-10T16:17:20.984Z [PASSED] 38/47,0 CreateResults 13/26 data:12,gas:0,value:0  
+2024-07-10T16:17:23.112Z [PASSED] 38/47,0 CreateResults 14/26 data:13,gas:0,value:0  
+2024-07-10T16:17:24.963Z [SKIP] 38/47,0 CreateResults 15/26 data:14,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-10T16:17:29.105Z [SKIP] 38/47,0 CreateResults 16/26 data:15,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-10T16:17:32.602Z [PASSED] 38/47,0 CreateResults 17/26 data:16,gas:0,value:0  
+2024-07-10T16:17:35.352Z [PASSED] 38/47,0 CreateResults 18/26 data:17,gas:0,value:0  
+2024-07-10T16:17:37.636Z [PASSED] 38/47,0 CreateResults 19/26 data:18,gas:0,value:0  
+2024-07-10T16:17:39.705Z [PASSED] 38/47,0 CreateResults 20/26 data:19,gas:0,value:0  
+2024-07-10T16:17:42.048Z [PASSED] 38/47,0 CreateResults 21/26 data:20,gas:0,value:0  
+2024-07-10T16:17:44.881Z [PASSED] 38/47,0 CreateResults 22/26 data:21,gas:0,value:0  
+2024-07-10T16:17:46.941Z [PASSED] 38/47,0 CreateResults 23/26 data:22,gas:0,value:0  
+2024-07-10T16:17:49.144Z [PASSED] 38/47,0 CreateResults 24/26 data:23,gas:0,value:0  
+2024-07-10T16:17:50.984Z [PASSED] 38/47,0 CreateResults 25/26 data:24,gas:0,value:0  
+2024-07-10T16:17:52.824Z [PASSED] 38/47,0 CreateResults 26/26 data:25,gas:0,value:0  
