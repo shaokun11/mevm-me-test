@@ -68,13 +68,6 @@ function isSkip(source, name, index) {
     return { skip, comment };
 }
 
-function hasAccessListOrBlob(tx) {
-    const hasAL =
-        tx.accessLists && tx.accessLists.length > 0 && tx.accessLists.every((al) => al && al.length > 0);
-    const hasBlob = tx.blobVersionedHashes && tx.blobVersionedHashes.length > 0;
-    return hasAL || hasBlob;
-}
-
 function getNewFileName(source, i) {
     const p = path.parse(source);
     fse.ensureDirSync(p.dir.replace("ethereum-tests", "static"));
@@ -120,12 +113,6 @@ export async function runTask(opt) {
             continue;
         }
         const tx = json["transaction"];
-        if (hasAccessListOrBlob(tx)) {
-            const msg = "AccessList or Blob is not supported";
-            const output = `${new Date().toISOString()} ${RUN_STATUS.SKIP} ${name} ${msg}`;
-            appendFileSync(summary_file, output + "\n");
-            continue;
-        }
         const info = json["_info"];
         const env = json["env"];
         const addresses = [];
@@ -134,6 +121,7 @@ export async function runTask(opt) {
         const nonces = [];
         const storage_keys = [];
         const storage_values = [];
+
         const envs = [
             toBuffer(env["currentBaseFee"]),
             toBuffer(env["currentCoinbase"]),
@@ -177,6 +165,14 @@ export async function runTask(opt) {
                         parseInt(tx.maxFeePerGas)
                     ).toString(16);
             }
+            const access_addresses = [];
+            const access_storage_keys = [];
+            const accessList = tx?.accessList ?? tx.accessLists?.[indexes["data"]] ?? [];
+
+            for (const item of accessList) {
+                access_addresses.push(toBuffer(item.address));
+                access_storage_keys.push(item.storageKeys.map((k) => toBuffer(k)));
+            }
             const payload = {
                 function: `0x1::evm_for_test::run_test`,
                 type_arguments: [],
@@ -187,6 +183,8 @@ export async function runTask(opt) {
                     balances,
                     storage_keys,
                     storage_values,
+                    access_addresses,
+                    access_storage_keys,
                     toBuffer(tx.sender),
                     toBuffer(tx.to),
                     toBuffer(tx.data[indexes["data"]]),
