@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP158Specific/EXTCODESIZE_toNonExistent.json
+2024-07-11T16:01:02.724Z [PASSED] 5/8,0 EXTCODESIZE_toNonExistent 1/1 data:0,gas:0,value:0  
