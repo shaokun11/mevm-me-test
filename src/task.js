@@ -69,7 +69,8 @@ function isSkip(source, name, index) {
 }
 
 function hasAccessListOrBlob(tx) {
-    const hasAL = tx.accessLists && tx.accessLists.length > 0 && tx.accessLists.every((al) => al.length > 0);
+    const hasAL =
+        tx.accessLists && tx.accessLists.length > 0 && tx.accessLists.every((al) => al && al.length > 0);
     const hasBlob = tx.blobVersionedHashes && tx.blobVersionedHashes.length > 0;
     return hasAL || hasBlob;
 }
