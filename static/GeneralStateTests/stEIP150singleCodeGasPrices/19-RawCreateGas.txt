@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCreateGas.json
+2024-07-11T04:33:36.932Z [PASSED] 19/40,0 RawCreateGas 1/1 data:0,gas:0,value:0  
