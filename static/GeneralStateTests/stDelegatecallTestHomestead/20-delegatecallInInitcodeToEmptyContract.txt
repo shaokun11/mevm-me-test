@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallInInitcodeToEmptyContract.json
+2024-07-11T03:42:47.112Z [PASSED] 20/28,0 delegatecallInInitcodeToEmptyContract 1/1 data:0,gas:0,value:0  

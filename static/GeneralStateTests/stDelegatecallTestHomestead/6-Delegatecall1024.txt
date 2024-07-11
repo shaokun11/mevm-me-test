@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Delegatecall1024.json
+2024-07-11T03:42:01.347Z [PASSED] 6/28,0 Delegatecall1024 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecodeDynamicCode2SelfCall.json
+2024-07-11T03:43:02.812Z [PASSED] 27/28,0 delegatecodeDynamicCode2SelfCall 1/1 data:0,gas:0,value:0  

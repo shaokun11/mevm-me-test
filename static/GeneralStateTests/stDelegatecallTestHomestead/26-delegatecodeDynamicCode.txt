@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecodeDynamicCode.json
+2024-07-11T03:43:00.983Z [PASSED] 26/28,0 delegatecodeDynamicCode 1/1 data:0,gas:0,value:0  
