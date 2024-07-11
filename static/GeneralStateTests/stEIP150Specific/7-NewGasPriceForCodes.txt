@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/NewGasPriceForCodes.json
-2024-07-11T03:43:57.960Z [FAILED] 7/14,0 NewGasPriceForCodes 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"226164","state_root":"0x2fd938b21b650324e690cef360ed2f5802d24bdc4a5dcb19c5b2b3e91bc7ac84","expected":"0x88c77962bf687552afea6b7c7d92372707aaded89f7a3afe0d9695ade9653543","hash":"0xcea674ecf2dfeea6ddf65d0fa8c8fc0c3bd5ba212a3d588d9a579dd19e2de46d"}
+2024-07-11T04:32:11.495Z [PASSED] 7/14,0 NewGasPriceForCodes 1/1 data:0,gas:0,value:0  
