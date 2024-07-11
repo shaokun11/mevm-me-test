@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stCreateTest/TransactionCollisionToEmpty2.json
-2024-07-10T16:18:11.440Z [FAILED] 42/47,0 TransactionCollisionToEmpty2 1/4 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"600000","state_root":"0x073b0edcb686be279d7167425e6c74e7678ca2edba15a5e035f80fa3b4623e7c","expected":"0xd6e40ceff62b39411981fb13caecbab129228abf1ac79b543d0d8647a57f6bce","hash":"0xe1194573158082bc51ebd04e273d5693d62d899f92a0a5444bafbb35c5b09eae"}
-2024-07-10T16:18:16.523Z [FAILED] 42/47,0 TransactionCollisionToEmpty2 2/4 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"600000","state_root":"0x073b0edcb686be279d7167425e6c74e7678ca2edba15a5e035f80fa3b4623e7c","expected":"0x1993c45f0de3c30e2b5947d9a27992869b8fe5b1a700b8e5ac02f7d4e8b6becd","hash":"0x4ed387f90e58b3d61cb4cd6accd0078d4f2a5e6e404a012158a9d40fd0a6040d"}
-2024-07-10T16:18:18.138Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 3/4 data:0,gas:1,value:0  
-2024-07-10T16:18:19.795Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 4/4 data:0,gas:1,value:1  
+2024-07-11T03:34:16.694Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 1/4 data:0,gas:0,value:0  
+2024-07-11T03:34:18.107Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 2/4 data:0,gas:0,value:1  
+2024-07-11T03:34:19.519Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 3/4 data:0,gas:1,value:0  
+2024-07-11T03:34:20.950Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 4/4 data:0,gas:1,value:1  
