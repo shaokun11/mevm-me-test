@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stLogTests/log3_Caller.json
+2024-07-12T04:03:59.969Z [PASSED] 25/46,0 log3_Caller 1/1 data:0,gas:0,value:0  

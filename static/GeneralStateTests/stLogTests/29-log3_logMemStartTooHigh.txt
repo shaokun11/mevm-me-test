@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stLogTests/log3_logMemStartTooHigh.json
+2024-07-12T04:04:08.553Z [PASSED] 29/46,0 log3_logMemStartTooHigh 1/1 data:0,gas:0,value:0  
