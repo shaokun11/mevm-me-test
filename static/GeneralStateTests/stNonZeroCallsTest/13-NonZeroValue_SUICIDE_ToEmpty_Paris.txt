@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_SUICIDE_ToEmpty_Paris.json
+2024-07-12T09:45:14.500Z [SKIP] 13/24,0 NonZeroValue_SUICIDE_ToEmpty_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
