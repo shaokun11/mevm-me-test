@@ -1,0 +1,6 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashDynamicArgument.json
+2024-07-12T03:58:39.229Z [PASSED] 23/36,0 extCodeHashDynamicArgument 1/5 data:0,gas:0,value:0  
+2024-07-12T03:58:40.686Z [PASSED] 23/36,0 extCodeHashDynamicArgument 2/5 data:1,gas:0,value:0  
+2024-07-12T03:58:42.118Z [PASSED] 23/36,0 extCodeHashDynamicArgument 3/5 data:2,gas:0,value:0  
+2024-07-12T03:58:44.967Z [PASSED] 23/36,0 extCodeHashDynamicArgument 4/5 data:3,gas:0,value:0  
+2024-07-12T03:58:46.434Z [PASSED] 23/36,0 extCodeHashDynamicArgument 5/5 data:4,gas:0,value:0  
