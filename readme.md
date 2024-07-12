@@ -4,7 +4,16 @@
 ```bash
 git clone <this repo>
 
+cd <this repo>
+
 git submodule update --init --recursive
+
+cd  ethereum-tests
+
+# now we are test this commit, so you need to switch it
+git checkout 7867ad622290f76a6bff1a41f76e3ec885e7ffe7
+
+cd ..
 
 npm i
 ```
@@ -13,7 +22,8 @@ npm i
 > The test result at static directory
 ```bash
 
-# when run the test please make sure EVM_SENDER have enough move token
+# When run the test please make sure EVM_SENDER have enough move token
+
 cp .env.example .env
 
 # for all
