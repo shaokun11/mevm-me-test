@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stExample/labelsExample.json
+2024-07-12T02:47:27.985Z [PASSED] 7/12,0 labelsExample 1/4 data:0,gas:0,value:0 transaction1 
+2024-07-12T02:47:30.133Z [PASSED] 7/12,0 labelsExample 2/4 data:1,gas:0,value:0 transaction2 
+2024-07-12T02:47:31.605Z [PASSED] 7/12,0 labelsExample 3/4 data:2,gas:0,value:0 transaction3 
+2024-07-12T02:47:33.092Z [PASSED] 7/12,0 labelsExample 4/4 data:3,gas:0,value:0 transaction3 

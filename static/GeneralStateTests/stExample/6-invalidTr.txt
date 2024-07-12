@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExample/invalidTr.json
+2024-07-12T02:47:25.997Z [PASSED] 6/12,0 invalidTr 1/1 data:0,gas:0,value:0  
