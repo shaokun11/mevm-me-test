@@ -1,0 +1,6 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/modexp_modsize0_returndatasize.json
+2024-07-12T15:33:56.407Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 1/5 data:0,gas:0,value:0  
+2024-07-12T15:33:57.066Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 2/5 data:1,gas:0,value:0  
+2024-07-12T15:33:57.722Z [FAILED] 6/41,0 modexp_modsize0_returndatasize 3/5 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"83969","state_root":"0x83101a25d3204d7e56f318142703ef2f0e9323d09671a4bc6942783bcf369a2b","expected":"0x13535a05d6475bf47f96d5c6c0cc8a0d2f5a7f63db561f5358f3ee6f06c29ded","hash":"0xa53df760bd807492d8850f66a5efea69671462136f8635424de654e1bb365167"}
+2024-07-12T15:33:58.378Z [FAILED] 6/41,0 modexp_modsize0_returndatasize 4/5 data:3,gas:0,value:0  {"gas_refund":"0","gas_usage":"668473","state_root":"0x3957695faa91ccb75f00beaefeaf58f16efe6ba5747e4e6436e05f11e15eff94","expected":"0x62a7b9546082c01e8c3393b290165fe26d9e5994ee5dd850a9b1613282f53ccb","hash":"0x4f24a02fa12f26fb1aa480dfd02f4f83193bea7ae80c4ce2aafb991f8f072c17"}
+2024-07-12T15:33:59.033Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 5/5 data:4,gas:0,value:0  

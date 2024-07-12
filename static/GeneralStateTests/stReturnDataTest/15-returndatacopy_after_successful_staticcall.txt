@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_after_successful_staticcall.json

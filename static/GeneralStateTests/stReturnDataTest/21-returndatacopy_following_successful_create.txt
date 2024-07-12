@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_successful_create.json

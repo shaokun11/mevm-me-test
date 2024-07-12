@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_too_big_transfer.json
