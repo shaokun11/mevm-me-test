@@ -5,6 +5,8 @@ curl --location 'http://127.0.0.1:8081/fund' \
     "amount": 1000000000000
 }'
 
+sleep 1
+
 curl --location 'http://127.0.0.1:8081/fund' \
 --header 'Content-Type: application/json' \
 --data '{
