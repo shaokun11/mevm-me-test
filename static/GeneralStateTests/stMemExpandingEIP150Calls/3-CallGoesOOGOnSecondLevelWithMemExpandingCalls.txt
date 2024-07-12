@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/CallGoesOOGOnSecondLevelWithMemExpandingCalls.json
+2024-07-12T04:05:29.292Z [FAILED] 3/9,0 CallGoesOOGOnSecondLevelWithMemExpandingCalls 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"220000","state_root":"0xd2bf559b4f507755b80822003ad599955552a927476c92d15c9d4caa04c71dc4","expected":"0x4e943ae5f3f89e79bbca89648841f4d59ecc1e73d227f785982d03a8d3639310","hash":"0x7dd9af76f3f3d70832d8c69fac0788021fd5c190e43e4f7db10380229652ee08"}
