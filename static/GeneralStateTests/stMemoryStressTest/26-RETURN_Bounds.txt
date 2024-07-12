@@ -1,3 +1,4 @@
 ethereum-tests/GeneralStateTests/stMemoryStressTest/RETURN_Bounds.json
-2024-07-12T05:02:50.618Z [FAILED] 26/38,0 RETURN_Bounds 1/3 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0xb38c015b70b0bc515fbefffe8875a333d56d1b147561d2c0e08cbf04723fc16b","expected":"0x51d5dae93246614d65489b41f0b9b93693604da9a89d3e5a13fc2b950a693d14"}
-2024-07-12T05:02:52.084Z [FAILED] 26/38,0 RETURN_Bounds 2/3 data:0,gas:1,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0x28ff95d42a21c7c4f62fcd1dd0ed9e6843cfb458fe0548fe60638e95a3179c45","expected":"0xf5ad64bdb3ffa9e3694301afbb3c46b80b0b5e74e9826f24ed896f4cca9981f1"}
+2024-07-12T05:17:22.702Z [PASSED] 26/38,0 RETURN_Bounds 1/3 data:0,gas:0,value:0  
+2024-07-12T05:17:24.471Z [PASSED] 26/38,0 RETURN_Bounds 2/3 data:0,gas:1,value:0  
+2024-07-12T05:17:27.011Z [PASSED] 26/38,0 RETURN_Bounds 3/3 data:0,gas:2,value:0  
