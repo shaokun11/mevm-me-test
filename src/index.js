@@ -40,3 +40,6 @@ for (let i = 0; i < files.length; i++) {
 }
 
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
+// "me2": "tsx test/tester --state --test='div' --fork='Cancun' --profile --jsontrace",
+// "me": "tsx  test/tester --state --customStateTest='../ethereum-tests/GeneralStateTests/stEIP2930/addressOpcodes.json' --fork='Cancun' --profile --jsontrace --testIndex 0",
+// "me0":"npm run me>0.log 2>&1",
