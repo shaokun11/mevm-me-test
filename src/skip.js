@@ -5,7 +5,7 @@ const MSG_NO_NEED = "No need to test performance, it depends on the move-vm impl
 export const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode"
 const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm"
 const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check"
-const MST_TIMEOUT=" execute timeout"
+const MST_TIMEOUT="execute timeout"
 
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx"
 export const MSG_NOT_SUPPORT_BLOB_BASEFEE = "Not support blob basefee opcode"
@@ -102,6 +102,12 @@ export const IGNORE_TEST = [
     },
     {
         path: "ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush3",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stQuadraticComplexityTest",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: MST_TIMEOUT,
