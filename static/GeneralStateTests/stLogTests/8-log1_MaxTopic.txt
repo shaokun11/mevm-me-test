@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stLogTests/log1_MaxTopic.json
+2024-07-12T04:03:27.985Z [PASSED] 8/46,0 log1_MaxTopic 1/1 data:0,gas:0,value:0  

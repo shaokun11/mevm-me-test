@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stLogTests/log3_MaxTopic.json
