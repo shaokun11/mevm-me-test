@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stInitCodeTest/OutOfGasContractCreation.json
+2024-07-12T04:01:50.436Z [PASSED] 8/17,0 OutOfGasContractCreation 1/4 data:0,gas:1,value:0  
+2024-07-12T04:01:52.439Z [PASSED] 8/17,0 OutOfGasContractCreation 2/4 data:1,gas:1,value:0  
+2024-07-12T04:01:54.179Z [PASSED] 8/17,0 OutOfGasContractCreation 3/4 data:0,gas:0,value:0  
+2024-07-12T04:01:55.694Z [PASSED] 8/17,0 OutOfGasContractCreation 4/4 data:1,gas:0,value:0  

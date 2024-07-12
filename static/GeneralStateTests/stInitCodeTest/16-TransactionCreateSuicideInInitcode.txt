@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stInitCodeTest/TransactionCreateSuicideInInitcode.json
+2024-07-12T04:02:13.665Z [SKIP] 16/17,0 TransactionCreateSuicideInInitcode 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
