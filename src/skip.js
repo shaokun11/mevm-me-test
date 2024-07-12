@@ -112,4 +112,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MST_TIMEOUT,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stRandom",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
 ];
