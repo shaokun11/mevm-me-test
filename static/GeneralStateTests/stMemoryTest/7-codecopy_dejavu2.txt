@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/codecopy_dejavu2.json
+2024-07-12T09:21:39.710Z [PASSED] 7/71,0 codecopy_dejavu2 1/1 data:0,gas:0,value:0  

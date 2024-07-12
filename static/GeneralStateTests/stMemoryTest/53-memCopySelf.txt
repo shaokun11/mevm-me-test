@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/memCopySelf.json
+2024-07-12T09:22:10.065Z [PASSED] 53/71,0 memCopySelf 1/1 data:0,gas:0,value:0  

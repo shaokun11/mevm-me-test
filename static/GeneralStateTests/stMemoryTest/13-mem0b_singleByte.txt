@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/mem0b_singleByte.json
+2024-07-12T09:21:43.640Z [PASSED] 13/71,0 mem0b_singleByte 1/1 data:0,gas:0,value:0  

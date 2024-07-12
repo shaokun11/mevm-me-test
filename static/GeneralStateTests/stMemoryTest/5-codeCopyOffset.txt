@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/codeCopyOffset.json
+2024-07-12T09:21:38.400Z [PASSED] 5/71,0 codeCopyOffset 1/1 data:0,gas:0,value:0  

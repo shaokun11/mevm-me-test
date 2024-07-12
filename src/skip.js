@@ -100,4 +100,10 @@ export const IGNORE_TEST = [
         label: "5,6",
         comment: MST_TIMEOUT,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush3",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
 ];

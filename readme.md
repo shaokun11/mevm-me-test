@@ -1,4 +1,21 @@
+
+### Getting Started
+
 ```bash
+git clone <this repo>
+
+git submodule update --init --recursive
+
+npm i
+```
+
+### Running test
+> The test result at static directory
+```bash
+
+# when run the test please make sure EVM_SENDER have enough move token
+cp .env.example .env
+
 # for all
 node src/index.js --index 0 | tap-spec
 
@@ -7,7 +24,7 @@ node src/index.js --index 0 | tap-spec
 node src/index.js --index 1 | tap-spec
 
 # get test result
-node src/sum.js
+node src/summary.js
 ```
 
 ### support index 

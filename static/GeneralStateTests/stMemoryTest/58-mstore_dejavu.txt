@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/mstore_dejavu.json
+2024-07-12T09:22:13.336Z [PASSED] 58/71,0 mstore_dejavu 1/1 data:0,gas:0,value:0  
