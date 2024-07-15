@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransactionTest/HighGasPriceParis.json
+2024-07-15T11:59:56.590Z [FAILED] 7/35,0 HighGasPriceParis 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::run_test at code offset 97","hash":"0x93c05dcb15e2b8167cc8d7aceb1f7656694d377e640fe341277c8b9f001c8479","expected":"0xecd1cea72bd1224b1d7a28a577170c00dd480b26b5b0f353e3d4ad2bb542cc09"}
