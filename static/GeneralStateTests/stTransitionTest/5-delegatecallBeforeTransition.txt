@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransitionTest/delegatecallBeforeTransition.json
+2024-07-15T13:23:20.968Z [FAILED] 5/6,0 delegatecallBeforeTransition 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"21000","state_root":"0x5c37880569766157e36e5f1f9642d3fb81bda1f5ef089a9858df04d17b2fa94a","expected":"0x82839135ead533b540a4894ed296a14f5ff764e53a10d6ab15e12941d8adeb91","hash":"0x21fef98a1850da96301889f3599c78035f97497084381ad35e1c25575669f4be"}
