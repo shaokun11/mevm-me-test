@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSLoadTest/sloadGasCost.json
+2024-07-15T06:18:40.336Z [PASSED] 0/1,0 sloadGasCost 1/1 data:0,gas:0,value:0  
