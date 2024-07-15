@@ -1,17 +1,17 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json
-2024-07-03T10:37:38.114Z [PASSED] 21,0 transStorageOK 1/16 data:0,gas:0,value:0 sum_16 
-2024-07-03T10:37:41.659Z [PASSED] 21,0 transStorageOK 2/16 data:1,gas:0,value:0 callcode_sum_16 
-2024-07-03T10:37:45.198Z [PASSED] 21,0 transStorageOK 3/16 data:2,gas:0,value:0 delegate_sum_16 
-2024-07-03T10:38:04.418Z [PASSED] 21,0 transStorageOK 4/16 data:3,gas:0,value:0 sum_256 
-2024-07-03T10:38:07.958Z [PASSED] 21,0 transStorageOK 5/16 data:4,gas:0,value:0 callback_sum_10 
-2024-07-03T10:38:15.417Z [PASSED] 21,0 transStorageOK 6/16 data:5,gas:0,value:0 callback_sum_50 
-2024-07-03T10:38:26.873Z [PASSED] 21,0 transStorageOK 7/16 data:6,gas:0,value:0 bin_tree_6 
-2024-07-03T10:38:35.614Z [PASSED] 21,0 transStorageOK 8/16 data:7,gas:0,value:0 delegate_bin_tree_6 
-2024-07-03T10:38:37.836Z [PASSED] 21,0 transStorageOK 9/16 data:8,gas:0,value:0 inherit_trans 
-2024-07-03T10:38:41.361Z [PASSED] 21,0 transStorageOK 10/16 data:9,gas:0,value:0 deep_call 
-2024-07-03T10:38:44.910Z [PASSED] 21,0 transStorageOK 11/16 data:10,gas:0,value:0 deep_call 
-2024-07-03T10:38:48.437Z [PASSED] 21,0 transStorageOK 12/16 data:11,gas:0,value:0 deep_call 
-2024-07-03T10:38:51.993Z [PASSED] 21,0 transStorageOK 13/16 data:12,gas:0,value:0 deep_call 
-2024-07-03T10:38:55.524Z [PASSED] 21,0 transStorageOK 14/16 data:13,gas:0,value:0 deep_call 
-2024-07-03T10:39:00.367Z [PASSED] 21,0 transStorageOK 15/16 data:14,gas:0,value:0 deep_call 
-2024-07-03T10:39:02.603Z [PASSED] 21,0 transStorageOK 16/16 data:15,gas:0,value:0 static_call 
+2024-07-15T03:51:50.756Z [EXCEPTION] 21/37,0 transStorageOK 1/16 data:0,gas:0,value:0 sum_16 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.757Z [EXCEPTION] 21/37,0 transStorageOK 2/16 data:1,gas:0,value:0 callcode_sum_16 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.759Z [EXCEPTION] 21/37,0 transStorageOK 3/16 data:2,gas:0,value:0 delegate_sum_16 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.761Z [EXCEPTION] 21/37,0 transStorageOK 4/16 data:3,gas:0,value:0 sum_256 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.763Z [EXCEPTION] 21/37,0 transStorageOK 5/16 data:4,gas:0,value:0 callback_sum_10 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.764Z [EXCEPTION] 21/37,0 transStorageOK 6/16 data:5,gas:0,value:0 callback_sum_50 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.766Z [EXCEPTION] 21/37,0 transStorageOK 7/16 data:6,gas:0,value:0 bin_tree_6 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.768Z [EXCEPTION] 21/37,0 transStorageOK 8/16 data:7,gas:0,value:0 delegate_bin_tree_6 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.770Z [EXCEPTION] 21/37,0 transStorageOK 9/16 data:8,gas:0,value:0 inherit_trans {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.771Z [EXCEPTION] 21/37,0 transStorageOK 10/16 data:9,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.773Z [EXCEPTION] 21/37,0 transStorageOK 11/16 data:10,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.775Z [EXCEPTION] 21/37,0 transStorageOK 12/16 data:11,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.777Z [EXCEPTION] 21/37,0 transStorageOK 13/16 data:12,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.778Z [EXCEPTION] 21/37,0 transStorageOK 14/16 data:13,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.780Z [EXCEPTION] 21/37,0 transStorageOK 15/16 data:14,gas:0,value:0 deep_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.784Z [EXCEPTION] 21/37,0 transStorageOK 16/16 data:15,gas:0,value:0 static_call {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

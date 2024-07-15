@@ -1,21 +1,21 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json
-2024-07-03T10:40:12.784Z [PASSED] 33,0 MCOPY 1/20 data:0,gas:0,value:0 forward_size0_0 
-2024-07-03T10:40:14.988Z [PASSED] 33,0 MCOPY 2/20 data:1,gas:0,value:0 forward_size0_1 
-2024-07-03T10:40:17.192Z [PASSED] 33,0 MCOPY 3/20 data:2,gas:0,value:0 backward_size0_0 
-2024-07-03T10:40:19.403Z [PASSED] 33,0 MCOPY 4/20 data:3,gas:0,value:0 backward_size0_1 
-2024-07-03T10:40:22.923Z [PASSED] 33,0 MCOPY 5/20 data:4,gas:0,value:0 inplace_size0_0 
-2024-07-03T10:40:25.129Z [PASSED] 33,0 MCOPY 6/20 data:5,gas:0,value:0 inplace_size0_1 
-2024-07-03T10:40:27.327Z [PASSED] 33,0 MCOPY 7/20 data:18,gas:0,value:0 forward_overlapped_0 
-2024-07-03T10:40:29.534Z [PASSED] 33,0 MCOPY 8/20 data:19,gas:0,value:0 forward_overlapped_1 
-2024-07-03T10:40:31.762Z [PASSED] 33,0 MCOPY 9/20 data:6,gas:0,value:0 forward_disjoint_0 
-2024-07-03T10:40:33.958Z [PASSED] 33,0 MCOPY 10/20 data:7,gas:0,value:0 forward_disjoint_1 
-2024-07-03T10:40:36.162Z [PASSED] 33,0 MCOPY 11/20 data:8,gas:0,value:0 forward_adjacent_0 
-2024-07-03T10:40:38.363Z [PASSED] 33,0 MCOPY 12/20 data:9,gas:0,value:0 forward_adjacent_1 
-2024-07-03T10:40:40.566Z [PASSED] 33,0 MCOPY 13/20 data:10,gas:0,value:0 backward_overlapped_0 
-2024-07-03T10:40:42.776Z [PASSED] 33,0 MCOPY 14/20 data:11,gas:0,value:0 backward_overlapped_1 
-2024-07-03T10:40:44.999Z [PASSED] 33,0 MCOPY 15/20 data:12,gas:0,value:0 backward_disjoint_0 
-2024-07-03T10:40:47.205Z [PASSED] 33,0 MCOPY 16/20 data:13,gas:0,value:0 backward_disjoint_1 
-2024-07-03T10:40:49.409Z [PASSED] 33,0 MCOPY 17/20 data:14,gas:0,value:0 backward_adjacent_0 
-2024-07-03T10:40:51.629Z [PASSED] 33,0 MCOPY 18/20 data:15,gas:0,value:0 backward_adjacent_1 
-2024-07-03T10:40:53.841Z [PASSED] 33,0 MCOPY 19/20 data:16,gas:0,value:0 inplace_0 
-2024-07-03T10:40:56.071Z [PASSED] 33,0 MCOPY 20/20 data:17,gas:0,value:0 inplace_1 
+2024-07-15T03:51:50.851Z [EXCEPTION] 33/37,0 MCOPY 1/20 data:0,gas:0,value:0 forward_size0_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.852Z [EXCEPTION] 33/37,0 MCOPY 2/20 data:1,gas:0,value:0 forward_size0_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.854Z [EXCEPTION] 33/37,0 MCOPY 3/20 data:2,gas:0,value:0 backward_size0_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.856Z [EXCEPTION] 33/37,0 MCOPY 4/20 data:3,gas:0,value:0 backward_size0_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.858Z [EXCEPTION] 33/37,0 MCOPY 5/20 data:4,gas:0,value:0 inplace_size0_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.859Z [EXCEPTION] 33/37,0 MCOPY 6/20 data:5,gas:0,value:0 inplace_size0_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.861Z [EXCEPTION] 33/37,0 MCOPY 7/20 data:18,gas:0,value:0 forward_overlapped_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.862Z [EXCEPTION] 33/37,0 MCOPY 8/20 data:19,gas:0,value:0 forward_overlapped_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.864Z [EXCEPTION] 33/37,0 MCOPY 9/20 data:6,gas:0,value:0 forward_disjoint_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.866Z [EXCEPTION] 33/37,0 MCOPY 10/20 data:7,gas:0,value:0 forward_disjoint_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.867Z [EXCEPTION] 33/37,0 MCOPY 11/20 data:8,gas:0,value:0 forward_adjacent_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.869Z [EXCEPTION] 33/37,0 MCOPY 12/20 data:9,gas:0,value:0 forward_adjacent_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.870Z [EXCEPTION] 33/37,0 MCOPY 13/20 data:10,gas:0,value:0 backward_overlapped_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.872Z [EXCEPTION] 33/37,0 MCOPY 14/20 data:11,gas:0,value:0 backward_overlapped_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.874Z [EXCEPTION] 33/37,0 MCOPY 15/20 data:12,gas:0,value:0 backward_disjoint_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.877Z [EXCEPTION] 33/37,0 MCOPY 16/20 data:13,gas:0,value:0 backward_disjoint_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.879Z [EXCEPTION] 33/37,0 MCOPY 17/20 data:14,gas:0,value:0 backward_adjacent_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.881Z [EXCEPTION] 33/37,0 MCOPY 18/20 data:15,gas:0,value:0 backward_adjacent_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.883Z [EXCEPTION] 33/37,0 MCOPY 19/20 data:16,gas:0,value:0 inplace_0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.884Z [EXCEPTION] 33/37,0 MCOPY 20/20 data:17,gas:0,value:0 inplace_1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

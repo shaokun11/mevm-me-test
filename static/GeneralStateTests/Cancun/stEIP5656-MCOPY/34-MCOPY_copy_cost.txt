@@ -1,65 +1,65 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json
-2024-07-03T10:40:58.280Z [PASSED] 34,0 MCOPY_copy_cost 1/64 data:0,gas:0,value:0 src0_size0 
-2024-07-03T10:41:00.487Z [PASSED] 34,0 MCOPY_copy_cost 2/64 data:1,gas:0,value:0 src0_size1 
-2024-07-03T10:41:02.698Z [PASSED] 34,0 MCOPY_copy_cost 3/64 data:2,gas:0,value:0 src0_size31 
-2024-07-03T10:41:04.965Z [PASSED] 34,0 MCOPY_copy_cost 4/64 data:3,gas:0,value:0 src0_size32 
-2024-07-03T10:41:07.170Z [PASSED] 34,0 MCOPY_copy_cost 5/64 data:4,gas:0,value:0 src0_size33 
-2024-07-03T10:41:09.375Z [PASSED] 34,0 MCOPY_copy_cost 6/64 data:5,gas:0,value:0 src0_size44767 
-2024-07-03T10:41:11.582Z [PASSED] 34,0 MCOPY_copy_cost 7/64 data:6,gas:0,value:0 src0_size44768 
-2024-07-03T10:41:13.803Z [PASSED] 34,0 MCOPY_copy_cost 8/64 data:7,gas:0,value:0 src0_size44769 
-2024-07-03T10:41:16.005Z [PASSED] 34,0 MCOPY_copy_cost 9/64 data:8,gas:0,value:0 src1_size0 
-2024-07-03T10:41:18.211Z [PASSED] 34,0 MCOPY_copy_cost 10/64 data:9,gas:0,value:0 src1_size1 
-2024-07-03T10:41:20.416Z [PASSED] 34,0 MCOPY_copy_cost 11/64 data:10,gas:0,value:0 src1_size31 
-2024-07-03T10:41:22.617Z [PASSED] 34,0 MCOPY_copy_cost 12/64 data:11,gas:0,value:0 src1_size32 
-2024-07-03T10:41:26.136Z [PASSED] 34,0 MCOPY_copy_cost 13/64 data:12,gas:0,value:0 src1_size33 
-2024-07-03T10:41:28.339Z [PASSED] 34,0 MCOPY_copy_cost 14/64 data:13,gas:0,value:0 src1_size44767 
-2024-07-03T10:41:30.556Z [PASSED] 34,0 MCOPY_copy_cost 15/64 data:14,gas:0,value:0 src1_size44768 
-2024-07-03T10:41:32.762Z [PASSED] 34,0 MCOPY_copy_cost 16/64 data:15,gas:0,value:0 src1_size44769 
-2024-07-03T10:41:34.971Z [PASSED] 34,0 MCOPY_copy_cost 17/64 data:16,gas:0,value:0 src31_size0 
-2024-07-03T10:41:37.180Z [PASSED] 34,0 MCOPY_copy_cost 18/64 data:17,gas:0,value:0 src31_size1 
-2024-07-03T10:41:39.384Z [PASSED] 34,0 MCOPY_copy_cost 19/64 data:18,gas:0,value:0 src31_size31 
-2024-07-03T10:41:41.582Z [PASSED] 34,0 MCOPY_copy_cost 20/64 data:19,gas:0,value:0 src31_size32 
-2024-07-03T10:41:43.791Z [PASSED] 34,0 MCOPY_copy_cost 21/64 data:20,gas:0,value:0 src31_size33 
-2024-07-03T10:41:45.995Z [PASSED] 34,0 MCOPY_copy_cost 22/64 data:21,gas:0,value:0 src31_size44767 
-2024-07-03T10:41:48.203Z [PASSED] 34,0 MCOPY_copy_cost 23/64 data:22,gas:0,value:0 src31_size44768 
-2024-07-03T10:41:50.413Z [PASSED] 34,0 MCOPY_copy_cost 24/64 data:23,gas:0,value:0 src31_size44769 
-2024-07-03T10:41:52.619Z [PASSED] 34,0 MCOPY_copy_cost 25/64 data:24,gas:0,value:0 src32_size0 
-2024-07-03T10:41:54.882Z [PASSED] 34,0 MCOPY_copy_cost 26/64 data:25,gas:0,value:0 src32_size1 
-2024-07-03T10:41:57.082Z [PASSED] 34,0 MCOPY_copy_cost 27/64 data:26,gas:0,value:0 src32_size31 
-2024-07-03T10:41:59.281Z [PASSED] 34,0 MCOPY_copy_cost 28/64 data:27,gas:0,value:0 src32_size32 
-2024-07-03T10:42:01.494Z [PASSED] 34,0 MCOPY_copy_cost 29/64 data:28,gas:0,value:0 src32_size33 
-2024-07-03T10:42:03.701Z [PASSED] 34,0 MCOPY_copy_cost 30/64 data:29,gas:0,value:0 src32_size44767 
-2024-07-03T10:42:05.904Z [PASSED] 34,0 MCOPY_copy_cost 31/64 data:30,gas:0,value:0 src32_size44768 
-2024-07-03T10:42:08.107Z [PASSED] 34,0 MCOPY_copy_cost 32/64 data:31,gas:0,value:0 src32_size44769 
-2024-07-03T10:42:10.320Z [PASSED] 34,0 MCOPY_copy_cost 33/64 data:0,gas:1,value:0  
-2024-07-03T10:42:12.534Z [PASSED] 34,0 MCOPY_copy_cost 34/64 data:1,gas:1,value:0  
-2024-07-03T10:42:14.742Z [PASSED] 34,0 MCOPY_copy_cost 35/64 data:2,gas:1,value:0  
-2024-07-03T10:42:16.948Z [PASSED] 34,0 MCOPY_copy_cost 36/64 data:3,gas:1,value:0  
-2024-07-03T10:42:19.153Z [PASSED] 34,0 MCOPY_copy_cost 37/64 data:4,gas:1,value:0  
-2024-07-03T10:42:21.365Z [PASSED] 34,0 MCOPY_copy_cost 38/64 data:5,gas:1,value:0  
-2024-07-03T10:42:23.566Z [PASSED] 34,0 MCOPY_copy_cost 39/64 data:6,gas:1,value:0  
-2024-07-03T10:42:25.774Z [PASSED] 34,0 MCOPY_copy_cost 40/64 data:7,gas:1,value:0  
-2024-07-03T10:42:29.290Z [PASSED] 34,0 MCOPY_copy_cost 41/64 data:8,gas:1,value:0  
-2024-07-03T10:42:31.497Z [PASSED] 34,0 MCOPY_copy_cost 42/64 data:9,gas:1,value:0  
-2024-07-03T10:42:33.715Z [PASSED] 34,0 MCOPY_copy_cost 43/64 data:10,gas:1,value:0  
-2024-07-03T10:42:35.922Z [PASSED] 34,0 MCOPY_copy_cost 44/64 data:11,gas:1,value:0  
-2024-07-03T10:42:38.129Z [PASSED] 34,0 MCOPY_copy_cost 45/64 data:12,gas:1,value:0  
-2024-07-03T10:42:40.329Z [PASSED] 34,0 MCOPY_copy_cost 46/64 data:16,gas:1,value:0  
-2024-07-03T10:42:42.529Z [PASSED] 34,0 MCOPY_copy_cost 47/64 data:17,gas:1,value:0  
-2024-07-03T10:42:44.728Z [PASSED] 34,0 MCOPY_copy_cost 48/64 data:18,gas:1,value:0  
-2024-07-03T10:42:46.940Z [PASSED] 34,0 MCOPY_copy_cost 49/64 data:19,gas:1,value:0  
-2024-07-03T10:42:49.146Z [PASSED] 34,0 MCOPY_copy_cost 50/64 data:20,gas:1,value:0  
-2024-07-03T10:42:51.340Z [PASSED] 34,0 MCOPY_copy_cost 51/64 data:24,gas:1,value:0  
-2024-07-03T10:42:53.544Z [PASSED] 34,0 MCOPY_copy_cost 52/64 data:25,gas:1,value:0  
-2024-07-03T10:42:55.815Z [PASSED] 34,0 MCOPY_copy_cost 53/64 data:26,gas:1,value:0  
-2024-07-03T10:42:58.025Z [PASSED] 34,0 MCOPY_copy_cost 54/64 data:27,gas:1,value:0  
-2024-07-03T10:43:00.232Z [PASSED] 34,0 MCOPY_copy_cost 55/64 data:28,gas:1,value:0  
-2024-07-03T10:43:02.438Z [PASSED] 34,0 MCOPY_copy_cost 56/64 data:13,gas:1,value:0  
-2024-07-03T10:43:04.649Z [PASSED] 34,0 MCOPY_copy_cost 57/64 data:14,gas:1,value:0  
-2024-07-03T10:43:06.853Z [PASSED] 34,0 MCOPY_copy_cost 58/64 data:15,gas:1,value:0  
-2024-07-03T10:43:09.065Z [PASSED] 34,0 MCOPY_copy_cost 59/64 data:21,gas:1,value:0  
-2024-07-03T10:43:11.268Z [PASSED] 34,0 MCOPY_copy_cost 60/64 data:22,gas:1,value:0  
-2024-07-03T10:43:13.470Z [PASSED] 34,0 MCOPY_copy_cost 61/64 data:23,gas:1,value:0  
-2024-07-03T10:43:15.676Z [PASSED] 34,0 MCOPY_copy_cost 62/64 data:29,gas:1,value:0  
-2024-07-03T10:43:17.895Z [PASSED] 34,0 MCOPY_copy_cost 63/64 data:30,gas:1,value:0  
-2024-07-03T10:43:20.097Z [PASSED] 34,0 MCOPY_copy_cost 64/64 data:31,gas:1,value:0  
+2024-07-15T03:51:50.886Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 1/64 data:0,gas:0,value:0 src0_size0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.887Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 2/64 data:1,gas:0,value:0 src0_size1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.889Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 3/64 data:2,gas:0,value:0 src0_size31 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.891Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 4/64 data:3,gas:0,value:0 src0_size32 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.892Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 5/64 data:4,gas:0,value:0 src0_size33 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.894Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 6/64 data:5,gas:0,value:0 src0_size44767 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.895Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 7/64 data:6,gas:0,value:0 src0_size44768 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.897Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 8/64 data:7,gas:0,value:0 src0_size44769 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.899Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 9/64 data:8,gas:0,value:0 src1_size0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.902Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 10/64 data:9,gas:0,value:0 src1_size1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.904Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 11/64 data:10,gas:0,value:0 src1_size31 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.907Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 12/64 data:11,gas:0,value:0 src1_size32 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.910Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 13/64 data:12,gas:0,value:0 src1_size33 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.912Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 14/64 data:13,gas:0,value:0 src1_size44767 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.914Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 15/64 data:14,gas:0,value:0 src1_size44768 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.915Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 16/64 data:15,gas:0,value:0 src1_size44769 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.917Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 17/64 data:16,gas:0,value:0 src31_size0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.919Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 18/64 data:17,gas:0,value:0 src31_size1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.922Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 19/64 data:18,gas:0,value:0 src31_size31 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.924Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 20/64 data:19,gas:0,value:0 src31_size32 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.925Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 21/64 data:20,gas:0,value:0 src31_size33 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.927Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 22/64 data:21,gas:0,value:0 src31_size44767 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.928Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 23/64 data:22,gas:0,value:0 src31_size44768 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.930Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 24/64 data:23,gas:0,value:0 src31_size44769 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.931Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 25/64 data:24,gas:0,value:0 src32_size0 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.933Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 26/64 data:25,gas:0,value:0 src32_size1 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.935Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 27/64 data:26,gas:0,value:0 src32_size31 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.936Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 28/64 data:27,gas:0,value:0 src32_size32 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.939Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 29/64 data:28,gas:0,value:0 src32_size33 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.940Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 30/64 data:29,gas:0,value:0 src32_size44767 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.943Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 31/64 data:30,gas:0,value:0 src32_size44768 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.945Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 32/64 data:31,gas:0,value:0 src32_size44769 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.947Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 33/64 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.950Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 34/64 data:1,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.952Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 35/64 data:2,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.954Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 36/64 data:3,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.957Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 37/64 data:4,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.959Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 38/64 data:5,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.961Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 39/64 data:6,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.963Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 40/64 data:7,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.966Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 41/64 data:8,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.968Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 42/64 data:9,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.970Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 43/64 data:10,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.972Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 44/64 data:11,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.975Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 45/64 data:12,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.977Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 46/64 data:16,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.979Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 47/64 data:17,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.981Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 48/64 data:18,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.984Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 49/64 data:19,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.986Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 50/64 data:20,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.988Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 51/64 data:24,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.990Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 52/64 data:25,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.992Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 53/64 data:26,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.995Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 54/64 data:27,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.997Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 55/64 data:28,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:50.999Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 56/64 data:13,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.001Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 57/64 data:14,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.004Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 58/64 data:15,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.006Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 59/64 data:21,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.008Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 60/64 data:22,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.010Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 61/64 data:23,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.013Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 62/64 data:29,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.015Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 63/64 data:30,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T03:51:51.017Z [EXCEPTION] 34/37,0 MCOPY_copy_cost 64/64 data:31,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

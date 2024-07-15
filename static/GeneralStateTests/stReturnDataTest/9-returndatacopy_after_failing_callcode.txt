@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_after_failing_callcode.json
-2024-07-12T15:34:00.997Z [FAILED] 9/41,0 returndatacopy_after_failing_callcode 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_memory_expand at code offset 6","hash":"0x236a240ef71711f0e276c487d3e636d84be6fef8cfe8e7211e72cf4da5b93a50","expected":"0x297a0d3472d5b00d1fdc4cb4b4e2d380ed572e925a2ed5658f6e4ef5dbd000a9"}
+2024-07-15T05:28:50.274Z [FAILED] 9/41,0 returndatacopy_after_failing_callcode 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas::calc_memory_expand at code offset 6","hash":"0x56399e58b6c7f7412475411432e88cc9c287bc6b4f96dfd4a5c8a16a505ff06d","expected":"0x297a0d3472d5b00d1fdc4cb4b4e2d380ed572e925a2ed5658f6e4ef5dbd000a9"}

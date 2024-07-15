@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/wrongBlobhashVersion.json
-2024-07-03T10:36:47.988Z [SKIP] 32,0 wrongBlobhashVersion AccessList or Blob is not supported
+2024-07-15T03:51:50.849Z [EXCEPTION] 32/37,0 wrongBlobhashVersion 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

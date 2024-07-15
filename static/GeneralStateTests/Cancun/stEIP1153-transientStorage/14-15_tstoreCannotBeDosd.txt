@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json
-2024-07-03T10:36:47.925Z [SKIP] 14,0 15_tstoreCannotBeDosd 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm
+2024-07-15T03:51:47.607Z [SKIP] 14/37,0 15_tstoreCannotBeDosd 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

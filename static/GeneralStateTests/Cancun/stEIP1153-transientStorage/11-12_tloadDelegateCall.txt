@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/12_tloadDelegateCall.json
-2024-07-03T10:37:19.014Z [PASSED] 11,0 12_tloadDelegateCall 1/1 data:0,gas:0,value:0  
+2024-07-15T03:51:50.738Z [EXCEPTION] 11/37,0 12_tloadDelegateCall 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

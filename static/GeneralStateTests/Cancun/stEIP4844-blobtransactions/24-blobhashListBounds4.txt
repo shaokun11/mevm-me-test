@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/blobhashListBounds4.json
-2024-07-03T10:36:47.967Z [SKIP] 24,0 blobhashListBounds4 AccessList or Blob is not supported
+2024-07-15T03:51:50.836Z [EXCEPTION] 24/37,0 blobhashListBounds4 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
