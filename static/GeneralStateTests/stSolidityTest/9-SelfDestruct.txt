@@ -1,0 +1,4 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/SelfDestruct.json
+2024-07-15T07:45:32.620Z [SKIP] 9/18,0 SelfDestruct 1/3 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T07:45:33.494Z [SKIP] 9/18,0 SelfDestruct 2/3 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T07:45:34.369Z [SKIP] 9/18,0 SelfDestruct 3/3 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode

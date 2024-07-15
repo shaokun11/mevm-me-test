@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/TestContractInteraction.json
+2024-07-15T07:45:35.897Z [PASSED] 11/18,0 TestContractInteraction 1/1 data:0,gas:0,value:0  
