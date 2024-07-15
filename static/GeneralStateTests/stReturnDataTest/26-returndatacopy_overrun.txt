@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_overrun.json
+2024-07-15T06:02:24.023Z [PASSED] 26/41,0 returndatacopy_overrun 1/1 data:0,gas:0,value:0  
