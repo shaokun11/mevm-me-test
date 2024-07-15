@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertInCreateInInit_Paris.json
+2024-07-15T06:07:08.030Z [PASSED] 11/46,0 RevertInCreateInInit_Paris 1/1 data:0,gas:0,value:0  

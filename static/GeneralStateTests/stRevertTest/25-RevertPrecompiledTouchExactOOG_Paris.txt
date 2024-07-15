@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrecompiledTouchExactOOG_Paris.json

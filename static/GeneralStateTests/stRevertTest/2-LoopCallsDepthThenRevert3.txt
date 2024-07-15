@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/LoopCallsDepthThenRevert3.json
+2024-07-15T06:05:52.952Z [PASSED] 2/46,0 LoopCallsDepthThenRevert3 1/1 data:0,gas:0,value:0  
