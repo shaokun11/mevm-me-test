@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorZeroMem2.json
-2024-07-15T11:26:07.594Z [FAILED] 47/67,0 createNameRegistratorZeroMem2 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0x0415fcab592d7261ab05f56d73f7de24973f299f611e0ffc51fd43b6842ef66b","expected":"0x35ccff58bf0c32e17662600973e54ffc5436f2314e306b97ecb6b61e7dc6016c"}
+2024-07-15T11:44:22.530Z [PASSED] 47/67,0 createNameRegistratorZeroMem2 1/1 data:0,gas:0,value:0  
