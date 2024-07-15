@@ -1,1 +1,21 @@
 ethereum-tests/GeneralStateTests/stSStoreTest/sstore_XtoXtoY.json
+2024-07-15T07:23:03.635Z [PASSED] 20/28,0 sstore_XtoXtoY 1/20 data:0,gas:0,value:0  
+2024-07-15T07:23:04.496Z [PASSED] 20/28,0 sstore_XtoXtoY 2/20 data:1,gas:0,value:0  
+2024-07-15T07:23:05.357Z [PASSED] 20/28,0 sstore_XtoXtoY 3/20 data:2,gas:0,value:0  
+2024-07-15T07:23:06.218Z [PASSED] 20/28,0 sstore_XtoXtoY 4/20 data:3,gas:0,value:0  
+2024-07-15T07:23:09.158Z [PASSED] 20/28,0 sstore_XtoXtoY 5/20 data:4,gas:0,value:0  
+2024-07-15T07:23:10.022Z [PASSED] 20/28,0 sstore_XtoXtoY 6/20 data:0,gas:1,value:0  
+2024-07-15T07:23:10.883Z [PASSED] 20/28,0 sstore_XtoXtoY 7/20 data:1,gas:1,value:0  
+2024-07-15T07:23:11.745Z [PASSED] 20/28,0 sstore_XtoXtoY 8/20 data:2,gas:1,value:0  
+2024-07-15T07:23:12.400Z [PASSED] 20/28,0 sstore_XtoXtoY 9/20 data:3,gas:1,value:0  
+2024-07-15T07:23:13.262Z [PASSED] 20/28,0 sstore_XtoXtoY 10/20 data:4,gas:1,value:0  
+2024-07-15T07:23:14.124Z [PASSED] 20/28,0 sstore_XtoXtoY 11/20 data:5,gas:1,value:0  
+2024-07-15T07:23:14.994Z [PASSED] 20/28,0 sstore_XtoXtoY 12/20 data:6,gas:1,value:0  
+2024-07-15T07:23:15.856Z [PASSED] 20/28,0 sstore_XtoXtoY 13/20 data:7,gas:1,value:0  
+2024-07-15T07:23:16.509Z [PASSED] 20/28,0 sstore_XtoXtoY 14/20 data:8,gas:1,value:0  
+2024-07-15T07:23:17.376Z [PASSED] 20/28,0 sstore_XtoXtoY 15/20 data:9,gas:1,value:0  
+2024-07-15T07:23:18.240Z [PASSED] 20/28,0 sstore_XtoXtoY 16/20 data:5,gas:0,value:0  
+2024-07-15T07:23:19.102Z [PASSED] 20/28,0 sstore_XtoXtoY 17/20 data:6,gas:0,value:0  
+2024-07-15T07:23:19.967Z [PASSED] 20/28,0 sstore_XtoXtoY 18/20 data:7,gas:0,value:0  
+2024-07-15T07:23:20.832Z [PASSED] 20/28,0 sstore_XtoXtoY 19/20 data:8,gas:0,value:0  
+2024-07-15T07:23:21.693Z [PASSED] 20/28,0 sstore_XtoXtoY 20/20 data:9,gas:0,value:0  

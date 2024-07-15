@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/createBlobhashTx.json
-2024-07-15T07:07:34.534Z [FAILED] 28/37,0 createBlobhashTx 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"59206","state_root":"0xf9f22379379fb014c6fcd4bff24761e21f52663b38b8965202488b190b64e4e5","expected":"0x668817abd521eb1401e0b8e52014bf6e36346dc786bf9084f3f03ac09b2ffaa2","hash":"0x5b0ffcf42b4d76dbe8dbd8291cf89827aef43cc0c22976061b5c3e81cf0c625b"}
+2024-07-15T07:32:22.060Z [SKIP] 28/37,0 createBlobhashTx 1/1 data:0,gas:0,value:0  Not support blob tx

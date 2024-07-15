@@ -29,6 +29,12 @@ export const IGNORE_TEST = [
         comment: MST_TIMEOUT,
     },
     {
+        path: "ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/createBlobhashTx.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_NOT_SUPPORT_BLOB_TX,
+    },
+    {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/21_tstoreCannotBeDosdOOO.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
