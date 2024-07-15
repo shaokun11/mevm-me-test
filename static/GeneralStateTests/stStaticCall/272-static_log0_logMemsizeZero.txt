@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_log0_logMemsizeZero.json
+2024-07-15T09:03:06.532Z [SKIP] 272/286,0 static_log0_logMemsizeZero 1/1 data:0,gas:0,value:0  execute timeout

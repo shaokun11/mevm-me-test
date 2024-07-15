@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_refund_CallA.json
+2024-07-15T09:03:06.537Z [SKIP] 283/286,0 static_refund_CallA 1/1 data:0,gas:0,value:0  execute timeout

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallLoseGasOOG.json
+2024-07-15T09:03:06.426Z [SKIP] 65/286,0 static_CallLoseGasOOG 1/1 data:0,gas:0,value:0  execute timeout

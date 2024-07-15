@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_5.json
+2024-07-15T09:03:06.439Z [SKIP] 91/286,0 static_CallSha256_5 1/1 data:0,gas:0,value:0  execute timeout

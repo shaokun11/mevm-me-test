@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010_OOGMAfter.json
+2024-07-15T09:03:06.487Z [SKIP] 180/286,0 static_callcallcodecall_010_OOGMAfter 1/2 data:0,gas:0,value:0  execute timeout
+2024-07-15T09:03:06.487Z [SKIP] 180/286,0 static_callcallcodecall_010_OOGMAfter 2/2 data:1,gas:0,value:0  execute timeout

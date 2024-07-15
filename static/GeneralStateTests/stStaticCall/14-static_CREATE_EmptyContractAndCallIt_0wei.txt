@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CREATE_EmptyContractAndCallIt_0wei.json
+2024-07-15T09:03:06.385Z [SKIP] 14/286,0 static_CREATE_EmptyContractAndCallIt_0wei 1/1 data:0,gas:0,value:0  execute timeout

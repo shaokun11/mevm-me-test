@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcall_100_SuicideEnd.json
+2024-07-15T09:03:06.509Z [SKIP] 225/286,0 static_callcodecallcall_100_SuicideEnd 1/1 data:0,gas:0,value:0  execute timeout
