@@ -82,4 +82,16 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MST_TIMEOUT,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stShift/shiftCombinations.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stShift/shiftSignedCombinations.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
 ];
