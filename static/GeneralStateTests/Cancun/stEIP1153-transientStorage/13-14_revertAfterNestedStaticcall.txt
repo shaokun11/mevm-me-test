@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/14_revertAfterNestedStaticcall.json
-2024-07-15T03:51:50.741Z [EXCEPTION] 13/37,0 14_revertAfterNestedStaticcall 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T06:39:59.034Z [PASSED] 13/37,0 14_revertAfterNestedStaticcall 1/1 data:0,gas:0,value:0  

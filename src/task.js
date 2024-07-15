@@ -34,7 +34,7 @@ let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
     // there is one tx need about 60s to finish
-    const timeoutSecs = 60;
+    const timeoutSecs = 65;
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
         expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
     });
@@ -199,7 +199,6 @@ export async function runTask(opt) {
                 indexes.value
             } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
-
             if (skip) {
                 const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
                 appendFileSync(summary_file, output + "\n");
@@ -227,19 +226,19 @@ export async function runTask(opt) {
                             });
                         }
                     } else {
-                        if (res.vm_status === MOVE_VM_SKIP_BLOB_KEY) {
+                        if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_KEY)) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_SUPPORT_BLOB_TX;
                             t.ok(1, MSG_NOT_SUPPORT_BLOB_TX);
-                        } else if (res.vm_status === MOVE_VM_SKIP_SELFDESTRUCT_KEY) {
+                        } else if (res.vm_status.includes(MOVE_VM_SKIP_SELFDESTRUCT_KEY)) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_IMPLEMENTED_SELFDESTRUCT;
                             t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
-                        } else if (res.vm_status === MOVE_VM_SKIP_BLOB_HASH_KEY) {
+                        } else if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_HASH_KEY)) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_SUPPORT_BLOB_HASH;
                             t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
-                        } else if (res.vm_status === MOVE_VM_SKIP_BLOB_BASEFEE_KEY) {
+                        } else if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_BASEFEE_KEY)) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
                             t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);

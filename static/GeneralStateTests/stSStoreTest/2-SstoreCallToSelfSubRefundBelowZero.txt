@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/SstoreCallToSelfSubRefundBelowZero.json
+2024-07-15T06:19:02.647Z [FAILED] 2/28,0 SstoreCallToSelfSubRefundBelowZero 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_global_state::sub_gas_refund at code offset 7","hash":"0x05628a2a0797bf2628415207dae451c7c8b67aebe68643f8bee5c8629889e139","expected":"0xc791eb58de78cbf0d8b28197ab4367f40af23fce2f57b1c5f8882010eae0ad3f"}

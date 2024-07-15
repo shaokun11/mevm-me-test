@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/10_revertUndoesStoreAfterReturn.json
-2024-07-15T03:51:50.734Z [EXCEPTION] 9/37,0 10_revertUndoesStoreAfterReturn 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T06:39:56.393Z [PASSED] 9/37,0 10_revertUndoesStoreAfterReturn 1/1 data:0,gas:0,value:0  

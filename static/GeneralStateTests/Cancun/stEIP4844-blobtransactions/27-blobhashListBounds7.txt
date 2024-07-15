@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/blobhashListBounds7.json
-2024-07-15T03:51:50.841Z [EXCEPTION] 27/37,0 blobhashListBounds7 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-15T07:07:33.874Z [SKIP] 27/37,0 blobhashListBounds7 1/1 data:0,gas:0,value:0  Not support blob hash opcode

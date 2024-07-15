@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/sstore_changeFromExternalCallInInitCode.json

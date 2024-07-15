@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/InitCollisionNonZeroNonce.json
+2024-07-15T06:58:03.483Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 1/4 data:0,gas:0,value:0  
+2024-07-15T06:58:04.150Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 2/4 data:1,gas:0,value:0  
+2024-07-15T06:58:04.812Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 3/4 data:2,gas:0,value:0  
+2024-07-15T06:58:05.472Z [FAILED] 0/28,0 InitCollisionNonZeroNonce 4/4 data:3,gas:0,value:0  {"gas_refund":"39721","gas_usage":"158884","state_root":"0x3c02da62856fc94ba11916cc62e10caf25c2863d4263179c2448e248cda37355","expected":"0xc3e31d9cc8dc7c0beb0b87467f6f6ed0e7ea218a61d626df195171b0d0869b85","hash":"0x46b3f1a179a4cf8b3708c2246ec3e3b2c588c47f215a6833c38d27135a3bd94f"}

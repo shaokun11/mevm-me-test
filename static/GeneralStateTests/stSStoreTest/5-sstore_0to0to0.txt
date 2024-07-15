@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/sstore_0to0to0.json
