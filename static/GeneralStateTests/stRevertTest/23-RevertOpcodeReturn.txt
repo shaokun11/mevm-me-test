@@ -1,13 +1,13 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeReturn.json
-2024-07-15T06:07:49.766Z [PASSED] 23/46,0 RevertOpcodeReturn 1/12 data:0,gas:0,value:0  
-2024-07-15T06:07:50.423Z [PASSED] 23/46,0 RevertOpcodeReturn 2/12 data:0,gas:1,value:0  
-2024-07-15T06:07:51.081Z [PASSED] 23/46,0 RevertOpcodeReturn 3/12 data:1,gas:0,value:0  
-2024-07-15T06:07:51.738Z [PASSED] 23/46,0 RevertOpcodeReturn 4/12 data:1,gas:1,value:0  
-2024-07-15T06:07:52.395Z [PASSED] 23/46,0 RevertOpcodeReturn 5/12 data:2,gas:0,value:0  
-2024-07-15T06:07:53.054Z [PASSED] 23/46,0 RevertOpcodeReturn 6/12 data:2,gas:1,value:0  
-2024-07-15T06:07:53.710Z [PASSED] 23/46,0 RevertOpcodeReturn 7/12 data:3,gas:0,value:0  
-2024-07-15T06:07:54.367Z [PASSED] 23/46,0 RevertOpcodeReturn 8/12 data:3,gas:1,value:0  
-2024-07-15T06:07:55.023Z [PASSED] 23/46,0 RevertOpcodeReturn 9/12 data:4,gas:0,value:0  
-2024-07-15T06:07:55.679Z [PASSED] 23/46,0 RevertOpcodeReturn 10/12 data:4,gas:1,value:0  
-2024-07-15T06:07:56.336Z [FAILED] 23/46,0 RevertOpcodeReturn 11/12 data:5,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0x6589d01c6ab206e93ede706b27f5d4c94993d00134ae7106b834af1d00a5fa73","expected":"0x39026113150402cf108f83cdf9e9c20b385b6cd2f40400736cb2b06e96235c3d"}
-2024-07-15T06:07:56.991Z [FAILED] 23/46,0 RevertOpcodeReturn 12/12 data:5,gas:1,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0xe3df780cd95f482cc042261ac87d9f4d385347ff1175719907141b1c42944d56","expected":"0x39026113150402cf108f83cdf9e9c20b385b6cd2f40400736cb2b06e96235c3d"}
+2024-07-15T06:15:33.140Z [PASSED] 23/46,0 RevertOpcodeReturn 1/12 data:0,gas:0,value:0  
+2024-07-15T06:15:33.802Z [PASSED] 23/46,0 RevertOpcodeReturn 2/12 data:0,gas:1,value:0  
+2024-07-15T06:15:34.467Z [PASSED] 23/46,0 RevertOpcodeReturn 3/12 data:1,gas:0,value:0  
+2024-07-15T06:15:35.126Z [PASSED] 23/46,0 RevertOpcodeReturn 4/12 data:1,gas:1,value:0  
+2024-07-15T06:15:35.788Z [PASSED] 23/46,0 RevertOpcodeReturn 5/12 data:2,gas:0,value:0  
+2024-07-15T06:15:36.447Z [PASSED] 23/46,0 RevertOpcodeReturn 6/12 data:2,gas:1,value:0  
+2024-07-15T06:15:37.107Z [PASSED] 23/46,0 RevertOpcodeReturn 7/12 data:3,gas:0,value:0  
+2024-07-15T06:15:37.770Z [PASSED] 23/46,0 RevertOpcodeReturn 8/12 data:3,gas:1,value:0  
+2024-07-15T06:15:38.428Z [PASSED] 23/46,0 RevertOpcodeReturn 9/12 data:4,gas:0,value:0  
+2024-07-15T06:15:39.087Z [PASSED] 23/46,0 RevertOpcodeReturn 10/12 data:4,gas:1,value:0  
+2024-07-15T06:15:39.744Z [PASSED] 23/46,0 RevertOpcodeReturn 11/12 data:5,gas:0,value:0  
+2024-07-15T06:15:40.406Z [PASSED] 23/46,0 RevertOpcodeReturn 12/12 data:5,gas:1,value:0  
