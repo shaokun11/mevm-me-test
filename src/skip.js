@@ -111,6 +111,6 @@ export const IGNORE_TEST = [
         path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
-        comment: MST_TIMEOUT,
+        comment: MST_RLP,
     },
 ];
