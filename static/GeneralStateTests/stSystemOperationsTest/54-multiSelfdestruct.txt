@@ -1,0 +1,6 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/multiSelfdestruct.json
+2024-07-15T11:26:18.066Z [SKIP] 54/67,0 multiSelfdestruct 1/5 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T11:26:18.720Z [SKIP] 54/67,0 multiSelfdestruct 2/5 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T11:26:19.376Z [SKIP] 54/67,0 multiSelfdestruct 3/5 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T11:26:20.029Z [SKIP] 54/67,0 multiSelfdestruct 4/5 data:3,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-15T11:26:20.686Z [SKIP] 54/67,0 multiSelfdestruct 5/5 data:4,gas:0,value:0  Not implementation SELFDESTRUCT opcode

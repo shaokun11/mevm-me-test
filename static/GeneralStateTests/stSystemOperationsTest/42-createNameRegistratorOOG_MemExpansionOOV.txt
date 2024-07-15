@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorOOG_MemExpansionOOV.json
+2024-07-15T11:26:04.316Z [PASSED] 42/67,0 createNameRegistratorOOG_MemExpansionOOV 1/1 data:0,gas:0,value:0  

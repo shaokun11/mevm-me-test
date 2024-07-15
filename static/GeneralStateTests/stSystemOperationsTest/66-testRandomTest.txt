@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/testRandomTest.json
+2024-07-15T11:26:28.541Z [PASSED] 66/67,0 testRandomTest 1/1 data:0,gas:0,value:0  

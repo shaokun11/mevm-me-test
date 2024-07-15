@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorOutOfGas.json
+2024-07-15T11:25:46.484Z [PASSED] 20/67,0 CallToNameRegistratorOutOfGas 1/1 data:0,gas:0,value:0  

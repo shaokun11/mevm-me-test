@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorMemOOGAndInsufficientBalance.json
+2024-07-15T11:25:44.516Z [PASSED] 17/67,0 CallToNameRegistratorMemOOGAndInsufficientBalance 1/1 data:0,gas:0,value:0  

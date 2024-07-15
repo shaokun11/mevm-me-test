@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorTooMuchMemory2.json
+2024-07-15T11:25:48.455Z [PASSED] 23/67,0 CallToNameRegistratorTooMuchMemory2 1/1 data:0,gas:0,value:0  
