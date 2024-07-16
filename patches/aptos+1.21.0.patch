@@ -1,5 +1,5 @@
 diff --git a/node_modules/aptos/dist/index.mjs b/node_modules/aptos/dist/index.mjs
-index 64ed411..d711e79 100644
+index 64ed411..a03fc5d 100644
 --- a/node_modules/aptos/dist/index.mjs
 +++ b/node_modules/aptos/dist/index.mjs
 @@ -3956,7 +3956,7 @@ var _AptosClient = class _AptosClient {
@@ -20,3 +20,12 @@ index 64ed411..d711e79 100644
        count += 1;
      }
      if (lastTxn === void 0) {
+@@ -3986,7 +3986,7 @@ var _AptosClient = class _AptosClient {
+     }
+     if (isPending) {
+       throw new WaitForTransactionError(
+-        `Waiting for transaction ${txnHash} timed out after ${timeoutSecs} seconds`,
++        `Waiting for transaction ${txnHash} timed out after ${timeoutSecs/5} seconds`,
+         lastTxn
+       );
+     }
