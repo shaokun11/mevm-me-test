@@ -7,11 +7,13 @@ import {
     MOVE_VM_SKIP_BLOB_BASEFEE_KEY,
     MOVE_VM_SKIP_BLOB_HASH_KEY,
     MOVE_VM_SKIP_BLOB_KEY,
+    MOVE_VM_SKIP_KZG_KEY,
     MOVE_VM_SKIP_SELFDESTRUCT_KEY,
     MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
     MSG_NOT_SUPPORT_BLOB_BASEFEE,
     MSG_NOT_SUPPORT_BLOB_HASH,
     MSG_NOT_SUPPORT_BLOB_TX,
+    MSG_NOT_SUPPORT_OPCODE_KZG,
     SKIP_ALL_LABEL,
     SKIP_ALL_NAME,
 } from "./skip.js";
@@ -46,7 +48,7 @@ export async function sendTx(payload) {
 function toBuffer(hex) {
     if (hex.startsWith("0x:bigint")) {
         hex = hex.replace("0x:bigint", "");
-        hex = hex.trim()
+        hex = hex.trim();
     }
     if (hex.startsWith("0x")) hex = hex.slice(2);
     if (hex.length % 2 !== 0) hex = "0" + hex;
@@ -246,6 +248,10 @@ export async function runTask(opt) {
                             status = RUN_STATUS.SKIP;
                             msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
                             t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
+                        } else if (res.vm_status.includes(MOVE_VM_SKIP_KZG_KEY)) {
+                            status = RUN_STATUS.SKIP;
+                            msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
+                            t.ok(1, MSG_NOT_SUPPORT_OPCODE_KZG);
                         } else {
                             t.fail(res.vm_status);
                             status += RUN_STATUS.FAILED;

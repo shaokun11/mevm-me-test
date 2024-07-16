@@ -9,9 +9,11 @@ const MST_RLP="rlp decode error"
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx"
 export const MSG_NOT_SUPPORT_BLOB_BASEFEE = "Not support blob basefee opcode"
 export const MSG_NOT_SUPPORT_BLOB_HASH = "Not support blob hash opcode"
+export const MSG_NOT_SUPPORT_OPCODE_KZG = "Not support kzg opcode"
 
 export const MOVE_VM_SKIP_BLOB_KEY = "0x1::evm_for_test: 0x4e2b"
 export const MOVE_VM_SKIP_BLOB_BASEFEE_KEY = "0x1::evm_for_test: 0x4a"
+export const MOVE_VM_SKIP_KZG_KEY = "0x1::evm_precompile: 0xa"
 export const MOVE_VM_SKIP_BLOB_HASH_KEY = "0x1::evm_for_test: 0x49"
 export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff"
 
