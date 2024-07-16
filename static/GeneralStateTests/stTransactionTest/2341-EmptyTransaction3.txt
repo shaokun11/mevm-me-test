@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stTransactionTest/EmptyTransaction3.json
-2024-07-16T07:09:43.224Z [FAILED] 2341/2723,0 EmptyTransaction3 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"21000","state_root":"0xf1f350911f64eaed6eb52b93cfe47305800250ea04fe750ed303e3553b2cf714","expected":"0x4e25de9ed738d6969b3eaa4691c6dc94e550fa5ad202af5c55ed4a1dfc35d058","hash":"0x8d08de1df4f81334064ac1c390cd374d7a4623f706491fa1580cbef91391f4b2"}

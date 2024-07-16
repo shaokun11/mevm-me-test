@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/TransactionSendingToEmpty.json
-2024-07-16T07:12:29.789Z [FAILED] 2366/2723,0 TransactionSendingToEmpty 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"21000","state_root":"0xf1f350911f64eaed6eb52b93cfe47305800250ea04fe750ed303e3553b2cf714","expected":"0x4e25de9ed738d6969b3eaa4691c6dc94e550fa5ad202af5c55ed4a1dfc35d058","hash":"0xc0192ef1546bd451d1f50f5b8623b4cabafb0807b88b30307a2f53d04d0bf6a5"}
+2024-07-16T08:17:06.675Z [PASSED] 30/35,0 TransactionSendingToEmpty 1/1 data:0,gas:0,value:0  
