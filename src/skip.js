@@ -112,4 +112,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MST_RLP,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/stAttackTest",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_DROP_FROM_MOVE_VM,
+    },
 ];
