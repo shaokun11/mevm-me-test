@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/SuicideToNotExistingContract.json
-2024-07-16T05:25:35.426Z [SKIP] 731/2723,0 SuicideToNotExistingContract 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T13:43:16.202Z [SKIP] 731/2723,0 SuicideToNotExistingContract 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromContractInitialization.json
-2024-07-16T07:05:19.495Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 1/8 data:0,gas:0,value:0  
-2024-07-16T07:05:20.168Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 2/8 data:1,gas:0,value:0  
-2024-07-16T07:05:20.830Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 3/8 data:2,gas:0,value:0  
-2024-07-16T07:05:21.492Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 4/8 data:3,gas:0,value:0  
-2024-07-16T07:05:22.154Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 5/8 data:4,gas:0,value:0  
-2024-07-16T07:05:22.821Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 6/8 data:5,gas:0,value:0  
-2024-07-16T07:05:23.490Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 7/8 data:6,gas:0,value:0  
-2024-07-16T07:05:24.160Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 8/8 data:7,gas:0,value:0  
+2024-07-16T15:23:59.731Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 1/8 data:0,gas:0,value:0  
+2024-07-16T15:24:00.394Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 2/8 data:1,gas:0,value:0  
+2024-07-16T15:24:01.064Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 3/8 data:2,gas:0,value:0  
+2024-07-16T15:24:01.728Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 4/8 data:3,gas:0,value:0  
+2024-07-16T15:24:02.393Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 5/8 data:4,gas:0,value:0  
+2024-07-16T15:24:03.058Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 6/8 data:5,gas:0,value:0  
+2024-07-16T15:24:03.726Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 7/8 data:6,gas:0,value:0  
+2024-07-16T15:24:04.389Z [PASSED] 2243/2723,0 CallWithNOTZeroValueToPrecompileFromContractInitialization 8/8 data:7,gas:0,value:0  

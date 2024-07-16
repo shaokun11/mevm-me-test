@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticFlagEnabled/DelegatecallToPrecompileFromContractInitialization.json
-2024-07-15T11:06:52.827Z [PASSED] 10/13,0 DelegatecallToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  

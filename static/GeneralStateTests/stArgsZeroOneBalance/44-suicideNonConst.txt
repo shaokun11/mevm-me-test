@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/suicideNonConst.json
-2024-07-05T04:49:50.318Z [SKIP] 44/46,0 suicideNonConst 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-05T04:49:50.320Z [SKIP] 44/46,0 suicideNonConst 2/2 data:0,gas:0,value:1  Not implementation SELFDESTRUCT opcode

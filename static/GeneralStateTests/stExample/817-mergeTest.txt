@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExample/mergeTest.json
-2024-07-16T05:59:38.140Z [PASSED] 817/2723,0 mergeTest 1/1 data:0,gas:0,value:0  
+2024-07-16T14:17:20.886Z [PASSED] 817/2723,0 mergeTest 1/1 data:0,gas:0,value:0  

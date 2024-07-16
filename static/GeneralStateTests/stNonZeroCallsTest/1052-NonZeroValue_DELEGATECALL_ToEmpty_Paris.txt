@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_DELEGATECALL_ToEmpty_Paris.json
-2024-07-16T06:13:43.927Z [PASSED] 1052/2723,0 NonZeroValue_DELEGATECALL_ToEmpty_Paris 1/1 data:0,gas:0,value:0  
+2024-07-16T14:31:41.935Z [PASSED] 1052/2723,0 NonZeroValue_DELEGATECALL_ToEmpty_Paris 1/1 data:0,gas:0,value:0  

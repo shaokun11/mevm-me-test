@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024BalanceTooLow.json
-2024-07-15T09:03:06.387Z [SKIP] 17/286,0 static_Call1024BalanceTooLow 1/2 data:0,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.387Z [SKIP] 17/286,0 static_Call1024BalanceTooLow 2/2 data:1,gas:0,value:0  execute timeout

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackUnderflow.json
-2024-07-09T01:36:52.415Z [SKIP] 31/43,0 createInitFailStackUnderflow 1/1 data:0,gas:0,value:0  Not support blob tx

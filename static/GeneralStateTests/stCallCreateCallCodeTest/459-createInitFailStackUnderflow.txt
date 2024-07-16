@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackUnderflow.json
-2024-07-16T05:07:29.233Z [SKIP] 459/2723,0 createInitFailStackUnderflow 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T13:25:29.767Z [SKIP] 459/2723,0 createInitFailStackUnderflow 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

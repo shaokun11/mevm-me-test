@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2callPrecompiles.json
-2024-07-10T10:52:20.997Z [PASSED] 33/51,0 create2callPrecompiles 1/8 data:0,gas:0,value:0  
-2024-07-10T10:52:22.728Z [PASSED] 33/51,0 create2callPrecompiles 2/8 data:1,gas:0,value:0  
-2024-07-10T10:52:24.534Z [PASSED] 33/51,0 create2callPrecompiles 3/8 data:2,gas:0,value:0  
-2024-07-10T10:52:26.340Z [PASSED] 33/51,0 create2callPrecompiles 4/8 data:3,gas:0,value:0  
-2024-07-10T10:52:28.474Z [PASSED] 33/51,0 create2callPrecompiles 5/8 data:4,gas:0,value:0  
-2024-07-10T10:52:31.356Z [PASSED] 33/51,0 create2callPrecompiles 6/8 data:5,gas:0,value:0  
-2024-07-10T10:52:35.035Z [PASSED] 33/51,0 create2callPrecompiles 7/8 data:6,gas:0,value:0  
-2024-07-10T10:52:37.362Z [PASSED] 33/51,0 create2callPrecompiles 8/8 data:7,gas:0,value:0  

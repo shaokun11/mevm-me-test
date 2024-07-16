@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund600.json
-2024-07-16T06:29:45.980Z [PASSED] 1730/2723,0 refund600 1/1 data:0,gas:0,value:0  
+2024-07-16T14:47:58.003Z [PASSED] 1730/2723,0 refund600 1/1 data:0,gas:0,value:0  

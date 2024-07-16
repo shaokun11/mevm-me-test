@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP158Specific/vitalikTransactionTestParis.json
-2024-07-16T05:57:25.612Z [SKIP] 796/2723,0 vitalikTransactionTestParis 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T14:15:07.177Z [SKIP] 796/2723,0 vitalikTransactionTestParis 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

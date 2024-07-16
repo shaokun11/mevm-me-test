@@ -1,7 +1,0 @@
-ethereum-tests/GeneralStateTests/Shanghai/stEIP3855-push0/push0.json
-2024-07-05T01:58:14.559Z [PASSED] 2,0 push0 1/6 data:0,gas:0,value:0 single_push0 
-2024-07-05T01:58:18.079Z [PASSED] 2,0 push0 2/6 data:1,gas:0,value:0 1024_push0 
-2024-07-05T01:58:20.304Z [PASSED] 2,0 push0 3/6 data:2,gas:0,value:0 1025_push0 
-2024-07-05T01:58:22.512Z [PASSED] 2,0 push0 4/6 data:3,gas:0,value:0 push0_upd_storage 
-2024-07-05T01:58:24.740Z [PASSED] 2,0 push0 5/6 data:4,gas:0,value:0 push0_upd_storage_sc 
-2024-07-05T01:58:26.950Z [PASSED] 2,0 push0 6/6 data:5,gas:0,value:0 jumpdest 

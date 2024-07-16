@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorOutOfMemoryBonds1.json
-2024-07-16T07:09:16.349Z [PASSED] 2299/2723,0 createNameRegistratorOutOfMemoryBonds1 1/1 data:0,gas:0,value:0  
+2024-07-16T15:28:02.196Z [PASSED] 2299/2723,0 createNameRegistratorOutOfMemoryBonds1 1/1 data:0,gas:0,value:0  

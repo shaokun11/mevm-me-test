@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover0_NoGas.json
-2024-07-06T04:01:02.328Z [PASSED] 5/102,0 CALLCODEEcrecover0_NoGas 1/1 data:0,gas:0,value:0  

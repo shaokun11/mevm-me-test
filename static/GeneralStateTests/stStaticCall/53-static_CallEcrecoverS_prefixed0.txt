@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecoverS_prefixed0.json
-2024-07-15T09:03:06.421Z [SKIP] 53/286,0 static_CallEcrecoverS_prefixed0 1/1 data:0,gas:0,value:0  execute timeout

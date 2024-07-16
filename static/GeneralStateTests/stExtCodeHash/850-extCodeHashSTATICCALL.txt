@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashSTATICCALL.json
-2024-07-16T06:00:30.755Z [PASSED] 850/2723,0 extCodeHashSTATICCALL 1/1 data:0,gas:0,value:0  
+2024-07-16T14:18:13.898Z [PASSED] 850/2723,0 extCodeHashSTATICCALL 1/1 data:0,gas:0,value:0  

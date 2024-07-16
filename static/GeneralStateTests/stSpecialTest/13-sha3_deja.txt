@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/sha3_deja.json
-2024-07-15T07:51:37.065Z [PASSED] 13/15,0 sha3_deja 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refundMax.json
-2024-07-16T06:29:47.293Z [PASSED] 1732/2723,0 refundMax 1/1 data:0,gas:0,value:0  
+2024-07-16T14:47:59.314Z [PASSED] 1732/2723,0 refundMax 1/1 data:0,gas:0,value:0  

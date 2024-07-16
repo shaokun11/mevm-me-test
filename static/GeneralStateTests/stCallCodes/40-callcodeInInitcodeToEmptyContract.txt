@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCodes/callcodeInInitcodeToEmptyContract.json
-2024-07-08T14:32:51.402Z [PASSED] 40/79,0 callcodeInInitcodeToEmptyContract 1/2 data:0,gas:0,value:0  
-2024-07-08T14:32:52.662Z [PASSED] 40/79,0 callcodeInInitcodeToEmptyContract 2/2 data:1,gas:0,value:0  

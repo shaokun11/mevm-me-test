@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideAddress.json
-2024-07-16T07:09:34.044Z [SKIP] 2313/2723,0 suicideAddress 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T15:28:19.882Z [SKIP] 2313/2723,0 suicideAddress 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010.json
-2024-07-15T09:03:06.485Z [SKIP] 176/286,0 static_callcallcodecall_010 1/1 data:0,gas:0,value:0  execute timeout

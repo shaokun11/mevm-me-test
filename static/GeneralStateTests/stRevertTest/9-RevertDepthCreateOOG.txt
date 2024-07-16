@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/RevertDepthCreateOOG.json
-2024-07-15T06:07:02.128Z [PASSED] 9/46,0 RevertDepthCreateOOG 1/8 data:1,gas:1,value:0  
-2024-07-15T06:07:02.784Z [PASSED] 9/46,0 RevertDepthCreateOOG 2/8 data:1,gas:1,value:1  
-2024-07-15T06:07:03.440Z [PASSED] 9/46,0 RevertDepthCreateOOG 3/8 data:0,gas:1,value:0  
-2024-07-15T06:07:04.095Z [PASSED] 9/46,0 RevertDepthCreateOOG 4/8 data:0,gas:1,value:1  
-2024-07-15T06:07:04.751Z [PASSED] 9/46,0 RevertDepthCreateOOG 5/8 data:0,gas:0,value:0  
-2024-07-15T06:07:05.407Z [PASSED] 9/46,0 RevertDepthCreateOOG 6/8 data:0,gas:0,value:1  
-2024-07-15T06:07:06.065Z [PASSED] 9/46,0 RevertDepthCreateOOG 7/8 data:1,gas:0,value:0  
-2024-07-15T06:07:06.720Z [PASSED] 9/46,0 RevertDepthCreateOOG 8/8 data:1,gas:0,value:1  

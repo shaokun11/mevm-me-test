@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_SUICIDE_ToNonZeroBalance_OOGRevert.json
-2024-07-16T01:38:17.409Z [SKIP] 14/16,0 ZeroValue_SUICIDE_ToNonZeroBalance_OOGRevert 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

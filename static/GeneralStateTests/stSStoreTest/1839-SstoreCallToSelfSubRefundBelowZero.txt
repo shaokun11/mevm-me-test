@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSStoreTest/SstoreCallToSelfSubRefundBelowZero.json
-2024-07-16T06:40:14.189Z [PASSED] 1839/2723,0 SstoreCallToSelfSubRefundBelowZero 1/1 data:0,gas:0,value:0  
+2024-07-16T14:58:34.714Z [PASSED] 1839/2723,0 SstoreCallToSelfSubRefundBelowZero 1/1 data:0,gas:0,value:0  

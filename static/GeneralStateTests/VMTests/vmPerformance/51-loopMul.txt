@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmPerformance/loopMul.json
-2024-07-05T01:59:00.493Z [SKIP] 51,0 loopMul 1/3 data:0,gas:0,value:0 add-10M No need to test performance, it depends on the move-vm implementation
-2024-07-05T01:59:00.493Z [SKIP] 51,0 loopMul 2/3 data:1,gas:0,value:0 divadd-10M No need to test performance, it depends on the move-vm implementation
-2024-07-05T01:59:00.493Z [SKIP] 51,0 loopMul 3/3 data:2,gas:0,value:0 mulmod-2M No need to test performance, it depends on the move-vm implementation

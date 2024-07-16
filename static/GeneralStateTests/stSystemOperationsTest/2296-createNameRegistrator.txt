@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistrator.json
-2024-07-16T07:09:14.384Z [PASSED] 2296/2723,0 createNameRegistrator 1/1 data:0,gas:0,value:0  
+2024-07-16T15:28:00.233Z [PASSED] 2296/2723,0 createNameRegistrator 1/1 data:0,gas:0,value:0  

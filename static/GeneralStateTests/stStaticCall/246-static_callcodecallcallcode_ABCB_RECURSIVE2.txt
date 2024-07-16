@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcallcode_ABCB_RECURSIVE2.json
-2024-07-15T09:03:06.520Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 1/4 data:0,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.520Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 2/4 data:0,gas:0,value:1  execute timeout
-2024-07-15T09:03:06.520Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 3/4 data:1,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.520Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 4/4 data:1,gas:0,value:1  execute timeout

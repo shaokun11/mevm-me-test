@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_one_point_with_g1_zero.json
-2024-07-16T01:45:43.553Z [PASSED] 108/134,0 ecpairing_one_point_with_g1_zero 1/3 data:0,gas:0,value:0  
-2024-07-16T01:45:44.213Z [PASSED] 108/134,0 ecpairing_one_point_with_g1_zero 2/3 data:0,gas:1,value:0  
-2024-07-16T01:45:44.874Z [PASSED] 108/134,0 ecpairing_one_point_with_g1_zero 3/3 data:0,gas:2,value:0  

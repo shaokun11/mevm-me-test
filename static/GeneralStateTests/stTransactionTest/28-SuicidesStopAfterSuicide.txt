@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesStopAfterSuicide.json
-2024-07-15T12:02:39.365Z [SKIP] 28/35,0 SuicidesStopAfterSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

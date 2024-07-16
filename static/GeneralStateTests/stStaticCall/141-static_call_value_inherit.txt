@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_call_value_inherit.json
-2024-07-15T09:03:06.467Z [SKIP] 141/286,0 static_call_value_inherit 1/1 data:0,gas:0,value:0  execute timeout

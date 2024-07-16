@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashMaxCodeSize.json
-2024-07-12T03:59:00.111Z [PASSED] 25/36,0 extCodeHashMaxCodeSize 1/1 data:0,gas:0,value:0  

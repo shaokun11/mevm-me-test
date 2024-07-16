@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/sha3NonConst.json
-2024-07-16T02:39:55.485Z [PASSED] 212/2723,0 sha3NonConst 1/2 data:0,gas:0,value:0  
-2024-07-16T02:39:56.141Z [PASSED] 212/2723,0 sha3NonConst 2/2 data:0,gas:0,value:1  
+2024-07-16T10:56:40.058Z [PASSED] 212/2723,0 sha3NonConst 1/2 data:0,gas:0,value:0  
+2024-07-16T10:56:40.712Z [PASSED] 212/2723,0 sha3NonConst 2/2 data:0,gas:0,value:1  

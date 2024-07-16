@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromTransaction.json
-2024-07-16T07:05:24.824Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  
-2024-07-16T07:05:25.483Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  
-2024-07-16T07:05:26.146Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  
-2024-07-16T07:05:26.808Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  
-2024-07-16T07:05:27.467Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  
-2024-07-16T07:05:28.129Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  
-2024-07-16T07:05:28.796Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  
-2024-07-16T07:05:29.460Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  
+2024-07-16T15:24:05.055Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  
+2024-07-16T15:24:05.715Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  
+2024-07-16T15:24:06.376Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  
+2024-07-16T15:24:07.039Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  
+2024-07-16T15:24:07.699Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  
+2024-07-16T15:24:08.362Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  
+2024-07-16T15:24:09.023Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  
+2024-07-16T15:24:09.683Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  

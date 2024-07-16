@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stLogTests/logInOOG_Call.json
-2024-07-12T04:04:39.156Z [PASSED] 45/46,0 logInOOG_Call 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletChangeOwnerRemovePendingTransaction.json
-2024-07-16T07:13:09.045Z [PASSED] 2403/2723,0 walletChangeOwnerRemovePendingTransaction 1/1 data:0,gas:0,value:0  
+2024-07-16T15:31:56.827Z [PASSED] 2403/2723,0 walletChangeOwnerRemovePendingTransaction 1/1 data:0,gas:0,value:0  

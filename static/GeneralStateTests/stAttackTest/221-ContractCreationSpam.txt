@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stAttackTest/ContractCreationSpam.json
-2024-07-16T09:23:02.925Z [SKIP] 0/2,0 ContractCreationSpam 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm
+2024-07-16T10:37:15.734Z [SKIP] 221/2723,0 ContractCreationSpam 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm

@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/RevertDepthCreateAddressCollision.json
-2024-07-10T06:16:35.825Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 1/8 data:1,gas:1,value:0  
-2024-07-10T06:16:37.601Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 2/8 data:1,gas:1,value:1  
-2024-07-10T06:16:39.399Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 3/8 data:0,gas:1,value:0  
-2024-07-10T06:16:41.167Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 4/8 data:0,gas:1,value:1  
-2024-07-10T06:16:42.948Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 5/8 data:1,gas:0,value:0  
-2024-07-10T06:16:44.755Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 6/8 data:1,gas:0,value:1  
-2024-07-10T06:16:46.544Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 7/8 data:0,gas:0,value:0  
-2024-07-10T06:16:48.329Z [PASSED] 24/51,0 RevertDepthCreateAddressCollision 8/8 data:0,gas:0,value:1  

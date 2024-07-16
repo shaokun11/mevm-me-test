@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/TouchToEmptyAccountRevert2_Paris.json
-2024-07-15T06:17:11.573Z [PASSED] 41/46,0 TouchToEmptyAccountRevert2_Paris 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stHomesteadSpecific/contractCreationOOGdontLeaveEmptyContractViaTransaction.json
-2024-07-12T04:00:49.522Z [PASSED] 1/5,0 contractCreationOOGdontLeaveEmptyContractViaTransaction 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_ReturnTest.json
-2024-07-15T09:03:06.454Z [SKIP] 114/286,0 static_ReturnTest 1/1 data:0,gas:0,value:0  execute timeout

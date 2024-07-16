@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stInitCodeTest/CallContractToCreateContractWhichWouldCreateContractInInitCode.json
-2024-07-16T06:00:51.956Z [PASSED] 867/2723,0 CallContractToCreateContractWhichWouldCreateContractInInitCode 1/1 data:0,gas:0,value:0  
+2024-07-16T14:18:35.319Z [PASSED] 867/2723,0 CallContractToCreateContractWhichWouldCreateContractInInitCode 1/1 data:0,gas:0,value:0  

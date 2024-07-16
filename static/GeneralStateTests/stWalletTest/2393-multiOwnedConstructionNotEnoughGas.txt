@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedConstructionNotEnoughGas.json
-2024-07-16T07:12:56.240Z [PASSED] 2393/2723,0 multiOwnedConstructionNotEnoughGas 1/1 data:0,gas:0,value:0  
+2024-07-16T15:31:41.303Z [PASSED] 2393/2723,0 multiOwnedConstructionNotEnoughGas 1/1 data:0,gas:0,value:0  

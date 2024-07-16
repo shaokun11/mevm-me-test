@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODERipemd160_0.json
-2024-07-06T15:24:15.906Z [PASSED] 27/102,0 CALLCODERipemd160_0 1/1 data:0,gas:0,value:0  

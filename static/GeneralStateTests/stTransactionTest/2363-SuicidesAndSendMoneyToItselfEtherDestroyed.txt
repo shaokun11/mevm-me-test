@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesAndSendMoneyToItselfEtherDestroyed.json
-2024-07-16T07:12:27.173Z [SKIP] 2363/2723,0 SuicidesAndSendMoneyToItselfEtherDestroyed 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T15:31:12.243Z [SKIP] 2363/2723,0 SuicidesAndSendMoneyToItselfEtherDestroyed 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

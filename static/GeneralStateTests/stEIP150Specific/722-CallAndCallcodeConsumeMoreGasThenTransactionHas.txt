@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/CallAndCallcodeConsumeMoreGasThenTransactionHas.json
-2024-07-16T05:25:29.529Z [PASSED] 722/2723,0 CallAndCallcodeConsumeMoreGasThenTransactionHas 1/1 data:0,gas:0,value:0  
+2024-07-16T13:43:10.300Z [PASSED] 722/2723,0 CallAndCallcodeConsumeMoreGasThenTransactionHas 1/1 data:0,gas:0,value:0  

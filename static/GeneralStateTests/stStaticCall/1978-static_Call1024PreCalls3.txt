@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024PreCalls3.json
-2024-07-16T02:14:42.588Z [SKIP] 1978/2723,0 static_Call1024PreCalls3 1/2 data:0,gas:0,value:0  execute timeout
-2024-07-16T02:14:42.588Z [SKIP] 1978/2723,0 static_Call1024PreCalls3 2/2 data:1,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.443Z [SKIP] 1978/2723,0 static_Call1024PreCalls3 1/2 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.443Z [SKIP] 1978/2723,0 static_Call1024PreCalls3 2/2 data:1,gas:0,value:0  execute timeout

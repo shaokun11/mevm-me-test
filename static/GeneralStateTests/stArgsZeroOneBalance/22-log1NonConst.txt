@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/log1NonConst.json
-2024-07-05T03:54:30.706Z [PASSED] 22/46,0 log1NonConst 1/2 data:0,gas:0,value:0  
-2024-07-05T03:54:32.821Z [PASSED] 22/46,0 log1NonConst 2/2 data:0,gas:0,value:1  

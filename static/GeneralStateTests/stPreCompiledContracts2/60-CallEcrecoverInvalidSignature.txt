@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallEcrecoverInvalidSignature.json
-2024-07-06T15:52:48.663Z [PASSED] 60/102,0 CallEcrecoverInvalidSignature 1/1 data:0,gas:0,value:0  

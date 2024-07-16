@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideNotExistingAccount.json
-2024-07-16T07:09:36.663Z [SKIP] 2317/2723,0 suicideNotExistingAccount 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T15:28:22.502Z [SKIP] 2317/2723,0 suicideNotExistingAccount 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

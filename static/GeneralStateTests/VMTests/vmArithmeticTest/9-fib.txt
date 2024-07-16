@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json
-2024-07-05T02:04:33.784Z [PASSED] 9,0 fib 1/1 data:0,gas:0,value:0  

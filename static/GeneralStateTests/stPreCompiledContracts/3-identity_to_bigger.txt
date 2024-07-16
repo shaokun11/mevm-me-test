@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts/identity_to_bigger.json
-2024-07-05T09:50:22.663Z [PASSED] 3/9,0 identity_to_bigger 1/1 data:0,gas:0,value:0  

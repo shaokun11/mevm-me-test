@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stBadOpcode/undefinedOpcodeFirstByte.json
-2024-07-08T06:17:51.669Z [SKIP] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  Not support blob tx

@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stInitCodeTest/OutOfGasContractCreation.json
-2024-07-16T06:00:54.123Z [PASSED] 870/2723,0 OutOfGasContractCreation 1/4 data:0,gas:1,value:0  
-2024-07-16T06:00:54.775Z [PASSED] 870/2723,0 OutOfGasContractCreation 2/4 data:1,gas:1,value:0  
-2024-07-16T06:00:55.432Z [PASSED] 870/2723,0 OutOfGasContractCreation 3/4 data:0,gas:0,value:0  
-2024-07-16T06:00:56.091Z [PASSED] 870/2723,0 OutOfGasContractCreation 4/4 data:1,gas:0,value:0  
+2024-07-16T14:18:37.489Z [PASSED] 870/2723,0 OutOfGasContractCreation 1/4 data:0,gas:1,value:0  
+2024-07-16T14:18:38.145Z [PASSED] 870/2723,0 OutOfGasContractCreation 2/4 data:1,gas:1,value:0  
+2024-07-16T14:18:38.802Z [PASSED] 870/2723,0 OutOfGasContractCreation 3/4 data:0,gas:0,value:0  
+2024-07-16T14:18:39.463Z [PASSED] 870/2723,0 OutOfGasContractCreation 4/4 data:1,gas:0,value:0  

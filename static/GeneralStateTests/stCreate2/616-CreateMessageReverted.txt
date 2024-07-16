@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/CreateMessageReverted.json
-2024-07-16T05:12:57.198Z [PASSED] 616/2723,0 CreateMessageReverted 1/2 data:0,gas:0,value:0  
-2024-07-16T05:12:57.858Z [PASSED] 616/2723,0 CreateMessageReverted 2/2 data:0,gas:1,value:0  
+2024-07-16T13:31:02.297Z [PASSED] 616/2723,0 CreateMessageReverted 1/2 data:0,gas:0,value:0  
+2024-07-16T13:31:02.957Z [PASSED] 616/2723,0 CreateMessageReverted 2/2 data:0,gas:1,value:0  

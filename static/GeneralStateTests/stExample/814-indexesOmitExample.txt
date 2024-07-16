@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExample/indexesOmitExample.json
-2024-07-16T05:59:34.197Z [PASSED] 814/2723,0 indexesOmitExample 1/1 data:0,gas:0,value:0  
+2024-07-16T14:17:16.955Z [PASSED] 814/2723,0 indexesOmitExample 1/1 data:0,gas:0,value:0  

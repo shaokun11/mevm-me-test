@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_multimpleSuicide.json
-2024-07-16T06:29:59.761Z [SKIP] 1747/2723,0 refund_multimpleSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T14:48:11.765Z [SKIP] 1747/2723,0 refund_multimpleSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

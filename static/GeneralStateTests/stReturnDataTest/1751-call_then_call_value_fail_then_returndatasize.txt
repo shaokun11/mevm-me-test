@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/call_then_call_value_fail_then_returndatasize.json
-2024-07-16T06:30:04.455Z [PASSED] 1751/2723,0 call_then_call_value_fail_then_returndatasize 1/1 data:0,gas:0,value:0  
+2024-07-16T14:48:14.388Z [PASSED] 1751/2723,0 call_then_call_value_fail_then_returndatasize 1/1 data:0,gas:0,value:0  

@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json
-2024-07-16T02:30:42.222Z [PASSED] 114/2723,0 div 1/8 data:0,gas:0,value:0 div_2_big 
-2024-07-16T02:30:42.879Z [PASSED] 114/2723,0 div 2/8 data:3,gas:0,value:0 div_boost_bug 
-2024-07-16T02:30:43.537Z [PASSED] 114/2723,0 div 3/8 data:4,gas:0,value:0 div_5_2 
-2024-07-16T02:30:44.193Z [PASSED] 114/2723,0 div 4/8 data:6,gas:0,value:0 div_23_24 
-2024-07-16T02:30:44.849Z [PASSED] 114/2723,0 div 5/8 data:1,gas:0,value:0 div_0_24 
-2024-07-16T02:30:45.505Z [PASSED] 114/2723,0 div 6/8 data:2,gas:0,value:0 div_1_0 
-2024-07-16T02:30:46.160Z [PASSED] 114/2723,0 div 7/8 data:5,gas:0,value:0 div_2_0 
-2024-07-16T02:30:46.817Z [PASSED] 114/2723,0 div 8/8 data:7,gas:0,value:0 div_0_add 
+2024-07-16T10:47:18.851Z [PASSED] 114/2723,0 div 1/8 data:0,gas:0,value:0 div_2_big 
+2024-07-16T10:47:19.508Z [PASSED] 114/2723,0 div 2/8 data:3,gas:0,value:0 div_boost_bug 
+2024-07-16T10:47:20.164Z [PASSED] 114/2723,0 div 3/8 data:4,gas:0,value:0 div_5_2 
+2024-07-16T10:47:20.824Z [PASSED] 114/2723,0 div 4/8 data:6,gas:0,value:0 div_23_24 
+2024-07-16T10:47:21.484Z [PASSED] 114/2723,0 div 5/8 data:1,gas:0,value:0 div_0_24 
+2024-07-16T10:47:22.145Z [PASSED] 114/2723,0 div 6/8 data:2,gas:0,value:0 div_1_0 
+2024-07-16T10:47:22.803Z [PASSED] 114/2723,0 div 7/8 data:5,gas:0,value:0 div_2_0 
+2024-07-16T10:47:23.459Z [PASSED] 114/2723,0 div 8/8 data:7,gas:0,value:0 div_0_add 

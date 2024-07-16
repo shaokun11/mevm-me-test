@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithZeroValueToPrecompileFromCalledContract.json
-2024-07-16T07:05:34.930Z [PASSED] 2245/2723,0 CallWithZeroValueToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  
+2024-07-16T15:24:13.055Z [PASSED] 2245/2723,0 CallWithZeroValueToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  

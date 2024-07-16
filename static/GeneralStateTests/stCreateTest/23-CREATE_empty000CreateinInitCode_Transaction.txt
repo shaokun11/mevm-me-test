@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CREATE_empty000CreateinInitCode_Transaction.json
-2024-07-10T14:55:12.219Z [PASSED] 23/47,0 CREATE_empty000CreateinInitCode_Transaction 1/1 data:0,gas:0,value:0  

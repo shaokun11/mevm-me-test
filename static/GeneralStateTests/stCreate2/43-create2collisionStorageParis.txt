@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2collisionStorageParis.json
-2024-07-10T14:39:58.880Z [PASSED] 43/51,0 create2collisionStorageParis 1/3 data:0,gas:0,value:0  
-2024-07-10T14:40:00.315Z [PASSED] 43/51,0 create2collisionStorageParis 2/3 data:1,gas:0,value:0  
-2024-07-10T14:40:01.733Z [PASSED] 43/51,0 create2collisionStorageParis 3/3 data:2,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush31_1025.json
-2024-07-12T09:31:57.859Z [SKIP] 67/71,0 stackLimitPush31_1025 1/1 data:0,gas:0,value:0   execute timeout

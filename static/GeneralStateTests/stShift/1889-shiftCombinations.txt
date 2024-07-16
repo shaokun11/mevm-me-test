@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stShift/shiftCombinations.json
-2024-07-16T02:14:42.409Z [SKIP] 1889/2723,0 shiftCombinations 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.279Z [SKIP] 1889/2723,0 shiftCombinations 1/1 data:0,gas:0,value:0  execute timeout

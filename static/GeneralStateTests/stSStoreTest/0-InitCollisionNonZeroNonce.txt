@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stSStoreTest/InitCollisionNonZeroNonce.json
-2024-07-15T07:18:16.756Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 1/4 data:0,gas:0,value:0  
-2024-07-15T07:18:17.421Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 2/4 data:1,gas:0,value:0  
-2024-07-15T07:18:18.080Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 3/4 data:2,gas:0,value:0  
-2024-07-15T07:18:18.739Z [PASSED] 0/28,0 InitCollisionNonZeroNonce 4/4 data:3,gas:0,value:0  

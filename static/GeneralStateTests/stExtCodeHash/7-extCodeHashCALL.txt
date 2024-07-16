@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashCALL.json
-2024-07-12T03:58:07.512Z [PASSED] 7/36,0 extCodeHashCALL 1/1 data:0,gas:0,value:0  

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createNameRegistratorPerTxsNotEnoughGas.json
-2024-07-09T02:39:16.114Z [PASSED] 40/43,0 createNameRegistratorPerTxsNotEnoughGas 1/2 data:0,gas:0,value:0  
-2024-07-09T02:39:17.396Z [PASSED] 40/43,0 createNameRegistratorPerTxsNotEnoughGas 2/2 data:0,gas:1,value:0  

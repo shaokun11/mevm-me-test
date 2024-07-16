@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/CallcodeLoseGasOOG.json
-2024-07-16T05:24:15.437Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 1/3 data:0,gas:0,value:0  
-2024-07-16T05:24:19.615Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 2/3 data:0,gas:2,value:0  
-2024-07-16T05:24:23.590Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 3/3 data:0,gas:1,value:0  
+2024-07-16T13:41:53.846Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 1/3 data:0,gas:0,value:0  
+2024-07-16T13:41:58.035Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 2/3 data:0,gas:2,value:0  
+2024-07-16T13:42:02.216Z [PASSED] 699/2723,0 CallcodeLoseGasOOG 3/3 data:0,gas:1,value:0  

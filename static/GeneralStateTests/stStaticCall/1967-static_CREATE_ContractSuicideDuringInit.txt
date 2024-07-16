@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CREATE_ContractSuicideDuringInit.json
-2024-07-16T02:14:42.582Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 1/4 data:0,gas:0,value:0  execute timeout
-2024-07-16T02:14:42.582Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 2/4 data:1,gas:0,value:0  execute timeout
-2024-07-16T02:14:42.582Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 3/4 data:2,gas:0,value:0  execute timeout
-2024-07-16T02:14:42.582Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 4/4 data:3,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.438Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 1/4 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.438Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 2/4 data:1,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.438Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 3/4 data:2,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.438Z [SKIP] 1967/2723,0 static_CREATE_ContractSuicideDuringInit 4/4 data:3,gas:0,value:0  execute timeout

@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stBugs/returndatacopyPythonBug_Tue_03_48_41-1432.json
-2024-07-08T06:19:46.892Z [PASSED] 3/5,0 returndatacopyPythonBug_Tue_03_48_41-1432 1/4 data:0,gas:0,value:0  
-2024-07-08T06:20:03.617Z [PASSED] 3/5,0 returndatacopyPythonBug_Tue_03_48_41-1432 2/4 data:0,gas:0,value:1  
-2024-07-08T06:20:14.260Z [PASSED] 3/5,0 returndatacopyPythonBug_Tue_03_48_41-1432 3/4 data:0,gas:1,value:0  
-2024-07-08T06:20:24.412Z [PASSED] 3/5,0 returndatacopyPythonBug_Tue_03_48_41-1432 4/4 data:0,gas:1,value:1  

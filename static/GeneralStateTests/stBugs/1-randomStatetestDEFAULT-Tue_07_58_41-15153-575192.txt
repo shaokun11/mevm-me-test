@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stBugs/randomStatetestDEFAULT-Tue_07_58_41-15153-575192.json
-2024-07-08T06:19:28.878Z [SKIP] 1/5,0 randomStatetestDEFAULT-Tue_07_58_41-15153-575192 1/1 data:0,gas:0,value:0  Not support blob tx

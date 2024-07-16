@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callChangeRevert.json
-2024-07-15T09:03:06.457Z [SKIP] 121/286,0 static_callChangeRevert 1/3 data:0,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.457Z [SKIP] 121/286,0 static_callChangeRevert 2/3 data:1,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.457Z [SKIP] 121/286,0 static_callChangeRevert 3/3 data:2,gas:0,value:0  execute timeout

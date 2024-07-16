@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Return50000_2.json
-2024-07-16T02:14:42.639Z [SKIP] 2069/2723,0 static_Return50000_2 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.495Z [SKIP] 2069/2723,0 static_Return50000_2 1/1 data:0,gas:0,value:0  execute timeout

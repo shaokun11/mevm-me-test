@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_DELEGATECALL_ToOneStorageKey_Paris.json
-2024-07-16T06:13:45.239Z [PASSED] 1054/2723,0 NonZeroValue_DELEGATECALL_ToOneStorageKey_Paris 1/1 data:0,gas:0,value:0  
+2024-07-16T14:31:43.249Z [PASSED] 1054/2723,0 NonZeroValue_DELEGATECALL_ToOneStorageKey_Paris 1/1 data:0,gas:0,value:0  

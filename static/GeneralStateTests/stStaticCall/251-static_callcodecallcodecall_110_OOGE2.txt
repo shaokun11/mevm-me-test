@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcodecall_110_OOGE2.json
-2024-07-15T09:03:06.522Z [SKIP] 251/286,0 static_callcodecallcodecall_110_OOGE2 1/3 data:0,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.522Z [SKIP] 251/286,0 static_callcodecallcodecall_110_OOGE2 2/3 data:0,gas:0,value:1  execute timeout
-2024-07-15T09:03:06.522Z [SKIP] 251/286,0 static_callcodecallcodecall_110_OOGE2 3/3 data:0,gas:0,value:2  execute timeout

@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/measureGas.json
-2024-07-16T02:47:30.058Z [PASSED] 227/2723,0 measureGas 1/11 data:0,gas:0,value:0 CREATE 
-2024-07-16T02:47:31.761Z [PASSED] 227/2723,0 measureGas 2/11 data:1,gas:0,value:0 CREATE2 
-2024-07-16T02:47:33.465Z [PASSED] 227/2723,0 measureGas 3/11 data:2,gas:0,value:0 CALL 
-2024-07-16T02:47:35.165Z [PASSED] 227/2723,0 measureGas 4/11 data:3,gas:0,value:0 CALLCODE 
-2024-07-16T02:47:36.865Z [PASSED] 227/2723,0 measureGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
-2024-07-16T02:47:38.565Z [PASSED] 227/2723,0 measureGas 6/11 data:5,gas:0,value:0 STATICCALL 
-2024-07-16T02:47:40.055Z [PASSED] 227/2723,0 measureGas 7/11 data:6,gas:0,value:0 MLOAD 
-2024-07-16T02:47:41.556Z [PASSED] 227/2723,0 measureGas 8/11 data:7,gas:0,value:0 MSTORE 
-2024-07-16T02:47:43.050Z [PASSED] 227/2723,0 measureGas 9/11 data:8,gas:0,value:0 MSTORE8 
-2024-07-16T02:47:44.547Z [PASSED] 227/2723,0 measureGas 10/11 data:10,gas:0,value:0 SHA3 
-2024-07-16T02:47:48.328Z [PASSED] 227/2723,0 measureGas 11/11 data:9,gas:0,value:0 EXTCODE 
+2024-07-16T11:00:38.069Z [PASSED] 227/2723,0 measureGas 1/11 data:0,gas:0,value:0 CREATE 
+2024-07-16T11:00:39.767Z [PASSED] 227/2723,0 measureGas 2/11 data:1,gas:0,value:0 CREATE2 
+2024-07-16T11:00:43.546Z [PASSED] 227/2723,0 measureGas 3/11 data:2,gas:0,value:0 CALL 
+2024-07-16T11:00:45.243Z [PASSED] 227/2723,0 measureGas 4/11 data:3,gas:0,value:0 CALLCODE 
+2024-07-16T11:00:46.949Z [PASSED] 227/2723,0 measureGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
+2024-07-16T11:00:48.652Z [PASSED] 227/2723,0 measureGas 6/11 data:5,gas:0,value:0 STATICCALL 
+2024-07-16T11:00:50.147Z [PASSED] 227/2723,0 measureGas 7/11 data:6,gas:0,value:0 MLOAD 
+2024-07-16T11:00:51.636Z [PASSED] 227/2723,0 measureGas 8/11 data:7,gas:0,value:0 MSTORE 
+2024-07-16T11:00:53.135Z [PASSED] 227/2723,0 measureGas 9/11 data:8,gas:0,value:0 MSTORE8 
+2024-07-16T11:00:54.833Z [PASSED] 227/2723,0 measureGas 10/11 data:10,gas:0,value:0 SHA3 
+2024-07-16T11:00:56.532Z [PASSED] 227/2723,0 measureGas 11/11 data:9,gas:0,value:0 EXTCODE 

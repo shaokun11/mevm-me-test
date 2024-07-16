@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExistingContract.json
-2024-07-16T05:00:01.554Z [PASSED] 391/2723,0 callcodeInInitcodeToExistingContract 1/2 data:0,gas:0,value:0  
-2024-07-16T05:00:02.211Z [PASSED] 391/2723,0 callcodeInInitcodeToExistingContract 2/2 data:1,gas:0,value:0  
+2024-07-16T13:17:30.486Z [PASSED] 391/2723,0 callcodeInInitcodeToExistingContract 1/2 data:0,gas:0,value:0  
+2024-07-16T13:17:33.427Z [PASSED] 391/2723,0 callcodeInInitcodeToExistingContract 2/2 data:1,gas:0,value:0  

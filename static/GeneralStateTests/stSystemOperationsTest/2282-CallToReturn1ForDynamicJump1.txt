@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToReturn1ForDynamicJump1.json
-2024-07-16T07:09:04.544Z [PASSED] 2282/2723,0 CallToReturn1ForDynamicJump1 1/1 data:0,gas:0,value:0  
+2024-07-16T15:27:50.398Z [PASSED] 2282/2723,0 CallToReturn1ForDynamicJump1 1/1 data:0,gas:0,value:0  

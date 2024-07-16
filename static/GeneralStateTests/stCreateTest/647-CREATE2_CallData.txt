@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE2_CallData.json
-2024-07-16T05:14:08.363Z [PASSED] 647/2723,0 CREATE2_CallData 1/1 data:0,gas:0,value:0  
+2024-07-16T13:32:13.459Z [PASSED] 647/2723,0 CREATE2_CallData 1/1 data:0,gas:0,value:0  

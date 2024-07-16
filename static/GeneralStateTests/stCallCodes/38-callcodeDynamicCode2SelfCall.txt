@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCodes/callcodeDynamicCode2SelfCall.json
-2024-07-08T14:32:47.613Z [PASSED] 38/79,0 callcodeDynamicCode2SelfCall 1/2 data:0,gas:0,value:0  
-2024-07-08T14:32:48.882Z [PASSED] 38/79,0 callcodeDynamicCode2SelfCall 2/2 data:1,gas:0,value:0  

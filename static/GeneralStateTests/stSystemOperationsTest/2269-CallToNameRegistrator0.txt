@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistrator0.json
-2024-07-16T07:08:53.250Z [PASSED] 2269/2723,0 CallToNameRegistrator0 1/1 data:0,gas:0,value:0  
+2024-07-16T15:27:38.916Z [PASSED] 2269/2723,0 CallToNameRegistrator0 1/1 data:0,gas:0,value:0  

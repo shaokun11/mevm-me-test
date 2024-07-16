@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP3607/transactionCollidingWithNonEmptyAccount_calls.json
-2024-07-12T01:56:14.199Z [PASSED] 1/5,0 transactionCollidingWithNonEmptyAccount_calls 1/1 data:0,gas:0,value:0  

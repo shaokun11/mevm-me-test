@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CreateTransactionHighNonce.json
-2024-07-11T03:34:12.427Z [PASSED] 40/47,0 CreateTransactionHighNonce 1/2 data:0,gas:0,value:0  
-2024-07-11T03:34:13.865Z [PASSED] 40/47,0 CreateTransactionHighNonce 2/2 data:0,gas:0,value:1  

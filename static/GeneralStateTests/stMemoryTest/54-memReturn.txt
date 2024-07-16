@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryTest/memReturn.json
-2024-07-12T09:22:10.720Z [PASSED] 54/71,0 memReturn 1/1 data:0,gas:0,value:0  

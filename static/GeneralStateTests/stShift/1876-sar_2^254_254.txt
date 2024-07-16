@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stShift/sar_2^254_254.json
-2024-07-16T06:48:16.745Z [PASSED] 1876/2723,0 sar_2^254_254 1/1 data:0,gas:0,value:0  
+2024-07-16T15:06:37.953Z [PASSED] 1876/2723,0 sar_2^254_254 1/1 data:0,gas:0,value:0  

@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json
-2024-07-16T02:33:43.029Z [PASSED] 130/2723,0 and 1/5 data:0,gas:0,value:0 and_2_2 
-2024-07-16T02:33:43.689Z [PASSED] 130/2723,0 and 2/5 data:2,gas:0,value:0 and_2_1 
-2024-07-16T02:33:46.420Z [PASSED] 130/2723,0 and 3/5 data:3,gas:0,value:0 and_3_1 
-2024-07-16T02:33:47.081Z [PASSED] 130/2723,0 and 4/5 data:4,gas:0,value:0 and_allones_bignum 
-2024-07-16T02:33:47.738Z [PASSED] 130/2723,0 and 5/5 data:1,gas:0,value:0 and_allones_eefee 
+2024-07-16T10:50:23.039Z [PASSED] 130/2723,0 and 1/5 data:0,gas:0,value:0 and_2_2 
+2024-07-16T10:50:23.698Z [PASSED] 130/2723,0 and 2/5 data:2,gas:0,value:0 and_2_1 
+2024-07-16T10:50:24.355Z [PASSED] 130/2723,0 and 3/5 data:3,gas:0,value:0 and_3_1 
+2024-07-16T10:50:25.011Z [PASSED] 130/2723,0 and 4/5 data:4,gas:0,value:0 and_allones_bignum 
+2024-07-16T10:50:25.668Z [PASSED] 130/2723,0 and 5/5 data:1,gas:0,value:0 and_allones_eefee 

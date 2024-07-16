@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesAndInternlCallSuicidesBonusGasAtCall.json
-2024-07-16T07:12:23.892Z [SKIP] 2359/2723,0 SuicidesAndInternlCallSuicidesBonusGasAtCall 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T15:31:08.971Z [SKIP] 2359/2723,0 SuicidesAndInternlCallSuicidesBonusGasAtCall 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

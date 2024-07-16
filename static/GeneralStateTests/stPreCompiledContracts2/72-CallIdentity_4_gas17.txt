@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallIdentity_4_gas17.json
-2024-07-06T15:53:15.507Z [PASSED] 72/102,0 CallIdentity_4_gas17 1/1 data:0,gas:0,value:0  

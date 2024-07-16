@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/TransactionCollisionToEmpty2.json
-2024-07-11T03:34:16.694Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 1/4 data:0,gas:0,value:0  
-2024-07-11T03:34:18.107Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 2/4 data:0,gas:0,value:1  
-2024-07-11T03:34:19.519Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 3/4 data:0,gas:1,value:0  
-2024-07-11T03:34:20.950Z [PASSED] 42/47,0 TransactionCollisionToEmpty2 4/4 data:0,gas:1,value:1  

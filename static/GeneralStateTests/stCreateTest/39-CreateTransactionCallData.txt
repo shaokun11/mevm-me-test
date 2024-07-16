@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CreateTransactionCallData.json
-2024-07-11T01:50:26.981Z [PASSED] 39/47,0 CreateTransactionCallData 1/3 data:0,gas:0,value:0 calldataload 
-2024-07-11T01:50:28.263Z [PASSED] 39/47,0 CreateTransactionCallData 2/3 data:1,gas:0,value:0 calldatacopy 
-2024-07-11T01:50:30.467Z [PASSED] 39/47,0 CreateTransactionCallData 3/3 data:2,gas:0,value:0 codecopy 

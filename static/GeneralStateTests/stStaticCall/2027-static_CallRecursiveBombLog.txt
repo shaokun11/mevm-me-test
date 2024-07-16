@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBombLog.json
-2024-07-16T02:14:42.618Z [SKIP] 2027/2723,0 static_CallRecursiveBombLog 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.477Z [SKIP] 2027/2723,0 static_CallRecursiveBombLog 1/1 data:0,gas:0,value:0  execute timeout

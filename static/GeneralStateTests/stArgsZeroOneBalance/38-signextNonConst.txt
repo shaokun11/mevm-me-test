@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/signextNonConst.json
-2024-07-05T03:55:39.512Z [PASSED] 38/46,0 signextNonConst 1/2 data:0,gas:0,value:0  
-2024-07-05T03:55:41.589Z [PASSED] 38/46,0 signextNonConst 2/2 data:0,gas:0,value:1  

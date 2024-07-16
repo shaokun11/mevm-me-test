@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/CALLCODE_Bounds.json
-2024-07-12T05:01:00.175Z [PASSED] 0/38,0 CALLCODE_Bounds 1/2 data:0,gas:0,value:0  
-2024-07-12T05:01:02.717Z [PASSED] 0/38,0 CALLCODE_Bounds 2/2 data:0,gas:1,value:0  

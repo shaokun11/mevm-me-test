@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stLogTests/log4_PC.json
-2024-07-12T04:04:23.852Z [PASSED] 37/46,0 log4_PC 1/1 data:0,gas:0,value:0  

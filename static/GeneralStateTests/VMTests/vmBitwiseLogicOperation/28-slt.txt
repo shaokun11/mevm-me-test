@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/slt.json
-2024-07-05T02:09:49.384Z [PASSED] 28,0 slt 1/4 data:0,gas:0,value:0 slt_neg2_0 
-2024-07-05T02:09:51.599Z [PASSED] 28,0 slt 2/4 data:1,gas:0,value:0 slt_0_neg2 
-2024-07-05T02:09:53.808Z [PASSED] 28,0 slt 3/4 data:2,gas:0,value:0 slt_neg1_0 
-2024-07-05T02:09:56.018Z [PASSED] 28,0 slt 4/4 data:3,gas:0,value:0 slt_0_neg1 

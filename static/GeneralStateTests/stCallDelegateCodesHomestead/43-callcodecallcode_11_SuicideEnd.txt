@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallDelegateCodesHomestead/callcodecallcode_11_SuicideEnd.json
-2024-07-09T03:55:30.292Z [SKIP] 43/58,0 callcodecallcode_11_SuicideEnd 1/1 data:0,gas:0,value:0  Not support blob tx

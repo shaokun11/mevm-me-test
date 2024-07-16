@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/CREATE2_ContractSuicideDuringInit_ThenStoreThenReturn.json
-2024-07-09T11:23:11.694Z [SKIP] 3/51,0 CREATE2_ContractSuicideDuringInit_ThenStoreThenReturn 1/1 data:0,gas:0,value:0  Not support blob tx

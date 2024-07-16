@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge2/ecmul_0-3_5616_28000_96_Paris.json
-2024-07-16T01:55:20.917Z [PASSED] 103/130,0 ecmul_0-3_5616_28000_96_Paris 1/3 data:0,gas:0,value:0  
-2024-07-16T01:55:21.577Z [PASSED] 103/130,0 ecmul_0-3_5616_28000_96_Paris 2/3 data:0,gas:1,value:0  
-2024-07-16T01:55:22.237Z [PASSED] 103/130,0 ecmul_0-3_5616_28000_96_Paris 3/3 data:0,gas:2,value:0  

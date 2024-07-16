@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/walletDefaultWithOutValue.json
-2024-07-16T01:37:39.880Z [PASSED] 33/42,0 walletDefaultWithOutValue 1/1 data:0,gas:0,value:0  

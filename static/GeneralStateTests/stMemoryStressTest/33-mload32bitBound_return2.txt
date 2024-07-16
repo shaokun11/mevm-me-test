@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/mload32bitBound_return2.json
-2024-07-12T05:17:52.827Z [PASSED] 33/38,0 mload32bitBound_return2 1/2 data:0,gas:0,value:0  
-2024-07-12T05:17:54.889Z [PASSED] 33/38,0 mload32bitBound_return2 2/2 data:0,gas:1,value:0  

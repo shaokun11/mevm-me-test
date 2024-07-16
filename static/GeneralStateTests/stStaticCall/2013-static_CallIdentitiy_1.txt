@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallIdentitiy_1.json
-2024-07-16T02:14:42.613Z [SKIP] 2013/2723,0 static_CallIdentitiy_1 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-16T10:37:18.472Z [SKIP] 2013/2723,0 static_CallIdentitiy_1 1/1 data:0,gas:0,value:0  execute timeout

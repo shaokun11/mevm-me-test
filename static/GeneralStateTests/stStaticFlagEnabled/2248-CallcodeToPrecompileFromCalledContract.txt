@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallcodeToPrecompileFromCalledContract.json
-2024-07-16T07:05:46.548Z [PASSED] 2248/2723,0 CallcodeToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  
+2024-07-16T15:24:26.726Z [PASSED] 2248/2723,0 CallcodeToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  

@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge2/ecmul_0-3_9_28000_96.json
-2024-07-16T07:30:49.114Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 1/4 data:0,gas:0,value:0  
-2024-07-16T07:30:49.775Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 2/4 data:0,gas:1,value:0  
-2024-07-16T07:30:50.437Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 3/4 data:0,gas:2,value:0  
-2024-07-16T07:30:51.099Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 4/4 data:0,gas:3,value:0  
+2024-07-16T15:49:51.186Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 1/4 data:0,gas:0,value:0  
+2024-07-16T15:49:51.846Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 2/4 data:0,gas:1,value:0  
+2024-07-16T15:49:52.509Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 3/4 data:0,gas:2,value:0  
+2024-07-16T15:49:53.168Z [PASSED] 2708/2723,0 ecmul_0-3_9_28000_96 4/4 data:0,gas:3,value:0  

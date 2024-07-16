@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stEIP2930/coinbaseT2.json
-2024-07-16T05:58:09.570Z [PASSED] 799/2723,0 coinbaseT2 1/2 data:0,gas:0,value:0 T2baseInList 
-2024-07-16T05:58:10.224Z [PASSED] 799/2723,0 coinbaseT2 2/2 data:1,gas:0,value:0 T2baseNotInList 
+2024-07-16T14:15:53.621Z [PASSED] 799/2723,0 coinbaseT2 1/2 data:0,gas:0,value:0 T2baseInList 
+2024-07-16T14:15:54.279Z [PASSED] 799/2723,0 coinbaseT2 2/2 data:1,gas:0,value:0 T2baseNotInList 

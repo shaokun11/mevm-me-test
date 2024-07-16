@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150Specific/Transaction64Rule_d64e0.json
-2024-07-11T04:32:16.687Z [PASSED] 10/14,0 Transaction64Rule_d64e0 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150Specific/ExecuteCallThatAskForeGasThenTrabsactionHas.json
-2024-07-11T03:43:56.225Z [PASSED] 6/14,0 ExecuteCallThatAskForeGasThenTrabsactionHas 1/1 data:0,gas:0,value:0  

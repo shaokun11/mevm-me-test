@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stInitCodeTest/TransactionCreateStopInInitcode.json
-2024-07-16T06:01:01.991Z [PASSED] 877/2723,0 TransactionCreateStopInInitcode 1/1 data:0,gas:0,value:0  
+2024-07-16T14:18:45.361Z [PASSED] 877/2723,0 TransactionCreateStopInInitcode 1/1 data:0,gas:0,value:0  

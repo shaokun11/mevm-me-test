@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSelfBalance/selfBalanceEqualsBalance.json
-2024-07-15T07:36:42.752Z [PASSED] 3/6,0 selfBalanceEqualsBalance 1/1 data:0,gas:0,value:0  

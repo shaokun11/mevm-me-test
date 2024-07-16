@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorValueTooHigh.json
-2024-07-15T11:26:06.276Z [PASSED] 45/67,0 createNameRegistratorValueTooHigh 1/1 data:0,gas:0,value:0  

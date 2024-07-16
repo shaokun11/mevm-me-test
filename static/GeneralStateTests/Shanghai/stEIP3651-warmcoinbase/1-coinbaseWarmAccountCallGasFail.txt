@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/Shanghai/stEIP3651-warmcoinbase/coinbaseWarmAccountCallGasFail.json
-2024-07-05T01:58:05.686Z [PASSED] 1,0 coinbaseWarmAccountCallGasFail 1/4 data:0,gas:0,value:0  
-2024-07-05T01:58:07.910Z [PASSED] 1,0 coinbaseWarmAccountCallGasFail 2/4 data:1,gas:0,value:0  
-2024-07-05T01:58:10.127Z [PASSED] 1,0 coinbaseWarmAccountCallGasFail 3/4 data:2,gas:0,value:0  
-2024-07-05T01:58:12.338Z [PASSED] 1,0 coinbaseWarmAccountCallGasFail 4/4 data:3,gas:0,value:0  

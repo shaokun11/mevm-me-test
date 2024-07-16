@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_RawCallGasAsk.json
-2024-07-15T09:03:06.453Z [SKIP] 112/286,0 static_RawCallGasAsk 1/4 data:0,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.453Z [SKIP] 112/286,0 static_RawCallGasAsk 2/4 data:1,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.453Z [SKIP] 112/286,0 static_RawCallGasAsk 3/4 data:2,gas:0,value:0  execute timeout
-2024-07-15T09:03:06.453Z [SKIP] 112/286,0 static_RawCallGasAsk 4/4 data:3,gas:0,value:0  execute timeout
