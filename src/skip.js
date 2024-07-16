@@ -120,4 +120,10 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_DROP_FROM_MOVE_VM,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_NOT_SUPPORT_BLOB_TX,
+    },
 ];

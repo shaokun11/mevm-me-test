@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_normal_gas.json
-2024-07-16T02:21:42.055Z [PASSED] 57/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_normal_gas[fork_Cancun-state_test-insufficient_max_fee_per_gas] 1/1 data:0,gas:0,value:0  
