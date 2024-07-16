@@ -34,7 +34,7 @@ let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
     // there is one tx need about 60s to finish
-    const timeoutSecs = 70;
+    const timeoutSecs = 90;
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
         expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
     });
