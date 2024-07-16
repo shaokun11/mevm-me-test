@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedAddOwnerAddMyself.json
+2024-07-16T07:12:45.223Z [PASSED] 2384/2723,0 multiOwnedAddOwnerAddMyself 1/1 data:0,gas:0,value:0  

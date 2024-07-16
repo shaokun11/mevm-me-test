@@ -1,0 +1,21 @@
+ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json
+2024-07-16T02:37:39.048Z [PASSED] 167/2723,0 calldatasize 1/20 data:0,gas:0,value:0 data1_2 
+2024-07-16T02:37:39.701Z [PASSED] 167/2723,0 calldatasize 2/20 data:5,gas:0,value:0 data1_11 
+2024-07-16T02:37:40.356Z [PASSED] 167/2723,0 calldatasize 3/20 data:10,gas:0,value:0 data1_21 
+2024-07-16T02:37:41.009Z [PASSED] 167/2723,0 calldatasize 4/20 data:15,gas:0,value:0 data1_31 
+2024-07-16T02:37:41.665Z [PASSED] 167/2723,0 calldatasize 5/20 data:1,gas:0,value:0 data1_101 
+2024-07-16T02:37:42.319Z [PASSED] 167/2723,0 calldatasize 6/20 data:6,gas:0,value:0 data2_2 
+2024-07-16T02:37:42.978Z [PASSED] 167/2723,0 calldatasize 7/20 data:11,gas:0,value:0 data2_11 
+2024-07-16T02:37:43.631Z [PASSED] 167/2723,0 calldatasize 8/20 data:16,gas:0,value:0 data2_21 
+2024-07-16T02:37:44.287Z [PASSED] 167/2723,0 calldatasize 9/20 data:2,gas:0,value:0 data2_31 
+2024-07-16T02:37:44.941Z [PASSED] 167/2723,0 calldatasize 10/20 data:7,gas:0,value:0 data2_101 
+2024-07-16T02:37:45.596Z [PASSED] 167/2723,0 calldatasize 11/20 data:12,gas:0,value:0 data3_2 
+2024-07-16T02:37:46.249Z [PASSED] 167/2723,0 calldatasize 12/20 data:17,gas:0,value:0 data3_11 
+2024-07-16T02:37:46.905Z [PASSED] 167/2723,0 calldatasize 13/20 data:3,gas:0,value:0 data3_21 
+2024-07-16T02:37:47.559Z [PASSED] 167/2723,0 calldatasize 14/20 data:8,gas:0,value:0 data3_31 
+2024-07-16T02:37:48.212Z [PASSED] 167/2723,0 calldatasize 15/20 data:13,gas:0,value:0 data3_101 
+2024-07-16T02:37:48.868Z [PASSED] 167/2723,0 calldatasize 16/20 data:18,gas:0,value:0 data4_2 
+2024-07-16T02:37:49.525Z [PASSED] 167/2723,0 calldatasize 17/20 data:4,gas:0,value:0 data4_11 
+2024-07-16T02:37:50.189Z [PASSED] 167/2723,0 calldatasize 18/20 data:9,gas:0,value:0 data4_21 
+2024-07-16T02:37:50.845Z [PASSED] 167/2723,0 calldatasize 19/20 data:14,gas:0,value:0 data4_31 
+2024-07-16T02:37:51.500Z [PASSED] 167/2723,0 calldatasize 20/20 data:19,gas:0,value:0 data4_101 

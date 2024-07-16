@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_failing_call.json
+2024-07-16T06:32:24.756Z [PASSED] 1767/2723,0 returndatacopy_following_failing_call 1/1 data:0,gas:0,value:0  

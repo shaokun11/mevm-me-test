@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/stCreate2/RevertDepthCreateAddressCollisionBerlin.json
+2024-07-16T05:13:15.578Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 1/8 data:1,gas:1,value:0  
+2024-07-16T05:13:16.232Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 2/8 data:1,gas:1,value:1  
+2024-07-16T05:13:16.886Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 3/8 data:0,gas:1,value:0  
+2024-07-16T05:13:17.541Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 4/8 data:0,gas:1,value:1  
+2024-07-16T05:13:18.195Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 5/8 data:1,gas:0,value:0  
+2024-07-16T05:13:18.852Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 6/8 data:1,gas:0,value:1  
+2024-07-16T05:13:19.509Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 7/8 data:0,gas:0,value:0  
+2024-07-16T05:13:20.164Z [PASSED] 621/2723,0 RevertDepthCreateAddressCollisionBerlin 8/8 data:0,gas:0,value:1  

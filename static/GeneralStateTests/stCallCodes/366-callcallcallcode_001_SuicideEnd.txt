@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcallcallcode_001_SuicideEnd.json
+2024-07-16T04:59:23.522Z [SKIP] 366/2723,0 callcallcallcode_001_SuicideEnd 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

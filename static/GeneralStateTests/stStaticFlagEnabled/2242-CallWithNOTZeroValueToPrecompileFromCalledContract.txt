@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromCalledContract.json
+2024-07-16T07:05:14.167Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 1/8 data:0,gas:0,value:0  
+2024-07-16T07:05:14.831Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 2/8 data:1,gas:0,value:0  
+2024-07-16T07:05:15.499Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 3/8 data:2,gas:0,value:0  
+2024-07-16T07:05:16.161Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 4/8 data:3,gas:0,value:0  
+2024-07-16T07:05:16.826Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 5/8 data:4,gas:0,value:0  
+2024-07-16T07:05:17.490Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 6/8 data:5,gas:0,value:0  
+2024-07-16T07:05:18.159Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 7/8 data:6,gas:0,value:0  
+2024-07-16T07:05:18.828Z [PASSED] 2242/2723,0 CallWithNOTZeroValueToPrecompileFromCalledContract 8/8 data:7,gas:0,value:0  

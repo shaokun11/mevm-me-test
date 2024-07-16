@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateTransactionRefundEF.json
+2024-07-16T05:17:11.825Z [PASSED] 688/2723,0 CreateTransactionRefundEF 1/1 data:0,gas:0,value:0 refund_EF 

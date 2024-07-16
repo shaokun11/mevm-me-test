@@ -1,0 +1,37 @@
+ethereum-tests/GeneralStateTests/stEIP2930/variedContext.json
+2024-07-16T05:58:46.794Z [PASSED] 803/2723,0 variedContext 1/36 data:0,gas:0,value:0 delegateCallerInAccessList 
+2024-07-16T05:58:47.460Z [PASSED] 803/2723,0 variedContext 2/36 data:1,gas:0,value:0 delegateCalleeInAccessList 
+2024-07-16T05:58:48.128Z [PASSED] 803/2723,0 variedContext 3/36 data:2,gas:0,value:0 callcodeCallerInAccessList 
+2024-07-16T05:58:48.795Z [PASSED] 803/2723,0 variedContext 4/36 data:3,gas:0,value:0 callcodeCalleeInAccessList 
+2024-07-16T05:58:49.463Z [PASSED] 803/2723,0 variedContext 5/36 data:4,gas:0,value:0 callCallerInAccessList 
+2024-07-16T05:58:50.136Z [PASSED] 803/2723,0 variedContext 6/36 data:5,gas:0,value:0 callCalleeInAccessList 
+2024-07-16T05:58:50.806Z [PASSED] 803/2723,0 variedContext 7/36 data:6,gas:0,value:0 staticcallCallerInAccessList 
+2024-07-16T05:58:51.476Z [PASSED] 803/2723,0 variedContext 8/36 data:7,gas:0,value:0 staticcallCalleeInAccessList 
+2024-07-16T05:58:52.147Z [PASSED] 803/2723,0 variedContext 9/36 data:8,gas:0,value:0 callRevertCalleeInAccessList 
+2024-07-16T05:58:52.814Z [PASSED] 803/2723,0 variedContext 10/36 data:9,gas:0,value:0 callRevertCallerInAccessList 
+2024-07-16T05:58:53.481Z [SKIP] 803/2723,0 variedContext 11/36 data:10,gas:0,value:0 callWriteSuicideValid Not implementation SELFDESTRUCT opcode
+2024-07-16T05:58:54.146Z [SKIP] 803/2723,0 variedContext 12/36 data:11,gas:0,value:0 callWriteSuicideInvalid Not implementation SELFDESTRUCT opcode
+2024-07-16T05:58:54.814Z [SKIP] 803/2723,0 variedContext 13/36 data:12,gas:0,value:0 callReadSuicideValid Not implementation SELFDESTRUCT opcode
+2024-07-16T05:58:55.479Z [SKIP] 803/2723,0 variedContext 14/36 data:13,gas:0,value:0 callReadSuicideInvalid Not implementation SELFDESTRUCT opcode
+2024-07-16T05:58:56.153Z [PASSED] 803/2723,0 variedContext 15/36 data:14,gas:0,value:0 staticWriteInvalid 
+2024-07-16T05:58:56.821Z [PASSED] 803/2723,0 variedContext 16/36 data:15,gas:0,value:0 staticWriteValid 
+2024-07-16T05:58:57.488Z [PASSED] 803/2723,0 variedContext 17/36 data:16,gas:0,value:0 writeValidGas 
+2024-07-16T05:58:58.159Z [PASSED] 803/2723,0 variedContext 18/36 data:17,gas:0,value:0 writeInvalidOOG 
+2024-07-16T05:58:58.827Z [PASSED] 803/2723,0 variedContext 19/36 data:18,gas:0,value:0 readValidGas 
+2024-07-16T05:58:59.496Z [PASSED] 803/2723,0 variedContext 20/36 data:19,gas:0,value:0 readInvalidOOG 
+2024-07-16T05:59:03.753Z [PASSED] 803/2723,0 variedContext 21/36 data:20,gas:0,value:0 recurseValid 
+2024-07-16T05:59:07.983Z [PASSED] 803/2723,0 variedContext 22/36 data:21,gas:0,value:0 recurseInvalid 
+2024-07-16T05:59:09.071Z [PASSED] 803/2723,0 variedContext 23/36 data:22,gas:0,value:0 createValid 
+2024-07-16T05:59:09.745Z [PASSED] 803/2723,0 variedContext 24/36 data:23,gas:0,value:0 createInvalid 
+2024-07-16T05:59:10.412Z [PASSED] 803/2723,0 variedContext 25/36 data:24,gas:0,value:0 create2Valid 
+2024-07-16T05:59:11.089Z [PASSED] 803/2723,0 variedContext 26/36 data:25,gas:0,value:0 create2Invalid 
+2024-07-16T05:59:11.965Z [PASSED] 803/2723,0 variedContext 27/36 data:26,gas:0,value:0 callCreatedValid 
+2024-07-16T05:59:12.843Z [PASSED] 803/2723,0 variedContext 28/36 data:27,gas:0,value:0 callCreatedInvalid 
+2024-07-16T05:59:13.719Z [PASSED] 803/2723,0 variedContext 29/36 data:28,gas:0,value:0 callCreate2edValid 
+2024-07-16T05:59:14.602Z [PASSED] 803/2723,0 variedContext 30/36 data:29,gas:0,value:0 callCreate2edInvalid 
+2024-07-16T05:59:17.576Z [PASSED] 803/2723,0 variedContext 31/36 data:30,gas:0,value:0 createAndCallValid 
+2024-07-16T05:59:18.454Z [PASSED] 803/2723,0 variedContext 32/36 data:31,gas:0,value:0 createAndCallInvalid 
+2024-07-16T05:59:19.330Z [PASSED] 803/2723,0 variedContext 33/36 data:32,gas:0,value:0 create2AndCallValid 
+2024-07-16T05:59:20.205Z [PASSED] 803/2723,0 variedContext 34/36 data:33,gas:0,value:0 create2AndCallInvalid 
+2024-07-16T05:59:21.082Z [PASSED] 803/2723,0 variedContext 35/36 data:34,gas:0,value:0 callTwiceValid 
+2024-07-16T05:59:21.748Z [PASSED] 803/2723,0 variedContext 36/36 data:35,gas:0,value:0 callTwiceInvalid 

@@ -1,0 +1,17 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/sstore_changeFromExternalCallInInitCode.json
+2024-07-16T06:46:41.408Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 1/16 data:0,gas:0,value:0  
+2024-07-16T06:46:42.065Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 2/16 data:1,gas:0,value:0  
+2024-07-16T06:46:42.719Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 3/16 data:3,gas:0,value:0  
+2024-07-16T06:46:43.375Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 4/16 data:2,gas:0,value:0  
+2024-07-16T06:46:44.029Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 5/16 data:6,gas:0,value:0  
+2024-07-16T06:46:44.685Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 6/16 data:8,gas:0,value:0  
+2024-07-16T06:46:45.345Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 7/16 data:9,gas:0,value:0  
+2024-07-16T06:46:46.003Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 8/16 data:10,gas:0,value:0  
+2024-07-16T06:46:46.657Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 9/16 data:11,gas:0,value:0  
+2024-07-16T06:46:49.395Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 10/16 data:12,gas:0,value:0  
+2024-07-16T06:46:50.053Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 11/16 data:13,gas:0,value:0  
+2024-07-16T06:46:50.708Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 12/16 data:14,gas:0,value:0  
+2024-07-16T06:46:51.370Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 13/16 data:15,gas:0,value:0  
+2024-07-16T06:46:52.025Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 14/16 data:4,gas:0,value:0  
+2024-07-16T06:46:52.684Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 15/16 data:5,gas:0,value:0  
+2024-07-16T06:46:53.341Z [PASSED] 1863/2723,0 sstore_changeFromExternalCallInInitCode 16/16 data:7,gas:0,value:0  

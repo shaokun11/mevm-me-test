@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallIdentity_6_inputShorterThanOutput.json
+2024-07-16T06:27:56.315Z [PASSED] 1151/2723,0 CallIdentity_6_inputShorterThanOutput 1/1 data:0,gas:0,value:0  

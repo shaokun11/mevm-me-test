@@ -1,0 +1,11 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes3.json
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 1/10 data:0,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 2/10 data:0,gas:0,value:1  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 3/10 data:2,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 4/10 data:2,gas:0,value:1  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 5/10 data:3,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 6/10 data:3,gas:0,value:1  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 7/10 data:4,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 8/10 data:4,gas:0,value:1  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 9/10 data:1,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.629Z [SKIP] 2054/2723,0 static_CheckOpcodes3 10/10 data:1,gas:0,value:1  execute timeout

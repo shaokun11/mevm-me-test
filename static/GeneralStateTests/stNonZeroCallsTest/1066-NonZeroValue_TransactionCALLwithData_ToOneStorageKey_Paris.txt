@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_TransactionCALLwithData_ToOneStorageKey_Paris.json
+2024-07-16T06:13:53.103Z [PASSED] 1066/2723,0 NonZeroValue_TransactionCALLwithData_ToOneStorageKey_Paris 1/1 data:0,gas:0,value:0  

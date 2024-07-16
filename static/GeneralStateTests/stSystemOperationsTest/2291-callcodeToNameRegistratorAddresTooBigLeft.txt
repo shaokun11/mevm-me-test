@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/callcodeToNameRegistratorAddresTooBigLeft.json
+2024-07-16T07:09:10.447Z [PASSED] 2291/2723,0 callcodeToNameRegistratorAddresTooBigLeft 1/1 data:0,gas:0,value:0  

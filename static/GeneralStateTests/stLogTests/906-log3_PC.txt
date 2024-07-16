@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stLogTests/log3_PC.json
+2024-07-16T06:01:23.272Z [PASSED] 906/2723,0 log3_PC 1/1 data:0,gas:0,value:0  

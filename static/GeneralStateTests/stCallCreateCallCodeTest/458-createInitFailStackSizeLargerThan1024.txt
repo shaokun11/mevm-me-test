@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json
+2024-07-16T02:14:40.759Z [SKIP] 458/2723,0 createInitFailStackSizeLargerThan1024 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stHomesteadSpecific/createContractViaContractOOGInitCode.json
+2024-07-16T06:00:47.380Z [PASSED] 860/2723,0 createContractViaContractOOGInitCode 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stBugs/evmBytecode.json
+2024-07-16T04:58:58.677Z [PASSED] 344/2723,0 evmBytecode 1/1 data:0,gas:0,value:0  

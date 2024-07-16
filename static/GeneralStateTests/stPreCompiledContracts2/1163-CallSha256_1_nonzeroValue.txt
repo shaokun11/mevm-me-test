@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallSha256_1_nonzeroValue.json
+2024-07-16T06:28:06.243Z [PASSED] 1163/2723,0 CallSha256_1_nonzeroValue 1/1 data:0,gas:0,value:0  

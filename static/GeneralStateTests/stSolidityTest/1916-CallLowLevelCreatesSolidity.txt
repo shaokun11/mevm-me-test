@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/CallLowLevelCreatesSolidity.json
+2024-07-16T06:49:45.302Z [PASSED] 1916/2723,0 CallLowLevelCreatesSolidity 1/1 data:0,gas:0,value:0  

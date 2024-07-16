@@ -1,0 +1,80 @@
+{
+  "blob_tx_attribute_calldata_opcodes-7": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Test calldata related opcodes to verify their behavior is not affected by blobs:\n\n    - CALLDATALOAD\n    - CALLDATASIZE\n    - CALLDATACOPY",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "c79bdd8c72932e0c86f5ba835b90750eca931a0ff67b820c3147c9abaa22ed60",
+      "hash": "0x03fdff48cf62b28bc099c0e78d3e8c5007b7fb0bb771de66a2a92939bf3f5ba1",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py",
+      "sourceHash": "ac8e32f87d88712c31113be2cd23f56d5adf2b12381680ac1652db83fa7c80d5",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_3aeebbf6_76a6_4c89_99ee_6f28a0d92c02/test_blob_txs.py#L1296"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x0e0000",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x93726ca9f5d41981441876f40c9019d25244d9da35d015f47d27406680689fb4",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x03f8a6018080078307a12094000000000000000000000000000000000000010001a00001000100010001000100010001000100010001000100010001000100010001c001e1a0010000000000000000000000000000000000000000000000000000000000000001a086760181b41f484583e66b72e188572a4fcc56f30784b8c9ac899d2e96a735e1a060d01d75a790c2896987d6a248821c51f28f7ccf752f858fc203f07c409cdca5"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x00",
+        "code": "0x600035600055",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x3767e1",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        []
+      ],
+      "blobVersionedHashes": [
+        "0x0100000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "data": [
+        "0x0001000100010001000100010001000100010001000100010001000100010001"
+      ],
+      "gasLimit": [
+        "0x07a120"
+      ],
+      "maxFeePerBlobGas": "0x01",
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x01"
+      ]
+    }
+  }
+}

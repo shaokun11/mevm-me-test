@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_ZeroValue_CALL_OOGRevert.json
+2024-07-16T02:14:42.641Z [SKIP] 2074/2723,0 static_ZeroValue_CALL_OOGRevert 1/1 data:0,gas:0,value:0  execute timeout

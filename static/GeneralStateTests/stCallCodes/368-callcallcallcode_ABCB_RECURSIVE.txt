@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcallcallcode_ABCB_RECURSIVE.json
+2024-07-16T04:59:29.805Z [PASSED] 368/2723,0 callcallcallcode_ABCB_RECURSIVE 1/1 data:0,gas:0,value:0  

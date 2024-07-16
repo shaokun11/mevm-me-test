@@ -44,7 +44,11 @@ export async function sendTx(payload) {
     return client.waitForTransactionWithResult(transactionRes.hash, { timeoutSecs });
 }
 function toBuffer(hex) {
-    if (hex.startsWith("0x")) hex = hex.slice(2);   
+    if (hex.startsWith("0x:bigint")) {
+        hex = hex.replace("0x:bigint", "");
+        hex = hex.trim()
+    }
+    if (hex.startsWith("0x")) hex = hex.slice(2);
     if (hex.length % 2 !== 0) hex = "0" + hex;
     hex = "0x" + hex;
     return new HexString(hex).toUint8Array();

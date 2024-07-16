@@ -1,0 +1,88 @@
+{
+  "blob_gas_subtraction_tx-52": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Check that the blob gas fee for a transaction is subtracted from the sender balance before the\n    transaction is executed, including:\n\n    - Transactions with max fee equal or higher than current block base fee\n    - Transactions with and without value\n    - Transactions with and without calldata\n    - Transactions with max fee per blob gas lower or higher than the priority fee\n    - Transactions where an externally owned account sends funds to the sender mid execution",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "547865df1f6a46bf3b8479bbd8a517abae6da811cce8c51188320386cfe19510",
+      "hash": "0x74991cc735a02153e357dea4d99246484a5080339585d2b6dac48a47e6c5711c",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py",
+      "sourceHash": "ac8e32f87d88712c31113be2cd23f56d5adf2b12381680ac1652db83fa7c80d5",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_3aeebbf6_76a6_4c89_99ee_6f28a0d92c02/test_blob_txs.py#L905"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x0e0000",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "hash": "0x466c8e9edecfa8193b0613a19ef3ef885c55b1a74adb6ca9ca1450132d40d999",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x03f8e20180070e8307a1209400000000000000000000000000000000000001008001f85bf859940000000000000000000000000000000000000064f842a00000000000000000000000000000000000000000000000000000000000000064a000000000000000000000000000000000000000000000000000000000000000c864e1a0010000000000000000000000000000000000000000000000000000000000000001a055794ab1a827ab0b621b1def5089a6d3e8698e416240932ea1a3cfa4b1e48913a037d884a8d0206562e13af94a46338963481e24709208ba367bf84249ad7dd33d"
+        }
+      ]
+    },
+    "pre": {
+      "0x0000000000000000000000000000000000000100": {
+        "balance": "0x64",
+        "code": "0x323160005560006000600060006064325af13231600155",
+        "nonce": "0x00",
+        "storage": {}
+      },
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x0132cfc0",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        [
+          {
+            "address": "0x0000000000000000000000000000000000000064",
+            "storageKeys": [
+              "0x0000000000000000000000000000000000000000000000000000000000000064",
+              "0x00000000000000000000000000000000000000000000000000000000000000c8"
+            ]
+          }
+        ]
+      ],
+      "blobVersionedHashes": [
+        "0x0100000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "data": [
+        "0x01"
+      ],
+      "gasLimit": [
+        "0x07a120"
+      ],
+      "maxFeePerBlobGas": "0x64",
+      "maxFeePerGas": "0x0e",
+      "maxPriorityFeePerGas": "0x07",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

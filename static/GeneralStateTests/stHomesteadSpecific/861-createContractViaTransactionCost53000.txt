@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stHomesteadSpecific/createContractViaTransactionCost53000.json
+2024-07-16T06:00:48.033Z [FAILED] 861/2723,0 createContractViaTransactionCost53000 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"21000","state_root":"0x3e70a866774b1188880b1ad3ece32485edc99a64d193c120b1e28a5c323cb8db","expected":"0x114a7e7e8c4948a366374d6e35fc7b5eab616f5ea7581da7d17a336fdeb212af","hash":"0x0d01558e75aec0817ec9d6ed19e4294d5c79b7d917086499c7cc1c1361e085b2"}

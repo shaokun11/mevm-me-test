@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP158Specific/CALL_OneVCallSuicide2.json
+2024-07-16T05:57:21.471Z [SKIP] 790/2723,0 CALL_OneVCallSuicide2 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

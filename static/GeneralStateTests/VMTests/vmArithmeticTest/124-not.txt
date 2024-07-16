@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/not.json
+2024-07-16T02:32:36.580Z [PASSED] 124/2723,0 not 1/1 data:0,gas:0,value:0  

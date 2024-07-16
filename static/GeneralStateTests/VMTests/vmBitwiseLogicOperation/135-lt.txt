@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/lt.json
+2024-07-16T02:34:03.908Z [PASSED] 135/2723,0 lt 1/4 data:0,gas:0,value:0 lt_neg2_0 
+2024-07-16T02:34:04.563Z [PASSED] 135/2723,0 lt 2/4 data:1,gas:0,value:0 lt_0_neg2 
+2024-07-16T02:34:05.217Z [PASSED] 135/2723,0 lt 3/4 data:2,gas:0,value:0 lt_neg1_0 
+2024-07-16T02:34:05.872Z [PASSED] 135/2723,0 lt 4/4 data:3,gas:0,value:0 lt_0_neg1 

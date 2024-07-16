@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stInitCodeTest/CallContractToCreateContractNoCash.json
+2024-07-16T06:00:49.340Z [PASSED] 863/2723,0 CallContractToCreateContractNoCash 1/1 data:0,gas:0,value:0  

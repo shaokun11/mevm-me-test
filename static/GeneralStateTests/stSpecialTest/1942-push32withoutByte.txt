@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/push32withoutByte.json
+2024-07-16T06:53:25.824Z [PASSED] 1942/2723,0 push32withoutByte 1/1 data:0,gas:0,value:0  

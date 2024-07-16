@@ -1,0 +1,8 @@
+ethereum-tests/GeneralStateTests/stRevertTest/stateRevert.json
+2024-07-16T06:39:53.300Z [PASSED] 1835/2723,0 stateRevert 1/7 data:0,gas:0,value:0 revert 
+2024-07-16T06:39:53.960Z [PASSED] 1835/2723,0 stateRevert 2/7 data:1,gas:0,value:0 outOfGas 
+2024-07-16T06:39:54.616Z [PASSED] 1835/2723,0 stateRevert 3/7 data:2,gas:0,value:0 xtremeOOG 
+2024-07-16T06:39:55.278Z [PASSED] 1835/2723,0 stateRevert 4/7 data:3,gas:0,value:0 badOpcode 
+2024-07-16T06:39:55.934Z [PASSED] 1835/2723,0 stateRevert 5/7 data:4,gas:0,value:0 jumpBadly 
+2024-07-16T06:39:56.590Z [PASSED] 1835/2723,0 stateRevert 6/7 data:5,gas:0,value:0 stackUnder 
+2024-07-16T06:40:06.581Z [PASSED] 1835/2723,0 stateRevert 7/7 data:6,gas:0,value:0 stackOver 

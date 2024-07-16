@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_three_point_fail_1.json
+2024-07-16T07:21:14.901Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 1/4 data:0,gas:0,value:0  
+2024-07-16T07:21:15.776Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 2/4 data:0,gas:1,value:0  
+2024-07-16T07:21:16.644Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 3/4 data:0,gas:2,value:0  
+2024-07-16T07:21:17.514Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 4/4 data:0,gas:3,value:0  

@@ -1,0 +1,27 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateResults.json
+2024-07-16T05:16:44.108Z [PASSED] 685/2723,0 CreateResults 1/26 data:0,gas:0,value:0  
+2024-07-16T05:16:45.184Z [PASSED] 685/2723,0 CreateResults 2/26 data:1,gas:0,value:0  
+2024-07-16T05:16:46.260Z [PASSED] 685/2723,0 CreateResults 3/26 data:2,gas:0,value:0  
+2024-07-16T05:16:47.335Z [PASSED] 685/2723,0 CreateResults 4/26 data:4,gas:0,value:0  
+2024-07-16T05:16:48.411Z [PASSED] 685/2723,0 CreateResults 5/26 data:5,gas:0,value:0  
+2024-07-16T05:16:49.280Z [PASSED] 685/2723,0 CreateResults 6/26 data:6,gas:0,value:0  
+2024-07-16T05:16:50.147Z [PASSED] 685/2723,0 CreateResults 7/26 data:3,gas:0,value:0  
+2024-07-16T05:16:51.022Z [PASSED] 685/2723,0 CreateResults 8/26 data:7,gas:0,value:0  
+2024-07-16T05:16:51.890Z [PASSED] 685/2723,0 CreateResults 9/26 data:8,gas:0,value:0  
+2024-07-16T05:16:52.757Z [PASSED] 685/2723,0 CreateResults 10/26 data:9,gas:0,value:0  
+2024-07-16T05:16:53.626Z [PASSED] 685/2723,0 CreateResults 11/26 data:10,gas:0,value:0  
+2024-07-16T05:16:54.491Z [PASSED] 685/2723,0 CreateResults 12/26 data:11,gas:0,value:0  
+2024-07-16T05:16:55.363Z [PASSED] 685/2723,0 CreateResults 13/26 data:12,gas:0,value:0  
+2024-07-16T05:16:56.233Z [PASSED] 685/2723,0 CreateResults 14/26 data:13,gas:0,value:0  
+2024-07-16T05:16:56.890Z [SKIP] 685/2723,0 CreateResults 15/26 data:14,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T05:16:57.550Z [SKIP] 685/2723,0 CreateResults 16/26 data:15,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-16T05:16:58.425Z [PASSED] 685/2723,0 CreateResults 17/26 data:16,gas:0,value:0  
+2024-07-16T05:16:59.295Z [PASSED] 685/2723,0 CreateResults 18/26 data:17,gas:0,value:0  
+2024-07-16T05:17:00.162Z [PASSED] 685/2723,0 CreateResults 19/26 data:18,gas:0,value:0  
+2024-07-16T05:17:01.030Z [PASSED] 685/2723,0 CreateResults 20/26 data:19,gas:0,value:0  
+2024-07-16T05:17:01.896Z [PASSED] 685/2723,0 CreateResults 21/26 data:20,gas:0,value:0  
+2024-07-16T05:17:04.845Z [PASSED] 685/2723,0 CreateResults 22/26 data:21,gas:0,value:0  
+2024-07-16T05:17:05.713Z [PASSED] 685/2723,0 CreateResults 23/26 data:22,gas:0,value:0  
+2024-07-16T05:17:06.371Z [PASSED] 685/2723,0 CreateResults 24/26 data:23,gas:0,value:0  
+2024-07-16T05:17:07.030Z [PASSED] 685/2723,0 CreateResults 25/26 data:24,gas:0,value:0  
+2024-07-16T05:17:07.897Z [PASSED] 685/2723,0 CreateResults 26/26 data:25,gas:0,value:0  

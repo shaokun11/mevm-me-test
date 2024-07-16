@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/callOutput3partialFail.json
+2024-07-16T05:25:19.052Z [PASSED] 706/2723,0 callOutput3partialFail 1/1 data:0,gas:0,value:0  

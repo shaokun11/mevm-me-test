@@ -1,0 +1,75 @@
+{
+  "insufficient_balance_blob_tx-91": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Reject blocks where user cannot afford the blob gas specified (but\n    max_fee_per_gas would be enough for current block), including:\n\n    - Transactions with max fee equal or higher than current block base fee\n    - Transactions with and without priority fee\n    - Transactions with and without value\n    - Transactions with and without calldata\n    - Transactions with max fee per blob gas lower or higher than the priority fee",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "674e268ca12c045855009e87a2df52c6394191a769bd7f166f50abd67151b2ef",
+      "hash": "0xfc59172f864f932fbb6bcf20e1596867522247d0429ff44f4f634042bd5c185b",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py",
+      "sourceHash": "ac8e32f87d88712c31113be2cd23f56d5adf2b12381680ac1652db83fa7c80d5",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_3aeebbf6_76a6_4c89_99ee_6f28a0d92c02/test_blob_txs.py#L760"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x0e0000",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "expectException": "TransactionException.INSUFFICIENT_ACCOUNT_FUNDS",
+          "hash": "0x988d1b27c073ea86f29c9f2c35c49bac2b75e3d9bc3b8a6f1997f7b7c648ded9",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x03f8850180800782520c9400000000000000000000000000000000000001000100c064e1a0010000000000000000000000000000000000000000000000000000000000000001a094087124ffebc262096c525618f323d77c3efafa0bede6728689a86e0babb25ca06f2e99b4c2134b96cbd32c0745af51e2dced52486f87a8f283b6dc35dc4844e0"
+        }
+      ]
+    },
+    "pre": {
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0xca3e54",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        []
+      ],
+      "blobVersionedHashes": [
+        "0x0100000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "data": [
+        "0x00"
+      ],
+      "gasLimit": [
+        "0x520c"
+      ],
+      "maxFeePerBlobGas": "0x64",
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x01"
+      ]
+    }
+  }
+}

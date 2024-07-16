@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_call_OOG_additionalGasCosts2_Paris.json
+2024-07-16T02:14:42.650Z [SKIP] 2096/2723,0 static_call_OOG_additionalGasCosts2_Paris 1/1 data:0,gas:0,value:0  execute timeout

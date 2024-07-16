@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallIdentity_5.json
+2024-07-16T02:14:42.615Z [SKIP] 2020/2723,0 static_CallIdentity_5 1/1 data:0,gas:0,value:0  execute timeout

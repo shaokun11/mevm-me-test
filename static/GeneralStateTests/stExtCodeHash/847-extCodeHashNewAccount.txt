@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashNewAccount.json
+2024-07-16T06:00:23.546Z [PASSED] 847/2723,0 extCodeHashNewAccount 1/1 data:0,gas:0,value:0  

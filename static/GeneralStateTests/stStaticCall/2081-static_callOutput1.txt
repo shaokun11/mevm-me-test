@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callOutput1.json
+2024-07-16T02:14:42.644Z [SKIP] 2081/2723,0 static_callOutput1 1/1 data:0,gas:0,value:0  execute timeout

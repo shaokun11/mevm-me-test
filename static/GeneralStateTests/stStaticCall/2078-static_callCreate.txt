@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callCreate.json
+2024-07-16T02:14:42.643Z [SKIP] 2078/2723,0 static_callCreate 1/4 data:0,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.643Z [SKIP] 2078/2723,0 static_callCreate 2/4 data:2,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.643Z [SKIP] 2078/2723,0 static_callCreate 3/4 data:3,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.643Z [SKIP] 2078/2723,0 static_callCreate 4/4 data:1,gas:0,value:0  execute timeout

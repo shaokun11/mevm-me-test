@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/stCreate2/RevertDepthCreate2OOGBerlin.json
+2024-07-16T05:13:05.081Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 1/8 data:1,gas:1,value:0  
+2024-07-16T05:13:05.738Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 2/8 data:1,gas:1,value:1  
+2024-07-16T05:13:06.398Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 3/8 data:0,gas:1,value:0  
+2024-07-16T05:13:07.056Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 4/8 data:0,gas:1,value:1  
+2024-07-16T05:13:07.711Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 5/8 data:0,gas:0,value:0  
+2024-07-16T05:13:08.365Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 6/8 data:0,gas:0,value:1  
+2024-07-16T05:13:09.021Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 7/8 data:1,gas:0,value:0  
+2024-07-16T05:13:09.675Z [PASSED] 619/2723,0 RevertDepthCreate2OOGBerlin 8/8 data:1,gas:0,value:1  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json
+2024-07-16T02:14:43.042Z [SKIP] 2370/2723,0 ValueOverflowParis 1/1 data:0,gas:0,value:0  rlp decode error

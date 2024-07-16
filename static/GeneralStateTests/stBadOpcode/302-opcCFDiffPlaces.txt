@@ -1,0 +1,36 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/opcCFDiffPlaces.json
+2024-07-16T04:11:42.813Z [PASSED] 302/2723,0 opcCFDiffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-07-16T04:11:43.488Z [PASSED] 302/2723,0 opcCFDiffPlaces 2/35 data:1,gas:0,value:0 normal 
+2024-07-16T04:11:46.461Z [PASSED] 302/2723,0 opcCFDiffPlaces 3/35 data:2,gas:0,value:0 normal 
+2024-07-16T04:11:47.132Z [PASSED] 302/2723,0 opcCFDiffPlaces 4/35 data:3,gas:0,value:0  
+2024-07-16T04:11:47.803Z [PASSED] 302/2723,0 opcCFDiffPlaces 5/35 data:4,gas:0,value:0  
+2024-07-16T04:11:48.475Z [PASSED] 302/2723,0 opcCFDiffPlaces 6/35 data:5,gas:0,value:0  
+2024-07-16T04:11:49.147Z [PASSED] 302/2723,0 opcCFDiffPlaces 7/35 data:6,gas:0,value:0  
+2024-07-16T04:11:49.820Z [PASSED] 302/2723,0 opcCFDiffPlaces 8/35 data:7,gas:0,value:0  
+2024-07-16T04:11:50.495Z [PASSED] 302/2723,0 opcCFDiffPlaces 9/35 data:8,gas:0,value:0  
+2024-07-16T04:11:51.167Z [PASSED] 302/2723,0 opcCFDiffPlaces 10/35 data:9,gas:0,value:0  
+2024-07-16T04:11:51.840Z [PASSED] 302/2723,0 opcCFDiffPlaces 11/35 data:10,gas:0,value:0  
+2024-07-16T04:11:52.509Z [PASSED] 302/2723,0 opcCFDiffPlaces 12/35 data:11,gas:0,value:0  
+2024-07-16T04:11:53.181Z [PASSED] 302/2723,0 opcCFDiffPlaces 13/35 data:12,gas:0,value:0  
+2024-07-16T04:11:54.058Z [PASSED] 302/2723,0 opcCFDiffPlaces 14/35 data:13,gas:0,value:0  
+2024-07-16T04:11:54.935Z [PASSED] 302/2723,0 opcCFDiffPlaces 15/35 data:14,gas:0,value:0  
+2024-07-16T04:11:55.810Z [PASSED] 302/2723,0 opcCFDiffPlaces 16/35 data:15,gas:0,value:0  
+2024-07-16T04:11:56.690Z [PASSED] 302/2723,0 opcCFDiffPlaces 17/35 data:16,gas:0,value:0  
+2024-07-16T04:11:57.563Z [PASSED] 302/2723,0 opcCFDiffPlaces 18/35 data:17,gas:0,value:0  
+2024-07-16T04:11:58.439Z [PASSED] 302/2723,0 opcCFDiffPlaces 19/35 data:18,gas:0,value:0  
+2024-07-16T04:11:59.317Z [PASSED] 302/2723,0 opcCFDiffPlaces 20/35 data:19,gas:0,value:0  
+2024-07-16T04:12:00.192Z [PASSED] 302/2723,0 opcCFDiffPlaces 21/35 data:20,gas:0,value:0  
+2024-07-16T04:12:00.871Z [PASSED] 302/2723,0 opcCFDiffPlaces 22/35 data:21,gas:0,value:0  
+2024-07-16T04:12:01.536Z [PASSED] 302/2723,0 opcCFDiffPlaces 23/35 data:22,gas:0,value:0  
+2024-07-16T04:12:02.207Z [PASSED] 302/2723,0 opcCFDiffPlaces 24/35 data:23,gas:0,value:0  
+2024-07-16T04:12:03.083Z [PASSED] 302/2723,0 opcCFDiffPlaces 25/35 data:24,gas:0,value:0  
+2024-07-16T04:12:03.960Z [PASSED] 302/2723,0 opcCFDiffPlaces 26/35 data:25,gas:0,value:0  
+2024-07-16T04:12:04.832Z [PASSED] 302/2723,0 opcCFDiffPlaces 27/35 data:26,gas:0,value:0  
+2024-07-16T04:12:05.710Z [PASSED] 302/2723,0 opcCFDiffPlaces 28/35 data:27,gas:0,value:0  
+2024-07-16T04:12:06.591Z [PASSED] 302/2723,0 opcCFDiffPlaces 29/35 data:28,gas:0,value:0  
+2024-07-16T04:12:07.470Z [PASSED] 302/2723,0 opcCFDiffPlaces 30/35 data:29,gas:0,value:0  
+2024-07-16T04:12:08.344Z [PASSED] 302/2723,0 opcCFDiffPlaces 31/35 data:30,gas:0,value:0  
+2024-07-16T04:12:09.227Z [PASSED] 302/2723,0 opcCFDiffPlaces 32/35 data:31,gas:0,value:0  
+2024-07-16T04:12:10.103Z [PASSED] 302/2723,0 opcCFDiffPlaces 33/35 data:32,gas:0,value:0  
+2024-07-16T04:12:10.980Z [PASSED] 302/2723,0 opcCFDiffPlaces 34/35 data:33,gas:0,value:0  
+2024-07-16T04:12:48.832Z [PASSED] 302/2723,0 opcCFDiffPlaces 35/35 data:34,gas:0,value:0  

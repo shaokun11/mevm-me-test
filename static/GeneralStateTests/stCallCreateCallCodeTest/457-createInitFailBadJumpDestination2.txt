@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailBadJumpDestination2.json
+2024-07-16T05:07:28.575Z [SKIP] 457/2723,0 createInitFailBadJumpDestination2 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

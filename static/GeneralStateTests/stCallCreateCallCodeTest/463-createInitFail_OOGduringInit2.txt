@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFail_OOGduringInit2.json
+2024-07-16T05:07:31.861Z [PASSED] 463/2723,0 createInitFail_OOGduringInit2 1/1 data:0,gas:0,value:0  

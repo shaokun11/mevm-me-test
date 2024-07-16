@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRefundTest/refund_TxToSuicideOOG.json
+2024-07-16T06:29:57.789Z [PASSED] 1744/2723,0 refund_TxToSuicideOOG 1/1 data:0,gas:0,value:0  

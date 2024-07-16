@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRefundTest/refund_TxToSuicide.json
+2024-07-16T06:29:57.135Z [SKIP] 1743/2723,0 refund_TxToSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

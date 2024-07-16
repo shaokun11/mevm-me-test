@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/callcodeToNameRegistratorZeroMemExpanion.json
+2024-07-16T07:09:11.760Z [PASSED] 2293/2723,0 callcodeToNameRegistratorZeroMemExpanion 1/2 data:0,gas:0,value:0  
+2024-07-16T07:09:12.416Z [PASSED] 2293/2723,0 callcodeToNameRegistratorZeroMemExpanion 2/2 data:0,gas:1,value:0  

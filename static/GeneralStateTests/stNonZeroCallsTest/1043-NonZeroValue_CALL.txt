@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_CALL.json
+2024-07-16T06:13:38.013Z [PASSED] 1043/2723,0 NonZeroValue_CALL 1/1 data:0,gas:0,value:0  

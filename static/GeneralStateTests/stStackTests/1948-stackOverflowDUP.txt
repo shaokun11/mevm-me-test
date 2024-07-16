@@ -1,0 +1,17 @@
+ethereum-tests/GeneralStateTests/stStackTests/stackOverflowDUP.json
+2024-07-16T06:56:13.851Z [PASSED] 1948/2723,0 stackOverflowDUP 1/16 data:0,gas:0,value:0  
+2024-07-16T06:56:15.967Z [PASSED] 1948/2723,0 stackOverflowDUP 2/16 data:1,gas:0,value:0  
+2024-07-16T06:56:17.876Z [PASSED] 1948/2723,0 stackOverflowDUP 3/16 data:2,gas:0,value:0  
+2024-07-16T06:56:19.992Z [PASSED] 1948/2723,0 stackOverflowDUP 4/16 data:3,gas:0,value:0  
+2024-07-16T06:56:22.111Z [PASSED] 1948/2723,0 stackOverflowDUP 5/16 data:4,gas:0,value:0  
+2024-07-16T06:56:24.015Z [PASSED] 1948/2723,0 stackOverflowDUP 6/16 data:5,gas:0,value:0  
+2024-07-16T06:56:25.924Z [PASSED] 1948/2723,0 stackOverflowDUP 7/16 data:6,gas:0,value:0  
+2024-07-16T06:56:28.041Z [PASSED] 1948/2723,0 stackOverflowDUP 8/16 data:7,gas:0,value:0  
+2024-07-16T06:56:30.154Z [PASSED] 1948/2723,0 stackOverflowDUP 9/16 data:8,gas:0,value:0  
+2024-07-16T06:56:32.479Z [PASSED] 1948/2723,0 stackOverflowDUP 10/16 data:9,gas:0,value:0  
+2024-07-16T06:56:34.592Z [PASSED] 1948/2723,0 stackOverflowDUP 11/16 data:10,gas:0,value:0  
+2024-07-16T06:56:36.921Z [PASSED] 1948/2723,0 stackOverflowDUP 12/16 data:11,gas:0,value:0  
+2024-07-16T06:56:39.035Z [PASSED] 1948/2723,0 stackOverflowDUP 13/16 data:12,gas:0,value:0  
+2024-07-16T06:56:41.154Z [PASSED] 1948/2723,0 stackOverflowDUP 14/16 data:13,gas:0,value:0  
+2024-07-16T06:56:43.276Z [PASSED] 1948/2723,0 stackOverflowDUP 15/16 data:14,gas:0,value:0  
+2024-07-16T06:56:45.390Z [PASSED] 1948/2723,0 stackOverflowDUP 16/16 data:15,gas:0,value:0  

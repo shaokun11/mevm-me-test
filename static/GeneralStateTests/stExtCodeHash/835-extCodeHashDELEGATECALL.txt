@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashDELEGATECALL.json
+2024-07-16T06:00:10.006Z [PASSED] 835/2723,0 extCodeHashDELEGATECALL 1/1 data:0,gas:0,value:0  

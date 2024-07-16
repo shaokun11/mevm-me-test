@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CheckCallCostOOG.json
+2024-07-16T02:14:42.627Z [SKIP] 2051/2723,0 static_CheckCallCostOOG 1/2 data:0,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.627Z [SKIP] 2051/2723,0 static_CheckCallCostOOG 2/2 data:0,gas:1,value:0  execute timeout

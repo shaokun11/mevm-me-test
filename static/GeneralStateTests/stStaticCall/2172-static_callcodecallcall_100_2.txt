@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcall_100_2.json
+2024-07-16T02:14:42.680Z [SKIP] 2172/2723,0 static_callcodecallcall_100_2 1/2 data:0,gas:0,value:0  execute timeout
+2024-07-16T02:14:42.680Z [SKIP] 2172/2723,0 static_callcodecallcall_100_2 2/2 data:0,gas:0,value:1  execute timeout

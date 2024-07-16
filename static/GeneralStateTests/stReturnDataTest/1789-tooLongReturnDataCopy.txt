@@ -1,0 +1,25 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/tooLongReturnDataCopy.json
+2024-07-16T06:33:22.180Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 1/24 data:1,gas:0,value:0 success 
+2024-07-16T06:33:22.835Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 2/24 data:4,gas:0,value:0 fail 
+2024-07-16T06:33:23.491Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 3/24 data:6,gas:0,value:0 success 
+2024-07-16T06:33:24.146Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 4/24 data:8,gas:0,value:0 success 
+2024-07-16T06:33:24.802Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 5/24 data:9,gas:0,value:0 fail 
+2024-07-16T06:33:25.458Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 6/24 data:10,gas:0,value:0 success 
+2024-07-16T06:33:26.114Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 7/24 data:11,gas:0,value:0 fail 
+2024-07-16T06:33:26.771Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 8/24 data:13,gas:0,value:0 success 
+2024-07-16T06:33:27.426Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 9/24 data:16,gas:0,value:0 fail 
+2024-07-16T06:33:28.082Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 10/24 data:18,gas:0,value:0 fail 
+2024-07-16T06:33:28.738Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 11/24 data:20,gas:0,value:0 fail 
+2024-07-16T06:33:29.393Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 12/24 data:21,gas:0,value:0 fail 
+2024-07-16T06:33:30.048Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 13/24 data:22,gas:0,value:0 success 
+2024-07-16T06:33:30.704Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 14/24 data:23,gas:0,value:0 fail 
+2024-07-16T06:33:31.360Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 15/24 data:0,gas:0,value:0 success 
+2024-07-16T06:33:32.017Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 16/24 data:2,gas:0,value:0 success 
+2024-07-16T06:33:32.674Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 17/24 data:3,gas:0,value:0 fail 
+2024-07-16T06:33:33.331Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 18/24 data:5,gas:0,value:0 success 
+2024-07-16T06:33:33.988Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 19/24 data:7,gas:0,value:0 fail 
+2024-07-16T06:33:34.644Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 20/24 data:12,gas:0,value:0 success 
+2024-07-16T06:33:35.304Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 21/24 data:14,gas:0,value:0 fail 
+2024-07-16T06:33:35.960Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 22/24 data:15,gas:0,value:0 fail 
+2024-07-16T06:33:36.615Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 23/24 data:17,gas:0,value:0 fail 
+2024-07-16T06:33:37.272Z [PASSED] 1789/2723,0 tooLongReturnDataCopy 24/24 data:19,gas:0,value:0 fail 

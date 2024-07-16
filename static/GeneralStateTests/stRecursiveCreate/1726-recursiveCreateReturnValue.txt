@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRecursiveCreate/recursiveCreateReturnValue.json
+2024-07-16T06:29:42.305Z [PASSED] 1726/2723,0 recursiveCreateReturnValue 1/1 data:0,gas:0,value:0  

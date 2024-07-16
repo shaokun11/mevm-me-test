@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrefoundEmpty_Paris.json
+2024-07-16T06:38:48.812Z [PASSED] 1826/2723,0 RevertPrefoundEmpty_Paris 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,4 @@
+ethereum-tests/GeneralStateTests/stCreate2/Create2Recursive.json
+2024-07-16T02:14:40.856Z [SKIP] 615/2723,0 Create2Recursive 1/3 data:0,gas:0,value:0  will execute error, need to double check
+2024-07-16T02:14:40.856Z [SKIP] 615/2723,0 Create2Recursive 2/3 data:0,gas:1,value:0  will execute error, need to double check
+2024-07-16T02:14:40.856Z [SKIP] 615/2723,0 Create2Recursive 3/3 data:0,gas:2,value:0  will execute error, need to double check

@@ -1,0 +1,7 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/modexpRandomInput.json
+2024-07-16T06:28:52.570Z [PASSED] 1173/2723,0 modexpRandomInput 1/6 data:0,gas:0,value:0  
+2024-07-16T06:28:53.225Z [PASSED] 1173/2723,0 modexpRandomInput 2/6 data:0,gas:1,value:0  
+2024-07-16T06:28:53.880Z [FAILED] 1173/2723,0 modexpRandomInput 3/6 data:1,gas:0,value:0  {"error":"Execution failed in 0x1::evm_precompile::calculate_multiplication_complexity at code offset 17","hash":"0x494a080c9de57214de5e5d4249453636baef62f61b2e13c0f677e36271c11b6a","expected":"0x144406dfea0fcd41efdde3e1cdcf151aa60209ca6f5d48717ab751d89f85083d"}
+2024-07-16T06:28:54.536Z [FAILED] 1173/2723,0 modexpRandomInput 4/6 data:1,gas:1,value:0  {"error":"Execution failed in 0x1::evm_precompile::calculate_multiplication_complexity at code offset 17","hash":"0x66161cbcd5bbaf3f773a06bf5c82988afc7e27fef29ab388da5a0f4864c5e0e8","expected":"0x10e3a2183c2e026db183bcdd5bbb2dbbf4fdcd9d7068f523f0d6fa790775ae98"}
+2024-07-16T06:28:55.192Z [PASSED] 1173/2723,0 modexpRandomInput 5/6 data:2,gas:0,value:0  
+2024-07-16T06:28:55.849Z [PASSED] 1173/2723,0 modexpRandomInput 6/6 data:2,gas:1,value:0  

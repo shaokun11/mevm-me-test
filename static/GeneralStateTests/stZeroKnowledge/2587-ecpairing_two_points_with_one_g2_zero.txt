@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_two_points_with_one_g2_zero.json
+2024-07-16T07:21:49.722Z [PASSED] 2587/2723,0 ecpairing_two_points_with_one_g2_zero 1/4 data:0,gas:0,value:0  
+2024-07-16T07:21:50.592Z [PASSED] 2587/2723,0 ecpairing_two_points_with_one_g2_zero 2/4 data:0,gas:1,value:0  
+2024-07-16T07:21:51.254Z [PASSED] 2587/2723,0 ecpairing_two_points_with_one_g2_zero 3/4 data:0,gas:2,value:0  
+2024-07-16T07:21:52.130Z [PASSED] 2587/2723,0 ecpairing_two_points_with_one_g2_zero 4/4 data:0,gas:3,value:0  

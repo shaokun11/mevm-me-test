@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeDirectCall.json
+2024-07-16T06:36:47.990Z [PASSED] 1808/2723,0 RevertOpcodeDirectCall 1/2 data:0,gas:0,value:0  
+2024-07-16T06:36:48.644Z [PASSED] 1808/2723,0 RevertOpcodeDirectCall 2/2 data:0,gas:1,value:0  

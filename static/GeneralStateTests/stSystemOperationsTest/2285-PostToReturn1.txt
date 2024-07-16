@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/PostToReturn1.json
+2024-07-16T07:09:06.514Z [PASSED] 2285/2723,0 PostToReturn1 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,83 @@
+{
+  "insufficient_balance_blob_tx-2": {
+    "_info": {
+      "comment": "`execution-spec-tests` generated test",
+      "description": "Test function documentation:\n\n    Reject blocks where user cannot afford the blob gas specified (but\n    max_fee_per_gas would be enough for current block), including:\n\n    - Transactions with max fee equal or higher than current block base fee\n    - Transactions with and without priority fee\n    - Transactions with and without value\n    - Transactions with and without calldata\n    - Transactions with max fee per blob gas lower or higher than the priority fee",
+      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "generatedTestHash": "d64bf065a8029dd67da66265f73a801cc1237ad206737e507768bb5f94d82416",
+      "hash": "0x4db5d46f06729a51b3582c3d51528174095f09236b1011727a5833e10e095cd0",
+      "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
+      "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
+      "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py",
+      "sourceHash": "ac8e32f87d88712c31113be2cd23f56d5adf2b12381680ac1652db83fa7c80d5",
+      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_3aeebbf6_76a6_4c89_99ee_6f28a0d92c02/test_blob_txs.py#L760"
+    },
+    "env": {
+      "currentBaseFee": "0x07",
+      "currentCoinbase": "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
+      "currentDifficulty": "0x00",
+      "currentExcessBlobGas": "0x0e0000",
+      "currentGasLimit": "0x016345785d8a0000",
+      "currentNumber": "0x01",
+      "currentRandom": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "currentTimestamp": "0x03e8"
+    },
+    "post": {
+      "Cancun": [
+        {
+          "expectException": "TransactionException.INSUFFICIENT_ACCOUNT_FUNDS",
+          "hash": "0x10e80b68697db805831915c7373e48d5fe2de90b2a7a3b95b2c3671eeb217e58",
+          "indexes": {
+            "data": 0,
+            "gas": 0,
+            "value": 0
+          },
+          "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+          "txbytes": "0x03f8e101808007826a409400000000000000000000000000000000000001008080f85bf859940000000000000000000000000000000000000064f842a00000000000000000000000000000000000000000000000000000000000000064a000000000000000000000000000000000000000000000000000000000000000c801e1a0010000000000000000000000000000000000000000000000000000000000000080a0231d9ee920a79f76ba95220ddc3c8dc0b434590470822fc9a3e0857988551881a050fe3aa2eed0dcb338e1b02297761a57f29d3a3eaaba5b0bfc99de731dc9cb4a"
+        }
+      ]
+    },
+    "pre": {
+      "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+        "balance": "0x04e7bf",
+        "code": "0x",
+        "nonce": "0x00",
+        "storage": {}
+      }
+    },
+    "transaction": {
+      "accessLists": [
+        [
+          {
+            "address": "0x0000000000000000000000000000000000000064",
+            "storageKeys": [
+              "0x0000000000000000000000000000000000000000000000000000000000000064",
+              "0x00000000000000000000000000000000000000000000000000000000000000c8"
+            ]
+          }
+        ]
+      ],
+      "blobVersionedHashes": [
+        "0x0100000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "data": [
+        "0x"
+      ],
+      "gasLimit": [
+        "0x6a40"
+      ],
+      "maxFeePerBlobGas": "0x01",
+      "maxFeePerGas": "0x07",
+      "maxPriorityFeePerGas": "0x00",
+      "nonce": "0x00",
+      "secretKey": "0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d8",
+      "sender": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
+      "to": "0x0000000000000000000000000000000000000100",
+      "value": [
+        "0x00"
+      ]
+    }
+  }
+}

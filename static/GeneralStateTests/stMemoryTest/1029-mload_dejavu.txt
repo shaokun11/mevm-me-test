@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/mload_dejavu.json
+2024-07-16T06:11:21.960Z [PASSED] 1029/2723,0 mload_dejavu 1/1 data:0,gas:0,value:0  

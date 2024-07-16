@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_4_gas99.json
+2024-07-16T02:14:42.625Z [SKIP] 2046/2723,0 static_CallSha256_4_gas99 1/1 data:0,gas:0,value:0  execute timeout

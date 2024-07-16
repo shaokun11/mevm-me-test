@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CREATE_EContractCreateEContractInInit_Tr.json
+2024-07-16T05:14:16.252Z [PASSED] 656/2723,0 CREATE_EContractCreateEContractInInit_Tr 1/1 data:0,gas:0,value:0  

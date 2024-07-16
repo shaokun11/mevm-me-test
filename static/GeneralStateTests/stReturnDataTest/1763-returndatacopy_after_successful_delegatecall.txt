@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_after_successful_delegatecall.json
+2024-07-16T06:32:22.129Z [PASSED] 1763/2723,0 returndatacopy_after_successful_delegatecall 1/1 data:0,gas:0,value:0  
