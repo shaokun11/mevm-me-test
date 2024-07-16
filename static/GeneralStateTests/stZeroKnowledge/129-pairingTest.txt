@@ -1,0 +1,25 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/pairingTest.json
+2024-07-16T01:46:48.308Z [PASSED] 129/134,0 pairingTest 1/24 data:0,gas:0,value:0  
+2024-07-16T01:46:49.175Z [PASSED] 129/134,0 pairingTest 2/24 data:1,gas:0,value:0  
+2024-07-16T01:46:50.039Z [PASSED] 129/134,0 pairingTest 3/24 data:2,gas:0,value:0  
+2024-07-16T01:46:50.905Z [PASSED] 129/134,0 pairingTest 4/24 data:3,gas:0,value:0  
+2024-07-16T01:46:51.771Z [PASSED] 129/134,0 pairingTest 5/24 data:4,gas:0,value:0  
+2024-07-16T01:46:52.641Z [PASSED] 129/134,0 pairingTest 6/24 data:0,gas:1,value:0  
+2024-07-16T01:46:53.508Z [PASSED] 129/134,0 pairingTest 7/24 data:0,gas:2,value:0  
+2024-07-16T01:46:54.377Z [PASSED] 129/134,0 pairingTest 8/24 data:0,gas:3,value:0  
+2024-07-16T01:46:55.245Z [PASSED] 129/134,0 pairingTest 9/24 data:1,gas:1,value:0  
+2024-07-16T01:46:56.114Z [PASSED] 129/134,0 pairingTest 10/24 data:1,gas:2,value:0  
+2024-07-16T01:46:56.981Z [PASSED] 129/134,0 pairingTest 11/24 data:1,gas:3,value:0  
+2024-07-16T01:46:57.845Z [PASSED] 129/134,0 pairingTest 12/24 data:2,gas:1,value:0  
+2024-07-16T01:46:58.710Z [PASSED] 129/134,0 pairingTest 13/24 data:2,gas:2,value:0  
+2024-07-16T01:46:59.572Z [PASSED] 129/134,0 pairingTest 14/24 data:2,gas:3,value:0  
+2024-07-16T01:47:00.439Z [PASSED] 129/134,0 pairingTest 15/24 data:3,gas:1,value:0  
+2024-07-16T01:47:01.305Z [PASSED] 129/134,0 pairingTest 16/24 data:3,gas:2,value:0  
+2024-07-16T01:47:02.169Z [PASSED] 129/134,0 pairingTest 17/24 data:3,gas:3,value:0  
+2024-07-16T01:47:03.034Z [PASSED] 129/134,0 pairingTest 18/24 data:4,gas:1,value:0  
+2024-07-16T01:47:03.901Z [PASSED] 129/134,0 pairingTest 19/24 data:4,gas:2,value:0  
+2024-07-16T01:47:04.765Z [PASSED] 129/134,0 pairingTest 20/24 data:4,gas:3,value:0  
+2024-07-16T01:47:05.631Z [PASSED] 129/134,0 pairingTest 21/24 data:5,gas:1,value:0  
+2024-07-16T01:47:06.495Z [PASSED] 129/134,0 pairingTest 22/24 data:5,gas:2,value:0  
+2024-07-16T01:47:07.358Z [PASSED] 129/134,0 pairingTest 23/24 data:5,gas:3,value:0  
+2024-07-16T01:47:08.229Z [PASSED] 129/134,0 pairingTest 24/24 data:5,gas:0,value:0  
