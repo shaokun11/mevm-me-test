@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_CallA_notEnoughGasInCall.json
-2024-07-16T14:48:03.249Z [PASSED] 1737/2723,0 refund_CallA_notEnoughGasInCall 1/1 data:0,gas:0,value:0  
+2024-07-26T05:20:04.899Z [PASSED] 1737/2723,0 refund_CallA_notEnoughGasInCall 1/1 data:0,gas:0,value:0  

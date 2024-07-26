@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackUnderflow.json
-2024-07-16T13:25:29.767Z [SKIP] 459/2723,0 createInitFailStackUnderflow 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T02:39:49.489Z [EXCEPTION] 459/2723,0 createInitFailStackUnderflow 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xa7e0d50fcaa4ac1c46d400cb1226556f2f9b0e372b4db60e802aea111da5c7cc timed out after 90 seconds"}

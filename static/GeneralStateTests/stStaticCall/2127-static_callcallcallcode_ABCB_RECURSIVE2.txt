@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcallcode_ABCB_RECURSIVE2.json
-2024-07-16T10:37:18.519Z [SKIP] 2127/2723,0 static_callcallcallcode_ABCB_RECURSIVE2 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T07:01:04.580Z [EXCEPTION] 2127/2723,0 static_callcallcallcode_ABCB_RECURSIVE2 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

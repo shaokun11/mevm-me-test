@@ -1,36 +1,36 @@
 ethereum-tests/GeneralStateTests/stSelfBalance/diffPlaces.json
-2024-07-16T15:05:20.078Z [PASSED] 1865/2723,0 diffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-07-16T15:05:20.742Z [PASSED] 1865/2723,0 diffPlaces 2/35 data:1,gas:0,value:0 normal 
-2024-07-16T15:05:21.407Z [PASSED] 1865/2723,0 diffPlaces 3/35 data:2,gas:0,value:0 normal 
-2024-07-16T15:05:22.075Z [PASSED] 1865/2723,0 diffPlaces 4/35 data:3,gas:0,value:0  
-2024-07-16T15:05:22.737Z [PASSED] 1865/2723,0 diffPlaces 5/35 data:4,gas:0,value:0  
-2024-07-16T15:05:23.404Z [PASSED] 1865/2723,0 diffPlaces 6/35 data:5,gas:0,value:0  
-2024-07-16T15:05:24.070Z [PASSED] 1865/2723,0 diffPlaces 7/35 data:6,gas:0,value:0  
-2024-07-16T15:05:24.734Z [PASSED] 1865/2723,0 diffPlaces 8/35 data:7,gas:0,value:0  
-2024-07-16T15:05:25.400Z [PASSED] 1865/2723,0 diffPlaces 9/35 data:8,gas:0,value:0  
-2024-07-16T15:05:26.278Z [PASSED] 1865/2723,0 diffPlaces 10/35 data:9,gas:0,value:0  
-2024-07-16T15:05:26.942Z [PASSED] 1865/2723,0 diffPlaces 11/35 data:10,gas:0,value:0  
-2024-07-16T15:05:27.819Z [PASSED] 1865/2723,0 diffPlaces 12/35 data:11,gas:0,value:0  
-2024-07-16T15:05:28.481Z [PASSED] 1865/2723,0 diffPlaces 13/35 data:12,gas:0,value:0  
-2024-07-16T15:05:29.359Z [PASSED] 1865/2723,0 diffPlaces 14/35 data:13,gas:0,value:0  
-2024-07-16T15:05:30.232Z [PASSED] 1865/2723,0 diffPlaces 15/35 data:14,gas:0,value:0  
-2024-07-16T15:05:31.107Z [PASSED] 1865/2723,0 diffPlaces 16/35 data:15,gas:0,value:0  
-2024-07-16T15:05:31.981Z [PASSED] 1865/2723,0 diffPlaces 17/35 data:16,gas:0,value:0  
-2024-07-16T15:05:32.856Z [PASSED] 1865/2723,0 diffPlaces 18/35 data:17,gas:0,value:0  
-2024-07-16T15:05:33.728Z [PASSED] 1865/2723,0 diffPlaces 19/35 data:18,gas:0,value:0  
-2024-07-16T15:05:34.600Z [PASSED] 1865/2723,0 diffPlaces 20/35 data:19,gas:0,value:0  
-2024-07-16T15:05:35.474Z [PASSED] 1865/2723,0 diffPlaces 21/35 data:20,gas:0,value:0  
-2024-07-16T15:05:36.345Z [PASSED] 1865/2723,0 diffPlaces 22/35 data:21,gas:0,value:0  
-2024-07-16T15:05:37.216Z [PASSED] 1865/2723,0 diffPlaces 23/35 data:22,gas:0,value:0  
-2024-07-16T15:05:38.087Z [SKIP] 1865/2723,0 diffPlaces 24/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:05:38.960Z [PASSED] 1865/2723,0 diffPlaces 25/35 data:24,gas:0,value:0  
-2024-07-16T15:05:39.838Z [PASSED] 1865/2723,0 diffPlaces 26/35 data:25,gas:0,value:0  
-2024-07-16T15:05:40.712Z [PASSED] 1865/2723,0 diffPlaces 27/35 data:26,gas:0,value:0  
-2024-07-16T15:05:41.586Z [PASSED] 1865/2723,0 diffPlaces 28/35 data:27,gas:0,value:0  
-2024-07-16T15:05:42.459Z [PASSED] 1865/2723,0 diffPlaces 29/35 data:28,gas:0,value:0  
-2024-07-16T15:05:43.331Z [PASSED] 1865/2723,0 diffPlaces 30/35 data:29,gas:0,value:0  
-2024-07-16T15:05:44.205Z [PASSED] 1865/2723,0 diffPlaces 31/35 data:30,gas:0,value:0  
-2024-07-16T15:05:45.077Z [PASSED] 1865/2723,0 diffPlaces 32/35 data:31,gas:0,value:0  
-2024-07-16T15:05:45.954Z [PASSED] 1865/2723,0 diffPlaces 33/35 data:32,gas:0,value:0  
-2024-07-16T15:05:46.826Z [PASSED] 1865/2723,0 diffPlaces 34/35 data:33,gas:0,value:0  
-2024-07-16T15:06:24.852Z [PASSED] 1865/2723,0 diffPlaces 35/35 data:34,gas:0,value:0  
+2024-07-26T05:41:18.138Z [PASSED] 1865/2723,0 diffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-07-26T05:41:19.012Z [PASSED] 1865/2723,0 diffPlaces 2/35 data:1,gas:0,value:0 normal 
+2024-07-26T05:41:19.891Z [PASSED] 1865/2723,0 diffPlaces 3/35 data:2,gas:0,value:0 normal 
+2024-07-26T05:41:20.771Z [PASSED] 1865/2723,0 diffPlaces 4/35 data:3,gas:0,value:0  
+2024-07-26T05:41:21.645Z [PASSED] 1865/2723,0 diffPlaces 5/35 data:4,gas:0,value:0  
+2024-07-26T05:41:22.521Z [PASSED] 1865/2723,0 diffPlaces 6/35 data:5,gas:0,value:0  
+2024-07-26T05:41:23.397Z [PASSED] 1865/2723,0 diffPlaces 7/35 data:6,gas:0,value:0  
+2024-07-26T05:41:24.271Z [PASSED] 1865/2723,0 diffPlaces 8/35 data:7,gas:0,value:0  
+2024-07-26T05:41:25.147Z [PASSED] 1865/2723,0 diffPlaces 9/35 data:8,gas:0,value:0  
+2024-07-26T05:41:26.027Z [PASSED] 1865/2723,0 diffPlaces 10/35 data:9,gas:0,value:0  
+2024-07-26T05:41:26.901Z [PASSED] 1865/2723,0 diffPlaces 11/35 data:10,gas:0,value:0  
+2024-07-26T05:41:27.773Z [PASSED] 1865/2723,0 diffPlaces 12/35 data:11,gas:0,value:0  
+2024-07-26T05:41:28.648Z [PASSED] 1865/2723,0 diffPlaces 13/35 data:12,gas:0,value:0  
+2024-07-26T05:41:29.523Z [PASSED] 1865/2723,0 diffPlaces 14/35 data:13,gas:0,value:0  
+2024-07-26T05:41:30.397Z [PASSED] 1865/2723,0 diffPlaces 15/35 data:14,gas:0,value:0  
+2024-07-26T05:41:31.273Z [PASSED] 1865/2723,0 diffPlaces 16/35 data:15,gas:0,value:0  
+2024-07-26T05:41:32.147Z [PASSED] 1865/2723,0 diffPlaces 17/35 data:16,gas:0,value:0  
+2024-07-26T05:41:33.024Z [PASSED] 1865/2723,0 diffPlaces 18/35 data:17,gas:0,value:0  
+2024-07-26T05:41:33.900Z [PASSED] 1865/2723,0 diffPlaces 19/35 data:18,gas:0,value:0  
+2024-07-26T05:41:34.787Z [PASSED] 1865/2723,0 diffPlaces 20/35 data:19,gas:0,value:0  
+2024-07-26T05:41:35.666Z [PASSED] 1865/2723,0 diffPlaces 21/35 data:20,gas:0,value:0  
+2024-07-26T05:41:36.542Z [PASSED] 1865/2723,0 diffPlaces 22/35 data:21,gas:0,value:0  
+2024-07-26T05:41:37.423Z [PASSED] 1865/2723,0 diffPlaces 23/35 data:22,gas:0,value:0  
+2024-07-26T05:41:38.305Z [SKIP] 1865/2723,0 diffPlaces 24/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T05:41:39.187Z [PASSED] 1865/2723,0 diffPlaces 25/35 data:24,gas:0,value:0  
+2024-07-26T05:41:40.062Z [PASSED] 1865/2723,0 diffPlaces 26/35 data:25,gas:0,value:0  
+2024-07-26T05:41:40.939Z [PASSED] 1865/2723,0 diffPlaces 27/35 data:26,gas:0,value:0  
+2024-07-26T05:41:42.021Z [PASSED] 1865/2723,0 diffPlaces 28/35 data:27,gas:0,value:0  
+2024-07-26T05:41:43.109Z [PASSED] 1865/2723,0 diffPlaces 29/35 data:28,gas:0,value:0  
+2024-07-26T05:41:44.196Z [PASSED] 1865/2723,0 diffPlaces 30/35 data:29,gas:0,value:0  
+2024-07-26T05:41:45.287Z [PASSED] 1865/2723,0 diffPlaces 31/35 data:30,gas:0,value:0  
+2024-07-26T05:41:46.163Z [PASSED] 1865/2723,0 diffPlaces 32/35 data:31,gas:0,value:0  
+2024-07-26T05:41:47.249Z [PASSED] 1865/2723,0 diffPlaces 33/35 data:32,gas:0,value:0  
+2024-07-26T05:41:48.334Z [PASSED] 1865/2723,0 diffPlaces 34/35 data:33,gas:0,value:0  
+2024-07-26T05:42:38.782Z [PASSED] 1865/2723,0 diffPlaces 35/35 data:34,gas:0,value:0  

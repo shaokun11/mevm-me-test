@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_LoopCallsThenRevert.json
-2024-07-16T10:37:18.493Z [SKIP] 2064/2723,0 static_LoopCallsThenRevert 1/2 data:0,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.493Z [SKIP] 2064/2723,0 static_LoopCallsThenRevert 2/2 data:0,gas:1,value:0  execute timeout
+2024-07-26T06:58:50.895Z [EXCEPTION] 2064/2723,0 static_LoopCallsThenRevert 1/2 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x820fabaa3ed417436b8262fbc8825f3a67ed5c8535c9db08c592c9f26edff481 timed out after 90 seconds"}
+2024-07-26T07:00:23.908Z [EXCEPTION] 2064/2723,0 static_LoopCallsThenRevert 2/2 data:0,gas:1,value:0  {"error":"Waiting for transaction 0x281c50069f84b3ae7a6e95ab0c5074d8b935a89d5ba522d86a4582dec969d554 timed out after 90 seconds"}

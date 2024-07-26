@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stShift/shiftSignedCombinations.json
-2024-07-16T10:37:18.279Z [SKIP] 1890/2723,0 shiftSignedCombinations 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T05:46:05.925Z [EXCEPTION] 1890/2723,0 shiftSignedCombinations 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x151806032761df603b5d7ebe6bfb714b2a625b942d121b07bb42d528ff8160f7 timed out after 90 seconds"}

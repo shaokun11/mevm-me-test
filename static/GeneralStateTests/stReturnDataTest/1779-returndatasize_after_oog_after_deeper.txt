@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_after_oog_after_deeper.json
-2024-07-16T14:50:52.663Z [PASSED] 1779/2723,0 returndatasize_after_oog_after_deeper 1/1 data:0,gas:0,value:0  
+2024-07-26T05:23:14.432Z [PASSED] 1779/2723,0 returndatasize_after_oog_after_deeper 1/1 data:0,gas:0,value:0  

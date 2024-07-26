@@ -206,9 +206,9 @@ export async function runTask(opt) {
             } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
             if (skip) {
-                const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
-                appendFileSync(summary_file, output + "\n");
-                continue;
+               // const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
+               // appendFileSync(summary_file, output + "\n");
+               // continue;
             }
             let status = "";
             let msg = "";

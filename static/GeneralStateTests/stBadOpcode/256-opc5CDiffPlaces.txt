@@ -1,36 +1,36 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/opc5CDiffPlaces.json
-2024-07-16T11:33:30.638Z [PASSED] 256/2723,0 opc5CDiffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-07-16T11:33:31.518Z [PASSED] 256/2723,0 opc5CDiffPlaces 2/35 data:21,gas:0,value:0 normal 
-2024-07-16T11:33:34.492Z [PASSED] 256/2723,0 opc5CDiffPlaces 3/35 data:22,gas:0,value:0 normal 
-2024-07-16T11:33:35.370Z [SKIP] 256/2723,0 opc5CDiffPlaces 4/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T11:33:36.034Z [PASSED] 256/2723,0 opc5CDiffPlaces 5/35 data:1,gas:0,value:0  
-2024-07-16T11:33:36.707Z [PASSED] 256/2723,0 opc5CDiffPlaces 6/35 data:2,gas:0,value:0  
-2024-07-16T11:33:37.376Z [PASSED] 256/2723,0 opc5CDiffPlaces 7/35 data:3,gas:0,value:0  
-2024-07-16T11:33:38.048Z [PASSED] 256/2723,0 opc5CDiffPlaces 8/35 data:4,gas:0,value:0  
-2024-07-16T11:33:38.924Z [PASSED] 256/2723,0 opc5CDiffPlaces 9/35 data:5,gas:0,value:0  
-2024-07-16T11:33:39.596Z [PASSED] 256/2723,0 opc5CDiffPlaces 10/35 data:6,gas:0,value:0  
-2024-07-16T11:33:40.474Z [PASSED] 256/2723,0 opc5CDiffPlaces 11/35 data:7,gas:0,value:0  
-2024-07-16T11:33:41.354Z [PASSED] 256/2723,0 opc5CDiffPlaces 12/35 data:8,gas:0,value:0  
-2024-07-16T11:33:42.230Z [PASSED] 256/2723,0 opc5CDiffPlaces 13/35 data:9,gas:0,value:0  
-2024-07-16T11:33:43.108Z [PASSED] 256/2723,0 opc5CDiffPlaces 14/35 data:10,gas:0,value:0  
-2024-07-16T11:33:43.982Z [PASSED] 256/2723,0 opc5CDiffPlaces 15/35 data:11,gas:0,value:0  
-2024-07-16T11:33:44.861Z [PASSED] 256/2723,0 opc5CDiffPlaces 16/35 data:12,gas:0,value:0  
-2024-07-16T11:33:45.741Z [PASSED] 256/2723,0 opc5CDiffPlaces 17/35 data:13,gas:0,value:0  
-2024-07-16T11:33:46.615Z [PASSED] 256/2723,0 opc5CDiffPlaces 18/35 data:14,gas:0,value:0  
-2024-07-16T11:33:47.491Z [PASSED] 256/2723,0 opc5CDiffPlaces 19/35 data:15,gas:0,value:0  
-2024-07-16T11:33:48.365Z [PASSED] 256/2723,0 opc5CDiffPlaces 20/35 data:16,gas:0,value:0  
-2024-07-16T11:33:49.252Z [PASSED] 256/2723,0 opc5CDiffPlaces 21/35 data:17,gas:0,value:0  
-2024-07-16T11:33:50.129Z [PASSED] 256/2723,0 opc5CDiffPlaces 22/35 data:18,gas:0,value:0  
-2024-07-16T11:33:51.003Z [PASSED] 256/2723,0 opc5CDiffPlaces 23/35 data:19,gas:0,value:0  
-2024-07-16T11:33:51.878Z [PASSED] 256/2723,0 opc5CDiffPlaces 24/35 data:20,gas:0,value:0  
-2024-07-16T11:33:52.754Z [PASSED] 256/2723,0 opc5CDiffPlaces 25/35 data:24,gas:0,value:0  
-2024-07-16T11:33:53.631Z [PASSED] 256/2723,0 opc5CDiffPlaces 26/35 data:25,gas:0,value:0  
-2024-07-16T11:33:54.505Z [PASSED] 256/2723,0 opc5CDiffPlaces 27/35 data:26,gas:0,value:0  
-2024-07-16T11:33:55.383Z [PASSED] 256/2723,0 opc5CDiffPlaces 28/35 data:27,gas:0,value:0  
-2024-07-16T11:33:56.258Z [PASSED] 256/2723,0 opc5CDiffPlaces 29/35 data:28,gas:0,value:0  
-2024-07-16T11:33:57.137Z [PASSED] 256/2723,0 opc5CDiffPlaces 30/35 data:29,gas:0,value:0  
-2024-07-16T11:33:58.012Z [PASSED] 256/2723,0 opc5CDiffPlaces 31/35 data:30,gas:0,value:0  
-2024-07-16T11:33:58.891Z [PASSED] 256/2723,0 opc5CDiffPlaces 32/35 data:31,gas:0,value:0  
-2024-07-16T11:33:59.768Z [PASSED] 256/2723,0 opc5CDiffPlaces 33/35 data:32,gas:0,value:0  
-2024-07-16T11:34:00.647Z [PASSED] 256/2723,0 opc5CDiffPlaces 34/35 data:33,gas:0,value:0  
-2024-07-16T11:34:39.141Z [PASSED] 256/2723,0 opc5CDiffPlaces 35/35 data:34,gas:0,value:0  
+2024-07-25T20:20:27.264Z [PASSED] 256/2723,0 opc5CDiffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-07-25T20:20:28.353Z [PASSED] 256/2723,0 opc5CDiffPlaces 2/35 data:21,gas:0,value:0 normal 
+2024-07-25T20:20:31.536Z [PASSED] 256/2723,0 opc5CDiffPlaces 3/35 data:22,gas:0,value:0 normal 
+2024-07-25T20:20:32.625Z [SKIP] 256/2723,0 opc5CDiffPlaces 4/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-25T20:20:33.504Z [PASSED] 256/2723,0 opc5CDiffPlaces 5/35 data:1,gas:0,value:0  
+2024-07-25T20:20:34.381Z [PASSED] 256/2723,0 opc5CDiffPlaces 6/35 data:2,gas:0,value:0  
+2024-07-25T20:20:35.262Z [PASSED] 256/2723,0 opc5CDiffPlaces 7/35 data:3,gas:0,value:0  
+2024-07-25T20:20:36.137Z [PASSED] 256/2723,0 opc5CDiffPlaces 8/35 data:4,gas:0,value:0  
+2024-07-25T20:20:37.014Z [PASSED] 256/2723,0 opc5CDiffPlaces 9/35 data:5,gas:0,value:0  
+2024-07-25T20:20:37.889Z [PASSED] 256/2723,0 opc5CDiffPlaces 10/35 data:6,gas:0,value:0  
+2024-07-25T20:20:38.768Z [PASSED] 256/2723,0 opc5CDiffPlaces 11/35 data:7,gas:0,value:0  
+2024-07-25T20:20:39.643Z [PASSED] 256/2723,0 opc5CDiffPlaces 12/35 data:8,gas:0,value:0  
+2024-07-25T20:20:40.519Z [PASSED] 256/2723,0 opc5CDiffPlaces 13/35 data:9,gas:0,value:0  
+2024-07-25T20:20:41.393Z [PASSED] 256/2723,0 opc5CDiffPlaces 14/35 data:10,gas:0,value:0  
+2024-07-25T20:20:42.270Z [PASSED] 256/2723,0 opc5CDiffPlaces 15/35 data:11,gas:0,value:0  
+2024-07-25T20:20:43.149Z [PASSED] 256/2723,0 opc5CDiffPlaces 16/35 data:12,gas:0,value:0  
+2024-07-25T20:20:44.025Z [PASSED] 256/2723,0 opc5CDiffPlaces 17/35 data:13,gas:0,value:0  
+2024-07-25T20:20:44.906Z [PASSED] 256/2723,0 opc5CDiffPlaces 18/35 data:14,gas:0,value:0  
+2024-07-25T20:20:45.784Z [PASSED] 256/2723,0 opc5CDiffPlaces 19/35 data:15,gas:0,value:0  
+2024-07-25T20:20:46.667Z [PASSED] 256/2723,0 opc5CDiffPlaces 20/35 data:16,gas:0,value:0  
+2024-07-25T20:20:47.544Z [PASSED] 256/2723,0 opc5CDiffPlaces 21/35 data:17,gas:0,value:0  
+2024-07-25T20:20:48.419Z [PASSED] 256/2723,0 opc5CDiffPlaces 22/35 data:18,gas:0,value:0  
+2024-07-25T20:20:49.303Z [PASSED] 256/2723,0 opc5CDiffPlaces 23/35 data:19,gas:0,value:0  
+2024-07-25T20:20:50.186Z [PASSED] 256/2723,0 opc5CDiffPlaces 24/35 data:20,gas:0,value:0  
+2024-07-25T20:20:51.066Z [PASSED] 256/2723,0 opc5CDiffPlaces 25/35 data:24,gas:0,value:0  
+2024-07-25T20:20:52.154Z [PASSED] 256/2723,0 opc5CDiffPlaces 26/35 data:25,gas:0,value:0  
+2024-07-25T20:20:53.240Z [PASSED] 256/2723,0 opc5CDiffPlaces 27/35 data:26,gas:0,value:0  
+2024-07-25T20:20:54.333Z [PASSED] 256/2723,0 opc5CDiffPlaces 28/35 data:27,gas:0,value:0  
+2024-07-25T20:20:55.418Z [PASSED] 256/2723,0 opc5CDiffPlaces 29/35 data:28,gas:0,value:0  
+2024-07-25T20:20:56.502Z [PASSED] 256/2723,0 opc5CDiffPlaces 30/35 data:29,gas:0,value:0  
+2024-07-25T20:20:57.595Z [PASSED] 256/2723,0 opc5CDiffPlaces 31/35 data:30,gas:0,value:0  
+2024-07-25T20:20:58.682Z [PASSED] 256/2723,0 opc5CDiffPlaces 32/35 data:31,gas:0,value:0  
+2024-07-25T20:20:59.976Z [PASSED] 256/2723,0 opc5CDiffPlaces 33/35 data:32,gas:0,value:0  
+2024-07-25T20:21:01.062Z [PASSED] 256/2723,0 opc5CDiffPlaces 34/35 data:33,gas:0,value:0  
+2024-07-25T20:21:51.433Z [PASSED] 256/2723,0 opc5CDiffPlaces 35/35 data:34,gas:0,value:0  

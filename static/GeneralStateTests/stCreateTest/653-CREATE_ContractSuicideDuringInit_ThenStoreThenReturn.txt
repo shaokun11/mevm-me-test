@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_ContractSuicideDuringInit_ThenStoreThenReturn.json
-2024-07-16T13:32:19.358Z [SKIP] 653/2723,0 CREATE_ContractSuicideDuringInit_ThenStoreThenReturn 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T02:51:58.955Z [SKIP] 653/2723,0 CREATE_ContractSuicideDuringInit_ThenStoreThenReturn 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

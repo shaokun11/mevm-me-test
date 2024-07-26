@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeInCallsOnNonEmptyReturnData.json
-2024-07-16T14:55:06.300Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 1/8 data:0,gas:0,value:0  
-2024-07-16T14:55:06.960Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 2/8 data:0,gas:1,value:0  
-2024-07-16T14:55:07.619Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 3/8 data:1,gas:0,value:0  
-2024-07-16T14:55:08.277Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 4/8 data:1,gas:1,value:0  
-2024-07-16T14:55:08.936Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 5/8 data:2,gas:0,value:0  
-2024-07-16T14:55:09.599Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 6/8 data:2,gas:1,value:0  
-2024-07-16T14:55:10.257Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 7/8 data:3,gas:0,value:0  
-2024-07-16T14:55:10.917Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 8/8 data:3,gas:1,value:0  
+2024-07-26T05:28:13.104Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 1/8 data:0,gas:0,value:0  
+2024-07-26T05:28:13.760Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 2/8 data:0,gas:1,value:0  
+2024-07-26T05:28:14.629Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 3/8 data:1,gas:0,value:0  
+2024-07-26T05:28:15.292Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 4/8 data:1,gas:1,value:0  
+2024-07-26T05:28:15.956Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 5/8 data:2,gas:0,value:0  
+2024-07-26T05:28:16.618Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 6/8 data:2,gas:1,value:0  
+2024-07-26T05:28:17.485Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 7/8 data:3,gas:0,value:0  
+2024-07-26T05:28:18.145Z [PASSED] 1809/2723,0 RevertOpcodeInCallsOnNonEmptyReturnData 8/8 data:3,gas:1,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBombLog.json
-2024-07-16T15:27:21.640Z [PASSED] 2267/2723,0 CallRecursiveBombLog 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:04.974Z [EXCEPTION] 2267/2723,0 CallRecursiveBombLog 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

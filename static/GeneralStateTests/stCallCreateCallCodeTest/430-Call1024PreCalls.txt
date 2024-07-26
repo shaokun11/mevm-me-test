@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Call1024PreCalls.json
-2024-07-16T13:21:30.267Z [PASSED] 430/2723,0 Call1024PreCalls 1/2 data:0,gas:0,value:0  
-2024-07-16T13:22:56.387Z [PASSED] 430/2723,0 Call1024PreCalls 2/2 data:0,gas:1,value:0  
+2024-07-26T02:31:57.872Z [EXCEPTION] 430/2723,0 Call1024PreCalls 1/2 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x57cf9a390e1850f89334d4178336c63350c4d6aa29bf844e953009d12f97ec21 timed out after 90 seconds"}
+2024-07-26T02:33:29.428Z [EXCEPTION] 430/2723,0 Call1024PreCalls 2/2 data:0,gas:1,value:0  {"error":"Waiting for transaction 0x52f9c4c5ef1cabf808960d8fa4966f66729262677307b1d4139bd291521fa1d9 timed out after 90 seconds"}

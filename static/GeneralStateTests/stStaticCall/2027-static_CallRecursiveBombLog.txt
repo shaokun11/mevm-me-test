@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBombLog.json
-2024-07-16T10:37:18.477Z [SKIP] 2027/2723,0 static_CallRecursiveBombLog 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:53:04.252Z [FAILED] 2027/2723,0 static_CallRecursiveBombLog 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"551314","state_root":"0x72fb91051c8c4de9cc0aaf84e0e54c250efba0cac9b46d663168bfdb2eedf277","expected":"0xd227a4a57718000c645bbd75f13e3cab5e17a1e5884efab092199a6ecbf3b3c2","hash":"0xdae9473b76617a60436f0679964cc1649ddc71faf29e898743a50f0af06acd78"}

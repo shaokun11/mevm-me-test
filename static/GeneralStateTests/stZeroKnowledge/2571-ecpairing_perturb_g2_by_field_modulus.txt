@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_perturb_g2_by_field_modulus.json
-2024-07-16T15:39:53.343Z [PASSED] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 1/4 data:0,gas:0,value:0  
-2024-07-16T15:39:54.004Z [PASSED] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 2/4 data:0,gas:1,value:0  
-2024-07-16T15:39:54.665Z [PASSED] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 3/4 data:0,gas:2,value:0  
-2024-07-16T15:39:55.327Z [PASSED] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 4/4 data:0,gas:3,value:0  
+2024-07-26T07:01:16.594Z [EXCEPTION] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.595Z [EXCEPTION] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 2/4 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.604Z [EXCEPTION] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 3/4 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.606Z [EXCEPTION] 2571/2723,0 ecpairing_perturb_g2_by_field_modulus 4/4 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletConstructionOOG.json
-2024-07-16T15:32:02.931Z [PASSED] 2407/2723,0 walletConstructionOOG 1/2 data:0,gas:0,value:0  
-2024-07-16T15:32:03.813Z [PASSED] 2407/2723,0 walletConstructionOOG 2/2 data:0,gas:1,value:0  
+2024-07-26T07:01:15.339Z [EXCEPTION] 2407/2723,0 walletConstructionOOG 1/2 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.341Z [EXCEPTION] 2407/2723,0 walletConstructionOOG 2/2 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

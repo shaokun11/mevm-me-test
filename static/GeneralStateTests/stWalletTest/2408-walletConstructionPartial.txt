@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletConstructionPartial.json
-2024-07-16T15:32:04.697Z [PASSED] 2408/2723,0 walletConstructionPartial 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.341Z [EXCEPTION] 2408/2723,0 walletConstructionPartial 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

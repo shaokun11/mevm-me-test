@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/StaticcallToPrecompileFromTransaction.json
-2024-07-16T10:37:18.434Z [SKIP] 1958/2723,0 StaticcallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:14:26.926Z [PASSED] 1958/2723,0 StaticcallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  

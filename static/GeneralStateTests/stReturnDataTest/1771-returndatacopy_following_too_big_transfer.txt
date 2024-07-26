@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_too_big_transfer.json
-2024-07-16T14:50:38.842Z [PASSED] 1771/2723,0 returndatacopy_following_too_big_transfer 1/1 data:0,gas:0,value:0  
+2024-07-26T05:22:57.090Z [PASSED] 1771/2723,0 returndatacopy_following_too_big_transfer 1/1 data:0,gas:0,value:0  

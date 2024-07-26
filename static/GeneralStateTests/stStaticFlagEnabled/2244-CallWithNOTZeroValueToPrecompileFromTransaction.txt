@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromTransaction.json
-2024-07-16T15:24:05.055Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  
-2024-07-16T15:24:05.715Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  
-2024-07-16T15:24:06.376Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  
-2024-07-16T15:24:07.039Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  
-2024-07-16T15:24:07.699Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  
-2024-07-16T15:24:08.362Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  
-2024-07-16T15:24:09.023Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  
-2024-07-16T15:24:09.683Z [PASSED] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  
+2024-07-26T07:01:04.936Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.937Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.938Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.939Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.940Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.941Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.942Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.943Z [EXCEPTION] 2244/2723,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

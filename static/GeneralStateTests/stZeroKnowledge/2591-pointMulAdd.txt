@@ -1,37 +1,37 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge/pointMulAdd.json
-2024-07-16T15:42:03.084Z [PASSED] 2591/2723,0 pointMulAdd 1/36 data:0,gas:0,value:0  
-2024-07-16T15:42:03.738Z [PASSED] 2591/2723,0 pointMulAdd 2/36 data:1,gas:0,value:0  
-2024-07-16T15:42:04.399Z [PASSED] 2591/2723,0 pointMulAdd 3/36 data:2,gas:0,value:0  
-2024-07-16T15:42:05.265Z [PASSED] 2591/2723,0 pointMulAdd 4/36 data:3,gas:0,value:0  
-2024-07-16T15:42:05.920Z [PASSED] 2591/2723,0 pointMulAdd 5/36 data:4,gas:0,value:0  
-2024-07-16T15:42:06.576Z [PASSED] 2591/2723,0 pointMulAdd 6/36 data:5,gas:0,value:0  
-2024-07-16T15:42:07.236Z [PASSED] 2591/2723,0 pointMulAdd 7/36 data:6,gas:0,value:0  
-2024-07-16T15:42:07.892Z [PASSED] 2591/2723,0 pointMulAdd 8/36 data:7,gas:0,value:0  
-2024-07-16T15:42:08.754Z [PASSED] 2591/2723,0 pointMulAdd 9/36 data:7,gas:3,value:0  
-2024-07-16T15:42:09.410Z [PASSED] 2591/2723,0 pointMulAdd 10/36 data:8,gas:0,value:0  
-2024-07-16T15:42:12.352Z [PASSED] 2591/2723,0 pointMulAdd 11/36 data:0,gas:1,value:0  
-2024-07-16T15:42:13.009Z [PASSED] 2591/2723,0 pointMulAdd 12/36 data:0,gas:2,value:0  
-2024-07-16T15:42:13.667Z [PASSED] 2591/2723,0 pointMulAdd 13/36 data:1,gas:1,value:0  
-2024-07-16T15:42:14.325Z [PASSED] 2591/2723,0 pointMulAdd 14/36 data:1,gas:2,value:0  
-2024-07-16T15:42:14.982Z [PASSED] 2591/2723,0 pointMulAdd 15/36 data:2,gas:1,value:0  
-2024-07-16T15:42:15.638Z [PASSED] 2591/2723,0 pointMulAdd 16/36 data:2,gas:2,value:0  
-2024-07-16T15:42:16.293Z [PASSED] 2591/2723,0 pointMulAdd 17/36 data:3,gas:1,value:0  
-2024-07-16T15:42:16.953Z [PASSED] 2591/2723,0 pointMulAdd 18/36 data:3,gas:2,value:0  
-2024-07-16T15:42:17.608Z [PASSED] 2591/2723,0 pointMulAdd 19/36 data:4,gas:1,value:0  
-2024-07-16T15:42:18.263Z [PASSED] 2591/2723,0 pointMulAdd 20/36 data:4,gas:2,value:0  
-2024-07-16T15:42:18.919Z [PASSED] 2591/2723,0 pointMulAdd 21/36 data:5,gas:1,value:0  
-2024-07-16T15:42:19.577Z [PASSED] 2591/2723,0 pointMulAdd 22/36 data:5,gas:2,value:0  
-2024-07-16T15:42:20.233Z [PASSED] 2591/2723,0 pointMulAdd 23/36 data:6,gas:1,value:0  
-2024-07-16T15:42:20.893Z [PASSED] 2591/2723,0 pointMulAdd 24/36 data:6,gas:2,value:0  
-2024-07-16T15:42:21.554Z [PASSED] 2591/2723,0 pointMulAdd 25/36 data:7,gas:1,value:0  
-2024-07-16T15:42:22.217Z [PASSED] 2591/2723,0 pointMulAdd 26/36 data:7,gas:2,value:0  
-2024-07-16T15:42:22.874Z [PASSED] 2591/2723,0 pointMulAdd 27/36 data:8,gas:1,value:0  
-2024-07-16T15:42:23.531Z [PASSED] 2591/2723,0 pointMulAdd 28/36 data:8,gas:2,value:0  
-2024-07-16T15:42:24.188Z [PASSED] 2591/2723,0 pointMulAdd 29/36 data:0,gas:3,value:0  
-2024-07-16T15:42:24.849Z [PASSED] 2591/2723,0 pointMulAdd 30/36 data:1,gas:3,value:0  
-2024-07-16T15:42:25.505Z [PASSED] 2591/2723,0 pointMulAdd 31/36 data:3,gas:3,value:0  
-2024-07-16T15:42:26.160Z [PASSED] 2591/2723,0 pointMulAdd 32/36 data:4,gas:3,value:0  
-2024-07-16T15:42:26.816Z [PASSED] 2591/2723,0 pointMulAdd 33/36 data:5,gas:3,value:0  
-2024-07-16T15:42:27.480Z [PASSED] 2591/2723,0 pointMulAdd 34/36 data:6,gas:3,value:0  
-2024-07-16T15:42:28.138Z [PASSED] 2591/2723,0 pointMulAdd 35/36 data:2,gas:3,value:0  
-2024-07-16T15:42:28.793Z [PASSED] 2591/2723,0 pointMulAdd 36/36 data:8,gas:3,value:0  
+2024-07-26T07:01:16.921Z [EXCEPTION] 2591/2723,0 pointMulAdd 1/36 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.923Z [EXCEPTION] 2591/2723,0 pointMulAdd 2/36 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.924Z [EXCEPTION] 2591/2723,0 pointMulAdd 3/36 data:2,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.926Z [EXCEPTION] 2591/2723,0 pointMulAdd 4/36 data:3,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.927Z [EXCEPTION] 2591/2723,0 pointMulAdd 5/36 data:4,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.928Z [EXCEPTION] 2591/2723,0 pointMulAdd 6/36 data:5,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.930Z [EXCEPTION] 2591/2723,0 pointMulAdd 7/36 data:6,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.931Z [EXCEPTION] 2591/2723,0 pointMulAdd 8/36 data:7,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.932Z [EXCEPTION] 2591/2723,0 pointMulAdd 9/36 data:7,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.934Z [EXCEPTION] 2591/2723,0 pointMulAdd 10/36 data:8,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.935Z [EXCEPTION] 2591/2723,0 pointMulAdd 11/36 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.937Z [EXCEPTION] 2591/2723,0 pointMulAdd 12/36 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.938Z [EXCEPTION] 2591/2723,0 pointMulAdd 13/36 data:1,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.939Z [EXCEPTION] 2591/2723,0 pointMulAdd 14/36 data:1,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.941Z [EXCEPTION] 2591/2723,0 pointMulAdd 15/36 data:2,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.942Z [EXCEPTION] 2591/2723,0 pointMulAdd 16/36 data:2,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.944Z [EXCEPTION] 2591/2723,0 pointMulAdd 17/36 data:3,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.945Z [EXCEPTION] 2591/2723,0 pointMulAdd 18/36 data:3,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.946Z [EXCEPTION] 2591/2723,0 pointMulAdd 19/36 data:4,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.948Z [EXCEPTION] 2591/2723,0 pointMulAdd 20/36 data:4,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.949Z [EXCEPTION] 2591/2723,0 pointMulAdd 21/36 data:5,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.950Z [EXCEPTION] 2591/2723,0 pointMulAdd 22/36 data:5,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.952Z [EXCEPTION] 2591/2723,0 pointMulAdd 23/36 data:6,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.953Z [EXCEPTION] 2591/2723,0 pointMulAdd 24/36 data:6,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.959Z [EXCEPTION] 2591/2723,0 pointMulAdd 25/36 data:7,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.962Z [EXCEPTION] 2591/2723,0 pointMulAdd 26/36 data:7,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.963Z [EXCEPTION] 2591/2723,0 pointMulAdd 27/36 data:8,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.965Z [EXCEPTION] 2591/2723,0 pointMulAdd 28/36 data:8,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.966Z [EXCEPTION] 2591/2723,0 pointMulAdd 29/36 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.968Z [EXCEPTION] 2591/2723,0 pointMulAdd 30/36 data:1,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.969Z [EXCEPTION] 2591/2723,0 pointMulAdd 31/36 data:3,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.971Z [EXCEPTION] 2591/2723,0 pointMulAdd 32/36 data:4,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.972Z [EXCEPTION] 2591/2723,0 pointMulAdd 33/36 data:5,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.974Z [EXCEPTION] 2591/2723,0 pointMulAdd 34/36 data:6,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.976Z [EXCEPTION] 2591/2723,0 pointMulAdd 35/36 data:2,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.977Z [EXCEPTION] 2591/2723,0 pointMulAdd 36/36 data:8,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

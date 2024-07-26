@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCodes/call_OOG_additionalGasCosts1.json
-2024-07-16T13:16:35.689Z [PASSED] 349/2723,0 call_OOG_additionalGasCosts1 1/1 data:0,gas:0,value:0  
+2024-07-26T02:25:55.603Z [PASSED] 349/2723,0 call_OOG_additionalGasCosts1 1/1 data:0,gas:0,value:0  

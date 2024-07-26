@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/CallcodeLoseGasOOG.json
-2024-07-16T13:25:03.276Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 1/3 data:0,gas:0,value:0  
-2024-07-16T13:25:07.461Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 2/3 data:0,gas:1,value:0  
-2024-07-16T13:25:11.855Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 3/3 data:0,gas:2,value:0  
+2024-07-26T02:36:13.139Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 1/3 data:0,gas:0,value:0  
+2024-07-26T02:36:18.569Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 2/3 data:0,gas:1,value:0  
+2024-07-26T02:36:23.997Z [PASSED] 435/2723,0 CallcodeLoseGasOOG 3/3 data:0,gas:2,value:0  

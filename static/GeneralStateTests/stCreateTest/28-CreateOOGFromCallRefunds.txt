@@ -1,0 +1,25 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGFromCallRefunds.json
+2024-07-25T17:01:04.157Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 1/24 data:0,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-25T17:01:05.240Z [FAILED] 28/47,0 CreateOOGFromCallRefunds 2/24 data:3,gas:0,value:0 SStore_Refund_OoG {"gas_refund":"4800","gas_usage":"81102","state_root":"0x27a9c57a4dcdcd92e3ce9e08f3bfa5f47fac464c5f2fccbcfdc59f6e248da596","expected":"0xe7c29f91f908627522ec30bd9fb8c7b702afeabd25b679b47181c84fda59396c","hash":"0xb24b194979dc077df62dee9f835831eda52b18242fb34d48147d9180fb611268"}
+2024-07-25T17:01:06.323Z [FAILED] 28/47,0 CreateOOGFromCallRefunds 3/24 data:6,gas:0,value:0 SStore_Refund_OoG {"gas_refund":"19900","gas_usage":"83205","state_root":"0x5af1ab620b3fda4d66b4616884b0c778bec41991cc80782c8d392977149e240f","expected":"0xf92a4c612d5db1874025d6d5eee0b9d12f5990781ab0088c895137867ebe38d9","hash":"0x26d31221220a0c99e3f2da99d292c1f05697a541a08867fda3aa791214673709"}
+2024-07-25T17:01:07.405Z [FAILED] 28/47,0 CreateOOGFromCallRefunds 4/24 data:9,gas:0,value:0 SStore_Refund_NoOoG {"gas_refund":"19900","gas_usage":"83208","state_root":"0x7441a595cde32fae450c815942993a8bfabafe80de2053dacceec7d691e252f0","expected":"0x37bb4d14ca3836fcf0a9d6b860b4a4b7d691790783e4609e2f01be5ce0f6a09d","hash":"0x2581e4815e9a76e749d217b1e6b4ee73a07a5e97b628e62b96fb87aef48edb50"}
+2024-07-25T17:01:08.487Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 5/24 data:1,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:09.569Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 6/24 data:2,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:10.653Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 7/24 data:4,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-25T17:01:11.734Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 8/24 data:5,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:12.820Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 9/24 data:7,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:13.904Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 10/24 data:8,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-25T17:01:14.990Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 11/24 data:10,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:16.072Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 12/24 data:11,gas:0,value:0 SStore_Refund_OoG 
+2024-07-25T17:01:17.153Z [SKIP] 28/47,0 CreateOOGFromCallRefunds 13/24 data:12,gas:0,value:0 SelfDestruct_Refund_NoOoG Not implementation SELFDESTRUCT opcode
+2024-07-25T17:01:18.235Z [SKIP] 28/47,0 CreateOOGFromCallRefunds 14/24 data:13,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
+2024-07-25T17:01:19.318Z [SKIP] 28/47,0 CreateOOGFromCallRefunds 15/24 data:14,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
+2024-07-25T17:01:20.400Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 16/24 data:15,gas:0,value:0 LogOp_NoOoG 
+2024-07-25T17:01:21.277Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 17/24 data:16,gas:0,value:0 LogOp_OoG 
+2024-07-25T17:01:22.363Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 18/24 data:17,gas:0,value:0 LogOp_OoG 
+2024-07-25T17:01:25.534Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 19/24 data:18,gas:0,value:0 SStore_Create_Refund_NoOoG 
+2024-07-25T17:01:26.616Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 20/24 data:19,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-07-25T17:01:27.697Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 21/24 data:20,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-07-25T17:01:28.783Z [FAILED] 28/47,0 CreateOOGFromCallRefunds 22/24 data:21,gas:0,value:0 SStore_Create2_Refund_NoOoG {"gas_refund":"19900","gas_usage":"115054","state_root":"0xb074052c984bdbdf4a7f1ce62bdb69e904cb955b9deaa128c37e9878c3f2fdcc","expected":"0x2c14307f36a307174c389cd0dc7c263311ee4fba39e93863e8388d92f19586b9","hash":"0x4609ec546cd593680d7eae3833941778b7400cfdde22b590825d23ff49797e7b"}
+2024-07-25T17:01:29.875Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 23/24 data:22,gas:0,value:0 SStore_Create2_Refund_OoG 
+2024-07-25T17:01:30.957Z [PASSED] 28/47,0 CreateOOGFromCallRefunds 24/24 data:23,gas:0,value:0 SStore_Create2_Refund_OoG 

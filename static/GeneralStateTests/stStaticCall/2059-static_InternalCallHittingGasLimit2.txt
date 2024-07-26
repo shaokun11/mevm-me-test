@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_InternalCallHittingGasLimit2.json
-2024-07-16T10:37:18.491Z [SKIP] 2059/2723,0 static_InternalCallHittingGasLimit2 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:55:46.414Z [PASSED] 2059/2723,0 static_InternalCallHittingGasLimit2 1/1 data:0,gas:0,value:0  

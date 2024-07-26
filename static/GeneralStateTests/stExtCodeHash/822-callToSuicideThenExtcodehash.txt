@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/callToSuicideThenExtcodehash.json
-2024-07-16T14:17:41.834Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 1/4 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T14:17:42.489Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 2/4 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T14:17:43.145Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 3/4 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T14:17:43.802Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 4/4 data:3,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T03:44:18.617Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 1/4 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T03:44:19.272Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 2/4 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T03:44:19.928Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 3/4 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T03:44:20.586Z [SKIP] 822/2723,0 callToSuicideThenExtcodehash 4/4 data:3,gas:0,value:0  Not implementation SELFDESTRUCT opcode

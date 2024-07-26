@@ -1,8 +1,8 @@
 ethereum-tests/GeneralStateTests/stRevertTest/stateRevert.json
-2024-07-16T14:58:13.612Z [PASSED] 1835/2723,0 stateRevert 1/7 data:0,gas:0,value:0 revert 
-2024-07-16T14:58:14.269Z [PASSED] 1835/2723,0 stateRevert 2/7 data:1,gas:0,value:0 outOfGas 
-2024-07-16T14:58:14.928Z [PASSED] 1835/2723,0 stateRevert 3/7 data:2,gas:0,value:0 xtremeOOG 
-2024-07-16T14:58:15.586Z [PASSED] 1835/2723,0 stateRevert 4/7 data:3,gas:0,value:0 badOpcode 
-2024-07-16T14:58:16.246Z [PASSED] 1835/2723,0 stateRevert 5/7 data:4,gas:0,value:0 jumpBadly 
-2024-07-16T14:58:16.903Z [PASSED] 1835/2723,0 stateRevert 6/7 data:5,gas:0,value:0 stackUnder 
-2024-07-16T14:58:27.106Z [PASSED] 1835/2723,0 stateRevert 7/7 data:6,gas:0,value:0 stackOver 
+2024-07-26T05:31:31.213Z [PASSED] 1835/2723,0 stateRevert 1/7 data:0,gas:0,value:0 revert 
+2024-07-26T05:31:31.882Z [PASSED] 1835/2723,0 stateRevert 2/7 data:1,gas:0,value:0 outOfGas 
+2024-07-26T05:31:32.544Z [PASSED] 1835/2723,0 stateRevert 3/7 data:2,gas:0,value:0 xtremeOOG 
+2024-07-26T05:31:33.207Z [PASSED] 1835/2723,0 stateRevert 4/7 data:3,gas:0,value:0 badOpcode 
+2024-07-26T05:31:33.873Z [PASSED] 1835/2723,0 stateRevert 5/7 data:4,gas:0,value:0 jumpBadly 
+2024-07-26T05:31:34.535Z [PASSED] 1835/2723,0 stateRevert 6/7 data:5,gas:0,value:0 stackUnder 
+2024-07-26T05:31:44.743Z [PASSED] 1835/2723,0 stateRevert 7/7 data:6,gas:0,value:0 stackOver 

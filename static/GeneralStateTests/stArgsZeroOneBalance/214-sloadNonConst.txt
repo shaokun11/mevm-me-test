@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/sloadNonConst.json
-2024-07-16T10:56:42.672Z [PASSED] 214/2723,0 sloadNonConst 1/2 data:0,gas:0,value:0  
-2024-07-16T10:56:43.325Z [PASSED] 214/2723,0 sloadNonConst 2/2 data:0,gas:0,value:1  
+2024-07-25T19:31:52.087Z [PASSED] 214/2723,0 sloadNonConst 1/2 data:0,gas:0,value:0  
+2024-07-25T19:31:52.739Z [PASSED] 214/2723,0 sloadNonConst 2/2 data:0,gas:0,value:1  

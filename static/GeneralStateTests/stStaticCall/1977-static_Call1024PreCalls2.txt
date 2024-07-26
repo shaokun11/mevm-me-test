@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024PreCalls2.json
-2024-07-16T10:37:18.442Z [SKIP] 1977/2723,0 static_Call1024PreCalls2 1/2 data:0,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.442Z [SKIP] 1977/2723,0 static_Call1024PreCalls2 2/2 data:1,gas:0,value:0  execute timeout
+2024-07-26T06:20:21.267Z [EXCEPTION] 1977/2723,0 static_Call1024PreCalls2 1/2 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xc5f6b7aa7821596175af89a9b085f00684a616c8a0a9cbf21f25abaac3f3851a timed out after 90 seconds"}
+2024-07-26T06:21:53.216Z [EXCEPTION] 1977/2723,0 static_Call1024PreCalls2 2/2 data:1,gas:0,value:0  {"error":"Waiting for transaction 0x9de4eb88e4d3fe96698a440bfcb8c0fb5fc49594022ffd0039721997e9471beb timed out after 90 seconds"}

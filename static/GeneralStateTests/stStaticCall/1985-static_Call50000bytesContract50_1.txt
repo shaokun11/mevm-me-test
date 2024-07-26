@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000bytesContract50_1.json
-2024-07-16T10:37:18.449Z [SKIP] 1985/2723,0 static_Call50000bytesContract50_1 1/2 data:0,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.449Z [SKIP] 1985/2723,0 static_Call50000bytesContract50_1 2/2 data:1,gas:0,value:0  execute timeout
+2024-07-26T06:39:33.699Z [EXCEPTION] 1985/2723,0 static_Call50000bytesContract50_1 1/2 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x71c01eb5ced61eb453aa944ad8dd6b53e4a8f569e28e585e8ef68e992383a01f timed out after 90 seconds"}
+2024-07-26T06:41:31.221Z [EXCEPTION] 1985/2723,0 static_Call50000bytesContract50_1 2/2 data:1,gas:0,value:0  {"error":"Waiting for transaction 0x5ebda1a3b64df90e98552cc8801cfbf4785274bdc3a7df2650b9aff9d8e4fba0 timed out after 90 seconds"}

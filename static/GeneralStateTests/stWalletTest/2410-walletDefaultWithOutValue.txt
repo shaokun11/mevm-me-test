@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletDefaultWithOutValue.json
-2024-07-16T15:32:06.047Z [PASSED] 2410/2723,0 walletDefaultWithOutValue 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.344Z [EXCEPTION] 2410/2723,0 walletDefaultWithOutValue 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_three_point_fail_1.json
-2024-07-16T15:40:11.766Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 1/4 data:0,gas:0,value:0  
-2024-07-16T15:40:12.636Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 2/4 data:0,gas:1,value:0  
-2024-07-16T15:40:13.505Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 3/4 data:0,gas:2,value:0  
-2024-07-16T15:40:14.376Z [PASSED] 2577/2723,0 ecpairing_three_point_fail_1 4/4 data:0,gas:3,value:0  
+2024-07-26T07:01:16.642Z [EXCEPTION] 2577/2723,0 ecpairing_three_point_fail_1 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.648Z [EXCEPTION] 2577/2723,0 ecpairing_three_point_fail_1 2/4 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.650Z [EXCEPTION] 2577/2723,0 ecpairing_three_point_fail_1 3/4 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.651Z [EXCEPTION] 2577/2723,0 ecpairing_three_point_fail_1 4/4 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

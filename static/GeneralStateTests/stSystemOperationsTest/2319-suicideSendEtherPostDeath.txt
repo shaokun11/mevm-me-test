@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideSendEtherPostDeath.json
-2024-07-16T15:28:23.812Z [SKIP] 2319/2723,0 suicideSendEtherPostDeath 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T07:01:05.057Z [EXCEPTION] 2319/2723,0 suicideSendEtherPostDeath 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,133 +1,133 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/Opcodes_TransactionInit.json
-2024-07-16T15:29:34.885Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 1/132 data:33,gas:0,value:0  
-2024-07-16T15:29:35.540Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 2/132 data:37,gas:0,value:0  
-2024-07-16T15:29:36.195Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 3/132 data:38,gas:0,value:0  
-2024-07-16T15:29:36.850Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 4/132 data:120,gas:0,value:0  
-2024-07-16T15:29:37.503Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 5/132 data:124,gas:0,value:0  
-2024-07-16T15:29:38.156Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 6/132 data:125,gas:0,value:0  
-2024-07-16T15:29:38.809Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 7/132 data:126,gas:0,value:0  
-2024-07-16T15:29:39.465Z [SKIP] 2353/2723,0 Opcodes_TransactionInit 8/132 data:127,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:29:40.119Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 9/132 data:0,gas:0,value:0  
-2024-07-16T15:29:40.772Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 10/132 data:1,gas:0,value:0  
-2024-07-16T15:29:41.427Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 11/132 data:2,gas:0,value:0  
-2024-07-16T15:29:42.082Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 12/132 data:3,gas:0,value:0  
-2024-07-16T15:29:42.737Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 13/132 data:4,gas:0,value:0  
-2024-07-16T15:29:43.392Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 14/132 data:5,gas:0,value:0  
-2024-07-16T15:29:44.046Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 15/132 data:6,gas:0,value:0  
-2024-07-16T15:29:44.703Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 16/132 data:7,gas:0,value:0  
-2024-07-16T15:29:45.357Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 17/132 data:8,gas:0,value:0  
-2024-07-16T15:29:46.012Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 18/132 data:9,gas:0,value:0  
-2024-07-16T15:29:46.666Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 19/132 data:10,gas:0,value:0  
-2024-07-16T15:29:47.320Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 20/132 data:11,gas:0,value:0  
-2024-07-16T15:29:47.987Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 21/132 data:12,gas:0,value:0  
-2024-07-16T15:29:48.645Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 22/132 data:13,gas:0,value:0  
-2024-07-16T15:29:51.373Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 23/132 data:14,gas:0,value:0  
-2024-07-16T15:29:52.028Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 24/132 data:15,gas:0,value:0  
-2024-07-16T15:29:52.682Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 25/132 data:16,gas:0,value:0  
-2024-07-16T15:29:53.337Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 26/132 data:17,gas:0,value:0  
-2024-07-16T15:29:53.991Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 27/132 data:18,gas:0,value:0  
-2024-07-16T15:29:54.647Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 28/132 data:19,gas:0,value:0  
-2024-07-16T15:29:55.300Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 29/132 data:20,gas:0,value:0  
-2024-07-16T15:29:55.954Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 30/132 data:21,gas:0,value:0  
-2024-07-16T15:29:56.608Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 31/132 data:22,gas:0,value:0  
-2024-07-16T15:29:57.266Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 32/132 data:23,gas:0,value:0  
-2024-07-16T15:29:57.922Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 33/132 data:24,gas:0,value:0  
-2024-07-16T15:29:58.575Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 34/132 data:25,gas:0,value:0  
-2024-07-16T15:29:59.230Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 35/132 data:26,gas:0,value:0  
-2024-07-16T15:29:59.886Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 36/132 data:27,gas:0,value:0  
-2024-07-16T15:30:00.540Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 37/132 data:28,gas:0,value:0  
-2024-07-16T15:30:01.193Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 38/132 data:29,gas:0,value:0  
-2024-07-16T15:30:01.850Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 39/132 data:30,gas:0,value:0  
-2024-07-16T15:30:02.511Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 40/132 data:31,gas:0,value:0  
-2024-07-16T15:30:03.166Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 41/132 data:32,gas:0,value:0  
-2024-07-16T15:30:03.819Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 42/132 data:34,gas:0,value:0  
-2024-07-16T15:30:04.473Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 43/132 data:35,gas:0,value:0  
-2024-07-16T15:30:05.126Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 44/132 data:36,gas:0,value:0  
-2024-07-16T15:30:05.780Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 45/132 data:39,gas:0,value:0  
-2024-07-16T15:30:06.436Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 46/132 data:40,gas:0,value:0  
-2024-07-16T15:30:07.091Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 47/132 data:41,gas:0,value:0  
-2024-07-16T15:30:07.744Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 48/132 data:42,gas:0,value:0  
-2024-07-16T15:30:08.399Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 49/132 data:43,gas:0,value:0  
-2024-07-16T15:30:09.052Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 50/132 data:44,gas:0,value:0  
-2024-07-16T15:30:09.709Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 51/132 data:45,gas:0,value:0  
-2024-07-16T15:30:10.367Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 52/132 data:46,gas:0,value:0  
-2024-07-16T15:30:11.022Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 53/132 data:47,gas:0,value:0  
-2024-07-16T15:30:11.678Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 54/132 data:48,gas:0,value:0  
-2024-07-16T15:30:12.334Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 55/132 data:49,gas:0,value:0  
-2024-07-16T15:30:12.990Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 56/132 data:50,gas:0,value:0  
-2024-07-16T15:30:13.645Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 57/132 data:51,gas:0,value:0  
-2024-07-16T15:30:14.300Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 58/132 data:52,gas:0,value:0  
-2024-07-16T15:30:14.955Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 59/132 data:53,gas:0,value:0  
-2024-07-16T15:30:15.608Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 60/132 data:54,gas:0,value:0  
-2024-07-16T15:30:16.268Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 61/132 data:55,gas:0,value:0  
-2024-07-16T15:30:16.930Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 62/132 data:56,gas:0,value:0  
-2024-07-16T15:30:17.586Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 63/132 data:57,gas:0,value:0  
-2024-07-16T15:30:18.241Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 64/132 data:58,gas:0,value:0  
-2024-07-16T15:30:18.894Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 65/132 data:59,gas:0,value:0  
-2024-07-16T15:30:19.550Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 66/132 data:60,gas:0,value:0  
-2024-07-16T15:30:20.203Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 67/132 data:61,gas:0,value:0  
-2024-07-16T15:30:20.857Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 68/132 data:62,gas:0,value:0  
-2024-07-16T15:30:21.511Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 69/132 data:63,gas:0,value:0  
-2024-07-16T15:30:22.167Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 70/132 data:64,gas:0,value:0  
-2024-07-16T15:30:22.821Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 71/132 data:65,gas:0,value:0  
-2024-07-16T15:30:23.476Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 72/132 data:66,gas:0,value:0  
-2024-07-16T15:30:24.129Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 73/132 data:67,gas:0,value:0  
-2024-07-16T15:30:24.785Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 74/132 data:68,gas:0,value:0  
-2024-07-16T15:30:25.439Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 75/132 data:69,gas:0,value:0  
-2024-07-16T15:30:26.094Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 76/132 data:70,gas:0,value:0  
-2024-07-16T15:30:26.747Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 77/132 data:71,gas:0,value:0  
-2024-07-16T15:30:27.401Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 78/132 data:72,gas:0,value:0  
-2024-07-16T15:30:28.054Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 79/132 data:73,gas:0,value:0  
-2024-07-16T15:30:28.709Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 80/132 data:74,gas:0,value:0  
-2024-07-16T15:30:29.362Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 81/132 data:75,gas:0,value:0  
-2024-07-16T15:30:30.016Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 82/132 data:76,gas:0,value:0  
-2024-07-16T15:30:30.669Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 83/132 data:77,gas:0,value:0  
-2024-07-16T15:30:31.330Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 84/132 data:78,gas:0,value:0  
-2024-07-16T15:30:31.985Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 85/132 data:79,gas:0,value:0  
-2024-07-16T15:30:32.639Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 86/132 data:80,gas:0,value:0  
-2024-07-16T15:30:33.292Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 87/132 data:81,gas:0,value:0  
-2024-07-16T15:30:33.946Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 88/132 data:82,gas:0,value:0  
-2024-07-16T15:30:34.600Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 89/132 data:83,gas:0,value:0  
-2024-07-16T15:30:35.257Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 90/132 data:84,gas:0,value:0  
-2024-07-16T15:30:35.920Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 91/132 data:85,gas:0,value:0  
-2024-07-16T15:30:36.573Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 92/132 data:86,gas:0,value:0  
-2024-07-16T15:30:37.227Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 93/132 data:87,gas:0,value:0  
-2024-07-16T15:30:37.882Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 94/132 data:88,gas:0,value:0  
-2024-07-16T15:30:38.535Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 95/132 data:89,gas:0,value:0  
-2024-07-16T15:30:39.189Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 96/132 data:90,gas:0,value:0  
-2024-07-16T15:30:39.841Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 97/132 data:91,gas:0,value:0  
-2024-07-16T15:30:40.494Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 98/132 data:92,gas:0,value:0  
-2024-07-16T15:30:41.146Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 99/132 data:93,gas:0,value:0  
-2024-07-16T15:30:41.799Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 100/132 data:94,gas:0,value:0  
-2024-07-16T15:30:42.455Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 101/132 data:95,gas:0,value:0  
-2024-07-16T15:30:43.109Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 102/132 data:96,gas:0,value:0  
-2024-07-16T15:30:43.763Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 103/132 data:97,gas:0,value:0  
-2024-07-16T15:30:44.416Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 104/132 data:98,gas:0,value:0  
-2024-07-16T15:30:45.070Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 105/132 data:99,gas:0,value:0  
-2024-07-16T15:30:45.730Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 106/132 data:100,gas:0,value:0  
-2024-07-16T15:30:46.387Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 107/132 data:101,gas:0,value:0  
-2024-07-16T15:30:47.041Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 108/132 data:102,gas:0,value:0  
-2024-07-16T15:30:47.694Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 109/132 data:103,gas:0,value:0  
-2024-07-16T15:30:48.348Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 110/132 data:104,gas:0,value:0  
-2024-07-16T15:30:49.002Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 111/132 data:105,gas:0,value:0  
-2024-07-16T15:30:49.658Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 112/132 data:106,gas:0,value:0  
-2024-07-16T15:30:50.317Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 113/132 data:107,gas:0,value:0  
-2024-07-16T15:30:53.255Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 114/132 data:108,gas:0,value:0  
-2024-07-16T15:30:53.909Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 115/132 data:109,gas:0,value:0  
-2024-07-16T15:30:54.563Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 116/132 data:110,gas:0,value:0  
-2024-07-16T15:30:55.216Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 117/132 data:111,gas:0,value:0  
-2024-07-16T15:30:55.870Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 118/132 data:112,gas:0,value:0  
-2024-07-16T15:30:56.523Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 119/132 data:113,gas:0,value:0  
-2024-07-16T15:30:57.180Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 120/132 data:114,gas:0,value:0  
-2024-07-16T15:30:57.834Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 121/132 data:115,gas:0,value:0  
-2024-07-16T15:30:58.488Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 122/132 data:116,gas:0,value:0  
-2024-07-16T15:30:59.141Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 123/132 data:117,gas:0,value:0  
-2024-07-16T15:30:59.797Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 124/132 data:118,gas:0,value:0  
-2024-07-16T15:31:00.451Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 125/132 data:119,gas:0,value:0  
-2024-07-16T15:31:01.108Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 126/132 data:121,gas:0,value:0  
-2024-07-16T15:31:01.763Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 127/132 data:122,gas:0,value:0  
-2024-07-16T15:31:02.416Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 128/132 data:123,gas:0,value:0  
-2024-07-16T15:31:03.071Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 129/132 data:128,gas:0,value:0 invalid_first_byte_ef 
-2024-07-16T15:31:03.727Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 130/132 data:129,gas:0,value:0 side_effects 
-2024-07-16T15:31:04.380Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 131/132 data:130,gas:0,value:0 side_effects_invalid_opcode 
-2024-07-16T15:31:05.034Z [PASSED] 2353/2723,0 Opcodes_TransactionInit 132/132 data:131,gas:0,value:0 side_effects_return_ef 
+2024-07-26T07:01:14.987Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 1/132 data:33,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.989Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 2/132 data:37,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.990Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 3/132 data:38,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.991Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 4/132 data:120,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.993Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 5/132 data:124,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.994Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 6/132 data:125,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.995Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 7/132 data:126,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:14.996Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 8/132 data:127,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.000Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 9/132 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.002Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 10/132 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.003Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 11/132 data:2,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.005Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 12/132 data:3,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.006Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 13/132 data:4,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.010Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 14/132 data:5,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.011Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 15/132 data:6,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.013Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 16/132 data:7,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.015Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 17/132 data:8,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.017Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 18/132 data:9,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.018Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 19/132 data:10,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.019Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 20/132 data:11,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.020Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 21/132 data:12,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.021Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 22/132 data:13,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.029Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 23/132 data:14,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.032Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 24/132 data:15,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.033Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 25/132 data:16,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.034Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 26/132 data:17,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.035Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 27/132 data:18,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.036Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 28/132 data:19,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.037Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 29/132 data:20,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.038Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 30/132 data:21,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.040Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 31/132 data:22,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.041Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 32/132 data:23,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.043Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 33/132 data:24,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.044Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 34/132 data:25,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.045Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 35/132 data:26,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.048Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 36/132 data:27,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.049Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 37/132 data:28,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.051Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 38/132 data:29,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.053Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 39/132 data:30,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.054Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 40/132 data:31,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.056Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 41/132 data:32,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.057Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 42/132 data:34,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.058Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 43/132 data:35,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.060Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 44/132 data:36,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.061Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 45/132 data:39,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.062Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 46/132 data:40,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.064Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 47/132 data:41,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.072Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 48/132 data:42,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.076Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 49/132 data:43,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.078Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 50/132 data:44,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.080Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 51/132 data:45,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.081Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 52/132 data:46,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.082Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 53/132 data:47,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.084Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 54/132 data:48,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.085Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 55/132 data:49,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.087Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 56/132 data:50,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.088Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 57/132 data:51,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.089Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 58/132 data:52,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.090Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 59/132 data:53,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.091Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 60/132 data:54,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.092Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 61/132 data:55,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.094Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 62/132 data:56,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.096Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 63/132 data:57,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.097Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 64/132 data:58,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.099Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 65/132 data:59,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.100Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 66/132 data:60,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.101Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 67/132 data:61,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.102Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 68/132 data:62,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.103Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 69/132 data:63,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.104Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 70/132 data:64,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.107Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 71/132 data:65,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.108Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 72/132 data:66,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.116Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 73/132 data:67,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.119Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 74/132 data:68,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.120Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 75/132 data:69,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.121Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 76/132 data:70,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.122Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 77/132 data:71,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.125Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 78/132 data:72,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.126Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 79/132 data:73,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.127Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 80/132 data:74,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.128Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 81/132 data:75,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.129Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 82/132 data:76,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.131Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 83/132 data:77,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.132Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 84/132 data:78,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.133Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 85/132 data:79,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.134Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 86/132 data:80,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.135Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 87/132 data:81,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.136Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 88/132 data:82,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.137Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 89/132 data:83,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.139Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 90/132 data:84,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.140Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 91/132 data:85,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.141Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 92/132 data:86,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.142Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 93/132 data:87,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.144Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 94/132 data:88,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.147Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 95/132 data:89,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.149Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 96/132 data:90,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.150Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 97/132 data:91,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.152Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 98/132 data:92,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.159Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 99/132 data:93,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.160Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 100/132 data:94,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.161Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 101/132 data:95,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.164Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 102/132 data:96,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.166Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 103/132 data:97,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.169Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 104/132 data:98,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.172Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 105/132 data:99,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.174Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 106/132 data:100,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.175Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 107/132 data:101,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.176Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 108/132 data:102,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.179Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 109/132 data:103,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.181Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 110/132 data:104,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.182Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 111/132 data:105,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.183Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 112/132 data:106,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.185Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 113/132 data:107,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.186Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 114/132 data:108,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.187Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 115/132 data:109,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.188Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 116/132 data:110,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.190Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 117/132 data:111,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.191Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 118/132 data:112,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.193Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 119/132 data:113,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.195Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 120/132 data:114,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.196Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 121/132 data:115,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.202Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 122/132 data:116,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.205Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 123/132 data:117,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.206Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 124/132 data:118,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.207Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 125/132 data:119,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.209Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 126/132 data:121,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.210Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 127/132 data:122,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.213Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 128/132 data:123,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.214Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 129/132 data:128,gas:0,value:0 invalid_first_byte_ef {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.216Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 130/132 data:129,gas:0,value:0 side_effects {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.218Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 131/132 data:130,gas:0,value:0 side_effects_invalid_opcode {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:15.219Z [EXCEPTION] 2353/2723,0 Opcodes_TransactionInit 132/132 data:131,gas:0,value:0 side_effects_return_ef {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/TransactionToAddressh160minusOne.json
-2024-07-16T15:31:16.169Z [PASSED] 2368/2723,0 TransactionToAddressh160minusOne 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.259Z [EXCEPTION] 2368/2723,0 TransactionToAddressh160minusOne 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

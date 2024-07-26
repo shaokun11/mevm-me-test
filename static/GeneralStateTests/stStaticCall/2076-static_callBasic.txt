@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callBasic.json
-2024-07-16T10:37:18.498Z [SKIP] 2076/2723,0 static_callBasic 1/4 data:0,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.498Z [SKIP] 2076/2723,0 static_callBasic 2/4 data:1,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.498Z [SKIP] 2076/2723,0 static_callBasic 3/4 data:2,gas:0,value:0  execute timeout
-2024-07-16T10:37:18.498Z [SKIP] 2076/2723,0 static_callBasic 4/4 data:3,gas:0,value:0  execute timeout
+2024-07-26T07:01:04.459Z [EXCEPTION] 2076/2723,0 static_callBasic 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.462Z [EXCEPTION] 2076/2723,0 static_callBasic 2/4 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.464Z [EXCEPTION] 2076/2723,0 static_callBasic 3/4 data:2,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:04.467Z [EXCEPTION] 2076/2723,0 static_callBasic 4/4 data:3,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

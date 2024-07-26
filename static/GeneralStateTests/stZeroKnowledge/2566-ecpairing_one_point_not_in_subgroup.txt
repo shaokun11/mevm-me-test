@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_one_point_not_in_subgroup.json
-2024-07-16T15:39:40.518Z [PASSED] 2566/2723,0 ecpairing_one_point_not_in_subgroup 1/4 data:0,gas:0,value:0  
-2024-07-16T15:39:41.179Z [PASSED] 2566/2723,0 ecpairing_one_point_not_in_subgroup 2/4 data:0,gas:1,value:0  
-2024-07-16T15:39:41.845Z [PASSED] 2566/2723,0 ecpairing_one_point_not_in_subgroup 3/4 data:0,gas:2,value:0  
-2024-07-16T15:39:42.510Z [PASSED] 2566/2723,0 ecpairing_one_point_not_in_subgroup 4/4 data:0,gas:3,value:0  
+2024-07-26T07:01:16.561Z [EXCEPTION] 2566/2723,0 ecpairing_one_point_not_in_subgroup 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.562Z [EXCEPTION] 2566/2723,0 ecpairing_one_point_not_in_subgroup 2/4 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.564Z [EXCEPTION] 2566/2723,0 ecpairing_one_point_not_in_subgroup 3/4 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:16.565Z [EXCEPTION] 2566/2723,0 ecpairing_one_point_not_in_subgroup 4/4 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

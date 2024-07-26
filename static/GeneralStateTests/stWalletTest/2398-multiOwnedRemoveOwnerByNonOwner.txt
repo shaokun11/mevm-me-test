@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedRemoveOwnerByNonOwner.json
-2024-07-16T15:31:46.961Z [PASSED] 2398/2723,0 multiOwnedRemoveOwnerByNonOwner 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.318Z [EXCEPTION] 2398/2723,0 multiOwnedRemoveOwnerByNonOwner 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

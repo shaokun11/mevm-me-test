@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashCreatedAndDeletedAccountStaticCall.json
-2024-07-16T14:17:51.894Z [SKIP] 834/2723,0 extCodeHashCreatedAndDeletedAccountStaticCall 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T03:44:29.523Z [SKIP] 834/2723,0 extCodeHashCreatedAndDeletedAccountStaticCall 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

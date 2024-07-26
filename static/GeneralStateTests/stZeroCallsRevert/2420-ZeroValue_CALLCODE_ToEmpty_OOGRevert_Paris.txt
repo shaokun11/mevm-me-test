@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris.json
-2024-07-16T15:32:20.310Z [PASSED] 2420/2723,0 ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.360Z [EXCEPTION] 2420/2723,0 ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

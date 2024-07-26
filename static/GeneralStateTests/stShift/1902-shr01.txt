@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stShift/shr01.json
-2024-07-16T15:06:53.673Z [PASSED] 1902/2723,0 shr01 1/1 data:0,gas:0,value:0  
+2024-07-26T05:49:18.080Z [PASSED] 1902/2723,0 shr01 1/1 data:0,gas:0,value:0  

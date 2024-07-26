@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stAttackTest/ContractCreationSpam.json
-2024-07-16T10:37:15.734Z [SKIP] 221/2723,0 ContractCreationSpam 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm
+2024-07-25T19:33:33.790Z [EXCEPTION] 221/2723,0 ContractCreationSpam 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xf8fca86f7fb9d741c25ae980c78e36eb408cc4668d1b8e31a4470de8277fa04d timed out after 90 seconds"}

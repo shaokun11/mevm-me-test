@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom2/randomStatetest422.json
-2024-07-16T10:37:17.944Z [SKIP] 1538/2723,0 randomStatetest422 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T05:10:20.009Z [FAILED] 1538/2723,0 randomStatetest422 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas_for_test::calc_mstore_gas at code offset 23","hash":"0x04478fa6014e428d1a3ec10da5ceceab9b6af4a079b4f04ae6a19c14a6fbf133","expected":"0x8cd811bb594c34dfe9fdd725d010bd44f27cfddde3fc78100f4790ec498ac2f3"}

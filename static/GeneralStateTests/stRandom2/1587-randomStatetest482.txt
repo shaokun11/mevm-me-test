@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom2/randomStatetest482.json
-2024-07-16T10:37:17.964Z [SKIP] 1587/2723,0 randomStatetest482 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T05:14:48.374Z [PASSED] 1587/2723,0 randomStatetest482 1/1 data:0,gas:0,value:0  

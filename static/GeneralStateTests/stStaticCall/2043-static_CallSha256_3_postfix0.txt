@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_3_postfix0.json
-2024-07-16T10:37:18.483Z [SKIP] 2043/2723,0 static_CallSha256_3_postfix0 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:54:38.884Z [PASSED] 2043/2723,0 static_CallSha256_3_postfix0 1/1 data:0,gas:0,value:0  

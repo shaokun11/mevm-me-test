@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom2/randomStatetest559.json
-2024-07-16T10:37:17.999Z [SKIP] 1652/2723,0 randomStatetest559 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T05:16:20.603Z [SKIP] 1652/2723,0 randomStatetest559 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

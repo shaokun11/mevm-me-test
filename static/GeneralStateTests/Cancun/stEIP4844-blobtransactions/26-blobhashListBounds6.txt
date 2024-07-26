@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/blobhashListBounds6.json
-2024-07-16T10:39:20.963Z [SKIP] 26/2723,0 blobhashListBounds6 1/1 data:0,gas:0,value:0  Not support blob hash opcode
+2024-07-25T18:24:34.942Z [SKIP] 26/2723,0 blobhashListBounds6 1/1 data:0,gas:0,value:0  Not support blob hash opcode

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction.json
-2024-07-16T13:25:30.423Z [PASSED] 460/2723,0 createInitFailUndefinedInstruction 1/1 data:0,gas:0,value:0  
+2024-07-26T02:41:22.500Z [EXCEPTION] 460/2723,0 createInitFailUndefinedInstruction 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x5fd496955783197a0ec5490b3d871b61b16071b5e5006bbb5edb58447ff8a0ad timed out after 90 seconds"}

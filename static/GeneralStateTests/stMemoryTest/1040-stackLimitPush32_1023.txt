@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush32_1023.json
-2024-07-16T10:37:17.516Z [SKIP] 1040/2723,0 stackLimitPush32_1023 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T04:04:26.001Z [EXCEPTION] 1040/2723,0 stackLimitPush32_1023 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x89dcef8831d5b5a962030ebaca2f2c06b7faefc1ad4938760c7a08c2d0c1a3ea timed out after 90 seconds"}

@@ -1,0 +1,7 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterMaxCodesize.json
+2024-07-25T17:01:55.396Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 1/6 data:0,gas:0,value:0 LowContractCount_NoDelegateCreate_CallCreateOOG 
+2024-07-25T17:02:02.073Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 2/6 data:1,gas:0,value:0 LowContractCount_DelegateCreate_CallCreateOOG 
+2024-07-25T17:02:13.943Z [SKIP] 37/47,0 CreateOOGafterMaxCodesize 3/6 data:2,gas:0,value:0 LowContractCount_DelegateCreate_CallCreate_SelfDestruct Not implementation SELFDESTRUCT opcode
+2024-07-25T17:02:38.519Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 4/6 data:3,gas:0,value:0 HighContractCount_NoDelegateCreate_CallCreateOOG 
+2024-07-25T17:03:53.228Z [FAILED] 37/47,0 CreateOOGafterMaxCodesize 5/6 data:4,gas:0,value:0 HighContractCount_DelegateCreate_CallCreateOOG {"error":"Out of gas","hash":"0x00253222d67f21ca98be3e4530a7990161b843d5592e28c5ca836ad149d48371","expected":"0xf5ec405f15a7b6c3c29da12ab21d5413698f8f51e6147d262b1f8c7e7ed71608"}
+2024-07-25T17:05:04.889Z [FAILED] 37/47,0 CreateOOGafterMaxCodesize 6/6 data:5,gas:0,value:0 HighContractCount_DelegateCreate_CallCreate_SelfDestruct {"error":"Out of gas","hash":"0xa76173ebc616ae25b0c1371173eb3948e68201baf36aa8ab1ac3605f8c2bd81e","expected":"0x6deb8f24ef40f0ed2590b3abab9154821f927dd99d3b8973a70ae12bed961962"}

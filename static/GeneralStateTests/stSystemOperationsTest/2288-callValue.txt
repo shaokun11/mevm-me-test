@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/callValue.json
-2024-07-16T15:27:54.334Z [PASSED] 2288/2723,0 callValue 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:05.003Z [EXCEPTION] 2288/2723,0 callValue 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

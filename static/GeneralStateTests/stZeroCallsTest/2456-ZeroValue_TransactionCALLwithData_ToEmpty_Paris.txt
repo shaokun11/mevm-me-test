@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_TransactionCALLwithData_ToEmpty_Paris.json
-2024-07-16T15:32:43.905Z [PASSED] 2456/2723,0 ZeroValue_TransactionCALLwithData_ToEmpty_Paris 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.425Z [EXCEPTION] 2456/2723,0 ZeroValue_TransactionCALLwithData_ToEmpty_Paris 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

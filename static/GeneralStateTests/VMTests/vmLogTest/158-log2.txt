@@ -1,10 +1,10 @@
 ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log2.json
-2024-07-16T10:53:51.413Z [PASSED] 158/2723,0 log2 1/9 data:0,gas:0,value:0 emptyMem 
-2024-07-16T10:53:52.070Z [PASSED] 158/2723,0 log2 2/9 data:3,gas:0,value:0 memStartTooHigh 
-2024-07-16T10:53:52.728Z [PASSED] 158/2723,0 log2 3/9 data:4,gas:0,value:0 memSizeTooHigh 
-2024-07-16T10:53:53.386Z [PASSED] 158/2723,0 log2 4/9 data:5,gas:0,value:0 memSizeZero 
-2024-07-16T10:53:54.043Z [PASSED] 158/2723,0 log2 5/9 data:6,gas:0,value:0 nonEmptyMem 
-2024-07-16T10:53:54.699Z [PASSED] 158/2723,0 log2 6/9 data:7,gas:0,value:0 log_0_1 
-2024-07-16T10:53:55.361Z [PASSED] 158/2723,0 log2 7/9 data:8,gas:0,value:0 log_31_1 
-2024-07-16T10:53:56.022Z [PASSED] 158/2723,0 log2 8/9 data:1,gas:0,value:0 caller 
-2024-07-16T10:53:58.761Z [PASSED] 158/2723,0 log2 9/9 data:2,gas:0,value:0 maxTopic 
+2024-07-25T19:00:03.024Z [PASSED] 158/2723,0 log2 1/9 data:0,gas:0,value:0 emptyMem 
+2024-07-25T19:00:03.684Z [PASSED] 158/2723,0 log2 2/9 data:3,gas:0,value:0 memStartTooHigh 
+2024-07-25T19:00:04.341Z [PASSED] 158/2723,0 log2 3/9 data:4,gas:0,value:0 memSizeTooHigh 
+2024-07-25T19:00:05.000Z [PASSED] 158/2723,0 log2 4/9 data:5,gas:0,value:0 memSizeZero 
+2024-07-25T19:00:05.661Z [PASSED] 158/2723,0 log2 5/9 data:6,gas:0,value:0 nonEmptyMem 
+2024-07-25T19:00:06.320Z [PASSED] 158/2723,0 log2 6/9 data:7,gas:0,value:0 log_0_1 
+2024-07-25T19:00:06.983Z [PASSED] 158/2723,0 log2 7/9 data:8,gas:0,value:0 log_31_1 
+2024-07-25T19:00:07.642Z [PASSED] 158/2723,0 log2 8/9 data:1,gas:0,value:0 caller 
+2024-07-25T19:00:08.301Z [PASSED] 158/2723,0 log2 9/9 data:2,gas:0,value:0 maxTopic 

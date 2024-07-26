@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pop.json
-2024-07-16T10:53:33.652Z [PASSED] 153/2723,0 pop 1/2 data:0,gas:0,value:0 pop1 
-2024-07-16T10:53:34.307Z [PASSED] 153/2723,0 pop 2/2 data:1,gas:0,value:0 pop2 
+2024-07-25T18:59:43.141Z [PASSED] 153/2723,0 pop 1/2 data:0,gas:0,value:0 pop1 
+2024-07-25T18:59:43.796Z [PASSED] 153/2723,0 pop 2/2 data:1,gas:0,value:0 pop2 

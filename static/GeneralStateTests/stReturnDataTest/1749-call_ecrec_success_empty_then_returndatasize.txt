@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/call_ecrec_success_empty_then_returndatasize.json
-2024-07-16T14:48:13.078Z [PASSED] 1749/2723,0 call_ecrec_success_empty_then_returndatasize 1/1 data:0,gas:0,value:0  
+2024-07-26T05:20:14.740Z [PASSED] 1749/2723,0 call_ecrec_success_empty_then_returndatasize 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json
-2024-07-16T10:50:21.331Z [PASSED] 129/2723,0 twoOps 1/1 data:0,gas:0,value:0  
+2024-07-25T18:50:26.105Z [EXCEPTION] 129/2723,0 twoOps 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xabef49702868f7b383fd9a6b89af3c07528c376c3597e16deccca8f7838b0338 timed out after 90 seconds"}

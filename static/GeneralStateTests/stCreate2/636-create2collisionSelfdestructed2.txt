@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2collisionSelfdestructed2.json
-2024-07-16T13:31:57.631Z [SKIP] 636/2723,0 create2collisionSelfdestructed2 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T13:31:58.285Z [SKIP] 636/2723,0 create2collisionSelfdestructed2 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T02:51:36.999Z [SKIP] 636/2723,0 create2collisionSelfdestructed2 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T02:51:37.654Z [SKIP] 636/2723,0 create2collisionSelfdestructed2 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode

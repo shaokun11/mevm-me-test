@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CREATE_EmptyContractWithStorageAndCallIt_0wei.json
-2024-07-16T10:37:18.440Z [SKIP] 1971/2723,0 static_CREATE_EmptyContractWithStorageAndCallIt_0wei 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:16:21.195Z [PASSED] 1971/2723,0 static_CREATE_EmptyContractWithStorageAndCallIt_0wei 1/1 data:0,gas:0,value:0  

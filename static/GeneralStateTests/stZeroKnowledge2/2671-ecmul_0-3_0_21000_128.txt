@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge2/ecmul_0-3_0_21000_128.json
-2024-07-16T15:48:09.235Z [PASSED] 2671/2723,0 ecmul_0-3_0_21000_128 1/4 data:0,gas:0,value:0  
-2024-07-16T15:48:09.895Z [PASSED] 2671/2723,0 ecmul_0-3_0_21000_128 2/4 data:0,gas:1,value:0  
-2024-07-16T15:48:10.555Z [PASSED] 2671/2723,0 ecmul_0-3_0_21000_128 3/4 data:0,gas:2,value:0  
-2024-07-16T15:48:11.218Z [PASSED] 2671/2723,0 ecmul_0-3_0_21000_128 4/4 data:0,gas:3,value:0  
+2024-07-26T07:01:17.845Z [EXCEPTION] 2671/2723,0 ecmul_0-3_0_21000_128 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:17.846Z [EXCEPTION] 2671/2723,0 ecmul_0-3_0_21000_128 2/4 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:17.848Z [EXCEPTION] 2671/2723,0 ecmul_0-3_0_21000_128 3/4 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:17.849Z [EXCEPTION] 2671/2723,0 ecmul_0-3_0_21000_128 4/4 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

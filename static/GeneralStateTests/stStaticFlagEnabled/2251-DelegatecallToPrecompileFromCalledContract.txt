@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/DelegatecallToPrecompileFromCalledContract.json
-2024-07-16T15:24:39.789Z [PASSED] 2251/2723,0 DelegatecallToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:04.954Z [EXCEPTION] 2251/2723,0 DelegatecallToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

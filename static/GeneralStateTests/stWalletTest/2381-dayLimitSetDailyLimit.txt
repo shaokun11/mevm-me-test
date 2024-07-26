@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/dayLimitSetDailyLimit.json
-2024-07-16T15:31:26.624Z [PASSED] 2381/2723,0 dayLimitSetDailyLimit 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.282Z [EXCEPTION] 2381/2723,0 dayLimitSetDailyLimit 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

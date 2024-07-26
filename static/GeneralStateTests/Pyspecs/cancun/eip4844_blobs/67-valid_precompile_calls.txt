@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/valid_precompile_calls.json
-2024-07-16T10:37:15.304Z [SKIP] 67/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_point_evaluation_precompile.py::test_valid_precompile_calls[fork_Cancun-state_test-success_True-in_bounds_z] 1/1 data:0,gas:0,value:0  Not support blob tx
+2024-07-25T18:39:38.495Z [SKIP] 67/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_point_evaluation_precompile.py::test_valid_precompile_calls[fork_Cancun-state_test-success_True-in_bounds_z] 1/1 data:0,gas:0,value:0  Not support blob basefee opcode

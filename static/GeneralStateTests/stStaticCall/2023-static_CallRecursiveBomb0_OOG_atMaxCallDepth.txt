@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBomb0_OOG_atMaxCallDepth.json
-2024-07-16T10:37:18.475Z [SKIP] 2023/2723,0 static_CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:52:16.114Z [PASSED] 2023/2723,0 static_CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  

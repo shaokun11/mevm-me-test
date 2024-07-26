@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction2.json
-2024-07-16T13:25:31.080Z [SKIP] 461/2723,0 createInitFailUndefinedInstruction2 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T02:42:54.802Z [EXCEPTION] 461/2723,0 createInitFailUndefinedInstruction2 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x7e0c88cd90479113c717f60aa467c5b7610e81910839b2969f700b8e7dc9769f timed out after 90 seconds"}

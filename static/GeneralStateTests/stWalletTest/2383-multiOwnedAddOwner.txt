@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedAddOwner.json
-2024-07-16T15:31:29.425Z [PASSED] 2383/2723,0 multiOwnedAddOwner 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.285Z [EXCEPTION] 2383/2723,0 multiOwnedAddOwner 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

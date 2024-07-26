@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/multiSelfdestruct.json
-2024-07-16T15:28:14.645Z [SKIP] 2309/2723,0 multiSelfdestruct 1/5 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:28:15.299Z [SKIP] 2309/2723,0 multiSelfdestruct 2/5 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:28:15.953Z [SKIP] 2309/2723,0 multiSelfdestruct 3/5 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:28:16.607Z [SKIP] 2309/2723,0 multiSelfdestruct 4/5 data:3,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-16T15:28:17.264Z [SKIP] 2309/2723,0 multiSelfdestruct 5/5 data:4,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T07:01:05.041Z [EXCEPTION] 2309/2723,0 multiSelfdestruct 1/5 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:05.043Z [EXCEPTION] 2309/2723,0 multiSelfdestruct 2/5 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:05.044Z [EXCEPTION] 2309/2723,0 multiSelfdestruct 3/5 data:2,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:05.045Z [EXCEPTION] 2309/2723,0 multiSelfdestruct 4/5 data:3,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-07-26T07:01:05.046Z [EXCEPTION] 2309/2723,0 multiSelfdestruct 5/5 data:4,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call20KbytesContract50_2.json
-2024-07-16T10:37:17.781Z [SKIP] 1180/2723,0 Call20KbytesContract50_2 1/2 data:0,gas:1,value:0  execute timeout
-2024-07-16T10:37:17.781Z [SKIP] 1180/2723,0 Call20KbytesContract50_2 2/2 data:0,gas:0,value:0  execute timeout
+2024-07-26T04:31:57.398Z [EXCEPTION] 1180/2723,0 Call20KbytesContract50_2 1/2 data:0,gas:1,value:0  {"error":"Waiting for transaction 0x2efed030b013b75ddd09399cf69f318f527d5411f95f40626a2644d2777408fb timed out after 90 seconds"}
+2024-07-26T04:33:17.403Z [PASSED] 1180/2723,0 Call20KbytesContract50_2 2/2 data:0,gas:0,value:0  

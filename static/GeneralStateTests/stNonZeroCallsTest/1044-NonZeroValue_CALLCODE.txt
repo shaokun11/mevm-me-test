@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_CALLCODE.json
-2024-07-16T14:31:36.682Z [PASSED] 1044/2723,0 NonZeroValue_CALLCODE 1/1 data:0,gas:0,value:0  
+2024-07-26T04:10:37.398Z [EXCEPTION] 1044/2723,0 NonZeroValue_CALLCODE 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xf62a3dd5384e95978edd7f87ac2539b53162ce7c0b9c56795ce7598d4ecdd3cf timed out after 90 seconds"}

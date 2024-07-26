@@ -60,12 +60,12 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_TO_DOUBLE_CHECK,
     },
-    {
-        path: "ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterMaxCodesize.json",
-        name: SKIP_ALL_NAME,
-        label: "5,6",
-        comment: MST_TIMEOUT,
-    },
+    // {
+    //     path: "ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterMaxCodesize.json",
+    //     name: SKIP_ALL_NAME,
+    //     label: "5,6",
+    //     comment: MST_TIMEOUT,
+    // },
     {
         path: "ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush3",
         name: SKIP_ALL_NAME,
@@ -78,12 +78,12 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MST_TIMEOUT,
     },
-    {
-        path: "ethereum-tests/GeneralStateTests/stRandom",
-        name: SKIP_ALL_NAME,
-        label: SKIP_ALL_LABEL,
-        comment: MST_TIMEOUT,
-    },
+    // {
+    //     path: "ethereum-tests/GeneralStateTests/stRandom",
+    //     name: SKIP_ALL_NAME,
+    //     label: SKIP_ALL_LABEL,
+    //     comment: MST_TIMEOUT,
+    // },
     {
         path: "ethereum-tests/GeneralStateTests/stShift/shiftCombinations.json",
         name: SKIP_ALL_NAME,

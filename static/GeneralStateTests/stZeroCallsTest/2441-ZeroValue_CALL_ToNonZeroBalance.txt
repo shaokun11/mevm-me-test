@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALL_ToNonZeroBalance.json
-2024-07-16T15:32:34.074Z [PASSED] 2441/2723,0 ZeroValue_CALL_ToNonZeroBalance 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:15.397Z [EXCEPTION] 2441/2723,0 ZeroValue_CALL_ToNonZeroBalance 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

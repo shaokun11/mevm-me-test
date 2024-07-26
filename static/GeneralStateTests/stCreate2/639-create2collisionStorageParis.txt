@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2collisionStorageParis.json
-2024-07-16T13:32:04.941Z [PASSED] 639/2723,0 create2collisionStorageParis 1/3 data:0,gas:0,value:0  
-2024-07-16T13:32:05.596Z [PASSED] 639/2723,0 create2collisionStorageParis 2/3 data:1,gas:0,value:0  
-2024-07-16T13:32:06.255Z [PASSED] 639/2723,0 create2collisionStorageParis 3/3 data:2,gas:0,value:0  
+2024-07-26T02:51:44.317Z [FAILED] 639/2723,0 create2collisionStorageParis 1/3 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"85114","state_root":"0xb7f1cac2f16e94f72881f6edeee333c1a9db8d5cf3aa2454c2d53e590d806c75","expected":"0xd8ab138e6f7b8e2d34df887867c338fd6907c09ab390c31665c9c164fd93de0f","hash":"0x694881f0adde288d803b2dee68a88cad546a53cd7e774a9c880b90f786c34df9"}
+2024-07-26T02:51:44.973Z [FAILED] 639/2723,0 create2collisionStorageParis 2/3 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"107396","state_root":"0xf80c59c964196be76ffed56b99247e463d54dd64002716f276216810aded685a","expected":"0xac1766cb9e07fa14fcd78bb5256a65b9753644d7cfbb47e610c761d7d1e1b28b","hash":"0x9488bc64ac9f3a4b3390396dae9768968d50330e904f403b46d1f987c4927aa9"}
+2024-07-26T02:51:45.629Z [FAILED] 639/2723,0 create2collisionStorageParis 3/3 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"86440","state_root":"0xa696e84d1092671f7cad3c860ef9537f5b7bf0ea0190b66dac736dbd4885a184","expected":"0x2992083fd0c728bf380857c7fecd96445f184dbe92f0714c348b3ac95826c637","hash":"0xa21d5d473d3e4c47e6201e32b5bbb22dda4dfcd32d9c4700454b544f7d36e3ea"}

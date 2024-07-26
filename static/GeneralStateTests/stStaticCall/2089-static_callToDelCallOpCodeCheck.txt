@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callToDelCallOpCodeCheck.json
-2024-07-16T10:37:18.503Z [SKIP] 2089/2723,0 static_callToDelCallOpCodeCheck 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T07:01:04.498Z [EXCEPTION] 2089/2723,0 static_callToDelCallOpCodeCheck 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

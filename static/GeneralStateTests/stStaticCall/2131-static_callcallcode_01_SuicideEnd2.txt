@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcode_01_SuicideEnd2.json
-2024-07-16T10:37:18.520Z [SKIP] 2131/2723,0 static_callcallcode_01_SuicideEnd2 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T07:01:04.596Z [EXCEPTION] 2131/2723,0 static_callcallcode_01_SuicideEnd2 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

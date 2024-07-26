@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/callcodeNonConst.json
-2024-07-16T10:55:54.754Z [PASSED] 181/2723,0 callcodeNonConst 1/2 data:0,gas:0,value:0  
-2024-07-16T10:55:55.408Z [PASSED] 181/2723,0 callcodeNonConst 2/2 data:0,gas:0,value:1  
+2024-07-25T19:31:04.192Z [PASSED] 181/2723,0 callcodeNonConst 1/2 data:0,gas:0,value:0  
+2024-07-25T19:31:04.850Z [PASSED] 181/2723,0 callcodeNonConst 2/2 data:0,gas:0,value:1  

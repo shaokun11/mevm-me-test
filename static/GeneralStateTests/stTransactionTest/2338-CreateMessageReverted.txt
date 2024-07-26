@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/CreateMessageReverted.json
-2024-07-16T15:28:27.085Z [PASSED] 2338/2723,0 CreateMessageReverted 1/1 data:0,gas:0,value:0  
+2024-07-26T07:01:14.813Z [EXCEPTION] 2338/2723,0 CreateMessageReverted 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

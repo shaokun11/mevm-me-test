@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/Transaction64Rule_d64p1.json
-2024-07-16T13:43:18.167Z [PASSED] 734/2723,0 Transaction64Rule_d64p1 1/1 data:0,gas:0,value:0  
+2024-07-26T03:08:36.846Z [PASSED] 734/2723,0 Transaction64Rule_d64p1 1/1 data:0,gas:0,value:0  

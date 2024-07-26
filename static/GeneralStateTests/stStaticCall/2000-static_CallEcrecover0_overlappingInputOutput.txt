@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_overlappingInputOutput.json
-2024-07-16T10:37:18.463Z [SKIP] 2000/2723,0 static_CallEcrecover0_overlappingInputOutput 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:50:48.634Z [PASSED] 2000/2723,0 static_CallEcrecover0_overlappingInputOutput 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/21_tstoreCannotBeDosdOOO.json
-2024-07-16T10:37:15.029Z [SKIP] 20/2723,0 21_tstoreCannotBeDosdOOO 1/1 data:0,gas:0,value:0  Will execute long time and dropped from move-vm
+2024-07-25T18:18:00.527Z [EXCEPTION] 20/2723,0 21_tstoreCannotBeDosdOOO 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0x0ba79f45bf6f942f219ec51ae03ccaa0b8f3a0257f27b5ed6a23865f7b331a88 timed out after 90 seconds"}

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CALL_ZeroVCallSuicide.json
-2024-07-16T10:37:18.438Z [SKIP] 1966/2723,0 static_CALL_ZeroVCallSuicide 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T06:16:02.565Z [SKIP] 1966/2723,0 static_CALL_ZeroVCallSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

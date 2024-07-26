@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest48.json
-2024-07-16T10:37:17.913Z [SKIP] 1464/2723,0 randomStatetest48 1/1 data:0,gas:0,value:0  execute timeout
+2024-07-26T05:09:28.699Z [FAILED] 1464/2723,0 randomStatetest48 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_trie_for_test::add_checkpoint at code offset 13","hash":"0x26fcfddccbb126219fb28ed8c8fbc56add6426d0b14f8ddb1013fd4d3fc2d263","expected":"0xd5459d86a7de0c82d33ff1be775a8b9de8fe6c4290c07d022335d11d2ef03f1f"}

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesAndInternlCallSuicidesBonusGasAtCallFailed.json
-2024-07-16T15:31:09.624Z [SKIP] 2360/2723,0 SuicidesAndInternlCallSuicidesBonusGasAtCallFailed 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-26T07:01:15.229Z [EXCEPTION] 2360/2723,0 SuicidesAndInternlCallSuicidesBonusGasAtCallFailed 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

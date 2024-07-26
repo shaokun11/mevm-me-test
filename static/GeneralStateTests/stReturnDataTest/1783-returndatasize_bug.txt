@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_bug.json
-2024-07-16T14:50:56.124Z [PASSED] 1783/2723,0 returndatasize_bug 1/1 data:0,gas:0,value:0  
+2024-07-26T05:23:18.299Z [PASSED] 1783/2723,0 returndatasize_bug 1/1 data:0,gas:0,value:0  
