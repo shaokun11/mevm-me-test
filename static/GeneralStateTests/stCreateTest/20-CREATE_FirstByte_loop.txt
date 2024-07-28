@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_FirstByte_loop.json
-2024-07-25T17:00:07.906Z [PASSED] 20/47,0 CREATE_FirstByte_loop 1/1 data:0,gas:0,value:0  
+2024-07-28T14:20:04.116Z [PASSED] 20/47,0 CREATE_FirstByte_loop 1/1 data:0,gas:0,value:0  

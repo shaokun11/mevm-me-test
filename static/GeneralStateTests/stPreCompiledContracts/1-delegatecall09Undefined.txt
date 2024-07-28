@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/delegatecall09Undefined.json
+2024-07-28T14:34:27.029Z [FAILED] 1/9,0 delegatecall09Undefined 1/1 data:0,gas:0,value:0  {"gas_refund":"4800","gas_usage":"23822","state_root":"0xd812f041358906d0adb34205e9cb915aa9f1c558b246338f6ac5d7d9b66e9ae1","expected":"0xb222db2ac9351828b823592091cca066966668f88c00077a38bb282cf91422b5","hash":"0x625e622a75af3ba17927d3c48125dff7431348d8e93ad738a740a7000920d527"}

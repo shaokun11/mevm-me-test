@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover3.json
+2024-07-28T15:06:47.580Z [FAILED] 47/286,0 static_CallEcrecover3 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"73263","state_root":"0x454d0a78f81c7dda076292cfebc0d3375cdd53cf152fc3c045788bdb3f466577","expected":"0x8a4b4ba09ebffee13f36c8f6168e0d3583de768bbe4ea688c3505f99fab59795","hash":"0xea0b99e4cdafe68d3c41afc29430d19e2135965fbbe2484353917f664273895d"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Delegatecall1024OOG.json
+2024-07-28T14:21:21.794Z [FAILED] 7/28,0 Delegatecall1024OOG 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"1563415","state_root":"0x1290b368db88c348e0405e5c7ac3c2ae07a666dfa779df0a1d861507a0d2b20b","expected":"0xf0a9d54c9e9ae8a9500af004bc5a4bfaa136fef8b56f105d9db0530dedd23051","hash":"0xbcbe4a35cb7bb6075358bda92ffcbe3fbfaef2130ae5f16a21c552bbfa83a0d5"}

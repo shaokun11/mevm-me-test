@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest159.json
+2024-07-28T14:46:17.024Z [FAILED] 56/310,0 randomStatetest159 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"37251231","state_root":"0x92d5d59e490341eba1004b9a23d359e64ccd6ecc5564f1d91df3f61ca4293fda","expected":"0xc97ec9de82b316b52313ac20ac98328ddada32999c5ad6abb87f2f61348bac4f","hash":"0xe5f18a71fc54c896a2d21c0c26564a079da77b518cbcf388833609b5f81eb744"}

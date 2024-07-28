@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawDelegateCallGasAsk.json
-2024-07-26T03:09:01.734Z [PASSED] 760/2723,0 RawDelegateCallGasAsk 1/1 data:0,gas:0,value:0  

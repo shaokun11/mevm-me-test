@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2noCash.json
-2024-07-26T02:51:46.283Z [PASSED] 640/2723,0 create2noCash 1/3 data:0,gas:0,value:0  
-2024-07-26T02:51:46.936Z [PASSED] 640/2723,0 create2noCash 2/3 data:2,gas:0,value:0  
-2024-07-26T02:51:47.591Z [PASSED] 640/2723,0 create2noCash 3/3 data:1,gas:0,value:0  

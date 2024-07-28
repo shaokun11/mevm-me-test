@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/loop_stacklimit.json
+2024-07-28T13:39:57.446Z [PASSED] 35/64,0 loop_stacklimit 1/2 data:0,gas:0,value:0 loop_1021 
+2024-07-28T13:39:57.658Z [PASSED] 35/64,0 loop_stacklimit 2/2 data:1,gas:0,value:0 loop_1020 

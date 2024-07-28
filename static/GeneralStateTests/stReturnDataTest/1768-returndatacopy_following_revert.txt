@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_revert.json
-2024-07-26T05:22:55.111Z [PASSED] 1768/2723,0 returndatacopy_following_revert 1/1 data:0,gas:0,value:0  

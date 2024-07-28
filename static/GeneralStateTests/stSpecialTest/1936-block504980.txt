@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/block504980.json
-2024-07-26T05:53:42.944Z [PASSED] 1936/2723,0 block504980 1/1 data:0,gas:0,value:0  

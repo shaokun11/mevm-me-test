@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransactionTest/PointAtInfinityECRecover.json
+2024-07-28T15:39:35.979Z [FAILED] 19/35,0 PointAtInfinityECRecover 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"70947","state_root":"0xff93e5856d312b0c045a462820fb3790a023ee873cff7144758e4d7331fdf971","expected":"0x57810ec74a0661aa4ba94b220f6a58b758e5127fba3c62b9a14b98b7897c6178","hash":"0xc0bb1a4ddf8d229e32ce888b9750a5bbf89637c7b160bc9c4f3068cbde7365d4"}

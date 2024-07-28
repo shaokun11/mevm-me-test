@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/memCopySelf.json
+2024-07-28T14:33:57.378Z [FAILED] 53/71,0 memCopySelf 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"73922","state_root":"0xeae8531e58141df2da98978c3185efaa6f8197c38444c4fbf6a49de193e6a9a3","expected":"0x18c8ee310761b43810e9894b4371c8ac140a1046912ecdd2a1848cf27d476432","hash":"0x38b452ddaebce7fbd4b080e382cf503dad00b8ae20eeff5060ed86cc8a9a6e88"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEIdentitiy_1.json
+2024-07-28T14:38:22.966Z [FAILED] 19/102,0 CALLCODEIdentitiy_1 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"47951","state_root":"0xc92b83b92fa42cc36d88f057c610ca2717c194d6cfd3a9ea7da086ca3faff327","expected":"0xf3ec2eeac7f7dd92e0b13027994e7de76f900b738f7aa453ed8238284fef64ec","hash":"0x1937accf0260ed8418ad2c211b87bbabfc754451d4c5f442c1faca8eb8375f88"}

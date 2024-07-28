@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json
-2024-07-26T02:38:16.560Z [EXCEPTION] 458/2723,0 createInitFailStackSizeLargerThan1024 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xf6b0adda4534313900b130053b8fbdd524639984f223c70204733b6a016f3c4a timed out after 90 seconds"}

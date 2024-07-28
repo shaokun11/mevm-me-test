@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRefundTest/refund_NoOOG_1.json
-2024-07-26T05:20:09.493Z [PASSED] 1741/2723,0 refund_NoOOG_1 1/1 data:0,gas:0,value:0  

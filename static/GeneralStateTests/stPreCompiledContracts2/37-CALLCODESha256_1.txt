@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODESha256_1.json
+2024-07-28T14:38:26.816Z [FAILED] 37/102,0 CALLCODESha256_1 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67896","state_root":"0xfc5ced14efcc8895e09398ed2a2fd5f50f884ac06784d7a72338602681007d2f","expected":"0xc9887bf7fa263af4026d99108e28a744cd30b93ff7bad90e577ef5f1bb7e2853","hash":"0x03726663db24048a7fce48646d48d6d82dcf642b492afe5200a45f23990dc54d"}

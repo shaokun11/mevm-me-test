@@ -1,0 +1,49 @@
+ethereum-tests/GeneralStateTests/stEIP2930/addressOpcodes.json
+2024-07-28T14:30:18.718Z [PASSED] 0/7,0 addressOpcodes 1/48 data:0,gas:0,value:0 valid 
+2024-07-28T14:30:18.935Z [PASSED] 0/7,0 addressOpcodes 2/48 data:1,gas:0,value:0 valid 
+2024-07-28T14:30:19.154Z [PASSED] 0/7,0 addressOpcodes 3/48 data:4,gas:0,value:0 invalid 
+2024-07-28T14:30:19.371Z [PASSED] 0/7,0 addressOpcodes 4/48 data:5,gas:0,value:0 invalid 
+2024-07-28T14:30:19.586Z [PASSED] 0/7,0 addressOpcodes 5/48 data:6,gas:0,value:0 valid 
+2024-07-28T14:30:19.801Z [PASSED] 0/7,0 addressOpcodes 6/48 data:7,gas:0,value:0 valid 
+2024-07-28T14:30:20.017Z [PASSED] 0/7,0 addressOpcodes 7/48 data:8,gas:0,value:0 valid 
+2024-07-28T14:30:20.233Z [PASSED] 0/7,0 addressOpcodes 8/48 data:9,gas:0,value:0 valid 
+2024-07-28T14:30:20.449Z [PASSED] 0/7,0 addressOpcodes 9/48 data:10,gas:0,value:0 valid 
+2024-07-28T14:30:20.666Z [FAILED] 0/7,0 addressOpcodes 10/48 data:11,gas:0,value:0 valid {"gas_refund":"0","gas_usage":"75773","state_root":"0x4797fc1820e5f055aef7a970bef8a8b13cdb1ec6c338dcb3b23278ad77dee21c","expected":"0x21b051966a6550ce81212bc50bab263537bcc86fc36d5a23b6cea6e22cc6041f","hash":"0x31b5487093fe9b2ef8e3cb4b04b923bb7f1bd37cd03735ee77c4ee37157f5a65"}
+2024-07-28T14:30:20.882Z [PASSED] 0/7,0 addressOpcodes 11/48 data:12,gas:0,value:0 valid 
+2024-07-28T14:30:21.100Z [PASSED] 0/7,0 addressOpcodes 12/48 data:13,gas:0,value:0 valid 
+2024-07-28T14:30:21.316Z [PASSED] 0/7,0 addressOpcodes 13/48 data:16,gas:0,value:0 valid 
+2024-07-28T14:30:21.531Z [PASSED] 0/7,0 addressOpcodes 14/48 data:17,gas:0,value:0 valid 
+2024-07-28T14:30:21.745Z [PASSED] 0/7,0 addressOpcodes 15/48 data:18,gas:0,value:0 invalid 
+2024-07-28T14:30:21.959Z [PASSED] 0/7,0 addressOpcodes 16/48 data:19,gas:0,value:0 invalid 
+2024-07-28T14:30:22.174Z [PASSED] 0/7,0 addressOpcodes 17/48 data:20,gas:0,value:0 valid 
+2024-07-28T14:30:22.388Z [PASSED] 0/7,0 addressOpcodes 18/48 data:21,gas:0,value:0 valid 
+2024-07-28T14:30:22.603Z [PASSED] 0/7,0 addressOpcodes 19/48 data:22,gas:0,value:0 valid 
+2024-07-28T14:30:22.818Z [FAILED] 0/7,0 addressOpcodes 20/48 data:23,gas:0,value:0 valid {"gas_refund":"0","gas_usage":"75785","state_root":"0x0354b41d9024798c48a8a0a1288e2eb62a75d69253ba49a335b95d66068faaf4","expected":"0x2afccc45917b0654c34cad95b5cd6501e963ff19866a8042d58d86b886f91ee5","hash":"0x9a99babfd57e59981eca0f60a935f2c5eef659fe6febc0e4dcef605fa5a7d849"}
+2024-07-28T14:30:23.037Z [PASSED] 0/7,0 addressOpcodes 21/48 data:24,gas:0,value:0 valid 
+2024-07-28T14:30:23.250Z [PASSED] 0/7,0 addressOpcodes 22/48 data:25,gas:0,value:0 valid 
+2024-07-28T14:30:23.463Z [PASSED] 0/7,0 addressOpcodes 23/48 data:28,gas:0,value:0 valid 
+2024-07-28T14:30:23.677Z [PASSED] 0/7,0 addressOpcodes 24/48 data:29,gas:0,value:0 valid 
+2024-07-28T14:30:23.892Z [PASSED] 0/7,0 addressOpcodes 25/48 data:30,gas:0,value:0 valid 
+2024-07-28T14:30:24.105Z [PASSED] 0/7,0 addressOpcodes 26/48 data:31,gas:0,value:0 valid 
+2024-07-28T14:30:24.318Z [PASSED] 0/7,0 addressOpcodes 27/48 data:32,gas:0,value:0 invalid 
+2024-07-28T14:30:24.532Z [PASSED] 0/7,0 addressOpcodes 28/48 data:33,gas:0,value:0 invalid 
+2024-07-28T14:30:24.749Z [PASSED] 0/7,0 addressOpcodes 29/48 data:34,gas:0,value:0 valid 
+2024-07-28T14:30:24.965Z [FAILED] 0/7,0 addressOpcodes 30/48 data:35,gas:0,value:0 valid {"gas_refund":"0","gas_usage":"75785","state_root":"0x0354b41d9024798c48a8a0a1288e2eb62a75d69253ba49a335b95d66068faaf4","expected":"0x2afccc45917b0654c34cad95b5cd6501e963ff19866a8042d58d86b886f91ee5","hash":"0xdf15e7df88eadc0190a3b4030e153661f8cd114f6da884192b427be30a0ec55f"}
+2024-07-28T14:30:25.179Z [PASSED] 0/7,0 addressOpcodes 31/48 data:36,gas:0,value:0 valid 
+2024-07-28T14:30:25.392Z [PASSED] 0/7,0 addressOpcodes 32/48 data:37,gas:0,value:0 valid 
+2024-07-28T14:30:25.605Z [PASSED] 0/7,0 addressOpcodes 33/48 data:40,gas:0,value:0 valid 
+2024-07-28T14:30:25.818Z [PASSED] 0/7,0 addressOpcodes 34/48 data:41,gas:0,value:0 valid 
+2024-07-28T14:30:26.032Z [PASSED] 0/7,0 addressOpcodes 35/48 data:42,gas:0,value:0 valid 
+2024-07-28T14:30:26.245Z [PASSED] 0/7,0 addressOpcodes 36/48 data:43,gas:0,value:0 valid 
+2024-07-28T14:30:26.462Z [PASSED] 0/7,0 addressOpcodes 37/48 data:44,gas:0,value:0 valid 
+2024-07-28T14:30:26.676Z [PASSED] 0/7,0 addressOpcodes 38/48 data:45,gas:0,value:0 valid 
+2024-07-28T14:30:26.889Z [PASSED] 0/7,0 addressOpcodes 39/48 data:46,gas:0,value:0 invalid 
+2024-07-28T14:30:29.329Z [FAILED] 0/7,0 addressOpcodes 40/48 data:47,gas:0,value:0 invalid {"gas_refund":"0","gas_usage":"75835","state_root":"0x75cde7b72bd350851fdc8ae0a3f520b7f4317ae90a2ad6795b0f76b443c36ab3","expected":"0x87dd11711ff375a810984b2960aaf5f80599a8a40274c5fc8b977dfe5c788cf1","hash":"0x53dc32ccba023ce61493c3b07c8bf8e7d1b3fdbc6f461b1137816adfc93058ce"}
+2024-07-28T14:30:29.543Z [PASSED] 0/7,0 addressOpcodes 41/48 data:2,gas:0,value:0 valid 
+2024-07-28T14:30:29.756Z [PASSED] 0/7,0 addressOpcodes 42/48 data:3,gas:0,value:0 valid 
+2024-07-28T14:30:29.968Z [PASSED] 0/7,0 addressOpcodes 43/48 data:14,gas:0,value:0 valid 
+2024-07-28T14:30:30.181Z [PASSED] 0/7,0 addressOpcodes 44/48 data:15,gas:0,value:0 valid 
+2024-07-28T14:30:30.398Z [PASSED] 0/7,0 addressOpcodes 45/48 data:26,gas:0,value:0 valid 
+2024-07-28T14:30:30.611Z [PASSED] 0/7,0 addressOpcodes 46/48 data:27,gas:0,value:0 valid 
+2024-07-28T14:30:30.825Z [PASSED] 0/7,0 addressOpcodes 47/48 data:38,gas:0,value:0 valid 
+2024-07-28T14:30:31.038Z [PASSED] 0/7,0 addressOpcodes 48/48 data:39,gas:0,value:0 valid 

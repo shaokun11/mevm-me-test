@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createNameRegistratorPreStore1NotEnoughGas.json
-2024-07-26T02:43:01.594Z [PASSED] 469/2723,0 createNameRegistratorPreStore1NotEnoughGas 1/1 data:0,gas:0,value:0  

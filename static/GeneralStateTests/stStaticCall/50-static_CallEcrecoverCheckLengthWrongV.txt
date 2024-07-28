@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecoverCheckLengthWrongV.json
+2024-07-28T15:06:48.216Z [FAILED] 50/286,0 static_CallEcrecoverCheckLengthWrongV 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"92995","state_root":"0xec7e59d533936015409a51ae7a25b465de8f0bc7bff7213ee9ee233226ad4d41","expected":"0x5e502d628b56cbed241d7201f12e5f35eeff58fb5dc1de3d37a1a475cb8fcb7b","hash":"0xa0cf76cf3d87f5341535d66c2e94b80b4e6da68915b903fe004fcebe451b0309"}

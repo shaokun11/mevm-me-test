@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/callNonConst.json
-2024-07-25T19:31:02.882Z [PASSED] 180/2723,0 callNonConst 1/2 data:0,gas:0,value:0  
-2024-07-25T19:31:03.537Z [PASSED] 180/2723,0 callNonConst 2/2 data:0,gas:0,value:1  

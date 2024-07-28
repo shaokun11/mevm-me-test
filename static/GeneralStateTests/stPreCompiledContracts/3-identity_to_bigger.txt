@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/identity_to_bigger.json
+2024-07-28T14:35:24.925Z [FAILED] 3/9,0 identity_to_bigger 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"45761","state_root":"0x577674b8b4c373221b6c96a4739f265a99e128d7752ef5f281b56f77a5bb1c32","expected":"0x1ea9ff9c8ab0cd4510cd37bd3fd6cddd3c85b760014e66740815c72d5c2cf48d","hash":"0x9f265abcaa0ebc2dcc018e79064f863fbbad665dfa7752d78fb92e3dd64c8cd9"}

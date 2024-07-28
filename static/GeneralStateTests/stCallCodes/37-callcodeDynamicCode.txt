@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcodeDynamicCode.json
+2024-07-28T14:18:00.804Z [PASSED] 37/79,0 callcodeDynamicCode 1/4 data:0,gas:0,value:0  
+2024-07-28T14:18:01.018Z [PASSED] 37/79,0 callcodeDynamicCode 2/4 data:1,gas:0,value:0  
+2024-07-28T14:18:01.232Z [PASSED] 37/79,0 callcodeDynamicCode 3/4 data:2,gas:0,value:0  
+2024-07-28T14:18:01.447Z [PASSED] 37/79,0 callcodeDynamicCode 4/4 data:3,gas:0,value:0  

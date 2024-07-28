@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/selfdestructEIP2929.json
-2024-07-26T05:53:54.898Z [SKIP] 1943/2723,0 selfdestructEIP2929 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

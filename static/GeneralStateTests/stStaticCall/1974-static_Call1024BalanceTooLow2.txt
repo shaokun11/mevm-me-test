@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024BalanceTooLow2.json
-2024-07-26T06:16:57.646Z [PASSED] 1974/2723,0 static_Call1024BalanceTooLow2 1/2 data:0,gas:0,value:0  
-2024-07-26T06:17:29.390Z [PASSED] 1974/2723,0 static_Call1024BalanceTooLow2 2/2 data:1,gas:0,value:0  

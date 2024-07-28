@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/RevertSubCallStorageOOG2.json
-2024-07-26T05:30:28.621Z [PASSED] 1830/2723,0 RevertSubCallStorageOOG2 1/4 data:0,gas:0,value:0  
-2024-07-26T05:30:29.278Z [PASSED] 1830/2723,0 RevertSubCallStorageOOG2 2/4 data:0,gas:0,value:1  
-2024-07-26T05:30:29.933Z [PASSED] 1830/2723,0 RevertSubCallStorageOOG2 3/4 data:0,gas:1,value:0  
-2024-07-26T05:30:30.590Z [PASSED] 1830/2723,0 RevertSubCallStorageOOG2 4/4 data:0,gas:1,value:1  

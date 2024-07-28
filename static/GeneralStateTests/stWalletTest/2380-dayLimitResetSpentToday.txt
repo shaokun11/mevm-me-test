@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/dayLimitResetSpentToday.json
-2024-07-26T07:01:15.281Z [EXCEPTION] 2380/2723,0 dayLimitResetSpentToday 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

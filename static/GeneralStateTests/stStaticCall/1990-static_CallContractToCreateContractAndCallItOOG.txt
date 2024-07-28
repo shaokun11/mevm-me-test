@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallContractToCreateContractAndCallItOOG.json
-2024-07-26T06:50:34.852Z [PASSED] 1990/2723,0 static_CallContractToCreateContractAndCallItOOG 1/2 data:1,gas:0,value:0  
-2024-07-26T06:50:35.510Z [PASSED] 1990/2723,0 static_CallContractToCreateContractAndCallItOOG 2/2 data:0,gas:0,value:0  

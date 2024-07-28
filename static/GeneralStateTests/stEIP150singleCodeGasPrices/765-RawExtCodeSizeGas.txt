@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawExtCodeSizeGas.json
-2024-07-26T03:09:05.223Z [PASSED] 765/2723,0 RawExtCodeSizeGas 1/1 data:0,gas:0,value:0  

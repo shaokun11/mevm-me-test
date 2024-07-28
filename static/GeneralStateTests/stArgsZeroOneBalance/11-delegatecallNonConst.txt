@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/delegatecallNonConst.json
+2024-07-28T13:57:53.444Z [PASSED] 11/46,0 delegatecallNonConst 1/2 data:0,gas:0,value:0  
+2024-07-28T13:57:53.657Z [FAILED] 11/46,0 delegatecallNonConst 2/2 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"26425","state_root":"0xcd23cd54f6a65019d289741b4b05a065caa8061946978e32d527f82f93a5eedd","expected":"0x8f06a7487ff233a9f584a6cc6bc45a9b07e52a2f4522c8c4f8e23132d8163bdc","hash":"0xcde45d9ce7089dd31d5099a0b58f9ea8dfcbb21671be2fafb1edb2cc2cf7b07b"}

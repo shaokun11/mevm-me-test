@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallRipemd160_5.json
-2024-07-26T04:25:33.849Z [PASSED] 1160/2723,0 CallRipemd160_5 1/1 data:0,gas:0,value:0  

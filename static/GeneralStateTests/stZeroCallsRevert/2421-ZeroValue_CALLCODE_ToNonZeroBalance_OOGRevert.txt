@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALLCODE_ToNonZeroBalance_OOGRevert.json
-2024-07-26T07:01:15.361Z [EXCEPTION] 2421/2723,0 ZeroValue_CALLCODE_ToNonZeroBalance_OOGRevert 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

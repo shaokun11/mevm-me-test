@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/dayLimitConstruction.json
-2024-07-26T07:01:15.274Z [EXCEPTION] 2377/2723,0 dayLimitConstruction 1/2 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:15.276Z [EXCEPTION] 2377/2723,0 dayLimitConstruction 2/2 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

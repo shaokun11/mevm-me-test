@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/tload_after_tstore_is_zero.json
-2024-07-25T18:33:21.143Z [PASSED] 47/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_tload_after_tstore_is_zero[fork_Cancun-state_test] 1/1 data:0,gas:0,value:0  

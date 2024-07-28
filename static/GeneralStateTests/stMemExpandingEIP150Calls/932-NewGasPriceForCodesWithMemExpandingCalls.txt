@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/NewGasPriceForCodesWithMemExpandingCalls.json
-2024-07-26T03:46:04.958Z [PASSED] 932/2723,0 NewGasPriceForCodesWithMemExpandingCalls 1/1 data:0,gas:0,value:0  

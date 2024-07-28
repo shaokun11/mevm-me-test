@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticFlagEnabled/DelegatecallToPrecompileFromTransaction.json
+2024-07-28T15:13:11.199Z [FAILED] 11/13,0 DelegatecallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"2808684","state_root":"0x1be9ff19a63801d55eca568102e615117a618f644b7775c1ec08e2f129b38219","expected":"0x0175b5d7a06bd7a169cb92bef777d1950968ee2ad6e0e9ab87da9e583b8af01f","hash":"0x6e6467ffe63e5e139826656d942484a5f35514b17bf71a2201509f57cdc1adef"}

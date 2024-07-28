@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/FillStack.json
-2024-07-26T03:46:34.048Z [PASSED] 949/2723,0 FillStack 1/2 data:0,gas:0,value:0  
-2024-07-26T03:46:34.707Z [PASSED] 949/2723,0 FillStack 2/2 data:0,gas:1,value:0  

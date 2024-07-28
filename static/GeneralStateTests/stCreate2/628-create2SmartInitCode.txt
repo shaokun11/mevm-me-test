@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2SmartInitCode.json
-2024-07-26T02:51:13.605Z [SKIP] 628/2723,0 create2SmartInitCode 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-26T02:51:14.262Z [PASSED] 628/2723,0 create2SmartInitCode 2/2 data:1,gas:0,value:0  

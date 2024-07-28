@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCreateFailGasValueTransfer2.json
-2024-07-26T03:08:57.594Z [PASSED] 754/2723,0 RawCreateFailGasValueTransfer2 1/1 data:0,gas:0,value:0  

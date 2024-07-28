@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts/sec80.json
-2024-07-26T04:23:16.445Z [PASSED] 1075/2723,0 sec80 1/1 data:0,gas:0,value:0  

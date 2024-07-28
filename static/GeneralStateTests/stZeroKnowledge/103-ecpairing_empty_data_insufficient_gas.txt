@@ -1,0 +1,4 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_empty_data_insufficient_gas.json
+2024-07-28T15:41:36.463Z [PASSED] 103/134,0 ecpairing_empty_data_insufficient_gas 1/3 data:0,gas:0,value:0  
+2024-07-28T15:41:36.882Z [PASSED] 103/134,0 ecpairing_empty_data_insufficient_gas 2/3 data:0,gas:1,value:0  
+2024-07-28T15:41:37.098Z [FAILED] 103/134,0 ecpairing_empty_data_insufficient_gas 3/3 data:0,gas:2,value:0  {"gas_refund":"0","gas_usage":"94277","state_root":"0x6923d68af174ea4ea4f14a5cc07eb47f355a667ef889645055eebab6164d8d8a","expected":"0x3999a8698e46603d3968dff6b710c2eab0083a37cecc180480b20b0f45027dd4","hash":"0xf9ec1720a00ac4011bd5c4818761319968dc069c8c68d038fe8821ed918ff5ba"}

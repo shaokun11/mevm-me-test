@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertDepth2.json
+2024-07-28T14:49:32.815Z [PASSED] 7/46,0 RevertDepth2 1/2 data:0,gas:0,value:0  
+2024-07-28T14:49:33.035Z [PASSED] 7/46,0 RevertDepth2 2/2 data:0,gas:1,value:0  

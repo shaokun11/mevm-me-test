@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/callOutput3.json
+2024-07-28T14:21:24.664Z [PASSED] 10/28,0 callOutput3 1/1 data:0,gas:0,value:0  

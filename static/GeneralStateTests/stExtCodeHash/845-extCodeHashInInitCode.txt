@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashInInitCode.json
-2024-07-26T03:44:40.420Z [PASSED] 845/2723,0 extCodeHashInInitCode 1/2 data:0,gas:0,value:0  
-2024-07-26T03:44:41.074Z [PASSED] 845/2723,0 extCodeHashInInitCode 2/2 data:1,gas:0,value:0  

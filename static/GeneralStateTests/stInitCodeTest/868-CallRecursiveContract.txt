@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stInitCodeTest/CallRecursiveContract.json
-2024-07-26T03:45:16.772Z [PASSED] 868/2723,0 CallRecursiveContract 1/1 data:0,gas:0,value:0  

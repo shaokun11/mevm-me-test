@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/FailedCreateRevertsDeletionParis.json
-2024-07-26T05:50:56.673Z [PASSED] 1931/2723,0 FailedCreateRevertsDeletionParis 1/1 data:0,gas:0,value:0  

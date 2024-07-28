@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrefound.json
+2024-07-28T14:50:20.208Z [PASSED] 30/46,0 RevertPrefound 1/1 data:0,gas:0,value:0  

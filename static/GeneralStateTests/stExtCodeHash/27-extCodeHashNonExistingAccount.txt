@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashNonExistingAccount.json
+2024-07-28T14:31:11.355Z [PASSED] 27/36,0 extCodeHashNonExistingAccount 1/1 data:0,gas:0,value:0  

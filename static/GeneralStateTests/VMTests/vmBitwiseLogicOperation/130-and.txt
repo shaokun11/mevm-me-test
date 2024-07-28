@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/and.json
-2024-07-25T18:51:59.294Z [EXCEPTION] 130/2723,0 and 1/5 data:0,gas:0,value:0 and_2_2 {"error":"Waiting for transaction 0xad96b32bf814f4f710e6dc95eb2604a38cc4023cd2060a89c6133a3342d91c58 timed out after 90 seconds"}
-2024-07-25T18:53:32.641Z [EXCEPTION] 130/2723,0 and 2/5 data:2,gas:0,value:0 and_2_1 {"error":"Waiting for transaction 0x513c32f6d831a0ec776e8a50f7cf243d895bbc90004baa25211f3e730fe82bf4 timed out after 90 seconds"}
-2024-07-25T18:55:05.239Z [EXCEPTION] 130/2723,0 and 3/5 data:3,gas:0,value:0 and_3_1 {"error":"Waiting for transaction 0xdd7d6b422034746eba7e5916437429e0905e0f16025041c0822c98190fcba250 timed out after 90 seconds"}
-2024-07-25T18:55:05.903Z [PASSED] 130/2723,0 and 4/5 data:4,gas:0,value:0 and_allones_bignum 
-2024-07-25T18:55:06.563Z [PASSED] 130/2723,0 and 5/5 data:1,gas:0,value:0 and_allones_eefee 

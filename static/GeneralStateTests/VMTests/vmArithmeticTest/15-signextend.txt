@@ -1,0 +1,16 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/signextend.json
+2024-07-28T13:39:08.333Z [PASSED] 15/64,0 signextend 1/15 data:1,gas:0,value:0 invalid_byte 
+2024-07-28T13:39:08.545Z [PASSED] 15/64,0 signextend 2/15 data:6,gas:0,value:0 zero_zero 
+2024-07-28T13:39:08.758Z [PASSED] 15/64,0 signextend 3/15 data:0,gas:0,value:0 zero_neg1 
+2024-07-28T13:39:08.982Z [PASSED] 15/64,0 signextend 4/15 data:2,gas:0,value:0 neg2_neg2 
+2024-07-28T13:39:09.195Z [PASSED] 15/64,0 signextend 5/15 data:3,gas:0,value:0 neg1_neg1 
+2024-07-28T13:39:09.407Z [PASSED] 15/64,0 signextend 6/15 data:4,gas:0,value:0 large_ff 
+2024-07-28T13:39:09.620Z [PASSED] 15/64,0 signextend 7/15 data:5,gas:0,value:0 neg1_zero 
+2024-07-28T13:39:09.833Z [PASSED] 15/64,0 signextend 8/15 data:7,gas:0,value:0 bit_is_not_set 
+2024-07-28T13:39:10.047Z [PASSED] 15/64,0 signextend 9/15 data:8,gas:0,value:0 bit_is_not_set_high 
+2024-07-28T13:39:10.259Z [PASSED] 15/64,0 signextend 10/15 data:9,gas:0,value:0 bit_is_set_high 
+2024-07-28T13:39:10.472Z [PASSED] 15/64,0 signextend 11/15 data:10,gas:0,value:0 overflow_bytenum 
+2024-07-28T13:39:10.685Z [PASSED] 15/64,0 signextend 12/15 data:11,gas:0,value:0 overflow_bytenum2 
+2024-07-28T13:39:10.906Z [PASSED] 15/64,0 signextend 13/15 data:12,gas:0,value:0 bit_is_set 
+2024-07-28T13:39:11.119Z [PASSED] 15/64,0 signextend 14/15 data:13,gas:0,value:0 byte31_pos 
+2024-07-28T13:39:11.333Z [PASSED] 15/64,0 signextend 15/15 data:14,gas:0,value:0 byte31_neg 

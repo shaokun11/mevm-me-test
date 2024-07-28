@@ -50,13 +50,13 @@ for (let i = 0; i < files.length; i++) {
             addSummary(dir, "passed");
         } else if (line.includes("[SKIP]")) {
             addSummary(dir, "ignore");
-        } else {
+        }  else {
             isErr = true;
             addSummary(dir, "failed");
         }
     });
     if (isErr) {
-        SUMMARY.errors.push(files[i] + "|" + loc);
+        // SUMMARY.errors.push(files[i] + "|" + loc);
     }
 }
 console.log({

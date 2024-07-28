@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/QuadraticComplexitySolidity_CallDataCopy.json
+2024-07-28T14:41:32.157Z [PASSED] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 1/2 data:0,gas:0,value:0  
+2024-07-28T14:43:03.017Z [EXCEPTION] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 2/2 data:0,gas:1,value:0  {"error":"Waiting for transaction 0x86bb01965d11e2473f635e872b3d64ea8448db7727a522b2c56957f05b28d5ad timed out after 90 seconds"}

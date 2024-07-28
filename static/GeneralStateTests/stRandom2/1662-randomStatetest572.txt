@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRandom2/randomStatetest572.json
-2024-07-26T05:16:28.233Z [FAILED] 1662/2723,0 randomStatetest572 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::pop_stack_u64 at code offset 10","hash":"0xe3d07bc095e9aab9ce2fbc5617f8d2831befa59c7e7f0eb8431bd8189b2352eb","expected":"0x1e0d9378468e2852a825bdc96f10d9c9b24a7044a37f73ce200b19d04af1abb7"}

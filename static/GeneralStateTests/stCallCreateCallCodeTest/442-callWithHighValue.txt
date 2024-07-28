@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callWithHighValue.json
-2024-07-26T02:36:31.100Z [PASSED] 442/2723,0 callWithHighValue 1/1 data:0,gas:0,value:0  

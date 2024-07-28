@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallDelegateCodesHomestead/callcodecall_10.json
-2024-07-26T02:45:18.508Z [PASSED] 553/2723,0 callcodecall_10 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallSha256_5.json
-2024-07-26T04:25:40.621Z [PASSED] 1170/2723,0 CallSha256_5 1/1 data:0,gas:0,value:0  

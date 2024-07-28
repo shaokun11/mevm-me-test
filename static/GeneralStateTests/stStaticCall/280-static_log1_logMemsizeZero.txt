@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_log1_logMemsizeZero.json
+2024-07-28T15:12:57.380Z [FAILED] 280/286,0 static_log1_logMemsizeZero 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"46492","state_root":"0xe4b9d52a0e8fa10a19c4fa6c4ebd685b87caf0d4c21eef13ada06af201e1634d","expected":"0xda18974ad8120838e45333bb1636af9d02a938477f026e395c2d493d6e821648","hash":"0x31f1241c453dae2cd72bf52b803ae7ac572a4328e4fc5dcebcd7ed61bdacb516"}

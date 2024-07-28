@@ -1,25 +1,25 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGFromEOARefunds.json
-2024-07-25T17:01:31.611Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 1/24 data:0,gas:0,value:0 SStore_Refund_NoOoG 
-2024-07-25T17:01:32.266Z [FAILED] 29/47,0 CreateOOGFromEOARefunds 2/24 data:3,gas:0,value:0 SStore_Refund_OoG {"gas_refund":"4800","gas_usage":"78459","state_root":"0xa1252f7f810c9646de1fd3dcb015f8573181832fa9c58565394e9ff0160f639f","expected":"0x44c3babfdf8d7b3b9ddfb66e285b678d12c4e60ca62dfe264e69ec7d0f86c61f","hash":"0xa04b9911261965b621b033ca52324edc8facccba3d42ec3c33a8ad79f73abd89"}
-2024-07-25T17:01:32.921Z [FAILED] 29/47,0 CreateOOGFromEOARefunds 3/24 data:6,gas:0,value:0 SStore_Refund_OoG {"gas_refund":"19900","gas_usage":"80610","state_root":"0x005c7f6ca23d40b603a5181d54465de11dcabfa86a6ed2bdf7c24667385435d1","expected":"0xc321cf8fc9e20a0dd98ded5e82025566ac94d91da5e2001b78928f1d8230cbd0","hash":"0xdd8ac9b6def88a5fbe60eb31443804cf274a3ed34d6c0d2b2b46b81c30b2407d"}
-2024-07-25T17:01:33.577Z [FAILED] 29/47,0 CreateOOGFromEOARefunds 4/24 data:9,gas:0,value:0 SStore_Refund_NoOoG {"gas_refund":"19900","gas_usage":"80629","state_root":"0x6c1463e49c4fafe03570b56e7b670f1e70b93ef13c9a60718a162711966111a5","expected":"0x2b3b33f2d4b03324bc5935c5d5eec51bb0c87d2cbb21675251b2d7eb8e11b6ff","hash":"0x4d4cb091404228a5d776053adc4917f38f8445c45532a3a4b08df505537fe55b"}
-2024-07-25T17:01:34.237Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 5/24 data:1,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:34.892Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 6/24 data:2,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:35.547Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 7/24 data:4,gas:0,value:0 SStore_Refund_NoOoG 
-2024-07-25T17:01:36.204Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 8/24 data:5,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:36.858Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 9/24 data:7,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:37.513Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 10/24 data:8,gas:0,value:0 SStore_Refund_NoOoG 
-2024-07-25T17:01:38.169Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 11/24 data:10,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:38.824Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 12/24 data:11,gas:0,value:0 SStore_Refund_OoG 
-2024-07-25T17:01:39.483Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 13/24 data:12,gas:0,value:0 SelfDestruct_Refund_NoOoG Not implementation SELFDESTRUCT opcode
-2024-07-25T17:01:40.139Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 14/24 data:13,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
-2024-07-25T17:01:40.793Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 15/24 data:14,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
-2024-07-25T17:01:41.448Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 16/24 data:15,gas:0,value:0 LogOp_NoOoG 
-2024-07-25T17:01:42.102Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 17/24 data:16,gas:0,value:0 LogOp_OoG 
-2024-07-25T17:01:42.758Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 18/24 data:17,gas:0,value:0 LogOp_OoG 
-2024-07-25T17:01:43.413Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 19/24 data:18,gas:0,value:0 SStore_Create_Refund_NoOoG 
-2024-07-25T17:01:44.068Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 20/24 data:19,gas:0,value:0 SStore_Create_Refund_OoG 
-2024-07-25T17:01:44.727Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 21/24 data:20,gas:0,value:0 SStore_Create_Refund_OoG 
-2024-07-25T17:01:45.384Z [FAILED] 29/47,0 CreateOOGFromEOARefunds 22/24 data:21,gas:0,value:0 SStore_Create2_Refund_NoOoG {"gas_refund":"19900","gas_usage":"112737","state_root":"0x1263731b8d5b36f0aa414509f7ad0acdc14ab7f320b430dbce32e4498000a41c","expected":"0xf99e9b3467667c76ef74e80007d602fda5a57b936cd1fcecb31da1d4d4db2d64","hash":"0x7c349763cac994d36086467ef1e4dd6866ab502fff16406889fa5a614ac1cf18"}
-2024-07-25T17:01:46.040Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 23/24 data:22,gas:0,value:0 SStore_Create2_Refund_OoG 
-2024-07-25T17:01:46.696Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 24/24 data:23,gas:0,value:0 SStore_Create2_Refund_OoG 
+2024-07-28T14:20:19.972Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 1/24 data:0,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-28T14:20:20.187Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 2/24 data:3,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:20.401Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 3/24 data:6,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:20.615Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 4/24 data:9,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-28T14:20:20.829Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 5/24 data:1,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:21.042Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 6/24 data:2,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:21.256Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 7/24 data:4,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-28T14:20:23.697Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 8/24 data:5,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:23.912Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 9/24 data:7,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:24.126Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 10/24 data:8,gas:0,value:0 SStore_Refund_NoOoG 
+2024-07-28T14:20:24.340Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 11/24 data:10,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:24.553Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 12/24 data:11,gas:0,value:0 SStore_Refund_OoG 
+2024-07-28T14:20:24.767Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 13/24 data:12,gas:0,value:0 SelfDestruct_Refund_NoOoG Not implementation SELFDESTRUCT opcode
+2024-07-28T14:20:24.980Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 14/24 data:13,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
+2024-07-28T14:20:25.194Z [SKIP] 29/47,0 CreateOOGFromEOARefunds 15/24 data:14,gas:0,value:0 SelfDestruct_Refund_OoG Not implementation SELFDESTRUCT opcode
+2024-07-28T14:20:25.405Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 16/24 data:15,gas:0,value:0 LogOp_NoOoG 
+2024-07-28T14:20:25.619Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 17/24 data:16,gas:0,value:0 LogOp_OoG 
+2024-07-28T14:20:25.832Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 18/24 data:17,gas:0,value:0 LogOp_OoG 
+2024-07-28T14:20:26.045Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 19/24 data:18,gas:0,value:0 SStore_Create_Refund_NoOoG 
+2024-07-28T14:20:26.259Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 20/24 data:19,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-07-28T14:20:26.473Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 21/24 data:20,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-07-28T14:20:26.686Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 22/24 data:21,gas:0,value:0 SStore_Create2_Refund_NoOoG 
+2024-07-28T14:20:26.899Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 23/24 data:22,gas:0,value:0 SStore_Create2_Refund_OoG 
+2024-07-28T14:20:27.112Z [PASSED] 29/47,0 CreateOOGFromEOARefunds 24/24 data:23,gas:0,value:0 SStore_Create2_Refund_OoG 

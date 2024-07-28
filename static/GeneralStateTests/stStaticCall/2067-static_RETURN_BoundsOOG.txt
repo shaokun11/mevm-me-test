@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_RETURN_BoundsOOG.json
-2024-07-26T07:01:04.430Z [EXCEPTION] 2067/2723,0 static_RETURN_BoundsOOG 1/2 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:04.432Z [EXCEPTION] 2067/2723,0 static_RETURN_BoundsOOG 2/2 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

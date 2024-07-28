@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODERipemd160_0.json
+2024-07-28T14:38:24.677Z [FAILED] 27/102,0 CALLCODERipemd160_0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"45997","state_root":"0x4b08baea5d22f176f75657e034173fd669cc25d65fffeaca3ea19bf515d1d6d5","expected":"0x359952601a37342c056abf8b34ffb87513ab5cff1ddc6393f1e9d70838313c26","hash":"0xe602e7c47dffce15b18c15334505955e7bee2da49d61e7c38d859421ce375503"}

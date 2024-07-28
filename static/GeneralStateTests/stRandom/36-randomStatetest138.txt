@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest138.json
-2024-07-25T16:47:53.264Z [FAILED] 36/310,0 randomStatetest138 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"87414","state_root":"0x12ef299d98a4ff9525705177ddc6022dd8491c5a9398dc1889940a1191dd2bd3","expected":"0x058e4a96c3ff05018b25ef1d74a11a418a6dd94028e1bf910ae53196b9eb5b2b","hash":"0x388c901aaf5bb2b3d3c96f1b627370ca2c8561553bcfa449691a2b854bb5e598"}
+2024-07-28T14:46:09.719Z [PASSED] 36/310,0 randomStatetest138 1/1 data:0,gas:0,value:0  

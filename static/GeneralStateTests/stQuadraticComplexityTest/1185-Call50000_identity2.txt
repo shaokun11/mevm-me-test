@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call50000_identity2.json
-2024-07-26T04:44:08.594Z [FAILED] 1185/2723,0 Call50000_identity2 1/2 data:0,gas:1,value:0  {"error":"Execution failed in 0x1::string_utils::native_format at code offset 0","hash":"0x47aa4a7899e531dd477ac556667ce356c010b4c66a406802810416c825e43eb6","expected":"0x824600da0e836dd4352478271aeaec499ddd8480cc431cafb09b4b91871e9449"}
-2024-07-26T04:44:12.788Z [PASSED] 1185/2723,0 Call50000_identity2 2/2 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallSha256_3_postfix0.json
-2024-07-26T04:25:37.776Z [PASSED] 1166/2723,0 CallSha256_3_postfix0 1/1 data:0,gas:0,value:0  

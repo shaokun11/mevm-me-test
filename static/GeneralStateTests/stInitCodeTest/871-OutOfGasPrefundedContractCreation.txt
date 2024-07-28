@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stInitCodeTest/OutOfGasPrefundedContractCreation.json
-2024-07-26T03:45:20.702Z [PASSED] 871/2723,0 OutOfGasPrefundedContractCreation 1/3 data:0,gas:0,value:0  
-2024-07-26T03:45:21.359Z [PASSED] 871/2723,0 OutOfGasPrefundedContractCreation 2/3 data:0,gas:1,value:0  
-2024-07-26T03:45:22.013Z [PASSED] 871/2723,0 OutOfGasPrefundedContractCreation 3/3 data:0,gas:2,value:0  

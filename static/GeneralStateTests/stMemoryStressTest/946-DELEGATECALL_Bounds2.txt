@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/DELEGATECALL_Bounds2.json
-2024-07-26T03:46:27.306Z [PASSED] 946/2723,0 DELEGATECALL_Bounds2 1/2 data:0,gas:0,value:0  
-2024-07-26T03:46:27.960Z [PASSED] 946/2723,0 DELEGATECALL_Bounds2 2/2 data:0,gas:1,value:0  

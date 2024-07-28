@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecmul_7827-6598_9935_21000_96.json
+2024-07-28T15:41:27.877Z [PASSED] 93/134,0 ecmul_7827-6598_9935_21000_96 1/4 data:0,gas:0,value:0  
+2024-07-28T15:41:28.091Z [PASSED] 93/134,0 ecmul_7827-6598_9935_21000_96 2/4 data:0,gas:1,value:0  
+2024-07-28T15:41:28.306Z [FAILED] 93/134,0 ecmul_7827-6598_9935_21000_96 3/4 data:0,gas:2,value:0  {"gas_refund":"0","gas_usage":"56665","state_root":"0x240bda2df9d346ad8109b6d80c1a60c1a1de7fd33b4d7b1c4698ae4eb3408c84","expected":"0xd1ba420f56542538b147514bb5021c31a0da923aea9cfd04d20aa51b47854391","hash":"0x827dff7a004e4bc18ab73a19816a8be8b925d88ea77593c6782a25f78207d68e"}
+2024-07-28T15:41:28.521Z [FAILED] 93/134,0 ecmul_7827-6598_9935_21000_96 4/4 data:0,gas:3,value:0  {"gas_refund":"0","gas_usage":"56665","state_root":"0x240bda2df9d346ad8109b6d80c1a60c1a1de7fd33b4d7b1c4698ae4eb3408c84","expected":"0xd1ba420f56542538b147514bb5021c31a0da923aea9cfd04d20aa51b47854391","hash":"0x103d254a0cd8d7d5ac52372d0387bdb10f3c5233a08f8367bb5f244986e8bdec"}

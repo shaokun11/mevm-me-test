@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStackTests/stackOverflowSWAP.json
-2024-07-26T06:02:36.076Z [PASSED] 1953/2723,0 stackOverflowSWAP 1/1 data:0,gas:0,value:0  

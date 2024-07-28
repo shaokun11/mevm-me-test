@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCreateGasMemory.json
-2024-07-26T03:08:58.902Z [PASSED] 756/2723,0 RawCreateGasMemory 1/1 data:0,gas:0,value:0  

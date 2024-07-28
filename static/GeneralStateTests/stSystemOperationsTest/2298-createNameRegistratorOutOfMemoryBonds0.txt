@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorOutOfMemoryBonds0.json
-2024-07-26T07:01:05.016Z [EXCEPTION] 2298/2723,0 createNameRegistratorOutOfMemoryBonds0 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

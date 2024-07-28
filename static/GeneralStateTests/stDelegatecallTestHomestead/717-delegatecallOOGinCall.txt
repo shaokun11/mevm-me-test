@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallOOGinCall.json
-2024-07-26T03:08:25.495Z [PASSED] 717/2723,0 delegatecallOOGinCall 1/1 data:0,gas:0,value:0  

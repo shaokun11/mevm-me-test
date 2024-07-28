@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/ABAcalls2.json
+2024-07-28T15:13:12.954Z [PASSED] 2/67,0 ABAcalls2 1/1 data:0,gas:0,value:0  

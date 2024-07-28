@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/ByZero.json
+2024-07-28T14:52:44.991Z [PASSED] 1/18,0 ByZero 1/4 data:0,gas:0,value:0  
+2024-07-28T14:52:45.209Z [PASSED] 1/18,0 ByZero 2/4 data:1,gas:0,value:0  
+2024-07-28T14:52:45.425Z [PASSED] 1/18,0 ByZero 3/4 data:2,gas:0,value:0  
+2024-07-28T14:52:45.640Z [PASSED] 1/18,0 ByZero 4/4 data:3,gas:0,value:0  

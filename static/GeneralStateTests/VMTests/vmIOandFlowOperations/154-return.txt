@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/return.json
-2024-07-25T18:59:44.452Z [PASSED] 154/2723,0 return 1/5 data:0,gas:0,value:0 return 
-2024-07-25T18:59:45.108Z [PASSED] 154/2723,0 return 2/5 data:2,gas:0,value:0 returnInfBuff 
-2024-07-25T18:59:45.772Z [PASSED] 154/2723,0 return 3/5 data:1,gas:0,value:0 returnBigBuff 
-2024-07-25T18:59:46.431Z [PASSED] 154/2723,0 return 4/5 data:3,gas:0,value:0 returnOffset 
-2024-07-25T18:59:47.097Z [PASSED] 154/2723,0 return 5/5 data:4,gas:0,value:0 returnOld 

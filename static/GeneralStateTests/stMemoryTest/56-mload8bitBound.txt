@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/mload8bitBound.json
+2024-07-28T14:33:58.014Z [PASSED] 56/71,0 mload8bitBound 1/1 data:0,gas:0,value:0  

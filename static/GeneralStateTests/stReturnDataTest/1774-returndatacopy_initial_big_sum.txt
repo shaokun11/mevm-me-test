@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_initial_big_sum.json
-2024-07-26T05:23:00.363Z [PASSED] 1774/2723,0 returndatacopy_initial_big_sum 1/1 data:0,gas:0,value:0  

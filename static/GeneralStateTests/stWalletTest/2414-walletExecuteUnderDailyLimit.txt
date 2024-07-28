@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/walletExecuteUnderDailyLimit.json
-2024-07-26T07:01:15.350Z [EXCEPTION] 2414/2723,0 walletExecuteUnderDailyLimit 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

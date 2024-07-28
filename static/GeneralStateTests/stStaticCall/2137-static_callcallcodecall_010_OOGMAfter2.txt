@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010_OOGMAfter2.json
-2024-07-26T07:01:04.625Z [EXCEPTION] 2137/2723,0 static_callcallcodecall_010_OOGMAfter2 1/2 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:04.628Z [EXCEPTION] 2137/2723,0 static_callcallcodecall_010_OOGMAfter2 2/2 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

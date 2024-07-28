@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_NoGas.json
-2024-07-26T06:50:46.658Z [PASSED] 1997/2723,0 static_CallEcrecover0_NoGas 1/1 data:0,gas:0,value:0  

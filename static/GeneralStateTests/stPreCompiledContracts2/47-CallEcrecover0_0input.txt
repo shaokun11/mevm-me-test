@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallEcrecover0_0input.json
+2024-07-28T14:38:28.962Z [FAILED] 47/102,0 CallEcrecover0_0input 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"51019","state_root":"0x9b043bf70093c596d5349941a20fd22e87b87c8b72621f3cc4e32a51695a9a92","expected":"0xeb46f2049101780391640e9d6249dfd4eb7d06f99e4848bc081734e2e8a8fcb9","hash":"0xbac6d7e45b5888f5463a4f87ace519e9daabc83d51e726e91b2137f241dbb98e"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticFlagEnabled/DelegatecallToPrecompileFromContractInitialization.json
+2024-07-28T15:13:10.782Z [FAILED] 10/13,0 DelegatecallToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"2911353","state_root":"0x06d066e15b4183f88aa65ddbc8930dbf90fcf826f264dd7f3abc1b550cba1a91","expected":"0xd6bca6acb13fe5c9c703cf2e77603528e5ec961ae3ee88bea53adec61da846cc","hash":"0xb0849e6531fdb8be750e8cbb0952a899f5be9c56211bbdbedf9092fd00e780a2"}

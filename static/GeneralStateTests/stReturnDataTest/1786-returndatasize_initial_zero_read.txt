@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_initial_zero_read.json
-2024-07-26T05:23:20.261Z [PASSED] 1786/2723,0 returndatasize_initial_zero_read 1/2 data:0,gas:0,value:0  
-2024-07-26T05:23:20.921Z [PASSED] 1786/2723,0 returndatasize_initial_zero_read 2/2 data:1,gas:0,value:0  

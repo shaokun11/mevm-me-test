@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_identity2.json
-2024-07-26T06:33:40.083Z [FAILED] 1983/2723,0 static_Call50000_identity2 1/2 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::string_utils::native_format at code offset 0","hash":"0x8203bebf8679281c98fb3d1296a73e6df4f3b96be2e6db7ea45f52baf8ba19d6","expected":"0x465061b4d2328c6bd20fc29a685987c9bfbd38f92b9493f4d1ed28e0bbe73513"}
-2024-07-26T06:34:54.468Z [FAILED] 1983/2723,0 static_Call50000_identity2 2/2 data:1,gas:0,value:0  {"error":"Execution failed in 0x1::string_utils::native_format at code offset 0","hash":"0xd319c6c5954bd1db252353c7231c058413fe56ae335bed50d92a489096251168","expected":"0x6da379c8a8690db0bd0e3713b56ffae9f5ef2228745f663636d346c7256aae73"}

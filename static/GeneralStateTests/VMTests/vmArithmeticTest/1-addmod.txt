@@ -1,0 +1,17 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/addmod.json
+2024-07-28T13:38:25.318Z [PASSED] 1/64,0 addmod 1/16 data:0,gas:0,value:0 addmod_1_2_2 
+2024-07-28T13:38:25.532Z [PASSED] 1/64,0 addmod 2/16 data:1,gas:0,value:0 addmod_neg1_neg2_2 
+2024-07-28T13:38:25.747Z [PASSED] 1/64,0 addmod 3/16 data:2,gas:0,value:0 addmod_neg6_1_3 
+2024-07-28T13:38:25.963Z [PASSED] 1/64,0 addmod 4/16 data:3,gas:0,value:0 addmod_eq_smod 
+2024-07-28T13:38:26.178Z [PASSED] 1/64,0 addmod 5/16 data:4,gas:0,value:0 addmod_eq_mod 
+2024-07-28T13:38:26.397Z [PASSED] 1/64,0 addmod 6/16 data:5,gas:0,value:0 addmod_4_1_neg3 
+2024-07-28T13:38:26.611Z [PASSED] 1/64,0 addmod 7/16 data:6,gas:0,value:0 addmod_4_1_neg3_eq 
+2024-07-28T13:38:26.824Z [PASSED] 1/64,0 addmod 8/16 data:7,gas:0,value:0 addmod_neg1_0_5 
+2024-07-28T13:38:27.038Z [PASSED] 1/64,0 addmod 9/16 data:8,gas:0,value:0 addmod_neg1_1_5 
+2024-07-28T13:38:27.252Z [PASSED] 1/64,0 addmod 10/16 data:9,gas:0,value:0 addmod_neg1_2_5 
+2024-07-28T13:38:27.466Z [PASSED] 1/64,0 addmod 11/16 data:10,gas:0,value:0 addmod_neg1_neg2_5 
+2024-07-28T13:38:27.680Z [PASSED] 1/64,0 addmod 12/16 data:11,gas:0,value:0 addmod_2_160_1_5 
+2024-07-28T13:38:27.894Z [PASSED] 1/64,0 addmod 13/16 data:12,gas:0,value:0 addmod_4_1_0 
+2024-07-28T13:38:28.112Z [PASSED] 1/64,0 addmod 14/16 data:13,gas:0,value:0 addmod_0_1_0 
+2024-07-28T13:38:28.325Z [PASSED] 1/64,0 addmod 15/16 data:14,gas:0,value:0 addmod_1_0_0 
+2024-07-28T13:38:28.538Z [PASSED] 1/64,0 addmod 16/16 data:15,gas:0,value:0 addmod_0_0_0_min_1 

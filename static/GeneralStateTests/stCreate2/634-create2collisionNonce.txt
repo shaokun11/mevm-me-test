@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2collisionNonce.json
-2024-07-26T02:51:33.059Z [PASSED] 634/2723,0 create2collisionNonce 1/3 data:0,gas:0,value:0  
-2024-07-26T02:51:33.712Z [PASSED] 634/2723,0 create2collisionNonce 2/3 data:1,gas:0,value:0  
-2024-07-26T02:51:34.366Z [PASSED] 634/2723,0 create2collisionNonce 3/3 data:2,gas:0,value:0  

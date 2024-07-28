@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stLogTests/log2_logMemsizeTooHigh.json
+2024-07-28T14:31:31.408Z [PASSED] 20/46,0 log2_logMemsizeTooHigh 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json
-2024-07-25T18:11:47.467Z [EXCEPTION] 14/2723,0 15_tstoreCannotBeDosd 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xae5161607a2184ea0e729394c72744c245f01e6944738d9f5eee9d7385de617c timed out after 90 seconds"}
+2024-07-28T13:27:10.825Z [PASSED] 14/37,0 15_tstoreCannotBeDosd 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawExtCodeCopyMemoryGas.json
+2024-07-28T14:21:40.497Z [PASSED] 28/40,0 RawExtCodeCopyMemoryGas 1/1 data:0,gas:0,value:0  

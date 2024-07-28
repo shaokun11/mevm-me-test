@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_initial.json
-2024-07-26T05:22:57.744Z [PASSED] 1772/2723,0 returndatacopy_initial 1/1 data:0,gas:0,value:0  

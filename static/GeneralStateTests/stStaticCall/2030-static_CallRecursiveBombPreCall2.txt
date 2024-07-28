@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBombPreCall2.json
-2024-07-26T06:54:29.103Z [PASSED] 2030/2723,0 static_CallRecursiveBombPreCall2 1/1 data:0,gas:0,value:0  

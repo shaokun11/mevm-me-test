@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRandom2/randomStatetest596.json
+2024-07-28T14:48:03.989Z [FAILED] 175/220,0 randomStatetest596 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"47541","state_root":"0xccaf444c1b635df67231377f593764d62f50434a77398940cdfbbf41bf0cd26f","expected":"0x7aa1cf4c14bd17e8696f03e4f83e55f15becd81db401edba9d8d7ca81a628904","hash":"0x87adafa8a965061b3c11295d3642b190b3daf0c2b4b14eff7711cb154c803462"}

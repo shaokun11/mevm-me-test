@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stLogTests/log0_nonEmptyMem_logMemSize1_logMemStart31.json
-2024-07-26T03:45:31.184Z [PASSED] 885/2723,0 log0_nonEmptyMem_logMemSize1_logMemStart31 1/1 data:0,gas:0,value:0  

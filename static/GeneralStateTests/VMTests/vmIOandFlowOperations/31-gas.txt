@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/gas.json
+2024-07-28T13:39:27.752Z [PASSED] 31/64,0 gas 1/2 data:0,gas:0,value:0 gas1 
+2024-07-28T13:39:27.965Z [PASSED] 31/64,0 gas 2/2 data:1,gas:0,value:0 gas2 

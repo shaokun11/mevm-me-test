@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_two_point_match_4.json
+2024-07-28T15:42:27.169Z [FAILED] 125/134,0 ecpairing_two_point_match_4 1/4 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"147813","state_root":"0xe2b9765463604aa391cb137dc4d55fcd9e04eccefc2cdc88a450fa62f52278fb","expected":"0x611f9c1c4bce577d9984306bf202cbc893a86b78ea281e918f1b39f33d911463","hash":"0x5c2d5b3935da281f6598e87b3efd2f7e8f948abd75ce8e3c02bcbabdbfaec721"}
+2024-07-28T15:42:27.381Z [PASSED] 125/134,0 ecpairing_two_point_match_4 2/4 data:0,gas:1,value:0  
+2024-07-28T15:42:27.595Z [PASSED] 125/134,0 ecpairing_two_point_match_4 3/4 data:0,gas:2,value:0  
+2024-07-28T15:42:27.807Z [FAILED] 125/134,0 ecpairing_two_point_match_4 4/4 data:0,gas:3,value:0  {"gas_refund":"0","gas_usage":"147813","state_root":"0xe2b9765463604aa391cb137dc4d55fcd9e04eccefc2cdc88a450fa62f52278fb","expected":"0x611f9c1c4bce577d9984306bf202cbc893a86b78ea281e918f1b39f33d911463","hash":"0x68eb02c93f1ae5564a0f826f733c6478b0dad368626715fcbb2dacc115649bdd"}

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/dynamicAccountOverwriteEmpty_Paris.json
-2024-07-26T03:44:23.399Z [FAILED] 825/2723,0 dynamicAccountOverwriteEmpty_Paris 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"241623","state_root":"0xa5eb59c308d0473198980b46664066a1475ae1e24dea4b3508c224fefba5ec2a","expected":"0x15fe0321941060822acb893c7a6c5cf64d471e0913a66e44e45cf8ca1a9d81cd","hash":"0xf858fa8c1166c42e0529118c5398fcd9fdeb60310424fa31d3d410706cc75f27"}

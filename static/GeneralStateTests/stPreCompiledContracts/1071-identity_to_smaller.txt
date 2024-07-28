@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts/identity_to_smaller.json
-2024-07-26T04:14:20.967Z [PASSED] 1071/2723,0 identity_to_smaller 1/1 data:0,gas:0,value:0  

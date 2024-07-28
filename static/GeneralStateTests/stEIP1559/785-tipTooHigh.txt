@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP1559/tipTooHigh.json
-2024-07-26T03:41:08.361Z [PASSED] 785/2723,0 tipTooHigh 1/1 data:0,gas:0,value:0 declaredKeyWrite 

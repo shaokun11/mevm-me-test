@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/CallLoseGasOOG.json
-2024-07-26T03:05:54.093Z [EXCEPTION] 697/2723,0 CallLoseGasOOG 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xc3f7adb1b23093f4e4e044b16b604d088e104f6481007bb034045c2aa9a34a66 timed out after 90 seconds"}

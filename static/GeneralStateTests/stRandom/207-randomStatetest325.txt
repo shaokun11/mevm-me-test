@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest325.json
+2024-07-28T14:46:52.235Z [PASSED] 207/310,0 randomStatetest325 1/1 data:0,gas:0,value:0  

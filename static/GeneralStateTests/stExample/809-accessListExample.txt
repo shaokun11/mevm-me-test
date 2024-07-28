@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stExample/accessListExample.json
-2024-07-26T03:43:47.703Z [PASSED] 809/2723,0 accessListExample 1/2 data:0,gas:0,value:0 declaredKeyWrite 
-2024-07-26T03:43:48.359Z [PASSED] 809/2723,0 accessListExample 2/2 data:1,gas:0,value:0 declaredKeyWrite2 

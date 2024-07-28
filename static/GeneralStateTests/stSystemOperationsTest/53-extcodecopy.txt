@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/extcodecopy.json
+2024-07-28T15:13:29.315Z [SKIP] 53/67,0 extcodecopy 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

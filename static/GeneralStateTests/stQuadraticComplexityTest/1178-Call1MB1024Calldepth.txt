@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call1MB1024Calldepth.json
-2024-07-26T04:27:12.338Z [FAILED] 1178/2723,0 Call1MB1024Calldepth 1/2 data:0,gas:1,value:0  {"error":"Execution failed in 0x1::evm_util::read_memory at code offset 7","hash":"0x36903c590354ad7be32a4bde0ad914b1762634ac94d70d4b2477e2ab16152c75","expected":"0x5de8ccc907a2cf4b21c0ee18f6ccd171f7b6a517b149cc7fb5398ec40d619e0f"}
-2024-07-26T04:27:13.409Z [PASSED] 1178/2723,0 Call1MB1024Calldepth 2/2 data:0,gas:0,value:0  

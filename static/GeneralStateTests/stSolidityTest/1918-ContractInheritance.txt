@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSolidityTest/ContractInheritance.json
-2024-07-26T05:50:43.422Z [PASSED] 1918/2723,0 ContractInheritance 1/1 data:0,gas:0,value:0  

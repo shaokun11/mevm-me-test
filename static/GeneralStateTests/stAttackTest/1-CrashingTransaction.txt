@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stAttackTest/CrashingTransaction.json
+2024-07-28T13:59:08.895Z [SKIP] 1/2,0 CrashingTransaction 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

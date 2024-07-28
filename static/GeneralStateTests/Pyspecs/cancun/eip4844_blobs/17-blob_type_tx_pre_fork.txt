@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/blob_type_tx_pre_fork.json
+2024-07-28T13:29:19.670Z [SKIP] 17/66,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_blob_type_tx_pre_fork[fork_ShanghaiToCancunAtTime15k-state_test-no_blob_tx] No Cancun post state found
+2024-07-28T13:29:19.670Z [SKIP] 17/66,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_blob_type_tx_pre_fork[fork_ShanghaiToCancunAtTime15k-state_test-one_blob_tx] No Cancun post state found

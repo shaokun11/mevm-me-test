@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/JUMP_Bounds2.json
-2024-07-26T03:46:37.982Z [PASSED] 952/2723,0 JUMP_Bounds2 1/2 data:0,gas:0,value:0  
-2024-07-26T03:46:38.637Z [PASSED] 952/2723,0 JUMP_Bounds2 2/2 data:0,gas:1,value:0  

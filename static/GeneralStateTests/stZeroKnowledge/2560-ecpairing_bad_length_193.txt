@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_bad_length_193.json
-2024-07-26T07:01:16.242Z [EXCEPTION] 2560/2723,0 ecpairing_bad_length_193 1/4 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:16.244Z [EXCEPTION] 2560/2723,0 ecpairing_bad_length_193 2/4 data:0,gas:1,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:16.247Z [EXCEPTION] 2560/2723,0 ecpairing_bad_length_193 3/4 data:0,gas:2,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:16.249Z [EXCEPTION] 2560/2723,0 ecpairing_bad_length_193 4/4 data:0,gas:3,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

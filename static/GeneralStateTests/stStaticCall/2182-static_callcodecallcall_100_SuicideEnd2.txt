@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcall_100_SuicideEnd2.json
-2024-07-26T07:01:04.787Z [EXCEPTION] 2182/2723,0 static_callcodecallcall_100_SuicideEnd2 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stShift/sar00.json
-2024-07-26T05:42:47.996Z [PASSED] 1871/2723,0 sar00 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_refund_CallToSuicideTwice.json
+2024-07-28T15:12:59.508Z [SKIP] 285/286,0 static_refund_CallToSuicideTwice 1/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-07-28T15:12:59.721Z [PASSED] 285/286,0 static_refund_CallToSuicideTwice 2/2 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/StaticcallToPrecompileFromTransaction.json
+2024-07-28T14:54:38.023Z [FAILED] 2/286,0 StaticcallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"631323","state_root":"0xe9562144f6aa7e66c5b4cc763ff5d7b469d05941c056fe1912ea55bbf829b3fa","expected":"0x27bc5cdd4095fa9763fdaa343d55bd7023529ee48865d66d46fae4cc1a6bfaeb","hash":"0x982cf715f6c2ab85aeb12f6b222c55ad2785ea537e4dd9029209756b755c5125"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallSha256_3_postfix0.json
+2024-07-28T14:38:42.090Z [FAILED] 90/102,0 CallSha256_3_postfix0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67932","state_root":"0x4b65cdfdf1b93b10691be8f007ca0d49cc68ddf001c49e7c59d5581a0b952ee7","expected":"0xa503b119cc7a5f3a0b967cba8ab750524c46fbb49f813356a521f057c19a4a2b","hash":"0xccae0ae9a54f68ece8b8373f7dd90cbed6ced1e143cbf8252ba986c8739d8989"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallIdentitiy_0.json
+2024-07-28T14:38:36.753Z [FAILED] 66/102,0 CallIdentitiy_0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"45760","state_root":"0xf37235361ada06512d31c94bab0127694b4b63665107cc3b68526360629b67a1","expected":"0xc936f12dd47ba54e9f3b447f35ac26d580707686efb761ef517c5377cb8169f2","hash":"0xead6e24f27a97d462370a22cab84059870001ffddd95a193587d6ed0a12d1b10"}

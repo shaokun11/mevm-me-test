@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallDelegateCodesHomestead/callcallcodecall_ABCB_RECURSIVE.json
+2024-07-28T14:18:54.069Z [FAILED] 16/58,0 callcallcodecall_ABCB_RECURSIVE 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"568587","state_root":"0x1e167e15119bd9d614268faa80af9c7deadf10e63c7a4eb3a8b38195c536f6de","expected":"0xd0c8a78b5e0c065435cdd2fac27ac12c121536f9c77a46f54d053e418134e977","hash":"0xb4b8de3c4cb4bced84b9f83564af685c178fd924a8ca9c2275f241afe82a1d71"}

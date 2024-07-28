@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stInitCodeTest/TransactionCreateRandomInitCode.json
+2024-07-28T14:31:23.943Z [PASSED] 14/17,0 TransactionCreateRandomInitCode 1/1 data:0,gas:0,value:0  

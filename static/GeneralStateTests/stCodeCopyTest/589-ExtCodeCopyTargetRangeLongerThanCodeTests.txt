@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCodeCopyTest/ExtCodeCopyTargetRangeLongerThanCodeTests.json
-2024-07-26T02:46:15.861Z [PASSED] 589/2723,0 ExtCodeCopyTargetRangeLongerThanCodeTests 1/1 data:0,gas:0,value:0  

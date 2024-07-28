@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallIdentity_2.json
+2024-07-28T15:06:50.952Z [FAILED] 59/286,0 static_CallIdentity_2 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67866","state_root":"0xd3285cce6ecafa2827b49a6937d1ba2fd61fb1ea8e42987ce8f4b259e043da01","expected":"0x5176c743427f1d25863c205a98acb3f525814f52703122702d9bc32dcc373d36","hash":"0x52bbb12ff10840d6b9336421c952733208e62a4110b5085680cef625e1bfa612"}

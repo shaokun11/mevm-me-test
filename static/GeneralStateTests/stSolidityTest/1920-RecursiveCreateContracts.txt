@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSolidityTest/RecursiveCreateContracts.json
-2024-07-26T05:50:45.368Z [PASSED] 1920/2723,0 RecursiveCreateContracts 1/1 data:0,gas:0,value:0  

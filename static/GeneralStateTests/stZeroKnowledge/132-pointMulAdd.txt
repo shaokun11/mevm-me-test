@@ -1,0 +1,37 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/pointMulAdd.json
+2024-07-28T15:42:55.793Z [FAILED] 132/134,0 pointMulAdd 1/36 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"212999","state_root":"0x96900f4f72dd4f242e5b26f833dd29b0182d7ac4338bd880e75154eba2ff8d42","expected":"0xc8a23ef6c719f39ea945127e93181dd4f8bab0721cf0cf041486ba85009b8c1f","hash":"0x91ce8dff62b016dffb7c00d3ff057035a064483893da58398871e156868e9c34"}
+2024-07-28T15:42:56.010Z [FAILED] 132/134,0 pointMulAdd 2/36 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"212987","state_root":"0xd9dceb75c05631c45ed7fb25003bfdee5bd2d495ade1483c85403e88b51d8166","expected":"0xacba2e316ed99c108674a994dbd67a1a7aee606c33ca52505f62bd83454ba344","hash":"0x87131b98a32f50e3ca55c020f5f61e9128dd761550fdddfed026f4f4f05a578c"}
+2024-07-28T15:42:56.222Z [FAILED] 132/134,0 pointMulAdd 3/36 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"133375","state_root":"0xee7e2df4edf34f2f49c1f96300bf102f0e3fd67c7b1ee375a66e5105a558777a","expected":"0x0bc4e51c3e45652fe8364a74d003c586ede009d11b34f4d4d26bc3db43e2853c","hash":"0xc1a43d1a1a3d3a8eb7ba3f94bb99fb0bd063ab9eebb8c01d5da445941374d7f6"}
+2024-07-28T15:42:56.434Z [FAILED] 132/134,0 pointMulAdd 4/36 data:3,gas:0,value:0  {"gas_refund":"0","gas_usage":"212963","state_root":"0xab25f3e4b4e8a06d91691a4988aaf6ae9f25937ced0bbc2f29690b0be9a39d2f","expected":"0x2c1f1429b32dd8e1c2eb7d82c27b181fa4d90fd95328b7493d87ebc4d9359254","hash":"0x40df8ffe71d084d4dc7c8b541e3c55f2d363458b7bce7cdebd234cde5af8e9bb"}
+2024-07-28T15:42:56.646Z [FAILED] 132/134,0 pointMulAdd 5/36 data:4,gas:0,value:0  {"gas_refund":"0","gas_usage":"212555","state_root":"0x8f52e990cc3ff8330d249f914698e289a04be87a2c22581b2d7ec996429ed0e0","expected":"0x663d38b2434c29c5ab4495015f81bca889567b4e2d7c257b6896693f6bf47d1f","hash":"0x0d35e747fe7706b64c89b47d6b5b50a2bc5ed10397f8683cdd8d976234f4039f"}
+2024-07-28T15:42:56.860Z [FAILED] 132/134,0 pointMulAdd 6/36 data:5,gas:0,value:0  {"gas_refund":"0","gas_usage":"213347","state_root":"0x7ab78fd8b46321e4a79310a8d15c4f7f6338cbe20b7a450687912b8a446c2dd4","expected":"0x714991ebef466be801e4a6cb2aa4f5f4615e340a52f62e6acd69464d4c48fbc8","hash":"0x0b75ccb1a76dff3e0cdaa18d0168672ab1a2cab03df88affde104e3e0ae45aee"}
+2024-07-28T15:42:57.072Z [FAILED] 132/134,0 pointMulAdd 7/36 data:6,gas:0,value:0  {"gas_refund":"0","gas_usage":"212207","state_root":"0x3afce70828693013a3ddbb811ebc1c77d79355412e6728dde61d997605f13ea5","expected":"0x3d675a46c77cff2d76df80241bce8315ebf181a22d8b2557a292fa5734d5db04","hash":"0xc0a38be5f851d251ee066f84aef9356cbec754f442d24ddd2d3bf459b2f5cc9b"}
+2024-07-28T15:42:57.284Z [FAILED] 132/134,0 pointMulAdd 8/36 data:7,gas:0,value:0  {"gas_refund":"0","gas_usage":"171303","state_root":"0xd40de3a0f56118ec860150a62d12ac8eac4920083ae3b2b5851a47af828d1066","expected":"0x4b2d18ea96bd57c70906b10c3f574c7650c4f9cc90b2124e6ea6e092d5f5e035","hash":"0x2f88133028232ae9ab8ac7d9f4484e9423aaec28990f6d8bd36cd7632bebb285"}
+2024-07-28T15:42:57.496Z [FAILED] 132/134,0 pointMulAdd 9/36 data:7,gas:3,value:0  {"gas_refund":"0","gas_usage":"171303","state_root":"0xd40de3a0f56118ec860150a62d12ac8eac4920083ae3b2b5851a47af828d1066","expected":"0x4b2d18ea96bd57c70906b10c3f574c7650c4f9cc90b2124e6ea6e092d5f5e035","hash":"0x54403d16c87831e28272e330c5b3a785f7effb899b81f42137a0c2ca3d65225a"}
+2024-07-28T15:42:57.718Z [FAILED] 132/134,0 pointMulAdd 10/36 data:8,gas:0,value:0  {"gas_refund":"0","gas_usage":"131527","state_root":"0xfdcbc6622c2f7c0bfb55539e0913671e5ac85d3f015f2c8912c647a5731fe315","expected":"0xc779505702aeac7a8f59192060d3d2c161e6b1b8f6442bf2a1a8c5586517e735","hash":"0xa954d4cddf8bb3a3b47ee23bb2876338e731720ab973f04274119412e1b412d0"}
+2024-07-28T15:42:57.931Z [PASSED] 132/134,0 pointMulAdd 11/36 data:0,gas:1,value:0  
+2024-07-28T15:42:58.144Z [PASSED] 132/134,0 pointMulAdd 12/36 data:0,gas:2,value:0  
+2024-07-28T15:42:58.356Z [PASSED] 132/134,0 pointMulAdd 13/36 data:1,gas:1,value:0  
+2024-07-28T15:42:58.569Z [PASSED] 132/134,0 pointMulAdd 14/36 data:1,gas:2,value:0  
+2024-07-28T15:42:58.782Z [PASSED] 132/134,0 pointMulAdd 15/36 data:2,gas:1,value:0  
+2024-07-28T15:42:58.993Z [PASSED] 132/134,0 pointMulAdd 16/36 data:2,gas:2,value:0  
+2024-07-28T15:42:59.205Z [PASSED] 132/134,0 pointMulAdd 17/36 data:3,gas:1,value:0  
+2024-07-28T15:42:59.416Z [PASSED] 132/134,0 pointMulAdd 18/36 data:3,gas:2,value:0  
+2024-07-28T15:42:59.634Z [PASSED] 132/134,0 pointMulAdd 19/36 data:4,gas:1,value:0  
+2024-07-28T15:42:59.847Z [PASSED] 132/134,0 pointMulAdd 20/36 data:4,gas:2,value:0  
+2024-07-28T15:43:00.060Z [PASSED] 132/134,0 pointMulAdd 21/36 data:5,gas:1,value:0  
+2024-07-28T15:43:00.272Z [PASSED] 132/134,0 pointMulAdd 22/36 data:5,gas:2,value:0  
+2024-07-28T15:43:00.483Z [PASSED] 132/134,0 pointMulAdd 23/36 data:6,gas:1,value:0  
+2024-07-28T15:43:00.695Z [PASSED] 132/134,0 pointMulAdd 24/36 data:6,gas:2,value:0  
+2024-07-28T15:43:00.907Z [PASSED] 132/134,0 pointMulAdd 25/36 data:7,gas:1,value:0  
+2024-07-28T15:43:01.118Z [PASSED] 132/134,0 pointMulAdd 26/36 data:7,gas:2,value:0  
+2024-07-28T15:43:01.330Z [PASSED] 132/134,0 pointMulAdd 27/36 data:8,gas:1,value:0  
+2024-07-28T15:43:01.548Z [PASSED] 132/134,0 pointMulAdd 28/36 data:8,gas:2,value:0  
+2024-07-28T15:43:01.761Z [PASSED] 132/134,0 pointMulAdd 29/36 data:0,gas:3,value:0  
+2024-07-28T15:43:01.973Z [PASSED] 132/134,0 pointMulAdd 30/36 data:1,gas:3,value:0  
+2024-07-28T15:43:02.185Z [PASSED] 132/134,0 pointMulAdd 31/36 data:3,gas:3,value:0  
+2024-07-28T15:43:02.397Z [PASSED] 132/134,0 pointMulAdd 32/36 data:4,gas:3,value:0  
+2024-07-28T15:43:02.609Z [PASSED] 132/134,0 pointMulAdd 33/36 data:5,gas:3,value:0  
+2024-07-28T15:43:02.821Z [PASSED] 132/134,0 pointMulAdd 34/36 data:6,gas:3,value:0  
+2024-07-28T15:43:03.034Z [FAILED] 132/134,0 pointMulAdd 35/36 data:2,gas:3,value:0  {"gas_refund":"0","gas_usage":"133375","state_root":"0xee7e2df4edf34f2f49c1f96300bf102f0e3fd67c7b1ee375a66e5105a558777a","expected":"0x0bc4e51c3e45652fe8364a74d003c586ede009d11b34f4d4d26bc3db43e2853c","hash":"0x8d88ba162596ae70a7502c79454b42f193cee258668e28a593a6d30c97d4e7ae"}
+2024-07-28T15:43:03.256Z [FAILED] 132/134,0 pointMulAdd 36/36 data:8,gas:3,value:0  {"gas_refund":"0","gas_usage":"131527","state_root":"0xfdcbc6622c2f7c0bfb55539e0913671e5ac85d3f015f2c8912c647a5731fe315","expected":"0xc779505702aeac7a8f59192060d3d2c161e6b1b8f6442bf2a1a8c5586517e735","hash":"0x482f7683746f5964565494817ecc6d6f1cd5610ec87f94a225365169aa426e7c"}

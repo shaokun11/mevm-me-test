@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedConstructionCorrect.json
-2024-07-26T07:01:15.304Z [EXCEPTION] 2392/2723,0 multiOwnedConstructionCorrect 1/1 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

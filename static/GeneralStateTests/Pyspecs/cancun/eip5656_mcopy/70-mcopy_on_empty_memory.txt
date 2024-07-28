@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip5656_mcopy/mcopy_on_empty_memory.json
-2024-07-25T18:40:19.260Z [PASSED] 70/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_0-src_0-dest_0] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:19.917Z [PASSED] 70/2723,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_0-src_0-dest_32] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:20.571Z [PASSED] 70/2723,2 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_0-src_32-dest_0] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:21.225Z [PASSED] 70/2723,3 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_0-src_32-dest_32] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:21.881Z [PASSED] 70/2723,4 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_1-src_0-dest_0] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:22.537Z [PASSED] 70/2723,5 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_1-src_0-dest_32] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:23.195Z [PASSED] 70/2723,6 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_1-src_32-dest_0] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:40:23.847Z [PASSED] 70/2723,7 src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy.py::test_mcopy_on_empty_memory[fork_Cancun-state_test-empty_memory-length_1-src_32-dest_32] 1/1 data:0,gas:0,value:0  

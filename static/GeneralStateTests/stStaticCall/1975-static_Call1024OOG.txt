@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024OOG.json
-2024-07-26T06:17:31.299Z [PASSED] 1975/2723,0 static_Call1024OOG 1/2 data:0,gas:0,value:0  
-2024-07-26T06:17:45.234Z [PASSED] 1975/2723,0 static_Call1024OOG 2/2 data:1,gas:0,value:0  

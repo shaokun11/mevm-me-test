@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryStressTest/SSTORE_Bounds.json
-2024-07-26T03:46:53.652Z [PASSED] 962/2723,0 SSTORE_Bounds 1/2 data:0,gas:1,value:0  
-2024-07-26T03:46:54.310Z [PASSED] 962/2723,0 SSTORE_Bounds 2/2 data:0,gas:0,value:0  

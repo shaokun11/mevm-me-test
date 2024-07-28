@@ -1,0 +1,153 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/pointMulAdd2.json
+2024-07-28T15:43:03.469Z [FAILED] 133/134,0 pointMulAdd2 1/152 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0x5162ec85858d5b6d0276c4a53da2523972eef496c8a6cdef5c9e4d445552c495"}
+2024-07-28T15:43:03.681Z [FAILED] 133/134,0 pointMulAdd2 2/152 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0xb255897d5250d8425c87530d8a1491f857bf8b9e87fd349d07acae869c14bf5f"}
+2024-07-28T15:43:03.893Z [FAILED] 133/134,0 pointMulAdd2 3/152 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"131083","state_root":"0x893c0d3a786259b7ceca673bf64ee5c575b9c15b840e8c5e4e9188a79ea4c99f","expected":"0xdb9651b8b463c5d08adfc6ea3c30e3f96d88660e790b55875066f912cf735286","hash":"0x7a413254e8b884ebdaf3c29f27186849d08cc6756a462393c0f06f6ee1cd868b"}
+2024-07-28T15:43:04.105Z [FAILED] 133/134,0 pointMulAdd2 4/152 data:3,gas:0,value:0  {"gas_refund":"0","gas_usage":"131431","state_root":"0x078e93082d35a2658a7aef7656138b1634eceba2837d570c057e5cd4c93bbc59","expected":"0x8c1d02cd846c78505e1053776a15a2897ad4b598d469701c4bf14dfafd8d650f","hash":"0x542de272270d844b5a7b7df9ed433d75250ffbcebc1bc92e0cadfc90b8532443"}
+2024-07-28T15:43:04.318Z [FAILED] 133/134,0 pointMulAdd2 5/152 data:4,gas:0,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x93aa5be9549048630ec399d8880c7326d1637ea9b08ede1d1ca65e5143ab488d"}
+2024-07-28T15:43:04.531Z [FAILED] 133/134,0 pointMulAdd2 6/152 data:5,gas:0,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0x3651215a042c7fbe9219ede5f4c657789b60d8fb256eb7d04a8b79f753d0bb92"}
+2024-07-28T15:43:04.741Z [FAILED] 133/134,0 pointMulAdd2 7/152 data:6,gas:0,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x3a7a56ea47944f8c1f7c32a55f824a2da3a05c77722b34073deeafd60a7419f3"}
+2024-07-28T15:43:04.960Z [FAILED] 133/134,0 pointMulAdd2 8/152 data:7,gas:0,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0xaed9dd076a942ba2eefee7fb26a4e5866d5b6a71b41f714b5a1b95f06f16c5b2"}
+2024-07-28T15:43:05.173Z [FAILED] 133/134,0 pointMulAdd2 9/152 data:8,gas:0,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0xa139ae0b5e02027980e73e524b816d6e1c525c250f03dd88130152784b5b41ac"}
+2024-07-28T15:43:05.385Z [FAILED] 133/134,0 pointMulAdd2 10/152 data:9,gas:0,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x7e3b2412efe3d9e6b08489f42a114136f22368870d5db2eb6b446aa77126071c"}
+2024-07-28T15:43:05.598Z [FAILED] 133/134,0 pointMulAdd2 11/152 data:12,gas:0,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0xa929ab3e2ec721629013b9b6a56648dc3fe7bdea848ce42fd0540a2ce04a8104","expected":"0xff651d34958a28bba12c3cba56c4a89c1f5cb9a26bd5b96533d46ee0e29afe67","hash":"0xff4176224dbcd0d4652c6dc8f00142873228fbd099f220f55c471e479fc607b9"}
+2024-07-28T15:43:05.811Z [FAILED] 133/134,0 pointMulAdd2 12/152 data:26,gas:0,value:0  {"gas_refund":"0","gas_usage":"131527","state_root":"0xfdcbc6622c2f7c0bfb55539e0913671e5ac85d3f015f2c8912c647a5731fe315","expected":"0xc779505702aeac7a8f59192060d3d2c161e6b1b8f6442bf2a1a8c5586517e735","hash":"0xad1787578ab57555acf23da9b715e0a3d69aad78c92926825f4dd44b59c260e8"}
+2024-07-28T15:43:06.023Z [FAILED] 133/134,0 pointMulAdd2 13/152 data:10,gas:0,value:0  {"gas_refund":"0","gas_usage":"211883","state_root":"0x67fd70b026fb7e238ca0987e5f6c07ec8153b832491ad208aa6e1910adef431b","expected":"0xa8083b2316a6eb6d891a58be2fc08feb071f6642e7848f90b4ad95e784198af5","hash":"0x6d1742be976793a2e6a22d18a82084db5d000a7ed0932abc03f80a01a64b1eb8"}
+2024-07-28T15:43:06.235Z [FAILED] 133/134,0 pointMulAdd2 14/152 data:11,gas:0,value:0  {"gas_refund":"0","gas_usage":"212255","state_root":"0xc4c41482edbed64f85b5f94349afbe157b4565b885284edab240ea014598da77","expected":"0x4af711f13fa37b3d7e79e5f37ae38b40da11a289560b2aa04282bcbdc0d69192","hash":"0x400cc9fb7394304a13c85a0d50b7e27b344ffc0a745665d15fc29014f667c416"}
+2024-07-28T15:43:06.447Z [FAILED] 133/134,0 pointMulAdd2 15/152 data:13,gas:0,value:0  {"gas_refund":"0","gas_usage":"210767","state_root":"0xf6710ff562e68a126ed5e6df4adfe4f6d6f952809f0135c8942b2a25171c9782","expected":"0xf09f7763d6fd1c39962e6a0adf56e617370520a0c526bce146dee894d1513b27","hash":"0x45236a7c5f8f01e0b1ed8616dcfe85739c349dbaec73ea9ea56d7ff68dbd3eec"}
+2024-07-28T15:43:06.669Z [FAILED] 133/134,0 pointMulAdd2 16/152 data:15,gas:0,value:0  {"gas_refund":"0","gas_usage":"211511","state_root":"0xfa75d1410c5b4d1f49b905382ccc058d579f50ebfebc22feb4a7045772c5d1b6","expected":"0xf0293da5fcd6fad9a663fd8c3832513475e9c5ee7b2bf9c0244f8a73766b6581","hash":"0xd654137e63d53dec5fd85d10396edd80a4a63fb7b2eb70c3f7d4a243908942c4"}
+2024-07-28T15:43:06.882Z [FAILED] 133/134,0 pointMulAdd2 17/152 data:14,gas:0,value:0  {"gas_refund":"0","gas_usage":"211451","state_root":"0x86149474f63701a4836f949570ebe60356f3f3b7b39b83be61b1c8c25ebd3234","expected":"0x394dbe709a63f65c21f39a0cdec37e451493619ed73f69507bbd0d5a1a55b3a6","hash":"0xe7dc66613cfb4fb379ea7722ab8f76243669592854e07473405a3933c9bd2180"}
+2024-07-28T15:43:07.094Z [FAILED] 133/134,0 pointMulAdd2 18/152 data:16,gas:0,value:0  {"gas_refund":"0","gas_usage":"211487","state_root":"0xc96ffd8d78059431ced9f6b8a4c3de00e3861ad9fc135efdfe92e89351098403","expected":"0x1b16a0309820d23530dcea666b593d2bbd2b2bcabbea07c1c777cff7e747e809","hash":"0xdae6522d5df49703260315a7aa360bb0151765a3fcd4abc3c9801184e716e30e"}
+2024-07-28T15:43:07.306Z [FAILED] 133/134,0 pointMulAdd2 19/152 data:17,gas:0,value:0  {"gas_refund":"0","gas_usage":"132631","state_root":"0x156858ab1c90d94fdec45e7032160f51a2f4161cf9383132e294f4d03e158bd6","expected":"0x7a4c859207a2cea83b5e3a42d527a010bdd6ef27406805c52cd76a92f063baf1","hash":"0x16c7a3111ece3abfd086d58cccd10f77a6dcee90d89230088b417291c8b53619"}
+2024-07-28T15:43:07.519Z [FAILED] 133/134,0 pointMulAdd2 20/152 data:18,gas:0,value:0  {"gas_refund":"0","gas_usage":"212963","state_root":"0x5261e9defce5fc62961b33410517695cc77b1e37fcf382b49be579fd64990852","expected":"0x94715fb95ba7c84ddb07470a0ac0357d3f3f8a9c9357079efb092638b02a27ba","hash":"0x9adf14912c9e13e98f7e6d0f775ded096c75631d1d963388d5b40de60e540364"}
+2024-07-28T15:43:07.731Z [FAILED] 133/134,0 pointMulAdd2 21/152 data:19,gas:0,value:0  {"gas_refund":"0","gas_usage":"212219","state_root":"0xff2834b8b3c3769da790c794eeb17e6c6432d44c771a0c08e473712ecf217fa9","expected":"0x9682aa0cea4bb1e0c64aa3830218b58a4da3bc91599641f46c5c9c315203cf94","hash":"0x1670099a7d6e957ee8f41c139ebe25eae3a4a0876e20d66f1e2347fe0bca70e9"}
+2024-07-28T15:43:07.944Z [FAILED] 133/134,0 pointMulAdd2 22/152 data:20,gas:0,value:0  {"gas_refund":"0","gas_usage":"173175","state_root":"0x0670012ce98ae512a80570cfb43a13adf63cac441da4a42d9b390975f4e91f10","expected":"0x892749d87bf702363b780ea49834bf7c2c70ae7becf9b5d3f568551fb1ba032a","hash":"0x3c57a59cd152df258cf10413ee8529f27c86986b1a7aa630f4240795f8cd06bf"}
+2024-07-28T15:43:08.156Z [FAILED] 133/134,0 pointMulAdd2 23/152 data:21,gas:0,value:0  {"gas_refund":"0","gas_usage":"132643","state_root":"0x25a10ebdc4104ec8cb2b8a5beb33f48350fb6699d85ee5ca54ba0d3618cbd033","expected":"0x3b72540a814441bb38c650ee7dc30805d398356946b82c535d8ca17cb7f4234d","hash":"0x71eee53b8ff9853c193315e3587fadd2de5f95a94235e8559550e0bcc7141785"}
+2024-07-28T15:43:08.368Z [FAILED] 133/134,0 pointMulAdd2 24/152 data:21,gas:3,value:0  {"gas_refund":"0","gas_usage":"132643","state_root":"0x25a10ebdc4104ec8cb2b8a5beb33f48350fb6699d85ee5ca54ba0d3618cbd033","expected":"0x3b72540a814441bb38c650ee7dc30805d398356946b82c535d8ca17cb7f4234d","hash":"0x73789f04c5319d612c10c4348b8581d292380d1f5f03350f4f491dd4424da8fb"}
+2024-07-28T15:43:08.585Z [FAILED] 133/134,0 pointMulAdd2 25/152 data:22,gas:0,value:0  {"gas_refund":"0","gas_usage":"212999","state_root":"0xc6c1a33bf422861eaed15ef00377ce1d4afa2817c84469f97f4ab9c42ad7e4a9","expected":"0x81ab9a9f060bd4c65584e0f77d71551ebd914b4c76882d5f7f3ad9913c7576ea","hash":"0xe501c7c3ba49fde0b2511d244e257aec3c1de58e69342eda05a2f78ca7bf509d"}
+2024-07-28T15:43:08.797Z [FAILED] 133/134,0 pointMulAdd2 26/152 data:23,gas:0,value:0  {"gas_refund":"0","gas_usage":"212231","state_root":"0xebe5553aabafa94281899452ec6212abc2b42c65cf47c4cad919654a82aa1ae3","expected":"0x905f99506f1b61b96295aa19e07a46b7603be6be79b687175e7ee90bf50d9264","hash":"0x53df6432ae35882166d84a5d7d1a3fd091db5387e68b14988126374a784f382d"}
+2024-07-28T15:43:09.010Z [FAILED] 133/134,0 pointMulAdd2 27/152 data:24,gas:0,value:0  {"gas_refund":"0","gas_usage":"173199","state_root":"0x05ccaa5c2529522aa2fa22d33b4ec04725be63498cd69b78e55559c2169d4c12","expected":"0x5716dda5a1531c0a9e8df4d59111a76f67388db27c2c34dc8e2da6ccdffd8b5d","hash":"0xf54ac50435212b6a9265dca9f4e8e5c79e67ff5622e5880aff876daab94ec3de"}
+2024-07-28T15:43:09.222Z [FAILED] 133/134,0 pointMulAdd2 28/152 data:25,gas:0,value:0  {"gas_refund":"0","gas_usage":"211511","state_root":"0x4b24dbd132a86370294364bcbe1ca8980f8e9dc19e60cf58942ac7c89bcb0d72","expected":"0xa984a334fa72ee5df78b856273065b29e2ece6a58848c0685e050652b0e6ec44","hash":"0x0fa8d19e0a97f405fd8d5e19588b4c2ea941dd1caf9521b66cab75b50e2330f4"}
+2024-07-28T15:43:09.432Z [FAILED] 133/134,0 pointMulAdd2 29/152 data:27,gas:0,value:0  {"gas_refund":"0","gas_usage":"211451","state_root":"0x25e8a85159384875928a064897c495c5e29da24c89e7f5602cb15f3b24776fdc","expected":"0x2f821e82aa4f8b980d1a6531e3e622d9c0f0998d130ce7aa034e029cf36e8571","hash":"0x2f97ef8aa6b70c0b3abb1ec975a21d9121be4b8d1edc33889f0cedb6f2b53ce4"}
+2024-07-28T15:43:09.645Z [FAILED] 133/134,0 pointMulAdd2 30/152 data:28,gas:0,value:0  {"gas_refund":"0","gas_usage":"211883","state_root":"0x67fd70b026fb7e238ca0987e5f6c07ec8153b832491ad208aa6e1910adef431b","expected":"0xa8083b2316a6eb6d891a58be2fc08feb071f6642e7848f90b4ad95e784198af5","hash":"0xb9bebbde218872f5d28fb1f13f5d8cf7dd5f655459db342ddef84347d08233fe"}
+2024-07-28T15:43:09.857Z [FAILED] 133/134,0 pointMulAdd2 31/152 data:29,gas:0,value:0  {"gas_refund":"0","gas_usage":"210743","state_root":"0x07c348e4698213d3cd4c9bf9b653f8283877ef6d806f57eacc356fe1ebc1f987","expected":"0x19edbb4979a5cd6247679fec7711b956f8710b6a4e3323831103f44cdc2976cf","hash":"0x48d66afcbb035288d06c2afa38419d737d86ba7908a3319dbe60f370f753cbbf"}
+2024-07-28T15:43:10.069Z [FAILED] 133/134,0 pointMulAdd2 32/152 data:30,gas:0,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0x0d0b62dbd362050a009bc494122b36bf0b6db6b80395f68b3502b3fc6e54bf7a","expected":"0x3abec43eb1ac8a7c8c8c02c7ea0d038500cea58015bb0ae924a4fd46cf200ebe","hash":"0xd3dabec38ef66449ae77a602284d040fed72233e983fac85566acf8ff7b13ea6"}
+2024-07-28T15:43:10.285Z [FAILED] 133/134,0 pointMulAdd2 33/152 data:30,gas:3,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0x0d0b62dbd362050a009bc494122b36bf0b6db6b80395f68b3502b3fc6e54bf7a","expected":"0x3abec43eb1ac8a7c8c8c02c7ea0d038500cea58015bb0ae924a4fd46cf200ebe","hash":"0xe306928dc42465c98fb00ee1610c7f04172817d6a11f438a257b6e1abfe54a25"}
+2024-07-28T15:43:10.497Z [FAILED] 133/134,0 pointMulAdd2 34/152 data:31,gas:0,value:0  {"gas_refund":"0","gas_usage":"212999","state_root":"0x3e62eb60daa272b2a5c740a32ce65655ae90e15bf513fcffc9c7f6df01933bc6","expected":"0xf3c9785ef8697b14fa4ea0650fc67a44378917b675d2a2410cfc078b8e72b9e0","hash":"0x2a236784b33ba6081d6ce67d62378313317d84c72de69e86c4f2ce4598a84ad0"}
+2024-07-28T15:43:10.710Z [FAILED] 133/134,0 pointMulAdd2 35/152 data:32,gas:0,value:0  {"gas_refund":"0","gas_usage":"211859","state_root":"0x755f2f95a1283940721fdd45dc9b906a9ac958920361ded5991064d76a47ea5b","expected":"0xad0bcd5b6e6dd3237529e95cc7d703a85bfa65927be1587acd498735b9509c35","hash":"0x975e6b51f871b8099cf8836c54514940f447859f6441f2a91c6c993d12060497"}
+2024-07-28T15:43:10.922Z [FAILED] 133/134,0 pointMulAdd2 36/152 data:33,gas:0,value:0  {"gas_refund":"0","gas_usage":"172827","state_root":"0x92b8bef44e5a022a36b295b04cdd7f3d01891068c20c6b5057bcd7472d5cee1d","expected":"0x239627b2544763e6b1911ba681b14e67a859169e4a3128c257e53e8aafa54f3b","hash":"0x4c329c578ce053616716b27c5efbb09e414a5dad85ddd49634830ad38a06cb43"}
+2024-07-28T15:43:11.134Z [FAILED] 133/134,0 pointMulAdd2 37/152 data:34,gas:0,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0x6e076622f23ee05bff12c682ca547ac24178ce5ee56a9893659a758c9c3afef3","expected":"0xfb63128f6fe85c5f5a84aaeb1be824dfff96657c07a21fb398125eb8b37ea48d","hash":"0xdf8d9c7b9bad8f570cb4ccac59e74ec975945e6476a2ebd0d4ccb3059e2d9560"}
+2024-07-28T15:43:11.346Z [FAILED] 133/134,0 pointMulAdd2 38/152 data:34,gas:3,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0x6e076622f23ee05bff12c682ca547ac24178ce5ee56a9893659a758c9c3afef3","expected":"0xfb63128f6fe85c5f5a84aaeb1be824dfff96657c07a21fb398125eb8b37ea48d","hash":"0x8eb14a746194c2e7f14a2b7e182fffad3cb69a7b5facc5304a15fa2d8a745be2"}
+2024-07-28T15:43:11.558Z [FAILED] 133/134,0 pointMulAdd2 39/152 data:35,gas:0,value:0  {"gas_refund":"0","gas_usage":"212999","state_root":"0xa94be847cf09a97cc276ff5a635652ddc3010fb8b60ff8864a7def93b686b013","expected":"0x0b48a362d6950d5aabd2dd3cff2b79037d21d2f8b134478088ed2bb6d681858a","hash":"0x2ac2600edb08f5ab8ea18ab7f83e3fd8a67b2953edc9fc99888cc8d01964da4a"}
+2024-07-28T15:43:11.769Z [FAILED] 133/134,0 pointMulAdd2 40/152 data:36,gas:0,value:0  {"gas_refund":"0","gas_usage":"211859","state_root":"0xc5356d80d41e28faf6395890509a1725fe2336d017c991f9e090fb1faa8c7df3","expected":"0xe7cf90b299fdf20de0151c60037fe429f62007aac7a86de02ab8d51d48c4f8ee","hash":"0x864884d525688c978c245fa0358331486f5911960330d883ef25d25ac81856be"}
+2024-07-28T15:43:11.987Z [FAILED] 133/134,0 pointMulAdd2 41/152 data:37,gas:0,value:0  {"gas_refund":"0","gas_usage":"172827","state_root":"0xcf81a7dc9bef48228450555388c8dcae63166e477e18799d0c17462c1eeabe1c","expected":"0xdd9261b65c0e82ab947cac2265298e70cb80a5787b349422105773f8f40f14ec","hash":"0x47946ee99b3e86486a26351336faa4d3de0c661553739c0e6f469e22b7ab6ae4"}
+2024-07-28T15:43:12.201Z [PASSED] 133/134,0 pointMulAdd2 42/152 data:0,gas:1,value:0  
+2024-07-28T15:43:12.413Z [PASSED] 133/134,0 pointMulAdd2 43/152 data:0,gas:2,value:0  
+2024-07-28T15:43:12.625Z [PASSED] 133/134,0 pointMulAdd2 44/152 data:1,gas:1,value:0  
+2024-07-28T15:43:12.837Z [PASSED] 133/134,0 pointMulAdd2 45/152 data:1,gas:2,value:0  
+2024-07-28T15:43:13.049Z [PASSED] 133/134,0 pointMulAdd2 46/152 data:2,gas:1,value:0  
+2024-07-28T15:43:13.261Z [PASSED] 133/134,0 pointMulAdd2 47/152 data:2,gas:2,value:0  
+2024-07-28T15:43:13.473Z [PASSED] 133/134,0 pointMulAdd2 48/152 data:3,gas:1,value:0  
+2024-07-28T15:43:13.685Z [PASSED] 133/134,0 pointMulAdd2 49/152 data:3,gas:2,value:0  
+2024-07-28T15:43:13.902Z [PASSED] 133/134,0 pointMulAdd2 50/152 data:4,gas:1,value:0  
+2024-07-28T15:43:14.114Z [PASSED] 133/134,0 pointMulAdd2 51/152 data:4,gas:2,value:0  
+2024-07-28T15:43:14.326Z [PASSED] 133/134,0 pointMulAdd2 52/152 data:5,gas:1,value:0  
+2024-07-28T15:43:14.537Z [PASSED] 133/134,0 pointMulAdd2 53/152 data:5,gas:2,value:0  
+2024-07-28T15:43:14.749Z [PASSED] 133/134,0 pointMulAdd2 54/152 data:6,gas:1,value:0  
+2024-07-28T15:43:14.961Z [PASSED] 133/134,0 pointMulAdd2 55/152 data:6,gas:2,value:0  
+2024-07-28T15:43:15.172Z [PASSED] 133/134,0 pointMulAdd2 56/152 data:7,gas:1,value:0  
+2024-07-28T15:43:15.385Z [PASSED] 133/134,0 pointMulAdd2 57/152 data:7,gas:2,value:0  
+2024-07-28T15:43:15.598Z [PASSED] 133/134,0 pointMulAdd2 58/152 data:8,gas:1,value:0  
+2024-07-28T15:43:15.810Z [PASSED] 133/134,0 pointMulAdd2 59/152 data:8,gas:2,value:0  
+2024-07-28T15:43:16.023Z [PASSED] 133/134,0 pointMulAdd2 60/152 data:9,gas:1,value:0  
+2024-07-28T15:43:16.235Z [PASSED] 133/134,0 pointMulAdd2 61/152 data:9,gas:2,value:0  
+2024-07-28T15:43:16.449Z [PASSED] 133/134,0 pointMulAdd2 62/152 data:10,gas:1,value:0  
+2024-07-28T15:43:16.863Z [PASSED] 133/134,0 pointMulAdd2 63/152 data:10,gas:2,value:0  
+2024-07-28T15:43:17.076Z [PASSED] 133/134,0 pointMulAdd2 64/152 data:11,gas:1,value:0  
+2024-07-28T15:43:17.287Z [PASSED] 133/134,0 pointMulAdd2 65/152 data:11,gas:2,value:0  
+2024-07-28T15:43:17.499Z [PASSED] 133/134,0 pointMulAdd2 66/152 data:12,gas:1,value:0  
+2024-07-28T15:43:17.716Z [PASSED] 133/134,0 pointMulAdd2 67/152 data:12,gas:2,value:0  
+2024-07-28T15:43:17.928Z [PASSED] 133/134,0 pointMulAdd2 68/152 data:13,gas:1,value:0  
+2024-07-28T15:43:18.141Z [PASSED] 133/134,0 pointMulAdd2 69/152 data:13,gas:2,value:0  
+2024-07-28T15:43:18.352Z [PASSED] 133/134,0 pointMulAdd2 70/152 data:14,gas:1,value:0  
+2024-07-28T15:43:18.564Z [PASSED] 133/134,0 pointMulAdd2 71/152 data:14,gas:2,value:0  
+2024-07-28T15:43:18.777Z [PASSED] 133/134,0 pointMulAdd2 72/152 data:15,gas:1,value:0  
+2024-07-28T15:43:18.989Z [PASSED] 133/134,0 pointMulAdd2 73/152 data:15,gas:2,value:0  
+2024-07-28T15:43:19.201Z [PASSED] 133/134,0 pointMulAdd2 74/152 data:16,gas:1,value:0  
+2024-07-28T15:43:19.415Z [PASSED] 133/134,0 pointMulAdd2 75/152 data:16,gas:2,value:0  
+2024-07-28T15:43:19.632Z [PASSED] 133/134,0 pointMulAdd2 76/152 data:17,gas:1,value:0  
+2024-07-28T15:43:19.844Z [PASSED] 133/134,0 pointMulAdd2 77/152 data:17,gas:2,value:0  
+2024-07-28T15:43:20.056Z [PASSED] 133/134,0 pointMulAdd2 78/152 data:18,gas:1,value:0  
+2024-07-28T15:43:20.470Z [PASSED] 133/134,0 pointMulAdd2 79/152 data:18,gas:2,value:0  
+2024-07-28T15:43:20.683Z [PASSED] 133/134,0 pointMulAdd2 80/152 data:19,gas:1,value:0  
+2024-07-28T15:43:20.895Z [PASSED] 133/134,0 pointMulAdd2 81/152 data:19,gas:2,value:0  
+2024-07-28T15:43:21.108Z [PASSED] 133/134,0 pointMulAdd2 82/152 data:20,gas:1,value:0  
+2024-07-28T15:43:21.319Z [PASSED] 133/134,0 pointMulAdd2 83/152 data:20,gas:2,value:0  
+2024-07-28T15:43:21.541Z [PASSED] 133/134,0 pointMulAdd2 84/152 data:21,gas:1,value:0  
+2024-07-28T15:43:21.753Z [PASSED] 133/134,0 pointMulAdd2 85/152 data:21,gas:2,value:0  
+2024-07-28T15:43:21.966Z [PASSED] 133/134,0 pointMulAdd2 86/152 data:22,gas:1,value:0  
+2024-07-28T15:43:22.177Z [PASSED] 133/134,0 pointMulAdd2 87/152 data:22,gas:2,value:0  
+2024-07-28T15:43:22.389Z [PASSED] 133/134,0 pointMulAdd2 88/152 data:23,gas:1,value:0  
+2024-07-28T15:43:22.603Z [PASSED] 133/134,0 pointMulAdd2 89/152 data:23,gas:2,value:0  
+2024-07-28T15:43:22.815Z [PASSED] 133/134,0 pointMulAdd2 90/152 data:24,gas:1,value:0  
+2024-07-28T15:43:23.027Z [PASSED] 133/134,0 pointMulAdd2 91/152 data:24,gas:2,value:0  
+2024-07-28T15:43:23.245Z [PASSED] 133/134,0 pointMulAdd2 92/152 data:25,gas:1,value:0  
+2024-07-28T15:43:23.458Z [PASSED] 133/134,0 pointMulAdd2 93/152 data:25,gas:2,value:0  
+2024-07-28T15:43:23.669Z [PASSED] 133/134,0 pointMulAdd2 94/152 data:26,gas:1,value:0  
+2024-07-28T15:43:23.881Z [PASSED] 133/134,0 pointMulAdd2 95/152 data:26,gas:2,value:0  
+2024-07-28T15:43:24.093Z [PASSED] 133/134,0 pointMulAdd2 96/152 data:27,gas:1,value:0  
+2024-07-28T15:43:24.305Z [PASSED] 133/134,0 pointMulAdd2 97/152 data:27,gas:2,value:0  
+2024-07-28T15:43:24.517Z [PASSED] 133/134,0 pointMulAdd2 98/152 data:28,gas:1,value:0  
+2024-07-28T15:43:24.730Z [PASSED] 133/134,0 pointMulAdd2 99/152 data:28,gas:2,value:0  
+2024-07-28T15:43:24.941Z [PASSED] 133/134,0 pointMulAdd2 100/152 data:29,gas:1,value:0  
+2024-07-28T15:43:25.165Z [PASSED] 133/134,0 pointMulAdd2 101/152 data:29,gas:2,value:0  
+2024-07-28T15:43:25.378Z [PASSED] 133/134,0 pointMulAdd2 102/152 data:30,gas:1,value:0  
+2024-07-28T15:43:25.591Z [PASSED] 133/134,0 pointMulAdd2 103/152 data:30,gas:2,value:0  
+2024-07-28T15:43:25.803Z [PASSED] 133/134,0 pointMulAdd2 104/152 data:31,gas:1,value:0  
+2024-07-28T15:43:26.015Z [PASSED] 133/134,0 pointMulAdd2 105/152 data:31,gas:2,value:0  
+2024-07-28T15:43:26.227Z [PASSED] 133/134,0 pointMulAdd2 106/152 data:32,gas:1,value:0  
+2024-07-28T15:43:26.439Z [PASSED] 133/134,0 pointMulAdd2 107/152 data:32,gas:2,value:0  
+2024-07-28T15:43:26.651Z [PASSED] 133/134,0 pointMulAdd2 108/152 data:33,gas:1,value:0  
+2024-07-28T15:43:26.863Z [PASSED] 133/134,0 pointMulAdd2 109/152 data:33,gas:2,value:0  
+2024-07-28T15:43:27.080Z [PASSED] 133/134,0 pointMulAdd2 110/152 data:34,gas:1,value:0  
+2024-07-28T15:43:27.293Z [PASSED] 133/134,0 pointMulAdd2 111/152 data:34,gas:2,value:0  
+2024-07-28T15:43:27.505Z [PASSED] 133/134,0 pointMulAdd2 112/152 data:35,gas:1,value:0  
+2024-07-28T15:43:27.717Z [PASSED] 133/134,0 pointMulAdd2 113/152 data:35,gas:2,value:0  
+2024-07-28T15:43:27.929Z [PASSED] 133/134,0 pointMulAdd2 114/152 data:36,gas:1,value:0  
+2024-07-28T15:43:28.141Z [PASSED] 133/134,0 pointMulAdd2 115/152 data:36,gas:2,value:0  
+2024-07-28T15:43:28.353Z [PASSED] 133/134,0 pointMulAdd2 116/152 data:37,gas:1,value:0  
+2024-07-28T15:43:28.565Z [PASSED] 133/134,0 pointMulAdd2 117/152 data:37,gas:2,value:0  
+2024-07-28T15:43:28.782Z [PASSED] 133/134,0 pointMulAdd2 118/152 data:10,gas:3,value:0  
+2024-07-28T15:43:28.995Z [PASSED] 133/134,0 pointMulAdd2 119/152 data:11,gas:3,value:0  
+2024-07-28T15:43:29.207Z [PASSED] 133/134,0 pointMulAdd2 120/152 data:13,gas:3,value:0  
+2024-07-28T15:43:29.419Z [PASSED] 133/134,0 pointMulAdd2 121/152 data:14,gas:3,value:0  
+2024-07-28T15:43:29.630Z [PASSED] 133/134,0 pointMulAdd2 122/152 data:15,gas:3,value:0  
+2024-07-28T15:43:29.842Z [PASSED] 133/134,0 pointMulAdd2 123/152 data:16,gas:3,value:0  
+2024-07-28T15:43:30.053Z [PASSED] 133/134,0 pointMulAdd2 124/152 data:18,gas:3,value:0  
+2024-07-28T15:43:30.265Z [PASSED] 133/134,0 pointMulAdd2 125/152 data:19,gas:3,value:0  
+2024-07-28T15:43:30.478Z [PASSED] 133/134,0 pointMulAdd2 126/152 data:22,gas:3,value:0  
+2024-07-28T15:43:30.696Z [PASSED] 133/134,0 pointMulAdd2 127/152 data:23,gas:3,value:0  
+2024-07-28T15:43:30.908Z [PASSED] 133/134,0 pointMulAdd2 128/152 data:25,gas:3,value:0  
+2024-07-28T15:43:31.121Z [PASSED] 133/134,0 pointMulAdd2 129/152 data:27,gas:3,value:0  
+2024-07-28T15:43:31.333Z [PASSED] 133/134,0 pointMulAdd2 130/152 data:28,gas:3,value:0  
+2024-07-28T15:43:31.545Z [PASSED] 133/134,0 pointMulAdd2 131/152 data:29,gas:3,value:0  
+2024-07-28T15:43:31.757Z [PASSED] 133/134,0 pointMulAdd2 132/152 data:32,gas:3,value:0  
+2024-07-28T15:43:31.969Z [PASSED] 133/134,0 pointMulAdd2 133/152 data:35,gas:3,value:0  
+2024-07-28T15:43:32.182Z [PASSED] 133/134,0 pointMulAdd2 134/152 data:36,gas:3,value:0  
+2024-07-28T15:43:32.403Z [FAILED] 133/134,0 pointMulAdd2 135/152 data:0,gas:3,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0xcde27a3dec9ab624c0098dcf280cc677b6c4da767e874271bcf38f616a1611c0"}
+2024-07-28T15:43:32.616Z [FAILED] 133/134,0 pointMulAdd2 136/152 data:1,gas:3,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0xd5d363ccc8c4747f8aeaaa5816f7ff5d8b2a42f75d7310abbfbdad788c0201d7"}
+2024-07-28T15:43:32.829Z [FAILED] 133/134,0 pointMulAdd2 137/152 data:2,gas:3,value:0  {"gas_refund":"0","gas_usage":"131083","state_root":"0x893c0d3a786259b7ceca673bf64ee5c575b9c15b840e8c5e4e9188a79ea4c99f","expected":"0xdb9651b8b463c5d08adfc6ea3c30e3f96d88660e790b55875066f912cf735286","hash":"0xd02dcbad3c80f551e45c783aa1355f982bd316594349e320d26d546d6208693d"}
+2024-07-28T15:43:33.041Z [FAILED] 133/134,0 pointMulAdd2 138/152 data:3,gas:3,value:0  {"gas_refund":"0","gas_usage":"131431","state_root":"0x078e93082d35a2658a7aef7656138b1634eceba2837d570c057e5cd4c93bbc59","expected":"0x8c1d02cd846c78505e1053776a15a2897ad4b598d469701c4bf14dfafd8d650f","hash":"0xa1bcc8d37f7fe5f85d6ec923d289832a67f93c1111e305dc99ef3fcf7ec1105c"}
+2024-07-28T15:43:33.253Z [FAILED] 133/134,0 pointMulAdd2 139/152 data:4,gas:3,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0xe88661f010a3912ec451c4be25430d0825e59f3077e43192905a1878b8d5cfb7"}
+2024-07-28T15:43:33.465Z [FAILED] 133/134,0 pointMulAdd2 140/152 data:5,gas:3,value:0  {"gas_refund":"0","gas_usage":"131095","state_root":"0x319b2a443a333b852d0f8e9102554b1e7951a0ce54bc01043fa9d78302966e39","expected":"0x51851f08dc99fb3a96af6c0d1c37a64b5bdd3354fcb68a60f90650cc9640033a","hash":"0x954a6ceb71c58afebdf01f7bf1ab3fadc572e634617f66a115c5b06dcfe383b8"}
+2024-07-28T15:43:33.677Z [FAILED] 133/134,0 pointMulAdd2 141/152 data:6,gas:3,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0xfac711c52dd513d0662ce16635cfc4b7bf1c4d9f13fd1ccc723ed960223b2f80"}
+2024-07-28T15:43:33.890Z [FAILED] 133/134,0 pointMulAdd2 142/152 data:7,gas:3,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x3e82d86e54ed0462e9251095fe0765fddc3f743ece71363bc33480255f9427d2"}
+2024-07-28T15:43:34.112Z [FAILED] 133/134,0 pointMulAdd2 143/152 data:8,gas:3,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x601596fe66436201ed039403af278f43340cac5d1a9f430da6187b6c10d24653"}
+2024-07-28T15:43:34.324Z [FAILED] 133/134,0 pointMulAdd2 144/152 data:9,gas:3,value:0  {"gas_refund":"0","gas_usage":"131467","state_root":"0x4657b6399889ace42f3b54d68f646fd69c31590ef7ea5b97e5eff6aa7aca22b1","expected":"0xbbc330466b8c03ca9916f625170c800503f07fc8ef4aedfd99edeec041f94471","hash":"0x7db3000ae8c9fba27543a643db41126d1ffbd4d4df4ebf1a9861da8b606ae3da"}
+2024-07-28T15:43:34.537Z [FAILED] 133/134,0 pointMulAdd2 145/152 data:12,gas:3,value:0  {"gas_refund":"0","gas_usage":"131899","state_root":"0xa929ab3e2ec721629013b9b6a56648dc3fe7bdea848ce42fd0540a2ce04a8104","expected":"0xff651d34958a28bba12c3cba56c4a89c1f5cb9a26bd5b96533d46ee0e29afe67","hash":"0x246cab68a72ab9fe597aede7f917f1d78a68dbe7b5f9bcebd003ae8334c2459d"}
+2024-07-28T15:43:34.749Z [FAILED] 133/134,0 pointMulAdd2 146/152 data:26,gas:3,value:0  {"gas_refund":"0","gas_usage":"131527","state_root":"0xfdcbc6622c2f7c0bfb55539e0913671e5ac85d3f015f2c8912c647a5731fe315","expected":"0xc779505702aeac7a8f59192060d3d2c161e6b1b8f6442bf2a1a8c5586517e735","hash":"0x5a62fa1408d2befc44cfa94c1bce04c652ae936c08f24d091c7181a7628e8e2d"}
+2024-07-28T15:43:34.961Z [FAILED] 133/134,0 pointMulAdd2 147/152 data:17,gas:3,value:0  {"gas_refund":"0","gas_usage":"132631","state_root":"0x156858ab1c90d94fdec45e7032160f51a2f4161cf9383132e294f4d03e158bd6","expected":"0x7a4c859207a2cea83b5e3a42d527a010bdd6ef27406805c52cd76a92f063baf1","hash":"0xdf6ae5b27e62149f7f1e9d394bd61c7a85c47270d58e2b00e10b7e9550a8bc6d"}
+2024-07-28T15:43:35.173Z [PASSED] 133/134,0 pointMulAdd2 148/152 data:20,gas:3,value:0  
+2024-07-28T15:43:35.386Z [PASSED] 133/134,0 pointMulAdd2 149/152 data:24,gas:3,value:0  
+2024-07-28T15:43:35.604Z [PASSED] 133/134,0 pointMulAdd2 150/152 data:31,gas:3,value:0  
+2024-07-28T15:43:35.817Z [PASSED] 133/134,0 pointMulAdd2 151/152 data:33,gas:3,value:0  
+2024-07-28T15:43:36.029Z [PASSED] 133/134,0 pointMulAdd2 152/152 data:37,gas:3,value:0  

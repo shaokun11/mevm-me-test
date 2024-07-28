@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stWalletTest/dayLimitConstructionOOG.json
+2024-07-28T15:39:44.752Z [PASSED] 1/42,0 dayLimitConstructionOOG 1/1 data:0,gas:0,value:0  

@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/gas_usage.json
-2024-07-25T18:26:28.717Z [PASSED] 40/2723,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_gas_usage[fork_Cancun-state_test-tload] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:26:29.371Z [PASSED] 40/2723,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_gas_usage[fork_Cancun-state_test-tstore_cold] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:26:30.024Z [PASSED] 40/2723,2 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_gas_usage[fork_Cancun-state_test-tstore_tload] 1/1 data:0,gas:0,value:0  
-2024-07-25T18:26:30.679Z [PASSED] 40/2723,3 src/GeneralStateTestsFiller/Pyspecs/cancun/eip1153_tstore/test_tstorage.py::test_gas_usage[fork_Cancun-state_test-tstore_warm] 1/1 data:0,gas:0,value:0  

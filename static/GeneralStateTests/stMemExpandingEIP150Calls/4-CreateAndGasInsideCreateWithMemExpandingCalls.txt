@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/CreateAndGasInsideCreateWithMemExpandingCalls.json
+2024-07-28T14:31:38.147Z [PASSED] 4/9,0 CreateAndGasInsideCreateWithMemExpandingCalls 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stChainId/chainIdGasCost.json
-2024-07-26T02:46:15.200Z [PASSED] 588/2723,0 chainIdGasCost 1/1 data:0,gas:0,value:0  

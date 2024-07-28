@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCodeSizeLimit/codesizeValid.json
-2024-07-26T02:46:20.594Z [PASSED] 593/2723,0 codesizeValid 1/2 data:0,gas:0,value:0  
-2024-07-26T02:46:21.667Z [PASSED] 593/2723,0 codesizeValid 2/2 data:1,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCodeCopyTest/ExtCodeCopyTestsParis.json
-2024-07-26T02:46:16.519Z [PASSED] 590/2723,0 ExtCodeCopyTestsParis 1/1 data:0,gas:0,value:0  

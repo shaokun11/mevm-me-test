@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallAskMoreGasOnDepth2ThenTransactionHas.json
+2024-07-28T15:06:42.038Z [PASSED] 33/286,0 static_CallAskMoreGasOnDepth2ThenTransactionHas 1/2 data:0,gas:0,value:0  
+2024-07-28T15:06:42.251Z [PASSED] 33/286,0 static_CallAskMoreGasOnDepth2ThenTransactionHas 2/2 data:1,gas:0,value:0  

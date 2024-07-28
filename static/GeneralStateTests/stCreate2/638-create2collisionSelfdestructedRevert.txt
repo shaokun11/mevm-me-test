@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2collisionSelfdestructedRevert.json
-2024-07-26T02:51:40.275Z [SKIP] 638/2723,0 create2collisionSelfdestructedRevert 1/3 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-26T02:51:40.929Z [SKIP] 638/2723,0 create2collisionSelfdestructedRevert 2/3 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-26T02:51:41.589Z [SKIP] 638/2723,0 create2collisionSelfdestructedRevert 3/3 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode

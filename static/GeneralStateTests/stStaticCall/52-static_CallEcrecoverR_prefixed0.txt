@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecoverR_prefixed0.json
+2024-07-28T15:06:48.641Z [FAILED] 52/286,0 static_CallEcrecoverR_prefixed0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"53363","state_root":"0x462a62907c83f864451c71c2b738ae5f2d689b2455cefb727d0a096554371ef1","expected":"0x04f95bb81d62761739097a428cd716c932d6f95b3967a6745b1066252c6ed79d","hash":"0xf44fe8df89b610700ea60b4e178884c1ed910223acd9f39f52d67a8d305f9abe"}

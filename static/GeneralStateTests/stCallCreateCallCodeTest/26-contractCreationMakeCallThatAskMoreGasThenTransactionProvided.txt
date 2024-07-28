@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/contractCreationMakeCallThatAskMoreGasThenTransactionProvided.json
+2024-07-28T14:18:30.676Z [PASSED] 26/43,0 contractCreationMakeCallThatAskMoreGasThenTransactionProvided 1/2 data:0,gas:0,value:0  
+2024-07-28T14:18:30.890Z [PASSED] 26/43,0 contractCreationMakeCallThatAskMoreGasThenTransactionProvided 2/2 data:0,gas:1,value:0  

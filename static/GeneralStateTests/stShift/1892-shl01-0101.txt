@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stShift/shl01-0101.json
-2024-07-26T05:49:11.305Z [EXCEPTION] 1892/2723,0 shl01-0101 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xbc93008bbc6b2f38801dd6c7d2b22ed3ec37147c36f616ac313d2df4bfdee306 timed out after 90 seconds"}

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP158Specific/EXTCODESIZE_toEpmtyParis.json
-2024-07-26T03:41:21.236Z [PASSED] 793/2723,0 EXTCODESIZE_toEpmtyParis 1/1 data:0,gas:0,value:0  

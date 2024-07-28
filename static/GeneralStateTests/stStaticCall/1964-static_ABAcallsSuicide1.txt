@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_ABAcallsSuicide1.json
-2024-07-26T06:15:52.905Z [SKIP] 1964/2723,0 static_ABAcallsSuicide1 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-26T06:16:00.615Z [SKIP] 1964/2723,0 static_ABAcallsSuicide1 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode

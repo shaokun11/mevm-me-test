@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSolidityTest/TestContractSuicide.json
-2024-07-26T05:50:51.472Z [SKIP] 1925/2723,0 TestContractSuicide 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

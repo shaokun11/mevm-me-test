@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallRipemd160_2.json
-2024-07-26T06:54:31.463Z [PASSED] 2032/2723,0 static_CallRipemd160_2 1/1 data:0,gas:0,value:0  

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_ABAcalls0.json
-2024-07-26T06:14:30.695Z [PASSED] 1959/2723,0 static_ABAcalls0 1/2 data:0,gas:0,value:0  
-2024-07-26T06:14:34.671Z [PASSED] 1959/2723,0 static_ABAcalls0 2/2 data:1,gas:0,value:0  

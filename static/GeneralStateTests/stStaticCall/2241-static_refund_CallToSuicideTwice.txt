@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_refund_CallToSuicideTwice.json
-2024-07-26T07:01:04.915Z [EXCEPTION] 2241/2723,0 static_refund_CallToSuicideTwice 1/2 data:1,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-07-26T07:01:04.916Z [EXCEPTION] 2241/2723,0 static_refund_CallToSuicideTwice 2/2 data:0,gas:0,value:0  {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

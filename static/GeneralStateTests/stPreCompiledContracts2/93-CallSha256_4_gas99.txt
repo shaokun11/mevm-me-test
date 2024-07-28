@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallSha256_4_gas99.json
+2024-07-28T14:38:42.734Z [FAILED] 93/102,0 CallSha256_4_gas99 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"67917","state_root":"0x19785016dadf1d4f7204cb0f1fc2d6ed7a16bfbe3d51f27fffd2293720b4812e","expected":"0x4922b5739b69c5d14aa0f8998241d3f47fb5e326b27878305fd935c8e65bd48b","hash":"0x174a4d8f96d704c415cce5d0f89e0a19d5a406085ef89f1e3a78ac4a1f2602b4"}
