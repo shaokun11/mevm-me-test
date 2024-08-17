@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/call_then_create_successful_then_returndatasize.json
-2024-07-28T14:48:25.405Z [PASSED] 3/41,0 call_then_create_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

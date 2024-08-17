@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRandom2/randomStatetest642.json
-2024-07-28T14:48:15.120Z [FAILED] 211/220,0 randomStatetest642 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"4901005","state_root":"0x598d9ae7ac8f271d386e181ec5a46240963e72ceed0c02f05cf8407191653583","expected":"0x8bbb1f73f14bbd72903a89de24e75959b6b7b350dc8c9a0cdd058382254dca23","hash":"0xcd92dfe0ee4a97d96636a25e36d45000ad98946c1835631b727e685f62aa712c"}

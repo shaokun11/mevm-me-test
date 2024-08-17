@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP158Specific/callToEmptyThenCallErrorParis.json
-2024-07-28T14:30:17.999Z [PASSED] 6/8,0 callToEmptyThenCallErrorParis 1/1 data:0,gas:0,value:0  

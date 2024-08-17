@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000.json
-2024-07-28T14:56:11.933Z [PASSED] 24/286,0 static_Call50000 1/2 data:0,gas:0,value:0  
-2024-07-28T14:57:26.887Z [PASSED] 24/286,0 static_Call50000 2/2 data:1,gas:0,value:0  

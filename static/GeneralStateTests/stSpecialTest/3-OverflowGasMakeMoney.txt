@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/OverflowGasMakeMoney.json
-2024-07-28T14:53:01.231Z [PASSED] 3/15,0 OverflowGasMakeMoney 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallRipemd160_3_prefixed0.json
-2024-07-28T14:38:39.970Z [FAILED] 81/102,0 CallRipemd160_3_prefixed0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"68688","state_root":"0xa306cce58c5dad3bd836fe301022aa0af67910f660f94d138b2075d8f1cf412f","expected":"0x92ebf2983d69df8a3a5cfe70872b71918a479ec0e64017789c96bf8b39efe206","hash":"0x468536a35804dfa9664d366de84f8169617ced33d5df568401f051d6556af86f"}

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/RevertInCreateInInit_Paris.json
-2024-07-28T14:49:36.903Z [FAILED] 11/46,0 RevertInCreateInInit_Paris 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"42907729921","state_root":"0xb71c6a64799e3604a7486fd494a98f61eaabbfb5d05ad02613566126a49d9df7","expected":"0x07656b1e86e41fc71ae1bb006fccc464482108b02fe5eb6500f6aac54bb72f41","hash":"0xb99e2666e24a9a8f4fb15ee806e8c7d653c9391b6ed02f6c11e230fcca501b4a"}

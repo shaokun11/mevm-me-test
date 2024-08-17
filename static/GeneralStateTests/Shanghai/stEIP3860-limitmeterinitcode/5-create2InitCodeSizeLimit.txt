@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/Shanghai/stEIP3860-limitmeterinitcode/create2InitCodeSizeLimit.json
-2024-07-28T13:38:22.602Z [PASSED] 5/8,0 create2InitCodeSizeLimit 1/2 data:0,gas:0,value:0 valid 
-2024-07-28T13:38:22.815Z [PASSED] 5/8,0 create2InitCodeSizeLimit 2/2 data:1,gas:0,value:0 invalid 

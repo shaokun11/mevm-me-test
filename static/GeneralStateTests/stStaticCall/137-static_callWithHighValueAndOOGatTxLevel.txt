@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callWithHighValueAndOOGatTxLevel.json
-2024-07-28T15:11:10.786Z [PASSED] 137/286,0 static_callWithHighValueAndOOGatTxLevel 1/1 data:0,gas:0,value:0  

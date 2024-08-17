@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callBasic.json
-2024-07-28T15:11:02.189Z [PASSED] 120/286,0 static_callBasic 1/4 data:0,gas:0,value:0  
-2024-07-28T15:11:02.403Z [PASSED] 120/286,0 static_callBasic 2/4 data:1,gas:0,value:0  
-2024-07-28T15:11:02.617Z [FAILED] 120/286,0 static_callBasic 3/4 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"71096","state_root":"0xd091715326dcf8a112b1d7a3dd5dd07b4cd67c8ee9c3b015bad64492b29513c2","expected":"0x174afe01887371b875c708a3be633ad2b6a6f0600d67ca4d8671805940da2a6b","hash":"0x474c084e4656752b54aa36bfb3e6a4767b8b06fcc08120221e3cfaf7a1cde607"}
-2024-07-28T15:11:02.831Z [PASSED] 120/286,0 static_callBasic 4/4 data:3,gas:0,value:0  

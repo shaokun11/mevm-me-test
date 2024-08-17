@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_one_point_with_g1_zero.json
-2024-07-28T15:42:12.655Z [FAILED] 108/134,0 ecpairing_one_point_with_g1_zero 1/3 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"113487","state_root":"0x4b7cea813ac79559c87f406ddc11dc5843c38d2933376cc017b7c21dd2160246","expected":"0x829a5caf2142ad97bb615d513b774691bacba23b6018a0d853b7c133d2a252a1","hash":"0x10fc2661e2473e0cd13439daa0e84331e75faad89207612b911f82c103b71f7d"}
-2024-07-28T15:42:12.868Z [PASSED] 108/134,0 ecpairing_one_point_with_g1_zero 2/3 data:0,gas:1,value:0  
-2024-07-28T15:42:13.081Z [PASSED] 108/134,0 ecpairing_one_point_with_g1_zero 3/3 data:0,gas:2,value:0  

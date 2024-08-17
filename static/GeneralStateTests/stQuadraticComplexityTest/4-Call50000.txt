@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call50000.json
-2024-07-28T14:40:14.272Z [FAILED] 4/17,0 Call50000 1/2 data:0,gas:1,value:0  {"error":"Execution failed in 0x1::evm_for_test::run at code offset 1283","hash":"0x87238acca7a6113aff52f0c826afee3ab617e2d4776e0c01001b92fc24701551","expected":"0x644bb1009c2332d1532062fe9c28cae87169ccaab2624aa0cfb4f0a0e59ac3aa"}
-2024-07-28T14:40:14.896Z [PASSED] 4/17,0 Call50000 2/2 data:0,gas:0,value:0  

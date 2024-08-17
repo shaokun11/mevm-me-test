@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRandom2/randomStatetest422.json
-2024-07-28T14:47:25.476Z [FAILED] 33/220,0 randomStatetest422 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_gas_for_test::calc_mstore_gas at code offset 23","hash":"0x1f89927d4854ac9baba9f0fbe9a79c495dfd9c1c1a1601005cefda1ac9ceb48a","expected":"0x8cd811bb594c34dfe9fdd725d010bd44f27cfddde3fc78100f4790ec498ac2f3"}

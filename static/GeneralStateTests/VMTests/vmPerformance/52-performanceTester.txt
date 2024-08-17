@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmPerformance/performanceTester.json
-2024-07-28T13:56:55.276Z [EXCEPTION] 52/64,0 performanceTester 1/5 data:0,gas:0,value:0 fib10 {"error":"Waiting for transaction 0x72bf13c688a849890f45bed27a3eed012a820c427ba73ff966537da8239b0d0e timed out after 90 seconds"}
-2024-07-28T13:57:05.383Z [PASSED] 52/64,0 performanceTester 2/5 data:1,gas:0,value:0 fib16 
-2024-07-28T13:57:06.208Z [PASSED] 52/64,0 performanceTester 3/5 data:2,gas:0,value:0 ack31 
-2024-07-28T13:57:08.037Z [PASSED] 52/64,0 performanceTester 4/5 data:3,gas:0,value:0 ack32 
-2024-07-28T13:57:15.520Z [PASSED] 52/64,0 performanceTester 5/5 data:4,gas:0,value:0 ack33 

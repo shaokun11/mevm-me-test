@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/extcodecopyNonConst.json
-2024-07-28T13:57:55.152Z [PASSED] 15/46,0 extcodecopyNonConst 1/2 data:0,gas:0,value:0  
-2024-07-28T13:57:55.365Z [FAILED] 15/46,0 extcodecopyNonConst 2/2 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"24018","state_root":"0xd0d529a38479474fbb05834423a86d981b1390bf0dd65db6e7e57e17b98d8273","expected":"0xd8a45079d759d030e04cf264312b497dfa4ce3b04ed98fc6dbeb0c115dc50046","hash":"0xd8711d9a5bea350e6f8f59e01aafa248894521ebe3887e59c632cde765bac8f1"}

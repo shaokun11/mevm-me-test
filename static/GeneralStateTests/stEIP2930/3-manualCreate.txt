@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP2930/manualCreate.json
-2024-07-28T14:30:32.320Z [PASSED] 3/7,0 manualCreate 1/3 data:2,gas:0,value:0 allBad 
-2024-07-28T14:30:32.531Z [PASSED] 3/7,0 manualCreate 2/3 data:0,gas:0,value:0 addrGoodCellBad 
-2024-07-28T14:30:32.747Z [PASSED] 3/7,0 manualCreate 3/3 data:1,gas:0,value:0 allGood 

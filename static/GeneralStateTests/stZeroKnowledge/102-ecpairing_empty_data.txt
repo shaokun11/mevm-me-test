@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_empty_data.json
-2024-07-28T15:41:35.596Z [FAILED] 102/134,0 ecpairing_empty_data 1/4 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"94277","state_root":"0x3ad3211bc39a57fb92023cf34d540c4f57b1dccd026d8a69bcd89428a0cd9b19","expected":"0x05c4f6ecd1f72c622e3d5571f744f2f5ac537ac34410618445554285c3976645","hash":"0xd598d2badf5929893f24a8b1a2d9e93a442efe909b5f45ab9d47d8474342934e"}
-2024-07-28T15:41:35.814Z [FAILED] 102/134,0 ecpairing_empty_data 2/4 data:0,gas:3,value:0  {"gas_refund":"0","gas_usage":"94277","state_root":"0x3ad3211bc39a57fb92023cf34d540c4f57b1dccd026d8a69bcd89428a0cd9b19","expected":"0x05c4f6ecd1f72c622e3d5571f744f2f5ac537ac34410618445554285c3976645","hash":"0x890147ec752ec257668305f0b78a2d94477edf5e31879b08151630e20151fb28"}
-2024-07-28T15:41:36.035Z [PASSED] 102/134,0 ecpairing_empty_data 3/4 data:0,gas:1,value:0  
-2024-07-28T15:41:36.250Z [PASSED] 102/134,0 ecpairing_empty_data 4/4 data:0,gas:2,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/callcodeToReturn1.json
-2024-07-28T15:13:24.384Z [PASSED] 39/67,0 callcodeToReturn1 1/1 data:0,gas:0,value:0  

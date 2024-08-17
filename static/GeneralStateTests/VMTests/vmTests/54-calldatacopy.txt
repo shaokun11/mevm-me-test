@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatacopy.json
-2024-07-28T13:57:17.216Z [PASSED] 54/64,0 calldatacopy 1/8 data:0,gas:0,value:0 cdc_0_1_2 
-2024-07-28T13:57:17.429Z [PASSED] 54/64,0 calldatacopy 2/8 data:1,gas:0,value:0 cdc_0_1_1 
-2024-07-28T13:57:17.643Z [PASSED] 54/64,0 calldatacopy 3/8 data:2,gas:0,value:0 cdc_0_1_0 
-2024-07-28T13:57:17.856Z [PASSED] 54/64,0 calldatacopy 4/8 data:3,gas:0,value:0 cdc_0_0_0 
-2024-07-28T13:57:18.069Z [PASSED] 54/64,0 calldatacopy 5/8 data:4,gas:0,value:0 cdc_0_neg6_ff 
-2024-07-28T13:57:18.283Z [PASSED] 54/64,0 calldatacopy 6/8 data:5,gas:0,value:0 cdc_0_neg6_9 
-2024-07-28T13:57:18.495Z [PASSED] 54/64,0 calldatacopy 7/8 data:6,gas:0,value:0 underflow 
-2024-07-28T13:57:18.708Z [PASSED] 54/64,0 calldatacopy 8/8 data:7,gas:0,value:0 sec 

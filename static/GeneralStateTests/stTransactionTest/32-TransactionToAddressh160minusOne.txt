@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stTransactionTest/TransactionToAddressh160minusOne.json
-2024-07-28T15:39:39.584Z [PASSED] 32/35,0 TransactionToAddressh160minusOne 1/1 data:0,gas:0,value:0  

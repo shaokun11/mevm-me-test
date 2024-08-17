@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallValueCheck.json
-2024-07-28T14:21:27.884Z [PASSED] 25/28,0 delegatecallValueCheck 1/1 data:0,gas:0,value:0  

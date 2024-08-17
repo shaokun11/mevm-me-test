@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/extcodesizeNonConst.json
-2024-07-28T13:57:55.577Z [PASSED] 16/46,0 extcodesizeNonConst 1/2 data:0,gas:0,value:0  
-2024-07-28T13:57:55.790Z [FAILED] 16/46,0 extcodesizeNonConst 2/2 data:0,gas:0,value:1  {"gas_refund":"0","gas_usage":"25906","state_root":"0x46749c2d08a4d0c51a7ef2ca74582452c483e4d81366d7b18a5e1e12d09bb6e1","expected":"0xe0dd7fba549decb5ece5c9884c7de1d4f00c221856ed11c7a489e1e53dbe6652","hash":"0x592fc4dfd9189538e942966b83572eb74f486e2ee85f71657d25b492ff8b9fa4"}

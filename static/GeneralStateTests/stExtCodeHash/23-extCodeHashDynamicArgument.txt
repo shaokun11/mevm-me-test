@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashDynamicArgument.json
-2024-07-28T14:31:09.410Z [FAILED] 23/36,0 extCodeHashDynamicArgument 1/5 data:0,gas:0,value:0  {"gas_refund":"4800","gas_usage":"26258","state_root":"0x768a36b662505e6f90a0f935f955cad64fb36b9e47cdffa8eea54450fbd6a74c","expected":"0x5230d1be6c2a1de3115be6b66a908c26e18f2122ebd54299b999002501d967ed","hash":"0xae8c97b8b7dd78bb3a4c5f506b6b500c7677718dd8bc3828070caf0c16483381"}
-2024-07-28T14:31:09.623Z [FAILED] 23/36,0 extCodeHashDynamicArgument 2/5 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"31058","state_root":"0xc4ce0910660fe39c462bca14329209aa1476ff759915e16b40bf6d45217a43a8","expected":"0x722de8018e2dc5e5a2b44d3fdc630b81be4bbf9f90098179b4a97b64e764b486","hash":"0xc9a848fe4418ed3af9500713a84ea94a4fb7895b30a451221d0ce4f587b31be0"}
-2024-07-28T14:31:09.836Z [PASSED] 23/36,0 extCodeHashDynamicArgument 3/5 data:2,gas:0,value:0  
-2024-07-28T14:31:10.049Z [PASSED] 23/36,0 extCodeHashDynamicArgument 4/5 data:3,gas:0,value:0  
-2024-07-28T14:31:10.263Z [PASSED] 23/36,0 extCodeHashDynamicArgument 5/5 data:4,gas:0,value:0  

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_ABAcalls1.json
-2024-07-28T14:54:39.080Z [FAILED] 4/286,0 static_ABAcalls1 1/2 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"969039237","state_root":"0xa4a402b7e438e6125eb13cb5e9c0fc4a48aa8ad3383406905002a2530cbf2830","expected":"0xfb771c9e0e7c870c268fd4765d3cf6c1d405b7230b88532ebf1d040c335494ea","hash":"0xd7ecb5f4d5af04a5065bf94b0e34020636c89b194d2d9a8b8debc0b756aba4c6"}
-2024-07-28T14:54:39.699Z [PASSED] 4/286,0 static_ABAcalls1 2/2 data:1,gas:0,value:0  

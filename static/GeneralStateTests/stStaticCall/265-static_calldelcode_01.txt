@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_calldelcode_01.json
-2024-07-28T15:12:52.934Z [PASSED] 265/286,0 static_calldelcode_01 1/1 data:0,gas:0,value:0  

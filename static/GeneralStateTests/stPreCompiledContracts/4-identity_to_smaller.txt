@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts/identity_to_smaller.json
-2024-07-28T14:35:25.137Z [FAILED] 4/9,0 identity_to_smaller 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"45758","state_root":"0xb23a8d7a134a26beb274f73c12342b11946617feacd33ad54b7d52b3123a5446","expected":"0xea33770890d9f04b01771f23125383ee7aa40cd441964292d2f91cb137f9a521","hash":"0x5266842987b874303a376747d53b1197dcfb635e23143ca7a9fef012aadf50a9"}

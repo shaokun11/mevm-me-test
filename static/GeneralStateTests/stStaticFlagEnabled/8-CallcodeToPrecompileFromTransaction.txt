@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallcodeToPrecompileFromTransaction.json
-2024-07-28T15:13:09.942Z [FAILED] 8/13,0 CallcodeToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"3452247","state_root":"0x286d5d90f2108d45909fd66db8ae4882fcf7cbe780543659e9efa083ba001710","expected":"0xd300713de72639d59c6c3ebfe0e79268a12652fb54253d7d77a96de87c66f23d","hash":"0x6fc9fe0267b19af81e8d54d932fa51589b49527b601db32314c694a679388d5e"}

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/StaticcallToPrecompileFromContractInitialization.json
-2024-07-28T14:54:37.803Z [FAILED] 1/286,0 StaticcallToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"706854","state_root":"0x15cc0692bf53d2162d148625c8e61642b4c0527f1efa9d0288f02ca7ef4f4170","expected":"0x324405f7a0fd43727f4f7fd42ac3bbcbd5800c134925dadd5e7d4f67bf244f74","hash":"0x0e1197230aab6ecdb6434b8fa9e0258145e9df3e2a36d3e0caf4f672f6606702"}

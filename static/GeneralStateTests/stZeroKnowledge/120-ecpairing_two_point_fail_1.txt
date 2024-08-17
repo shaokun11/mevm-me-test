@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_two_point_fail_1.json
-2024-07-28T15:42:23.106Z [FAILED] 120/134,0 ecpairing_two_point_fail_1 1/3 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"149845","state_root":"0xf507426387b037e3fe8cbba5bfaecab995fbd31cb23bd26f2708116c8411914f","expected":"0x5fa5c63df5651b54111f7203090b0f269477ee5753670e19cfbebb51a912e112","hash":"0x883e1cc745f647ce8029da841972bc9b623da681d67a94210e37fce943d132e7"}
-2024-07-28T15:42:23.319Z [PASSED] 120/134,0 ecpairing_two_point_fail_1 2/3 data:0,gas:1,value:0  
-2024-07-28T15:42:23.531Z [PASSED] 120/134,0 ecpairing_two_point_fail_1 3/3 data:0,gas:2,value:0  

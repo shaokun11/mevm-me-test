@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/RevertDepthCreate2OOG.json
-2024-07-28T14:19:36.642Z [PASSED] 22/51,0 RevertDepthCreate2OOG 1/8 data:1,gas:1,value:0  
-2024-07-28T14:19:36.855Z [PASSED] 22/51,0 RevertDepthCreate2OOG 2/8 data:1,gas:1,value:1  
-2024-07-28T14:19:37.069Z [PASSED] 22/51,0 RevertDepthCreate2OOG 3/8 data:0,gas:1,value:0  
-2024-07-28T14:19:37.282Z [PASSED] 22/51,0 RevertDepthCreate2OOG 4/8 data:0,gas:1,value:1  
-2024-07-28T14:19:37.496Z [PASSED] 22/51,0 RevertDepthCreate2OOG 5/8 data:0,gas:0,value:0  
-2024-07-28T14:19:37.710Z [PASSED] 22/51,0 RevertDepthCreate2OOG 6/8 data:0,gas:0,value:1  
-2024-07-28T14:19:37.923Z [PASSED] 22/51,0 RevertDepthCreate2OOG 7/8 data:1,gas:0,value:0  
-2024-07-28T14:19:38.136Z [PASSED] 22/51,0 RevertDepthCreate2OOG 8/8 data:1,gas:0,value:1  

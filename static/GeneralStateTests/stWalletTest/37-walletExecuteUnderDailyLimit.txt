@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/walletExecuteUnderDailyLimit.json
-2024-07-28T15:39:53.368Z [PASSED] 37/42,0 walletExecuteUnderDailyLimit 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/codeCopyZero_Paris.json
-2024-07-28T14:31:04.898Z [FAILED] 2/36,0 codeCopyZero_Paris 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"266462","state_root":"0xf4cadf8f1bda1b2aa814ed105ce8e7f08a697c7ce87bad87e38f68c8d6815de5","expected":"0xe19476c59f117ae39c7a10622d13481a67cda31396484f48cdc93c8e8e631a52","hash":"0x609df701be14693af809c90d25036715ab380211682c9036c5443b6e4737ab84"}

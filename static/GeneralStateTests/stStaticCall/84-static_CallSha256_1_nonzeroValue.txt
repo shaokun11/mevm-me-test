@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_1_nonzeroValue.json
-2024-07-28T15:07:00.947Z [FAILED] 84/286,0 static_CallSha256_1_nonzeroValue 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"106655","state_root":"0x33d9d7b99a47b5ce2fdff88601f52cea2a0927ea042c9c774546b0be43182abd","expected":"0x94accf4a6a2e75df4f7ac1e59090dcf66da145c21c49102eec33e3e93cc75e65","hash":"0x8b8a3ba4f948d8efd6be5b195129349c4562ebeff16f8690d3b45ca05a7d92cd"}

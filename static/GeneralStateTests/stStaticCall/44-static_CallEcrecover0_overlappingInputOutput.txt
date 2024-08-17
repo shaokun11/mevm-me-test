@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_overlappingInputOutput.json
-2024-07-28T15:06:46.937Z [FAILED] 44/286,0 static_CallEcrecover0_overlappingInputOutput 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"93160","state_root":"0xfe08abb59e11fe7ece954015c70460254ca0e28b4a34272ad936e0389f544a80","expected":"0xaa58fcdbc341ca987ef29be262bc9ef40e582572a9e3c582ce88d1710834dbbb","hash":"0x135caa2eb2dca9b92fe847d52916646261197ed0b77e682d5682247ce2e249e3"}

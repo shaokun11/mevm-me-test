@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/create2checkFieldsInInitcode.json
-2024-07-28T14:19:49.046Z [PASSED] 34/51,0 create2checkFieldsInInitcode 1/8 data:0,gas:0,value:0  
-2024-07-28T14:19:49.262Z [PASSED] 34/51,0 create2checkFieldsInInitcode 2/8 data:4,gas:0,value:0  
-2024-07-28T14:19:49.475Z [PASSED] 34/51,0 create2checkFieldsInInitcode 3/8 data:1,gas:0,value:0  
-2024-07-28T14:19:49.688Z [PASSED] 34/51,0 create2checkFieldsInInitcode 4/8 data:2,gas:0,value:0  
-2024-07-28T14:19:49.900Z [PASSED] 34/51,0 create2checkFieldsInInitcode 5/8 data:3,gas:0,value:0  
-2024-07-28T14:19:50.115Z [PASSED] 34/51,0 create2checkFieldsInInitcode 6/8 data:7,gas:0,value:0  
-2024-07-28T14:19:50.328Z [PASSED] 34/51,0 create2checkFieldsInInitcode 7/8 data:5,gas:0,value:0  
-2024-07-28T14:19:50.541Z [PASSED] 34/51,0 create2checkFieldsInInitcode 8/8 data:6,gas:0,value:0  

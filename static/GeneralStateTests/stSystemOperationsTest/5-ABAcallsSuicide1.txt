@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/ABAcallsSuicide1.json
-2024-07-28T15:13:13.598Z [PASSED] 5/67,0 ABAcallsSuicide1 1/2 data:0,gas:0,value:0  
-2024-07-28T15:13:13.816Z [FAILED] 5/67,0 ABAcallsSuicide1 2/2 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"329513","state_root":"0x413a5abcd9c8c4ba113a24b607e37c18cf18b37ecc7da8847e46a942cd254850","expected":"0xa342612b2924620f680672af5203b9c32effac6150dc8608ae42f26235823ef7","hash":"0xb9c51e25c69e7a6d23428cb0297244c8aa4664339e84052dd26741144c06224f"}

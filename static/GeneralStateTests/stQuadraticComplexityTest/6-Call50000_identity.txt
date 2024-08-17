@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call50000_identity.json
-2024-07-28T14:40:33.333Z [PASSED] 6/17,0 Call50000_identity 1/2 data:0,gas:1,value:0  
-2024-07-28T14:40:33.751Z [PASSED] 6/17,0 Call50000_identity 2/2 data:0,gas:0,value:0  

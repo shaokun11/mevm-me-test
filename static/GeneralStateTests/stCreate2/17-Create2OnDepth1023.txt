@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreate2/Create2OnDepth1023.json
-2024-07-28T14:19:29.257Z [PASSED] 17/51,0 Create2OnDepth1023 1/1 data:0,gas:0,value:0  

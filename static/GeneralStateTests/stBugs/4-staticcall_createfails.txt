@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stBugs/staticcall_createfails.json
-2024-07-28T14:17:51.322Z [PASSED] 4/5,0 staticcall_createfails 1/2 data:0,gas:0,value:0  
-2024-07-28T14:17:51.538Z [PASSED] 4/5,0 staticcall_createfails 2/2 data:1,gas:0,value:0  

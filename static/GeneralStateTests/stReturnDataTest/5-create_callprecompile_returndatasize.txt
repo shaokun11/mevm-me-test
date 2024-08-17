@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/create_callprecompile_returndatasize.json
-2024-07-28T14:49:05.157Z [FAILED] 5/41,0 create_callprecompile_returndatasize 1/1 data:0,gas:0,value:0  {"gas_refund":"4800","gas_usage":"84408","state_root":"0xd35db00d21df6d9d6744a94408b7094d72a09d6b5a50c9dd4aabc2c2ee7fc69a","expected":"0x4e876af17bc62c01e6d3b8305a473f251f90f78065ce28d7c26b517f2590e6f2","hash":"0x64ea9d64d41d0b1402b14a53857aeb932cf5fd4b52dfff2d9bb6eb1dac20d6b5"}

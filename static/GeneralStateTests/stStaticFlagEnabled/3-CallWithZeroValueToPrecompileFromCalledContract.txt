@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithZeroValueToPrecompileFromCalledContract.json
-2024-07-28T15:13:07.848Z [FAILED] 3/13,0 CallWithZeroValueToPrecompileFromCalledContract 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"2821342","state_root":"0x93a8ebe4d3b2736b3bd9db540bfdf75d71c0a5292609c20cd9f670d073a6a38e","expected":"0x76ef77f9db3e75e6a8c61af64ffaf98400688877ca063d49fe1d5b528be14ef5","hash":"0xf26faae69cc13092b278ff00a758817bb64d045706ff725c77cc3c635587423b"}

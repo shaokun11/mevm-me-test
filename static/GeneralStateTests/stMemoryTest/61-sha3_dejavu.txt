@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryTest/sha3_dejavu.json
-2024-07-28T14:34:08.042Z [PASSED] 61/71,0 sha3_dejavu 1/1 data:0,gas:0,value:0  

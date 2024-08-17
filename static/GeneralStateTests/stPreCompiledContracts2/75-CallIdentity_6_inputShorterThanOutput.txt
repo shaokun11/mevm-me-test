@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallIdentity_6_inputShorterThanOutput.json
-2024-07-28T14:38:38.679Z [FAILED] 75/102,0 CallIdentity_6_inputShorterThanOutput 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"45774","state_root":"0x060fc61769c7c3e46611b0f7c4736c26a233ac5f8552caa792aec37ad492467e","expected":"0x66446224f3579d8fea5d21aa5fdf403ccd3b1f8544f868829892e678918af1bf","hash":"0x994b37a5859c1e4e208e115509d884ff20a8510f48274b77777f092f71bc3d06"}

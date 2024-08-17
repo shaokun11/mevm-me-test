@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createFailBalanceTooLow.json
-2024-07-28T14:18:31.103Z [SKIP] 27/43,0 createFailBalanceTooLow 1/2 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-07-28T14:18:31.317Z [SKIP] 27/43,0 createFailBalanceTooLow 2/2 data:0,gas:0,value:1  Not implementation SELFDESTRUCT opcode

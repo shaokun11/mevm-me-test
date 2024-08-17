@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_DELEGATECALL.json
-2024-07-28T14:34:17.441Z [PASSED] 8/24,0 NonZeroValue_DELEGATECALL 1/1 data:0,gas:0,value:0  

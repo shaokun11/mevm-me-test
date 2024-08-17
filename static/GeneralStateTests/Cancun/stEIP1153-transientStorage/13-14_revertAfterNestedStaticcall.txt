@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/14_revertAfterNestedStaticcall.json
-2024-07-28T13:26:01.505Z [PASSED] 13/37,0 14_revertAfterNestedStaticcall 1/1 data:0,gas:0,value:0  
+2024-08-17T12:24:10.021Z [PASSED] 13/37,0 14_revertAfterNestedStaticcall 1/1 data:0,gas:0,value:0  

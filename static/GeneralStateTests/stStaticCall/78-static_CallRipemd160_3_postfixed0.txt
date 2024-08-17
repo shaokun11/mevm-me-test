@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallRipemd160_3_postfixed0.json
-2024-07-28T15:06:59.667Z [FAILED] 78/286,0 static_CallRipemd160_3_postfixed0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"68685","state_root":"0x193e9f1a92967356a6c43ee3ab784ccf23e15778a4b91309a874fcd600411e66","expected":"0x5f293fc5f95d1581ccbd7c626ea1495d52f3d66c8f895cf83f7db212dedc2b83","hash":"0xe42d019e9ed26e7e81b177e8899d6fe7d222ac83773b46a02ceb81c47c0afdf6"}

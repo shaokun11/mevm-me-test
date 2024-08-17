@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/walletExecuteOverDailyLimitOnlyOneOwnerNew.json
-2024-07-28T15:39:52.951Z [PASSED] 36/42,0 walletExecuteOverDailyLimitOnlyOneOwnerNew 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecallcode_011_SuicideMiddle.json
-2024-07-28T15:12:12.079Z [SKIP] 204/286,0 static_callcallcodecallcode_011_SuicideMiddle 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

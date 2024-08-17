@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorNotMuchMemory0.json
-2024-07-28T15:13:19.441Z [PASSED] 18/67,0 CallToNameRegistratorNotMuchMemory0 1/1 data:0,gas:0,value:0  

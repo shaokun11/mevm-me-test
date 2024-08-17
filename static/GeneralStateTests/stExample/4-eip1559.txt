@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExample/eip1559.json
-2024-07-28T14:30:55.607Z [PASSED] 4/12,0 eip1559 1/1 data:0,gas:0,value:0  

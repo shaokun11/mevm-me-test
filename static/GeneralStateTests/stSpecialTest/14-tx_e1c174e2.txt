@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/tx_e1c174e2.json
-2024-07-28T14:53:08.978Z [PASSED] 14/15,0 tx_e1c174e2 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_completeReturnValue.json
-2024-07-28T15:06:46.511Z [FAILED] 42/286,0 static_CallEcrecover0_completeReturnValue 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"70881","state_root":"0xec819f0be05a1879edb9d051412f68c90175b4c71e2fc135c750be05ac5f971e","expected":"0x834ac25dfc6a6224abeb15a4031ad3c9177e184b56e441cd162b2bf57c8628ac","hash":"0x389a178409e2a53a5c3943eef5b40e7af4fe4d14b37bda2cacebe191b151e856"}

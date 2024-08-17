@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALL_ToNonZeroBalance_OOGRevert.json
-2024-07-28T15:39:56.029Z [PASSED] 6/16,0 ZeroValue_CALL_ToNonZeroBalance_OOGRevert 1/1 data:0,gas:0,value:0  

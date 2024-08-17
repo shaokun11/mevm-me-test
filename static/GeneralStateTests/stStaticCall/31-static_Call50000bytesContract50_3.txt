@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000bytesContract50_3.json
-2024-07-28T15:06:33.215Z [PASSED] 31/286,0 static_Call50000bytesContract50_3 1/2 data:0,gas:0,value:0  
-2024-07-28T15:06:41.394Z [PASSED] 31/286,0 static_Call50000bytesContract50_3 2/2 data:1,gas:0,value:0  

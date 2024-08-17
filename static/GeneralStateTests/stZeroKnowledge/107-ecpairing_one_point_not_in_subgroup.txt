@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_one_point_not_in_subgroup.json
-2024-07-28T15:42:11.798Z [PASSED] 107/134,0 ecpairing_one_point_not_in_subgroup 1/4 data:0,gas:0,value:0  
-2024-07-28T15:42:12.012Z [PASSED] 107/134,0 ecpairing_one_point_not_in_subgroup 2/4 data:0,gas:1,value:0  
-2024-07-28T15:42:12.229Z [PASSED] 107/134,0 ecpairing_one_point_not_in_subgroup 3/4 data:0,gas:2,value:0  
-2024-07-28T15:42:12.442Z [PASSED] 107/134,0 ecpairing_one_point_not_in_subgroup 4/4 data:0,gas:3,value:0  

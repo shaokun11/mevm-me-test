@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover0.json
-2024-07-28T14:38:18.920Z [FAILED] 2/102,0 CALLCODEEcrecover0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"93166","state_root":"0x6bb19a741069aabb437b7e2e2d20a6c4b08c8c7e632ca49e1a1537c9e6e86a18","expected":"0x81d2f7f906751c58d21a5e6e73a53dcec9596cf591749cc538b1c823d6828f09","hash":"0xeb058d124ae93e5b5f689bed08e150aa5606802881f26037360caa6c082bdfd8"}

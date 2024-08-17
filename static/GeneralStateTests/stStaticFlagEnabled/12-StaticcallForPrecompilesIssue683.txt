@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticFlagEnabled/StaticcallForPrecompilesIssue683.json
-2024-07-28T15:13:11.412Z [PASSED] 12/13,0 StaticcallForPrecompilesIssue683 1/1 data:0,gas:0,value:0  

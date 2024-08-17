@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stReturnDataTest/call_ecrec_success_empty_then_returndatasize.json
-2024-07-28T14:48:24.751Z [FAILED] 0/41,0 call_ecrec_success_empty_then_returndatasize 1/1 data:0,gas:0,value:0  {"gas_refund":"4800","gas_usage":"26846","state_root":"0xfd42e639ac4aeca0c41af1d135c6eeb9af3625f902c3f8e75835bc7408c4aa59","expected":"0x4914c9d1d54d7f4c432cd3206bdec1df1d915f39bade9c18b757501d3ac86cfa","hash":"0xa09d5d5276f0055156b7811f88ba95fb98d5b09582cc8183e622c1799b462202"}

@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_two_points_with_one_g2_zero.json
-2024-07-28T15:42:29.729Z [FAILED] 128/134,0 ecpairing_two_points_with_one_g2_zero 1/4 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"145533","state_root":"0x9f189ad265a7f23d92d85663161cb4de28cfd35421077751894481a0fe1dbfe9","expected":"0x3cb05ade002489cf0b8f6906f157a50eb40eb13b35a7a85e9e1e42f3c996bd25","hash":"0x210a7c6b649eddafd3af95a52533388649ddabe04e8a80f8a1b253c91eac0217"}
-2024-07-28T15:42:29.945Z [PASSED] 128/134,0 ecpairing_two_points_with_one_g2_zero 2/4 data:0,gas:1,value:0  
-2024-07-28T15:42:30.158Z [PASSED] 128/134,0 ecpairing_two_points_with_one_g2_zero 3/4 data:0,gas:2,value:0  
-2024-07-28T15:42:30.575Z [FAILED] 128/134,0 ecpairing_two_points_with_one_g2_zero 4/4 data:0,gas:3,value:0  {"gas_refund":"0","gas_usage":"145533","state_root":"0x9f189ad265a7f23d92d85663161cb4de28cfd35421077751894481a0fe1dbfe9","expected":"0x3cb05ade002489cf0b8f6906f157a50eb40eb13b35a7a85e9e1e42f3c996bd25","hash":"0xc16098ef4f1a82f1febd26b829f6e73a558e7ec2b6b0fc23fd8557db1688752c"}

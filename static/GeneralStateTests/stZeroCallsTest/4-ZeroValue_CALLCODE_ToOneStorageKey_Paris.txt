@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALLCODE_ToOneStorageKey_Paris.json
-2024-07-28T15:39:59.336Z [PASSED] 4/24,0 ZeroValue_CALLCODE_ToOneStorageKey_Paris 1/1 data:0,gas:0,value:0  

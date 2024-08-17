@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSpecialTest/failed_tx_xcf416c53_Paris.json
-2024-07-28T14:53:07.685Z [SKIP] 8/15,0 failed_tx_xcf416c53_Paris 1/1 data:0,gas:0,value:0  Not support blob basefee opcode

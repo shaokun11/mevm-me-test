@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/gt.json
-2024-07-28T13:39:18.797Z [PASSED] 22/64,0 gt 1/4 data:0,gas:0,value:0 gt_neg2_0 
-2024-07-28T13:39:19.010Z [PASSED] 22/64,0 gt 2/4 data:1,gas:0,value:0 gt_0_neg2 
-2024-07-28T13:39:19.222Z [PASSED] 22/64,0 gt 3/4 data:2,gas:0,value:0 gt_neg1_0 
-2024-07-28T13:39:19.435Z [PASSED] 22/64,0 gt 4/4 data:3,gas:0,value:0 gt_0_neg1 

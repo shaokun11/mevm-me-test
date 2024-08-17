@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts/sec80.json
-2024-07-28T14:37:57.880Z [FAILED] 8/9,0 sec80 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"48845","state_root":"0x82356bb16dfae0dafb907e527fac0d112b591064c8fb4c06cab6ce4efafa9828","expected":"0xe0d8d59363d210929feaeaee9defd8ec26593b14ef86cf0837ffee33f6245ecf","hash":"0x3a0925b82f344b12ffd8dc72a9167e47ca802dca3ccef0ffe786a4254edd86a9"}
