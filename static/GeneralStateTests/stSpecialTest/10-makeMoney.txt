@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/makeMoney.json
+2024-08-18T03:40:23.907Z [PASSED] 10/15,0 makeMoney 1/1 data:0,gas:0,value:0  

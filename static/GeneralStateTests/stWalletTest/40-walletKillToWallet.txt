@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stWalletTest/walletKillToWallet.json
+2024-08-18T04:37:34.441Z [SKIP] 40/42,0 walletKillToWallet 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

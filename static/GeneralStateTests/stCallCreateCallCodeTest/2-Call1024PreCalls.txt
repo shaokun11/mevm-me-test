@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Call1024PreCalls.json
+2024-08-18T03:00:36.414Z [PASSED] 2/43,0 Call1024PreCalls 1/2 data:0,gas:0,value:0  
+2024-08-18T03:00:40.070Z [PASSED] 2/43,0 Call1024PreCalls 2/2 data:0,gas:1,value:0  

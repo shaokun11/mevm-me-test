@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/JUMPDEST_AttackwithJump.json
+2024-08-18T03:40:18.198Z [PASSED] 2/15,0 JUMPDEST_AttackwithJump 1/1 data:0,gas:0,value:0  

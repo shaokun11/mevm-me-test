@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransactionTest/TransactionToItself.json
+2024-08-18T04:37:20.367Z [PASSED] 33/35,0 TransactionToItself 1/1 data:0,gas:0,value:0  

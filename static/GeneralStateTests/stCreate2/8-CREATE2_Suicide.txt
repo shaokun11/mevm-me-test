@@ -1,0 +1,13 @@
+ethereum-tests/GeneralStateTests/stCreate2/CREATE2_Suicide.json
+2024-08-18T03:01:40.012Z [SKIP] 8/51,0 CREATE2_Suicide 1/12 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:40.228Z [SKIP] 8/51,0 CREATE2_Suicide 2/12 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:40.442Z [SKIP] 8/51,0 CREATE2_Suicide 3/12 data:2,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:40.657Z [SKIP] 8/51,0 CREATE2_Suicide 4/12 data:3,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:40.873Z [SKIP] 8/51,0 CREATE2_Suicide 5/12 data:4,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:41.089Z [SKIP] 8/51,0 CREATE2_Suicide 6/12 data:5,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:41.303Z [SKIP] 8/51,0 CREATE2_Suicide 7/12 data:6,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:41.517Z [SKIP] 8/51,0 CREATE2_Suicide 8/12 data:7,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:41.731Z [SKIP] 8/51,0 CREATE2_Suicide 9/12 data:8,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:41.946Z [SKIP] 8/51,0 CREATE2_Suicide 10/12 data:9,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:42.163Z [SKIP] 8/51,0 CREATE2_Suicide 11/12 data:10,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-18T03:01:42.377Z [SKIP] 8/51,0 CREATE2_Suicide 12/12 data:11,gas:0,value:0  Not implementation SELFDESTRUCT opcode

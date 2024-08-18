@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_following_create.json
+2024-08-18T03:36:09.622Z [PASSED] 17/41,0 returndatacopy_following_create 1/1 data:0,gas:0,value:0  

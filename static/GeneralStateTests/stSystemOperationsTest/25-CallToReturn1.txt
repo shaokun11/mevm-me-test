@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToReturn1.json
+2024-08-18T04:10:23.676Z [PASSED] 25/67,0 CallToReturn1 1/1 data:0,gas:0,value:0  

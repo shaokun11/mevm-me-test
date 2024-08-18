@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBomb0_OOG_atMaxCallDepth.json
+2024-08-18T04:00:23.849Z [FAILED] 67/286,0 static_CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"96899434840","state_root":"0x4f9524ff24b4f38de60fe25be22caac2a737f9385dca8bd11b5829061ffd52e9","expected":"0xd37d0ff2bd835edbe012048b448f6dd9dbe252b9922fdd23182ed6acfb12db73","hash":"0x002117b2ceb0ebad259ddd622145d6dc969a5fce7eb92f381c505b731d763d4c"}

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stShift/shiftCombinations.json
+2024-08-18T03:39:49.560Z [PASSED] 18/42,0 shiftCombinations 1/1 data:0,gas:0,value:0  

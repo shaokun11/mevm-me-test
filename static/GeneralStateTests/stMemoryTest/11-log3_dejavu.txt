@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/log3_dejavu.json
+2024-08-18T03:16:34.405Z [PASSED] 11/71,0 log3_dejavu 1/1 data:0,gas:0,value:0  

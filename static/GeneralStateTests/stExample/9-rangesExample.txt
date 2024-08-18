@@ -1,0 +1,25 @@
+ethereum-tests/GeneralStateTests/stExample/rangesExample.json
+2024-08-18T03:13:43.072Z [PASSED] 9/12,0 rangesExample 1/24 data:0,gas:0,value:0 transaction1 
+2024-08-18T03:13:43.292Z [PASSED] 9/12,0 rangesExample 2/24 data:0,gas:0,value:1  
+2024-08-18T03:13:43.711Z [PASSED] 9/12,0 rangesExample 3/24 data:1,gas:0,value:0  
+2024-08-18T03:13:43.926Z [PASSED] 9/12,0 rangesExample 4/24 data:1,gas:0,value:1  
+2024-08-18T03:13:44.142Z [PASSED] 9/12,0 rangesExample 5/24 data:2,gas:0,value:0  
+2024-08-18T03:13:44.360Z [PASSED] 9/12,0 rangesExample 6/24 data:2,gas:0,value:1  
+2024-08-18T03:13:44.575Z [PASSED] 9/12,0 rangesExample 7/24 data:0,gas:1,value:0  
+2024-08-18T03:13:44.788Z [PASSED] 9/12,0 rangesExample 8/24 data:0,gas:1,value:1  
+2024-08-18T03:13:45.001Z [PASSED] 9/12,0 rangesExample 9/24 data:0,gas:2,value:0  
+2024-08-18T03:13:45.216Z [PASSED] 9/12,0 rangesExample 10/24 data:0,gas:2,value:1  
+2024-08-18T03:13:45.436Z [PASSED] 9/12,0 rangesExample 11/24 data:1,gas:1,value:0  
+2024-08-18T03:13:45.652Z [PASSED] 9/12,0 rangesExample 12/24 data:1,gas:1,value:1  
+2024-08-18T03:13:45.865Z [PASSED] 9/12,0 rangesExample 13/24 data:1,gas:2,value:0  
+2024-08-18T03:13:46.079Z [PASSED] 9/12,0 rangesExample 14/24 data:1,gas:2,value:1  
+2024-08-18T03:13:46.295Z [PASSED] 9/12,0 rangesExample 15/24 data:2,gas:1,value:0  
+2024-08-18T03:13:46.508Z [PASSED] 9/12,0 rangesExample 16/24 data:2,gas:1,value:1  
+2024-08-18T03:13:46.722Z [PASSED] 9/12,0 rangesExample 17/24 data:2,gas:2,value:0  
+2024-08-18T03:13:46.936Z [PASSED] 9/12,0 rangesExample 18/24 data:2,gas:2,value:1  
+2024-08-18T03:13:47.150Z [PASSED] 9/12,0 rangesExample 19/24 data:3,gas:0,value:0  
+2024-08-18T03:13:47.366Z [PASSED] 9/12,0 rangesExample 20/24 data:3,gas:0,value:1  
+2024-08-18T03:13:47.579Z [PASSED] 9/12,0 rangesExample 21/24 data:3,gas:1,value:0  
+2024-08-18T03:13:47.793Z [PASSED] 9/12,0 rangesExample 22/24 data:3,gas:1,value:1  
+2024-08-18T03:13:48.006Z [PASSED] 9/12,0 rangesExample 23/24 data:3,gas:2,value:0  
+2024-08-18T03:13:48.220Z [PASSED] 9/12,0 rangesExample 24/24 data:3,gas:2,value:1  

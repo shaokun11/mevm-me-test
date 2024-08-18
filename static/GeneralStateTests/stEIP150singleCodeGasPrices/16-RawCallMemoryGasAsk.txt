@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCallMemoryGasAsk.json
+2024-08-18T03:04:19.057Z [PASSED] 16/40,0 RawCallMemoryGasAsk 1/1 data:0,gas:0,value:0  

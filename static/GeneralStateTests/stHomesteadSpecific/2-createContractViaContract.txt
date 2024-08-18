@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stHomesteadSpecific/createContractViaContract.json
+2024-08-18T03:14:07.376Z [PASSED] 2/5,0 createContractViaContract 1/1 data:0,gas:0,value:0  

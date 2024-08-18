@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBomb0.json
+2024-08-18T04:10:12.278Z [FAILED] 7/67,0 CallRecursiveBomb0 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"264148","state_root":"0xd4ef328bd20938673182807b3344c97b0f340f9f77a1f02a6ae24eec665a1b3a","expected":"0x63831e803916fa12743fc6bb20d7c7bf97f40abe9fa4a9c565c3a38a4eb9bf6d","hash":"0x23b3a9361ac030c48530a13a5654e2e41e736e7290bdf76851bdaeff341d23ad"}

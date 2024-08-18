@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CREATE_EContractCreateNEContractInInitOOG_Tr.json
+2024-08-18T03:02:30.365Z [PASSED] 10/47,0 CREATE_EContractCreateNEContractInInitOOG_Tr 1/2 data:0,gas:0,value:0  
+2024-08-18T03:02:30.580Z [PASSED] 10/47,0 CREATE_EContractCreateNEContractInInitOOG_Tr 2/2 data:0,gas:1,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/gasPrice0.json
+2024-08-18T03:40:23.688Z [PASSED] 9/15,0 gasPrice0 1/1 data:0,gas:0,value:0  

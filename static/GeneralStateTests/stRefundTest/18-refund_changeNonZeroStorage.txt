@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRefundTest/refund_changeNonZeroStorage.json
+2024-08-18T03:35:24.785Z [PASSED] 18/22,0 refund_changeNonZeroStorage 1/1 data:0,gas:0,value:0  

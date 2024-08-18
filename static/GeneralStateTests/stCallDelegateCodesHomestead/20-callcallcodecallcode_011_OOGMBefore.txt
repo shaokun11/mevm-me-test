@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallDelegateCodesHomestead/callcallcodecallcode_011_OOGMBefore.json
+2024-08-18T03:01:18.547Z [PASSED] 20/58,0 callcallcodecallcode_011_OOGMBefore 1/1 data:0,gas:0,value:0  

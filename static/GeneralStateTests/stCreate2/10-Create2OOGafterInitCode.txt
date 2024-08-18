@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCreate2/Create2OOGafterInitCode.json
+2024-08-18T03:01:47.953Z [PASSED] 10/51,0 Create2OOGafterInitCode 1/2 data:0,gas:0,value:0  
+2024-08-18T03:01:48.166Z [PASSED] 10/51,0 Create2OOGafterInitCode 2/2 data:0,gas:1,value:0  

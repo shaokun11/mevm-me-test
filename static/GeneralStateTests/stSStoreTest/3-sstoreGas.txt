@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/sstoreGas.json
+2024-08-18T03:37:42.502Z [PASSED] 3/28,0 sstoreGas 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_log0_logMemStartTooHigh.json
+2024-08-18T04:09:54.258Z [PASSED] 270/286,0 static_log0_logMemStartTooHigh 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stInitCodeTest/StackUnderFlowContractCreation.json
+2024-08-18T03:14:11.972Z [PASSED] 12/17,0 StackUnderFlowContractCreation 1/1 data:0,gas:0,value:0  

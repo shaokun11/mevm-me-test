@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/doubleSelfdestructTest.json
+2024-08-18T04:10:29.498Z [SKIP] 51/67,0 doubleSelfdestructTest 1/8 data:0,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:29.712Z [SKIP] 51/67,0 doubleSelfdestructTest 2/8 data:1,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:29.927Z [SKIP] 51/67,0 doubleSelfdestructTest 3/8 data:2,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:30.140Z [SKIP] 51/67,0 doubleSelfdestructTest 4/8 data:3,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:30.354Z [SKIP] 51/67,0 doubleSelfdestructTest 5/8 data:7,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:30.570Z [SKIP] 51/67,0 doubleSelfdestructTest 6/8 data:4,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:30.784Z [SKIP] 51/67,0 doubleSelfdestructTest 7/8 data:5,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-18T04:10:30.998Z [SKIP] 51/67,0 doubleSelfdestructTest 8/8 data:6,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode

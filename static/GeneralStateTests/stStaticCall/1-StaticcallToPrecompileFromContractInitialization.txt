@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/StaticcallToPrecompileFromContractInitialization.json
+2024-08-18T03:41:59.590Z [PASSED] 1/286,0 StaticcallToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  

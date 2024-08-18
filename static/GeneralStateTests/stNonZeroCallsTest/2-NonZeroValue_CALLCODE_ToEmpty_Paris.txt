@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_CALLCODE_ToEmpty_Paris.json
+2024-08-18T03:17:08.238Z [PASSED] 2/24,0 NonZeroValue_CALLCODE_ToEmpty_Paris 1/1 data:0,gas:0,value:0  

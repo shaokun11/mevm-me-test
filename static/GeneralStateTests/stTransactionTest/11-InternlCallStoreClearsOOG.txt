@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTransactionTest/InternlCallStoreClearsOOG.json
+2024-08-18T04:36:26.336Z [PASSED] 11/35,0 InternlCallStoreClearsOOG 1/1 data:0,gas:0,value:0  

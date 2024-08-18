@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/CallRecursiveMethods.json
+2024-08-18T03:40:05.054Z [PASSED] 4/18,0 CallRecursiveMethods 1/1 data:0,gas:0,value:0  

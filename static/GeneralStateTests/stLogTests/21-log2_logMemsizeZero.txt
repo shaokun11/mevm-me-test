@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stLogTests/log2_logMemsizeZero.json
+2024-08-18T03:14:17.862Z [PASSED] 21/46,0 log2_logMemsizeZero 1/1 data:0,gas:0,value:0  

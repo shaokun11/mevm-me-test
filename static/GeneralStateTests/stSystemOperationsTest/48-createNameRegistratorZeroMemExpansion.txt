@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/createNameRegistratorZeroMemExpansion.json
+2024-08-18T04:10:28.853Z [PASSED] 48/67,0 createNameRegistratorZeroMemExpansion 1/1 data:0,gas:0,value:0  

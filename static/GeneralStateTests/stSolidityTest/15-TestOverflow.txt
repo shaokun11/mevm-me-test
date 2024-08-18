@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/TestOverflow.json
+2024-08-18T03:40:07.859Z [PASSED] 15/18,0 TestOverflow 1/1 data:0,gas:0,value:0  

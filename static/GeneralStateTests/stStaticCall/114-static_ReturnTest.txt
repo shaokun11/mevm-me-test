@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_ReturnTest.json
+2024-08-18T04:07:01.586Z [EXCEPTION] 114/286,0 static_ReturnTest 1/1 data:0,gas:0,value:0  {"error":"Waiting for transaction 0xf32a88bf0d1086c8fec64318fc2bd74b66953271d941947c0c4cfd3034acae97 timed out after 90 seconds"}

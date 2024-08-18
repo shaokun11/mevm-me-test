@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes4.json
+2024-08-18T04:00:41.497Z [PASSED] 99/286,0 static_CheckOpcodes4 1/4 data:0,gas:1,value:0  
+2024-08-18T04:00:41.709Z [PASSED] 99/286,0 static_CheckOpcodes4 2/4 data:0,gas:0,value:0  
+2024-08-18T04:00:41.922Z [PASSED] 99/286,0 static_CheckOpcodes4 3/4 data:0,gas:0,value:1  
+2024-08-18T04:00:42.135Z [PASSED] 99/286,0 static_CheckOpcodes4 4/4 data:0,gas:1,value:1  

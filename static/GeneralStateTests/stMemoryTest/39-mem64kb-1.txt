@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemoryTest/mem64kb-1.json
+2024-08-18T03:16:40.588Z [PASSED] 39/71,0 mem64kb-1 1/1 data:0,gas:0,value:0  

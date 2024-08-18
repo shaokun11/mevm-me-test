@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRandom/randomStatetest360.json
+2024-08-18T03:33:53.493Z [PASSED] 240/310,0 randomStatetest360 1/1 data:0,gas:0,value:0  

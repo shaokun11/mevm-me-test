@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_after_revert_in_staticcall.json
+2024-08-18T03:36:08.546Z [PASSED] 12/41,0 returndatacopy_after_revert_in_staticcall 1/1 data:0,gas:0,value:0  

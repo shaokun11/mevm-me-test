@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callWithHighValueAndOOGatTxLevel.json
+2024-08-18T03:00:51.453Z [PASSED] 16/43,0 callWithHighValueAndOOGatTxLevel 1/2 data:0,gas:0,value:0  
+2024-08-18T03:00:51.668Z [PASSED] 16/43,0 callWithHighValueAndOOGatTxLevel 2/2 data:0,gas:0,value:1  

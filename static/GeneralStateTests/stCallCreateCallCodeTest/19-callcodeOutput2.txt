@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callcodeOutput2.json
+2024-08-18T03:00:52.314Z [PASSED] 19/43,0 callcodeOutput2 1/1 data:0,gas:0,value:0  

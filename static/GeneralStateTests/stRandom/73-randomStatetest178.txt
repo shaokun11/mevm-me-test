@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRandom/randomStatetest178.json
+2024-08-18T03:33:13.135Z [FAILED] 73/310,0 randomStatetest178 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"4575617","state_root":"0xb5b70845fc9ad8a869f3baf7905a12d10c7b9396cf258523c96ea681824c96c9","expected":"0x79302af380c48bd354bb35ea30380d363e025eca5860f06e520b67cf42e4edf3","hash":"0x50da6a36ae517c8fb2f35f8bbda20cd026c291a9a8ee4ba1b09261cbb932e06e"}
