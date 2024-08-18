@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createJS_ExampleContract.json
-2024-08-18T14:54:14.472Z [FAILED] 37/43,0 createJS_ExampleContract 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"600000","state_root":"0x563b7499fd2807ad66c8ecc961d602c71f6cd1d44adc9b0d9b86601f3d6469a5","expected":"0x5e3103a080827b985c8a7c0e546fd6369082d38eebb3581b337c4bc9d0aff192","hash":"0xcbaea8ddbc6e1081849d2b5aaae550d3129c20ed141ad1457640dc7d96fdd608"}
+2024-08-18T15:21:45.944Z [PASSED] 37/43,0 createJS_ExampleContract 1/1 data:0,gas:0,value:0  
