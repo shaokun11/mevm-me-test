@@ -18,12 +18,12 @@ export const MOVE_VM_SKIP_BLOB_HASH_KEY = "0x1::evm_for_test: 0x49"
 export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff"
 
 export const IGNORE_TEST = [
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance/",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_NOT_SUPPORT_BLOB_TX,
+    },
     {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json",
         name: SKIP_ALL_NAME,
@@ -42,12 +42,12 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_DROP_FROM_MOVE_VM,
     },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/run_until_out_of_gas.json",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MSG_DROP_FROM_MOVE_VM,
-    // },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip1153_tstore/run_until_out_of_gas.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_DROP_FROM_MOVE_VM,
+    },
     // {
     //     path: "ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json",
     //     name: SKIP_ALL_NAME,
