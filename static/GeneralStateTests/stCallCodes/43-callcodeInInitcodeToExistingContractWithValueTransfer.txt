@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExistingContractWithValueTransfer.json
+2024-08-18T02:59:50.660Z [PASSED] 43/79,0 callcodeInInitcodeToExistingContractWithValueTransfer 1/1 data:0,gas:0,value:0  

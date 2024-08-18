@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcallcallcode_001.json
+2024-08-18T02:59:39.859Z [PASSED] 13/79,0 callcallcallcode_001 1/1 data:0,gas:0,value:0  
