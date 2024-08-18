@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Callcode1024OOG.json
-2024-08-18T03:00:44.984Z [FAILED] 6/43,0 Callcode1024OOG 1/2 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"1563704","state_root":"0x2786c69fd58ad2e2b7375c1e83c276ca484db6b28436cecac259bbb52223fba1","expected":"0x7af7d2a2beb4536aece0f4f72d39651b4e9be9ea62c64c68afc3782a2cc34683","hash":"0xae9d6fcbae947da39b65423b6de8cf15b7ec5753566f4cabba1375228321863a"}
-2024-08-18T03:00:45.808Z [FAILED] 6/43,0 Callcode1024OOG 2/2 data:0,gas:1,value:0  {"gas_refund":"0","gas_usage":"1565494","state_root":"0x5732af81e5cbcd869d8ddf7ea28fe4f18ac04ba2edf2bf9a0c91651c0530883f","expected":"0x172032054af7470461bb20c101da8b666bb41e27869ae79892750327366d82a9","hash":"0xb81e0411862fdbfaa402d16bd62470fbea4f0ed8a4e91578f6041b129ebf180e"}
+2024-08-18T14:53:55.405Z [PASSED] 6/43,0 Callcode1024OOG 1/2 data:0,gas:0,value:0  
+2024-08-18T14:53:56.232Z [PASSED] 6/43,0 Callcode1024OOG 2/2 data:0,gas:1,value:0  
