@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallDelegateCodesCallCodeHomestead/callcodecallcallcode_101_OOGMAfter.json
-2024-08-18T03:01:08.200Z [PASSED] 36/58,0 callcodecallcallcode_101_OOGMAfter 1/1 data:0,gas:0,value:0  
+2024-08-18T15:23:28.688Z [PASSED] 36/58,0 callcodecallcallcode_101_OOGMAfter 1/1 data:0,gas:0,value:0  
