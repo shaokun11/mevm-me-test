@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcallcodecall_ABCB_RECURSIVE.json
-2024-08-18T02:59:43.711Z [FAILED] 29/79,0 callcallcodecall_ABCB_RECURSIVE 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"568590","state_root":"0x158258381b304df008c2a852254f785eb9d7f902f468514367a585ddaa3acbc5","expected":"0x25773e2a436b9367b7fb659fc6c9acfbdabda277a89e68792bafea6921f75072","hash":"0xb3da3f923f683d19d61d57fe8349b4720926ced0d30dfb58f48da60b7111eb3f"}
+2024-08-18T10:38:04.531Z [PASSED] 29/79,0 callcallcodecall_ABCB_RECURSIVE 1/1 data:0,gas:0,value:0  
