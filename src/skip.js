@@ -25,6 +25,12 @@ export const IGNORE_TEST = [
         comment: MSG_NOT_SUPPORT_BLOB_TX,
     },
     {
+        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
+    {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,

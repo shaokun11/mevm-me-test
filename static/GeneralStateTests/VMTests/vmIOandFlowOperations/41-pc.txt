@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/pc.json
+2024-08-18T02:30:12.657Z [PASSED] 41/64,0 pc 1/2 data:0,gas:0,value:0 pc1 
+2024-08-18T02:30:12.870Z [PASSED] 41/64,0 pc 2/2 data:1,gas:0,value:0 pc2 

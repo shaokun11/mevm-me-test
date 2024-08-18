@@ -1,0 +1,7 @@
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/xor.json
+2024-08-18T02:29:34.672Z [PASSED] 29/64,0 xor 1/6 data:0,gas:0,value:0 xor_2_2 
+2024-08-18T02:29:34.885Z [PASSED] 29/64,0 xor 2/6 data:1,gas:0,value:0 xor_2_1 
+2024-08-18T02:29:35.102Z [PASSED] 29/64,0 xor 3/6 data:2,gas:0,value:0 xor_3_1 
+2024-08-18T02:29:35.316Z [PASSED] 29/64,0 xor 4/6 data:3,gas:0,value:0 xor_allones_bignum 
+2024-08-18T02:29:35.534Z [PASSED] 29/64,0 xor 5/6 data:4,gas:0,value:0 xor_allones_1110s 
+2024-08-18T02:29:35.749Z [PASSED] 29/64,0 xor 6/6 data:5,gas:0,value:0 xor_allones_eefee 
