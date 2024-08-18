@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/operationDiffGas.json
-2024-08-18T02:57:29.842Z [FAILED] 119/121,0 operationDiffGas 1/11 data:0,gas:0,value:0 CREATE {"gas_refund":"0","gas_usage":"13730349","state_root":"0x2856135ce095f22d2e4f972eb5416c8e7252f2e4135964980e2a826196ba8530","expected":"0xadb8edf195ed8b234ed423b7bd39a3a418217b5629fddbc8b86be027ac489a09","hash":"0x878d5eca7f06d1732e6f60f5be667c529f812bd68b0227af10d1b49e8ac51150"}
-2024-08-18T02:57:31.266Z [FAILED] 119/121,0 operationDiffGas 2/11 data:1,gas:0,value:0 CREATE2 {"gas_refund":"0","gas_usage":"13782713","state_root":"0x73961ddb98e5be94a90f254bf3e7204a3a400210fed843a97501c8bcf28aa83d","expected":"0xf11d8fa06e3c80099289107cbea7ac9b994578dc9ab8c84673a7c3f3f97dee32","hash":"0xf236e141a8138c8a9ffb324e21a31c7c52bc936d1b1de96385f5b2d05f7e468c"}
-2024-08-18T02:57:31.478Z [PASSED] 119/121,0 operationDiffGas 3/11 data:2,gas:0,value:0 CALL 
-2024-08-18T02:57:31.691Z [PASSED] 119/121,0 operationDiffGas 4/11 data:3,gas:0,value:0 CALLCODE 
-2024-08-18T02:57:31.904Z [PASSED] 119/121,0 operationDiffGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
-2024-08-18T02:57:32.116Z [PASSED] 119/121,0 operationDiffGas 6/11 data:5,gas:0,value:0 STATICCALL 
-2024-08-18T02:57:32.530Z [PASSED] 119/121,0 operationDiffGas 7/11 data:6,gas:0,value:0 MLOAD 
-2024-08-18T02:57:32.945Z [PASSED] 119/121,0 operationDiffGas 8/11 data:7,gas:0,value:0 MSTORE 
-2024-08-18T02:57:33.361Z [PASSED] 119/121,0 operationDiffGas 9/11 data:8,gas:0,value:0 MSTORE8 
-2024-08-18T02:57:33.573Z [PASSED] 119/121,0 operationDiffGas 10/11 data:10,gas:0,value:0 SHA3 
-2024-08-18T02:57:34.189Z [PASSED] 119/121,0 operationDiffGas 11/11 data:9,gas:0,value:0 EXTCODE 
+2024-08-18T06:52:30.835Z [PASSED] 119/121,0 operationDiffGas 1/11 data:0,gas:0,value:0 CREATE 
+2024-08-18T06:52:32.267Z [PASSED] 119/121,0 operationDiffGas 2/11 data:1,gas:0,value:0 CREATE2 
+2024-08-18T06:52:32.484Z [PASSED] 119/121,0 operationDiffGas 3/11 data:2,gas:0,value:0 CALL 
+2024-08-18T06:52:32.700Z [PASSED] 119/121,0 operationDiffGas 4/11 data:3,gas:0,value:0 CALLCODE 
+2024-08-18T06:52:32.914Z [PASSED] 119/121,0 operationDiffGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
+2024-08-18T06:52:33.130Z [PASSED] 119/121,0 operationDiffGas 6/11 data:5,gas:0,value:0 STATICCALL 
+2024-08-18T06:52:33.550Z [PASSED] 119/121,0 operationDiffGas 7/11 data:6,gas:0,value:0 MLOAD 
+2024-08-18T06:52:33.968Z [PASSED] 119/121,0 operationDiffGas 8/11 data:7,gas:0,value:0 MSTORE 
+2024-08-18T06:52:34.386Z [PASSED] 119/121,0 operationDiffGas 9/11 data:8,gas:0,value:0 MSTORE8 
+2024-08-18T06:52:34.601Z [PASSED] 119/121,0 operationDiffGas 10/11 data:10,gas:0,value:0 SHA3 
+2024-08-18T06:52:35.222Z [PASSED] 119/121,0 operationDiffGas 11/11 data:9,gas:0,value:0 EXTCODE 
