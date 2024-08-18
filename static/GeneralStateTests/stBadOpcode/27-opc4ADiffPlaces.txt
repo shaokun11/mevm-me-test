@@ -1,0 +1,36 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/opc4ADiffPlaces.json
+2024-08-18T02:41:29.502Z [SKIP] 27/121,0 opc4ADiffPlaces 1/35 data:0,gas:0,value:0 normal Not support blob basefee opcode
+2024-08-18T02:41:29.715Z [SKIP] 27/121,0 opc4ADiffPlaces 2/35 data:1,gas:0,value:0 normal Not support blob basefee opcode
+2024-08-18T02:41:29.928Z [SKIP] 27/121,0 opc4ADiffPlaces 3/35 data:2,gas:0,value:0 normal Not support blob basefee opcode
+2024-08-18T02:41:30.141Z [SKIP] 27/121,0 opc4ADiffPlaces 4/35 data:3,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:30.354Z [SKIP] 27/121,0 opc4ADiffPlaces 5/35 data:4,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:30.573Z [SKIP] 27/121,0 opc4ADiffPlaces 6/35 data:5,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:30.787Z [SKIP] 27/121,0 opc4ADiffPlaces 7/35 data:6,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:31.000Z [SKIP] 27/121,0 opc4ADiffPlaces 8/35 data:7,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:31.213Z [SKIP] 27/121,0 opc4ADiffPlaces 9/35 data:8,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:31.426Z [SKIP] 27/121,0 opc4ADiffPlaces 10/35 data:9,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:31.638Z [SKIP] 27/121,0 opc4ADiffPlaces 11/35 data:10,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:31.851Z [SKIP] 27/121,0 opc4ADiffPlaces 12/35 data:11,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:32.065Z [SKIP] 27/121,0 opc4ADiffPlaces 13/35 data:12,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:32.282Z [SKIP] 27/121,0 opc4ADiffPlaces 14/35 data:13,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:32.496Z [SKIP] 27/121,0 opc4ADiffPlaces 15/35 data:14,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:32.709Z [SKIP] 27/121,0 opc4ADiffPlaces 16/35 data:15,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:32.921Z [SKIP] 27/121,0 opc4ADiffPlaces 17/35 data:16,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:33.134Z [SKIP] 27/121,0 opc4ADiffPlaces 18/35 data:17,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:33.347Z [SKIP] 27/121,0 opc4ADiffPlaces 19/35 data:18,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:33.560Z [SKIP] 27/121,0 opc4ADiffPlaces 20/35 data:19,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:33.772Z [SKIP] 27/121,0 opc4ADiffPlaces 21/35 data:20,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:33.990Z [SKIP] 27/121,0 opc4ADiffPlaces 22/35 data:21,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:34.203Z [SKIP] 27/121,0 opc4ADiffPlaces 23/35 data:22,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:34.416Z [SKIP] 27/121,0 opc4ADiffPlaces 24/35 data:23,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:34.630Z [SKIP] 27/121,0 opc4ADiffPlaces 25/35 data:24,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:34.842Z [SKIP] 27/121,0 opc4ADiffPlaces 26/35 data:25,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:35.055Z [SKIP] 27/121,0 opc4ADiffPlaces 27/35 data:26,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:35.268Z [SKIP] 27/121,0 opc4ADiffPlaces 28/35 data:27,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:35.481Z [SKIP] 27/121,0 opc4ADiffPlaces 29/35 data:28,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:35.706Z [SKIP] 27/121,0 opc4ADiffPlaces 30/35 data:29,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:35.920Z [SKIP] 27/121,0 opc4ADiffPlaces 31/35 data:30,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:36.133Z [SKIP] 27/121,0 opc4ADiffPlaces 32/35 data:31,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:36.346Z [SKIP] 27/121,0 opc4ADiffPlaces 33/35 data:32,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:36.559Z [SKIP] 27/121,0 opc4ADiffPlaces 34/35 data:33,gas:0,value:0  Not support blob basefee opcode
+2024-08-18T02:41:38.591Z [SKIP] 27/121,0 opc4ADiffPlaces 35/35 data:34,gas:0,value:0  Not support blob basefee opcode

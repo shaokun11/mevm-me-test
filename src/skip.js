@@ -31,6 +31,12 @@ export const IGNORE_TEST = [
         comment: MST_TIMEOUT,
     },
     {
+        path: "ethereum-tests/GeneralStateTests/stAttackTest",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
+    {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,

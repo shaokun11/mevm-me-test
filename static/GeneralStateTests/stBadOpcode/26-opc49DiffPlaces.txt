@@ -1,0 +1,36 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/opc49DiffPlaces.json
+2024-08-18T02:41:17.973Z [SKIP] 26/121,0 opc49DiffPlaces 1/35 data:0,gas:0,value:0 normal Not support blob hash opcode
+2024-08-18T02:41:18.187Z [SKIP] 26/121,0 opc49DiffPlaces 2/35 data:21,gas:0,value:0 normal Not support blob hash opcode
+2024-08-18T02:41:20.636Z [SKIP] 26/121,0 opc49DiffPlaces 3/35 data:22,gas:0,value:0 normal Not support blob hash opcode
+2024-08-18T02:41:20.851Z [SKIP] 26/121,0 opc49DiffPlaces 4/35 data:23,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:21.064Z [SKIP] 26/121,0 opc49DiffPlaces 5/35 data:1,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:21.277Z [SKIP] 26/121,0 opc49DiffPlaces 6/35 data:2,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:21.490Z [SKIP] 26/121,0 opc49DiffPlaces 7/35 data:3,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:21.703Z [SKIP] 26/121,0 opc49DiffPlaces 8/35 data:4,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:21.916Z [SKIP] 26/121,0 opc49DiffPlaces 9/35 data:5,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:22.134Z [SKIP] 26/121,0 opc49DiffPlaces 10/35 data:6,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:22.348Z [SKIP] 26/121,0 opc49DiffPlaces 11/35 data:7,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:22.560Z [SKIP] 26/121,0 opc49DiffPlaces 12/35 data:8,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:22.773Z [SKIP] 26/121,0 opc49DiffPlaces 13/35 data:9,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:22.985Z [SKIP] 26/121,0 opc49DiffPlaces 14/35 data:10,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:23.198Z [SKIP] 26/121,0 opc49DiffPlaces 15/35 data:11,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:23.411Z [SKIP] 26/121,0 opc49DiffPlaces 16/35 data:12,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:23.624Z [SKIP] 26/121,0 opc49DiffPlaces 17/35 data:13,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:23.842Z [SKIP] 26/121,0 opc49DiffPlaces 18/35 data:14,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:24.055Z [SKIP] 26/121,0 opc49DiffPlaces 19/35 data:15,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:24.268Z [SKIP] 26/121,0 opc49DiffPlaces 20/35 data:16,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:24.480Z [SKIP] 26/121,0 opc49DiffPlaces 21/35 data:17,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:24.693Z [SKIP] 26/121,0 opc49DiffPlaces 22/35 data:18,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:24.907Z [SKIP] 26/121,0 opc49DiffPlaces 23/35 data:19,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:25.120Z [SKIP] 26/121,0 opc49DiffPlaces 24/35 data:20,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:25.333Z [SKIP] 26/121,0 opc49DiffPlaces 25/35 data:24,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:25.550Z [SKIP] 26/121,0 opc49DiffPlaces 26/35 data:25,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:25.764Z [SKIP] 26/121,0 opc49DiffPlaces 27/35 data:26,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:25.977Z [SKIP] 26/121,0 opc49DiffPlaces 28/35 data:27,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:26.189Z [SKIP] 26/121,0 opc49DiffPlaces 29/35 data:28,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:26.401Z [SKIP] 26/121,0 opc49DiffPlaces 30/35 data:29,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:26.614Z [SKIP] 26/121,0 opc49DiffPlaces 31/35 data:30,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:26.827Z [SKIP] 26/121,0 opc49DiffPlaces 32/35 data:31,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:27.040Z [SKIP] 26/121,0 opc49DiffPlaces 33/35 data:32,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:27.257Z [SKIP] 26/121,0 opc49DiffPlaces 34/35 data:33,gas:0,value:0  Not support blob hash opcode
+2024-08-18T02:41:29.288Z [SKIP] 26/121,0 opc49DiffPlaces 35/35 data:34,gas:0,value:0  Not support blob hash opcode
