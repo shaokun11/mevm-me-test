@@ -1,7 +1,7 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashSubcallOOG.json
-2024-08-18T15:31:13.538Z [FAILED] 32/36,0 extCodeHashSubcallOOG 1/6 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"153341","state_root":"0x7544369cb228fa98eee91586f1ccfc2639388b20706dce83356772b50dd5d194","expected":"0x46f49eaadd9eb44ec773e9024eff997461985065c4026cb649c7fb98c2a670d3","hash":"0xa9884c2d2f25f8d3dda262926d52348c8323e2b4f169560a855454ac87bd027c"}
-2024-08-18T15:31:13.757Z [FAILED] 32/36,0 extCodeHashSubcallOOG 2/6 data:1,gas:0,value:0  {"gas_refund":"0","gas_usage":"153341","state_root":"0xf7e0e0d0aeca3d4e70fb342793c7acae8eaba183636c3a95ff4051a145b38125","expected":"0x5ab2c6b5abb021d84c4e7d7a8a96b5586f1f248365eb2d6e4345290f19bd13e5","hash":"0x85b1efe2c7c1578ab23e3c5b8890f4204dea818c9a0adf333e7adf571b4db06a"}
-2024-08-18T15:31:13.978Z [FAILED] 32/36,0 extCodeHashSubcallOOG 3/6 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"153338","state_root":"0x74207c665349b10bb342997e85aa925d7da8cd38974cadc64deab1a982f0a908","expected":"0xdc84c9d6df5f41d82d5f0d050ae09fc4d9e2f73adf4df8ab74f43e01e923d3c5","hash":"0x551a87ae73884b88536c8aa1bcbc9a426ccb9f1505457bc913e49bbd6145639b"}
-2024-08-18T15:31:14.196Z [PASSED] 32/36,0 extCodeHashSubcallOOG 4/6 data:3,gas:0,value:0  
-2024-08-18T15:31:14.415Z [PASSED] 32/36,0 extCodeHashSubcallOOG 5/6 data:4,gas:0,value:0  
-2024-08-18T15:31:14.630Z [PASSED] 32/36,0 extCodeHashSubcallOOG 6/6 data:5,gas:0,value:0  
+2024-08-19T00:58:55.189Z [PASSED] 32/36,0 extCodeHashSubcallOOG 1/6 data:0,gas:0,value:0  
+2024-08-19T00:58:55.408Z [PASSED] 32/36,0 extCodeHashSubcallOOG 2/6 data:1,gas:0,value:0  
+2024-08-19T00:58:55.629Z [PASSED] 32/36,0 extCodeHashSubcallOOG 3/6 data:2,gas:0,value:0  
+2024-08-19T00:58:55.846Z [PASSED] 32/36,0 extCodeHashSubcallOOG 4/6 data:3,gas:0,value:0  
+2024-08-19T00:58:56.065Z [PASSED] 32/36,0 extCodeHashSubcallOOG 5/6 data:4,gas:0,value:0  
+2024-08-19T00:58:56.281Z [PASSED] 32/36,0 extCodeHashSubcallOOG 6/6 data:5,gas:0,value:0  
