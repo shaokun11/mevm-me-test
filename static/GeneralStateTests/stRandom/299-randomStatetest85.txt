@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest85.json
-2024-08-18T03:34:09.802Z [FAILED] 299/310,0 randomStatetest85 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_util::read_memory at code offset 4","hash":"0xf34f3d2a86570272cdcf677574389c2f556df055b19f9a03bdbe82e876a8354a","expected":"0xa3b6f38ac7f514a4c00435519671ae77ff57f728f2ad488a962ee056c2c23e20"}
+2024-08-19T14:15:21.210Z [FAILED] 299/310,0 randomStatetest85 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_util::read_memory at code offset 4","hash":"0x9e3f2465756779394ea0a08389540a1ce3a8f33bdfb11c8fa40afd0909a1fcdc","expected":"0xa3b6f38ac7f514a4c00435519671ae77ff57f728f2ad488a962ee056c2c23e20"}
