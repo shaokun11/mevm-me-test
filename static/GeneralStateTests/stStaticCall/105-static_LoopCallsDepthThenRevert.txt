@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_LoopCallsDepthThenRevert.json
-2024-08-20T06:31:42.291Z [PASSED] 105/286,0 static_LoopCallsDepthThenRevert 1/1 data:0,gas:0,value:0  
+2024-08-20T07:57:47.226Z [SKIP] 105/286,0 static_LoopCallsDepthThenRevert 1/1 data:0,gas:0,value:0  out of gas

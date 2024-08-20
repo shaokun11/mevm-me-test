@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log1_MaxTopic.json
-2024-08-20T06:40:55.628Z [PASSED] 276/286,0 static_log1_MaxTopic 1/1 data:0,gas:0,value:0  
+2024-08-20T07:57:47.308Z [SKIP] 276/286,0 static_log1_MaxTopic 1/1 data:0,gas:0,value:0  out of gas

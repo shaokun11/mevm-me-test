@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_RevertDepth2.json
-2024-08-20T06:38:01.238Z [PASSED] 116/286,0 static_RevertDepth2 1/1 data:0,gas:0,value:0  
+2024-08-20T07:57:47.231Z [SKIP] 116/286,0 static_RevertDepth2 1/1 data:0,gas:0,value:0  out of gas

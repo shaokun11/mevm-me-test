@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_refund_CallToSuicideNoStorage.json
-2024-08-20T06:40:58.396Z [PASSED] 284/286,0 static_refund_CallToSuicideNoStorage 1/2 data:0,gas:0,value:0  
-2024-08-20T06:40:58.609Z [SKIP] 284/286,0 static_refund_CallToSuicideNoStorage 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-20T07:57:47.311Z [SKIP] 284/286,0 static_refund_CallToSuicideNoStorage 1/2 data:0,gas:0,value:0  out of gas
+2024-08-20T07:57:47.311Z [SKIP] 284/286,0 static_refund_CallToSuicideNoStorage 2/2 data:1,gas:0,value:0  out of gas

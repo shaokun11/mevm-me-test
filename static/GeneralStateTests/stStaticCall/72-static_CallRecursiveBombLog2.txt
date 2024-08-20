@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBombLog2.json
-2024-08-20T06:31:20.291Z [FAILED] 72/286,0 static_CallRecursiveBombLog2 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"550799","state_root":"0x7a560efff562d07151ecd804139ef8de049fc539048c958291f0ade040e9f54c","expected":"0x8680b29c4ffeb40341db91d47901ae285710882f9b4a82dc8948eabf4bbdc58b","hash":"0xedccc2c25ee1ce71f5eff44a3b298575d3aed17bd24cd62f120106cc31c0f334"}
+2024-08-20T07:57:47.208Z [SKIP] 72/286,0 static_CallRecursiveBombLog2 1/1 data:0,gas:0,value:0  out of gas

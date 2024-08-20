@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecoverH_prefixed0.json
-2024-08-20T06:31:09.117Z [PASSED] 51/286,0 static_CallEcrecoverH_prefixed0 1/1 data:0,gas:0,value:0  
+2024-08-20T07:57:47.199Z [SKIP] 51/286,0 static_CallEcrecoverH_prefixed0 1/1 data:0,gas:0,value:0  out of gas

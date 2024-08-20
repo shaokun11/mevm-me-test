@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBomb0_OOG_atMaxCallDepth.json
-2024-08-20T06:31:16.400Z [PASSED] 67/286,0 static_CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  
+2024-08-20T07:57:47.206Z [SKIP] 67/286,0 static_CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  out of gas

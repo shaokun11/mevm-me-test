@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log0_nonEmptyMem_logMemSize1_logMemStart31.json
-2024-08-20T06:40:55.415Z [FAILED] 275/286,0 static_log0_nonEmptyMem_logMemSize1_logMemStart31 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"46122","state_root":"0xf3b80a4f7f738b1ba075789ad7ad058375cb5ee3740c585bf65480f5daefbf32","expected":"0x00a7828cec08759fc28a6df3ca3f0b19e59370efb981df4b67708f238370cb3a","hash":"0x8845ac6fd215a4c4dbd8d911c5d2cb4230fd797df77233000ced14f698aa4eb5"}
+2024-08-20T07:57:47.307Z [SKIP] 275/286,0 static_log0_nonEmptyMem_logMemSize1_logMemStart31 1/1 data:0,gas:0,value:0  out of gas
