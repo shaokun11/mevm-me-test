@@ -22,6 +22,12 @@ export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff";
 
 export const IGNORE_TEST = [
     {
+        path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_WRONG_TX,
+    },
+    {
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
@@ -110,11 +116,5 @@ export const IGNORE_TEST = [
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: MSG_OUT_OF_GAS,
-    },
-    {
-        path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
-        name: SKIP_ALL_NAME,
-        label: SKIP_ALL_LABEL,
-        comment: MSG_WRONG_TX,
     },
 ];
