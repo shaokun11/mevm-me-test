@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBomb0_OOG_atMaxCallDepth.json
-2024-08-18T04:10:14.717Z [FAILED] 8/67,0 CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"1295656","state_root":"0x403375e339abf1e17c0e576235a9934df9d8da2d189bf54442bbf43b968390b6","expected":"0x6ed8e2ee5392f2d580c44ad215a0fb7dfc130f63fb6313c4eb7c0ae1de696e86","hash":"0x95e9c9cc938ae9d6953b63bc786f80c3452d008ced437090a8cff4f3c78527fc"}
+2024-08-20T08:00:52.675Z [PASSED] 8/67,0 CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  
