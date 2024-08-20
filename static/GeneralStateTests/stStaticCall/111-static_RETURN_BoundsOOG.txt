@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_RETURN_BoundsOOG.json
-2024-08-20T07:57:47.229Z [SKIP] 111/286,0 static_RETURN_BoundsOOG 1/2 data:1,gas:0,value:0  out of gas
-2024-08-20T07:57:47.229Z [SKIP] 111/286,0 static_RETURN_BoundsOOG 2/2 data:0,gas:0,value:0  out of gas
+2024-08-20T07:59:44.151Z [SKIP] 111/286,0 static_RETURN_BoundsOOG 1/2 data:1,gas:0,value:0  out of gas
+2024-08-20T07:59:44.151Z [SKIP] 111/286,0 static_RETURN_BoundsOOG 2/2 data:0,gas:0,value:0  out of gas

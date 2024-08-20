@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000bytesContract50_2.json
-2024-08-20T07:57:47.180Z [SKIP] 30/286,0 static_Call50000bytesContract50_2 1/2 data:1,gas:0,value:0  out of gas
-2024-08-20T07:57:47.180Z [SKIP] 30/286,0 static_Call50000bytesContract50_2 2/2 data:0,gas:0,value:0  out of gas
+2024-08-20T07:59:44.107Z [SKIP] 30/286,0 static_Call50000bytesContract50_2 1/2 data:1,gas:0,value:0  out of gas
+2024-08-20T07:59:44.107Z [SKIP] 30/286,0 static_Call50000bytesContract50_2 2/2 data:0,gas:0,value:0  out of gas

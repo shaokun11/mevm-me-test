@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRecursiveBomb3.json
-2024-08-20T07:57:47.207Z [SKIP] 70/286,0 static_CallRecursiveBomb3 1/1 data:0,gas:0,value:0  out of gas
+2024-08-20T07:59:44.129Z [SKIP] 70/286,0 static_CallRecursiveBomb3 1/1 data:0,gas:0,value:0  out of gas

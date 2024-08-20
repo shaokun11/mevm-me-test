@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcallcode_ABCB_RECURSIVE2.json
-2024-08-20T07:57:47.293Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 1/4 data:0,gas:0,value:0  out of gas
-2024-08-20T07:57:47.293Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 2/4 data:0,gas:0,value:1  out of gas
-2024-08-20T07:57:47.293Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 3/4 data:1,gas:0,value:0  out of gas
-2024-08-20T07:57:47.293Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 4/4 data:1,gas:0,value:1  out of gas
+2024-08-20T07:59:44.214Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 1/4 data:0,gas:0,value:0  out of gas
+2024-08-20T07:59:44.214Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 2/4 data:0,gas:0,value:1  out of gas
+2024-08-20T07:59:44.214Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 3/4 data:1,gas:0,value:0  out of gas
+2024-08-20T07:59:44.214Z [SKIP] 246/286,0 static_callcodecallcallcode_ABCB_RECURSIVE2 4/4 data:1,gas:0,value:1  out of gas

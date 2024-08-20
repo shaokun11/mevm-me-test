@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallRipemd160_3.json
-2024-08-20T07:57:47.210Z [SKIP] 77/286,0 static_CallRipemd160_3 1/1 data:0,gas:0,value:0  out of gas
+2024-08-20T07:59:44.132Z [SKIP] 77/286,0 static_CallRipemd160_3 1/1 data:0,gas:0,value:0  out of gas

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/StaticcallToPrecompileFromTransaction.json
-2024-08-18T03:41:59.810Z [PASSED] 2/286,0 StaticcallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  
+2024-08-20T07:59:44.073Z [SKIP] 2/286,0 StaticcallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  out of gas
