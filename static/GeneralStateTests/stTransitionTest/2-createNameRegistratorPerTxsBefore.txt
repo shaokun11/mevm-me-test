@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransitionTest/createNameRegistratorPerTxsBefore.json
-2024-08-18T04:37:23.756Z [PASSED] 2/6,0 createNameRegistratorPerTxsBefore 1/1 data:0,gas:0,value:0  
+2024-08-20T10:36:42.654Z [PASSED] 2/6,0 createNameRegistratorPerTxsBefore 1/1 data:0,gas:0,value:0  

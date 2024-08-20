@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/callDataCopyOffset.json
-2024-08-18T03:16:32.271Z [PASSED] 2/71,0 callDataCopyOffset 1/1 data:0,gas:0,value:0  
+2024-08-20T10:00:04.909Z [PASSED] 2/71,0 callDataCopyOffset 1/1 data:0,gas:0,value:0  

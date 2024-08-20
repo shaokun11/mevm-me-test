@@ -1,36 +1,36 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/opcB4DiffPlaces.json
-2024-08-18T02:45:50.085Z [PASSED] 52/121,0 opcB4DiffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-08-18T02:45:50.298Z [PASSED] 52/121,0 opcB4DiffPlaces 2/35 data:1,gas:0,value:0 normal 
-2024-08-18T02:45:50.512Z [PASSED] 52/121,0 opcB4DiffPlaces 3/35 data:2,gas:0,value:0 normal 
-2024-08-18T02:45:50.727Z [PASSED] 52/121,0 opcB4DiffPlaces 4/35 data:3,gas:0,value:0  
-2024-08-18T02:45:50.941Z [PASSED] 52/121,0 opcB4DiffPlaces 5/35 data:4,gas:0,value:0  
-2024-08-18T02:45:51.158Z [PASSED] 52/121,0 opcB4DiffPlaces 6/35 data:5,gas:0,value:0  
-2024-08-18T02:45:51.372Z [PASSED] 52/121,0 opcB4DiffPlaces 7/35 data:6,gas:0,value:0  
-2024-08-18T02:45:51.585Z [PASSED] 52/121,0 opcB4DiffPlaces 8/35 data:7,gas:0,value:0  
-2024-08-18T02:45:51.797Z [PASSED] 52/121,0 opcB4DiffPlaces 9/35 data:8,gas:0,value:0  
-2024-08-18T02:45:52.011Z [PASSED] 52/121,0 opcB4DiffPlaces 10/35 data:9,gas:0,value:0  
-2024-08-18T02:45:52.224Z [PASSED] 52/121,0 opcB4DiffPlaces 11/35 data:10,gas:0,value:0  
-2024-08-18T02:45:52.437Z [PASSED] 52/121,0 opcB4DiffPlaces 12/35 data:11,gas:0,value:0  
-2024-08-18T02:45:52.650Z [PASSED] 52/121,0 opcB4DiffPlaces 13/35 data:12,gas:0,value:0  
-2024-08-18T02:45:52.869Z [PASSED] 52/121,0 opcB4DiffPlaces 14/35 data:13,gas:0,value:0  
-2024-08-18T02:45:53.084Z [PASSED] 52/121,0 opcB4DiffPlaces 15/35 data:14,gas:0,value:0  
-2024-08-18T02:45:53.296Z [PASSED] 52/121,0 opcB4DiffPlaces 16/35 data:15,gas:0,value:0  
-2024-08-18T02:45:53.509Z [PASSED] 52/121,0 opcB4DiffPlaces 17/35 data:16,gas:0,value:0  
-2024-08-18T02:45:53.721Z [PASSED] 52/121,0 opcB4DiffPlaces 18/35 data:17,gas:0,value:0  
-2024-08-18T02:45:53.934Z [PASSED] 52/121,0 opcB4DiffPlaces 19/35 data:18,gas:0,value:0  
-2024-08-18T02:45:54.147Z [PASSED] 52/121,0 opcB4DiffPlaces 20/35 data:19,gas:0,value:0  
-2024-08-18T02:45:54.359Z [PASSED] 52/121,0 opcB4DiffPlaces 21/35 data:20,gas:0,value:0  
-2024-08-18T02:45:54.583Z [PASSED] 52/121,0 opcB4DiffPlaces 22/35 data:21,gas:0,value:0  
-2024-08-18T02:45:54.796Z [PASSED] 52/121,0 opcB4DiffPlaces 23/35 data:22,gas:0,value:0  
-2024-08-18T02:45:55.009Z [PASSED] 52/121,0 opcB4DiffPlaces 24/35 data:23,gas:0,value:0  
-2024-08-18T02:45:55.426Z [PASSED] 52/121,0 opcB4DiffPlaces 25/35 data:24,gas:0,value:0  
-2024-08-18T02:45:55.640Z [PASSED] 52/121,0 opcB4DiffPlaces 26/35 data:25,gas:0,value:0  
-2024-08-18T02:45:55.853Z [PASSED] 52/121,0 opcB4DiffPlaces 27/35 data:26,gas:0,value:0  
-2024-08-18T02:45:56.066Z [PASSED] 52/121,0 opcB4DiffPlaces 28/35 data:27,gas:0,value:0  
-2024-08-18T02:45:56.279Z [PASSED] 52/121,0 opcB4DiffPlaces 29/35 data:28,gas:0,value:0  
-2024-08-18T02:45:56.495Z [PASSED] 52/121,0 opcB4DiffPlaces 30/35 data:29,gas:0,value:0  
-2024-08-18T02:45:56.708Z [PASSED] 52/121,0 opcB4DiffPlaces 31/35 data:30,gas:0,value:0  
-2024-08-18T02:45:56.921Z [PASSED] 52/121,0 opcB4DiffPlaces 32/35 data:31,gas:0,value:0  
-2024-08-18T02:45:57.134Z [PASSED] 52/121,0 opcB4DiffPlaces 33/35 data:32,gas:0,value:0  
-2024-08-18T02:45:57.348Z [PASSED] 52/121,0 opcB4DiffPlaces 34/35 data:33,gas:0,value:0  
-2024-08-18T02:45:59.988Z [PASSED] 52/121,0 opcB4DiffPlaces 35/35 data:34,gas:0,value:0  
+2024-08-20T09:33:39.632Z [PASSED] 52/121,0 opcB4DiffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-08-20T09:33:39.846Z [PASSED] 52/121,0 opcB4DiffPlaces 2/35 data:1,gas:0,value:0 normal 
+2024-08-20T09:33:40.060Z [PASSED] 52/121,0 opcB4DiffPlaces 3/35 data:2,gas:0,value:0 normal 
+2024-08-20T09:33:42.303Z [PASSED] 52/121,0 opcB4DiffPlaces 4/35 data:3,gas:0,value:0  
+2024-08-20T09:33:42.521Z [PASSED] 52/121,0 opcB4DiffPlaces 5/35 data:4,gas:0,value:0  
+2024-08-20T09:33:42.734Z [PASSED] 52/121,0 opcB4DiffPlaces 6/35 data:5,gas:0,value:0  
+2024-08-20T09:33:42.949Z [PASSED] 52/121,0 opcB4DiffPlaces 7/35 data:6,gas:0,value:0  
+2024-08-20T09:33:43.164Z [PASSED] 52/121,0 opcB4DiffPlaces 8/35 data:7,gas:0,value:0  
+2024-08-20T09:33:43.378Z [PASSED] 52/121,0 opcB4DiffPlaces 9/35 data:8,gas:0,value:0  
+2024-08-20T09:33:43.592Z [PASSED] 52/121,0 opcB4DiffPlaces 10/35 data:9,gas:0,value:0  
+2024-08-20T09:33:43.805Z [PASSED] 52/121,0 opcB4DiffPlaces 11/35 data:10,gas:0,value:0  
+2024-08-20T09:33:44.018Z [PASSED] 52/121,0 opcB4DiffPlaces 12/35 data:11,gas:0,value:0  
+2024-08-20T09:33:44.242Z [PASSED] 52/121,0 opcB4DiffPlaces 13/35 data:12,gas:0,value:0  
+2024-08-20T09:33:44.456Z [PASSED] 52/121,0 opcB4DiffPlaces 14/35 data:13,gas:0,value:0  
+2024-08-20T09:33:44.671Z [PASSED] 52/121,0 opcB4DiffPlaces 15/35 data:14,gas:0,value:0  
+2024-08-20T09:33:44.884Z [PASSED] 52/121,0 opcB4DiffPlaces 16/35 data:15,gas:0,value:0  
+2024-08-20T09:33:45.097Z [PASSED] 52/121,0 opcB4DiffPlaces 17/35 data:16,gas:0,value:0  
+2024-08-20T09:33:45.310Z [PASSED] 52/121,0 opcB4DiffPlaces 18/35 data:17,gas:0,value:0  
+2024-08-20T09:33:45.523Z [PASSED] 52/121,0 opcB4DiffPlaces 19/35 data:18,gas:0,value:0  
+2024-08-20T09:33:45.743Z [PASSED] 52/121,0 opcB4DiffPlaces 20/35 data:19,gas:0,value:0  
+2024-08-20T09:33:45.957Z [PASSED] 52/121,0 opcB4DiffPlaces 21/35 data:20,gas:0,value:0  
+2024-08-20T09:33:46.170Z [PASSED] 52/121,0 opcB4DiffPlaces 22/35 data:21,gas:0,value:0  
+2024-08-20T09:33:46.383Z [PASSED] 52/121,0 opcB4DiffPlaces 23/35 data:22,gas:0,value:0  
+2024-08-20T09:33:46.597Z [PASSED] 52/121,0 opcB4DiffPlaces 24/35 data:23,gas:0,value:0  
+2024-08-20T09:33:46.809Z [PASSED] 52/121,0 opcB4DiffPlaces 25/35 data:24,gas:0,value:0  
+2024-08-20T09:33:47.023Z [PASSED] 52/121,0 opcB4DiffPlaces 26/35 data:25,gas:0,value:0  
+2024-08-20T09:33:47.236Z [PASSED] 52/121,0 opcB4DiffPlaces 27/35 data:26,gas:0,value:0  
+2024-08-20T09:33:47.454Z [PASSED] 52/121,0 opcB4DiffPlaces 28/35 data:27,gas:0,value:0  
+2024-08-20T09:33:47.668Z [PASSED] 52/121,0 opcB4DiffPlaces 29/35 data:28,gas:0,value:0  
+2024-08-20T09:33:47.881Z [PASSED] 52/121,0 opcB4DiffPlaces 30/35 data:29,gas:0,value:0  
+2024-08-20T09:33:48.095Z [PASSED] 52/121,0 opcB4DiffPlaces 31/35 data:30,gas:0,value:0  
+2024-08-20T09:33:48.307Z [PASSED] 52/121,0 opcB4DiffPlaces 32/35 data:31,gas:0,value:0  
+2024-08-20T09:33:48.520Z [PASSED] 52/121,0 opcB4DiffPlaces 33/35 data:32,gas:0,value:0  
+2024-08-20T09:33:48.935Z [PASSED] 52/121,0 opcB4DiffPlaces 34/35 data:33,gas:0,value:0  
+2024-08-20T09:33:50.361Z [PASSED] 52/121,0 opcB4DiffPlaces 35/35 data:34,gas:0,value:0  

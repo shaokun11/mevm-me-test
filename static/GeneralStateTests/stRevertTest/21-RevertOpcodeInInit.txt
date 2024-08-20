@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeInInit.json
-2024-08-18T03:36:48.300Z [PASSED] 21/46,0 RevertOpcodeInInit 1/2 data:0,gas:0,value:0  
-2024-08-18T03:36:48.514Z [PASSED] 21/46,0 RevertOpcodeInInit 2/2 data:0,gas:0,value:1  
+2024-08-20T10:08:54.261Z [PASSED] 21/46,0 RevertOpcodeInInit 1/2 data:0,gas:0,value:0  
+2024-08-20T10:08:54.474Z [PASSED] 21/46,0 RevertOpcodeInInit 2/2 data:0,gas:0,value:1  

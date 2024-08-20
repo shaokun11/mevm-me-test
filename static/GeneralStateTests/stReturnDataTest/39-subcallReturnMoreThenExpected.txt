@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/subcallReturnMoreThenExpected.json
-2024-08-18T03:36:23.520Z [PASSED] 39/41,0 subcallReturnMoreThenExpected 1/1 data:0,gas:0,value:0  
+2024-08-20T10:08:33.102Z [PASSED] 39/41,0 subcallReturnMoreThenExpected 1/1 data:0,gas:0,value:0  

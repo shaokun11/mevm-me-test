@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_RawCallGasAsk.json
-2024-08-20T07:59:44.152Z [SKIP] 112/286,0 static_RawCallGasAsk 1/4 data:0,gas:0,value:0  out of gas
-2024-08-20T07:59:44.152Z [SKIP] 112/286,0 static_RawCallGasAsk 2/4 data:1,gas:0,value:0  out of gas
-2024-08-20T07:59:44.152Z [SKIP] 112/286,0 static_RawCallGasAsk 3/4 data:2,gas:0,value:0  out of gas
-2024-08-20T07:59:44.152Z [SKIP] 112/286,0 static_RawCallGasAsk 4/4 data:3,gas:0,value:0  out of gas
+2024-08-20T10:13:46.824Z [SKIP] 112/286,0 static_RawCallGasAsk 1/4 data:0,gas:0,value:0  out of gas
+2024-08-20T10:13:46.824Z [SKIP] 112/286,0 static_RawCallGasAsk 2/4 data:1,gas:0,value:0  out of gas
+2024-08-20T10:13:46.824Z [SKIP] 112/286,0 static_RawCallGasAsk 3/4 data:2,gas:0,value:0  out of gas
+2024-08-20T10:13:46.824Z [SKIP] 112/286,0 static_RawCallGasAsk 4/4 data:3,gas:0,value:0  out of gas

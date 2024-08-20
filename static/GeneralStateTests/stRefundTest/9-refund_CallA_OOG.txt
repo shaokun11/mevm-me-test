@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_CallA_OOG.json
-2024-08-18T03:35:21.997Z [PASSED] 9/22,0 refund_CallA_OOG 1/1 data:0,gas:0,value:0  
+2024-08-20T10:07:33.348Z [PASSED] 9/22,0 refund_CallA_OOG 1/1 data:0,gas:0,value:0  

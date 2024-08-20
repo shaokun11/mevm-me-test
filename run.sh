@@ -1,6 +1,6 @@
 #!/bin/bash
 
-start=10
+start=1
 end=60
 for ((i=$start; i<=$end; i++))
 do

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/10_revertUndoesStoreAfterReturn.json
-2024-08-17T12:24:09.164Z [PASSED] 9/37,0 10_revertUndoesStoreAfterReturn 1/1 data:0,gas:0,value:0  
+2024-08-20T09:20:20.661Z [PASSED] 9/37,0 10_revertUndoesStoreAfterReturn 1/1 data:0,gas:0,value:0  

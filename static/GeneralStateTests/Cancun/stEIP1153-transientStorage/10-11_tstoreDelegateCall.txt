@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/11_tstoreDelegateCall.json
-2024-08-17T12:24:09.379Z [PASSED] 10/37,0 11_tstoreDelegateCall 1/1 data:0,gas:0,value:0  
+2024-08-20T09:20:20.876Z [PASSED] 10/37,0 11_tstoreDelegateCall 1/1 data:0,gas:0,value:0  

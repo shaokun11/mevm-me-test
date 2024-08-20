@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/TransactionSendingToZero.json
-2024-08-18T04:37:19.941Z [PASSED] 31/35,0 TransactionSendingToZero 1/1 data:0,gas:0,value:0  
+2024-08-20T10:36:41.291Z [PASSED] 31/35,0 TransactionSendingToZero 1/1 data:0,gas:0,value:0  

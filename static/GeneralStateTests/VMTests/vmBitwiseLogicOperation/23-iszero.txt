@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/iszero.json
-2024-08-18T02:29:28.878Z [PASSED] 23/64,0 iszero 1/3 data:0,gas:0,value:0 iszero_neg1 
-2024-08-18T02:29:29.090Z [PASSED] 23/64,0 iszero 2/3 data:1,gas:0,value:0 iszero_0 
-2024-08-18T02:29:29.304Z [PASSED] 23/64,0 iszero 3/3 data:2,gas:0,value:0 iszero_neg2 
+2024-08-20T09:23:36.297Z [PASSED] 23/64,0 iszero 1/3 data:0,gas:0,value:0 iszero_neg1 
+2024-08-20T09:23:36.512Z [PASSED] 23/64,0 iszero 2/3 data:1,gas:0,value:0 iszero_0 
+2024-08-20T09:23:36.727Z [PASSED] 23/64,0 iszero 3/3 data:2,gas:0,value:0 iszero_neg2 

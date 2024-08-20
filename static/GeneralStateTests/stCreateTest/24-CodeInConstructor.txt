@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CodeInConstructor.json
-2024-08-18T03:02:34.195Z [PASSED] 24/47,0 CodeInConstructor 1/2 data:0,gas:0,value:0  
-2024-08-18T03:02:34.409Z [PASSED] 24/47,0 CodeInConstructor 2/2 data:1,gas:0,value:0  
+2024-08-20T09:46:21.417Z [PASSED] 24/47,0 CodeInConstructor 1/2 data:0,gas:0,value:0  
+2024-08-20T09:46:21.631Z [PASSED] 24/47,0 CodeInConstructor 2/2 data:1,gas:0,value:0  

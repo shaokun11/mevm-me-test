@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStackTests/stacksanitySWAP.json
-2024-08-18T03:41:22.348Z [PASSED] 8/10,0 stacksanitySWAP 1/1 data:0,gas:0,value:0  
+2024-08-20T10:13:07.994Z [PASSED] 8/10,0 stacksanitySWAP 1/1 data:0,gas:0,value:0  

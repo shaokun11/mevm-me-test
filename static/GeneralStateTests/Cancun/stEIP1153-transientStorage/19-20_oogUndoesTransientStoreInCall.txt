@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/20_oogUndoesTransientStoreInCall.json
-2024-08-17T12:32:01.644Z [PASSED] 19/37,0 20_oogUndoesTransientStoreInCall 1/1 data:0,gas:0,value:0  
+2024-08-20T09:20:22.606Z [PASSED] 19/37,0 20_oogUndoesTransientStoreInCall 1/1 data:0,gas:0,value:0  

@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sub.json
-2024-08-18T02:29:19.175Z [PASSED] 17/64,0 sub 1/5 data:0,gas:0,value:0 sub_23_1 
-2024-08-18T02:29:19.387Z [PASSED] 17/64,0 sub 2/5 data:1,gas:0,value:0 sub_2_3 
-2024-08-18T02:29:19.803Z [PASSED] 17/64,0 sub 3/5 data:2,gas:0,value:0 sub_0_23 
-2024-08-18T02:29:20.017Z [PASSED] 17/64,0 sub 4/5 data:3,gas:0,value:0 sub_0_neg1 
-2024-08-18T02:29:20.237Z [PASSED] 17/64,0 sub 5/5 data:4,gas:0,value:0 sub_neg1_0 
+2024-08-20T09:23:27.423Z [PASSED] 17/64,0 sub 1/5 data:0,gas:0,value:0 sub_23_1 
+2024-08-20T09:23:27.637Z [PASSED] 17/64,0 sub 2/5 data:1,gas:0,value:0 sub_2_3 
+2024-08-20T09:23:27.852Z [PASSED] 17/64,0 sub 3/5 data:2,gas:0,value:0 sub_0_23 
+2024-08-20T09:23:28.067Z [PASSED] 17/64,0 sub 4/5 data:3,gas:0,value:0 sub_0_neg1 
+2024-08-20T09:23:28.286Z [PASSED] 17/64,0 sub 5/5 data:4,gas:0,value:0 sub_neg1_0 

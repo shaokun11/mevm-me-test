@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stAttackTest/CrashingTransaction.json
-2024-08-18T02:36:30.062Z [SKIP] 1/2,0 CrashingTransaction 1/1 data:0,gas:0,value:0  execute timeout
+2024-08-20T09:25:24.571Z [SKIP] 1/2,0 CrashingTransaction 1/1 data:0,gas:0,value:0  execute timeout

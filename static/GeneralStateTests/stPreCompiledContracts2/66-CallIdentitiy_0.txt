@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CallIdentitiy_0.json
-2024-08-18T03:21:28.949Z [PASSED] 66/102,0 CallIdentitiy_0 1/1 data:0,gas:0,value:0  
+2024-08-20T10:04:53.292Z [PASSED] 66/102,0 CallIdentitiy_0 1/1 data:0,gas:0,value:0  

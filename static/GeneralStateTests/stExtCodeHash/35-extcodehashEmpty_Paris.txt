@@ -1,11 +1,11 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/extcodehashEmpty_Paris.json
-2024-08-18T03:14:04.308Z [PASSED] 35/36,0 extcodehashEmpty_Paris 1/10 data:1,gas:0,value:0 empty 
-2024-08-18T03:14:04.523Z [PASSED] 35/36,0 extcodehashEmpty_Paris 2/10 data:0,gas:0,value:0 storage 
-2024-08-18T03:14:04.736Z [PASSED] 35/36,0 extcodehashEmpty_Paris 3/10 data:2,gas:0,value:0 balance 
-2024-08-18T03:14:04.949Z [PASSED] 35/36,0 extcodehashEmpty_Paris 4/10 data:3,gas:0,value:0 balance 
-2024-08-18T03:14:05.164Z [PASSED] 35/36,0 extcodehashEmpty_Paris 5/10 data:4,gas:0,value:0 nonce 
-2024-08-18T03:14:05.381Z [PASSED] 35/36,0 extcodehashEmpty_Paris 6/10 data:5,gas:0,value:0 nonce 
-2024-08-18T03:14:05.596Z [PASSED] 35/36,0 extcodehashEmpty_Paris 7/10 data:6,gas:0,value:0 hasCode 
-2024-08-18T03:14:05.811Z [SKIP] 35/36,0 extcodehashEmpty_Paris 8/10 data:7,gas:0,value:0 dead Not implementation SELFDESTRUCT opcode
-2024-08-18T03:14:06.024Z [PASSED] 35/36,0 extcodehashEmpty_Paris 9/10 data:8,gas:0,value:0 born 
-2024-08-18T03:14:06.441Z [PASSED] 35/36,0 extcodehashEmpty_Paris 10/10 data:9,gas:0,value:0 born2 
+2024-08-20T09:57:35.559Z [PASSED] 35/36,0 extcodehashEmpty_Paris 1/10 data:1,gas:0,value:0 empty 
+2024-08-20T09:57:35.774Z [PASSED] 35/36,0 extcodehashEmpty_Paris 2/10 data:0,gas:0,value:0 storage 
+2024-08-20T09:57:35.989Z [PASSED] 35/36,0 extcodehashEmpty_Paris 3/10 data:2,gas:0,value:0 balance 
+2024-08-20T09:57:36.203Z [PASSED] 35/36,0 extcodehashEmpty_Paris 4/10 data:3,gas:0,value:0 balance 
+2024-08-20T09:57:36.417Z [PASSED] 35/36,0 extcodehashEmpty_Paris 5/10 data:4,gas:0,value:0 nonce 
+2024-08-20T09:57:36.631Z [PASSED] 35/36,0 extcodehashEmpty_Paris 6/10 data:5,gas:0,value:0 nonce 
+2024-08-20T09:57:36.844Z [PASSED] 35/36,0 extcodehashEmpty_Paris 7/10 data:6,gas:0,value:0 hasCode 
+2024-08-20T09:57:37.057Z [SKIP] 35/36,0 extcodehashEmpty_Paris 8/10 data:7,gas:0,value:0 dead Not implementation SELFDESTRUCT opcode
+2024-08-20T09:57:37.275Z [PASSED] 35/36,0 extcodehashEmpty_Paris 9/10 data:8,gas:0,value:0 born 
+2024-08-20T09:57:37.489Z [PASSED] 35/36,0 extcodehashEmpty_Paris 10/10 data:9,gas:0,value:0 born2 

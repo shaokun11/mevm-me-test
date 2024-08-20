@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_EContract_ThenCALLToNonExistentAcc.json
-2024-08-18T03:02:31.008Z [PASSED] 12/47,0 CREATE_EContract_ThenCALLToNonExistentAcc 1/1 data:0,gas:0,value:0  
+2024-08-20T09:46:18.646Z [PASSED] 12/47,0 CREATE_EContract_ThenCALLToNonExistentAcc 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/TestBlockAndTransactionProperties.json
-2024-08-18T03:40:06.787Z [PASSED] 10/18,0 TestBlockAndTransactionProperties 1/1 data:0,gas:0,value:0  
+2024-08-20T10:12:00.798Z [PASSED] 10/18,0 TestBlockAndTransactionProperties 1/1 data:0,gas:0,value:0  

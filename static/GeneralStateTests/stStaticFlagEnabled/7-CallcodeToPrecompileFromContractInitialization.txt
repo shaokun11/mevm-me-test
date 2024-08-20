@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallcodeToPrecompileFromContractInitialization.json
-2024-08-18T04:10:06.339Z [PASSED] 7/13,0 CallcodeToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  
+2024-08-20T10:13:54.506Z [FAILED] 7/13,0 CallcodeToPrecompileFromContractInitialization 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"3537748","state_root":"0x60cfafc5dc5be71a55fe9f56bdfa662756aa566547545a20a61ae10eead64bf8","expected":"0x8ff4130f90c3462985a9cecc99127a63cbaf570a0ec0bd35f7cc7e75a8d6b1ba","hash":"0x165bcfeaa6e195b1a16048ac84c1b48d3406c52a93e23be8217060e98836854d"}

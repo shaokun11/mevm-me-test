@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecallcode_011_SuicideMiddle2.json
-2024-08-20T07:59:44.196Z [SKIP] 205/286,0 static_callcallcodecallcode_011_SuicideMiddle2 1/1 data:0,gas:0,value:0  out of gas
+2024-08-20T10:13:46.879Z [SKIP] 205/286,0 static_callcallcodecallcode_011_SuicideMiddle2 1/1 data:0,gas:0,value:0  out of gas

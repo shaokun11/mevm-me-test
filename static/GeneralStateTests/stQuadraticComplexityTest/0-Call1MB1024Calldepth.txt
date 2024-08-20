@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Call1MB1024Calldepth.json
-2024-08-18T03:21:49.709Z [PASSED] 0/17,0 Call1MB1024Calldepth 1/2 data:0,gas:1,value:0  
-2024-08-18T03:21:49.931Z [PASSED] 0/17,0 Call1MB1024Calldepth 2/2 data:0,gas:0,value:0  
+2024-08-20T10:05:14.850Z [SKIP] 0/17,0 Call1MB1024Calldepth 1/2 data:0,gas:1,value:0  execute timeout
+2024-08-20T10:05:14.850Z [SKIP] 0/17,0 Call1MB1024Calldepth 2/2 data:0,gas:0,value:0  execute timeout

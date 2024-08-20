@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/StoreGasOnCreate.json
-2024-08-18T04:37:17.585Z [PASSED] 22/35,0 StoreGasOnCreate 1/1 data:0,gas:0,value:0  
+2024-08-20T10:36:38.739Z [PASSED] 22/35,0 StoreGasOnCreate 1/1 data:0,gas:0,value:0  

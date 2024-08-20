@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/CallAskMoreGasOnDepth2ThenTransactionHas.json
-2024-08-18T03:04:10.134Z [PASSED] 1/14,0 CallAskMoreGasOnDepth2ThenTransactionHas 1/1 data:0,gas:0,value:0  
+2024-08-20T09:47:43.232Z [PASSED] 1/14,0 CallAskMoreGasOnDepth2ThenTransactionHas 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallAndOOGatTxLevel.json
-2024-08-18T03:04:07.265Z [PASSED] 17/28,0 delegatecallAndOOGatTxLevel 1/1 data:0,gas:0,value:0  
+2024-08-20T09:47:40.360Z [PASSED] 17/28,0 delegatecallAndOOGatTxLevel 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_TransactionCALL_ToEmpty_Paris.json
-2024-08-18T04:37:42.770Z [PASSED] 17/24,0 ZeroValue_TransactionCALL_ToEmpty_Paris 1/1 data:0,gas:0,value:0  
+2024-08-20T10:37:01.489Z [PASSED] 17/24,0 ZeroValue_TransactionCALL_ToEmpty_Paris 1/1 data:0,gas:0,value:0  

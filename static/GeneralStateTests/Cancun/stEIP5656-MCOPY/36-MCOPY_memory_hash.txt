@@ -1,7 +1,7 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_hash.json
-2024-08-17T12:32:42.621Z [PASSED] 36/37,0 MCOPY_memory_hash 1/6 data:0,gas:0,value:0 clear_low_half_0 
-2024-08-17T12:32:42.845Z [PASSED] 36/37,0 MCOPY_memory_hash 2/6 data:1,gas:0,value:0 clear_low_half_1 
-2024-08-17T12:32:43.058Z [PASSED] 36/37,0 MCOPY_memory_hash 3/6 data:2,gas:0,value:0 clear_low_half_2 
-2024-08-17T12:32:43.272Z [PASSED] 36/37,0 MCOPY_memory_hash 4/6 data:3,gas:0,value:0 clear_high_half_0 
-2024-08-17T12:32:43.485Z [PASSED] 36/37,0 MCOPY_memory_hash 5/6 data:4,gas:0,value:0 memmove_forward 
-2024-08-17T12:32:43.697Z [PASSED] 36/37,0 MCOPY_memory_hash 6/6 data:5,gas:0,value:0 memmove_backward 
+2024-08-20T09:21:01.224Z [PASSED] 36/37,0 MCOPY_memory_hash 1/6 data:0,gas:0,value:0 clear_low_half_0 
+2024-08-20T09:21:01.437Z [PASSED] 36/37,0 MCOPY_memory_hash 2/6 data:1,gas:0,value:0 clear_low_half_1 
+2024-08-20T09:21:01.650Z [PASSED] 36/37,0 MCOPY_memory_hash 3/6 data:2,gas:0,value:0 clear_low_half_2 
+2024-08-20T09:21:01.864Z [PASSED] 36/37,0 MCOPY_memory_hash 4/6 data:3,gas:0,value:0 clear_high_half_0 
+2024-08-20T09:21:02.076Z [PASSED] 36/37,0 MCOPY_memory_hash 5/6 data:4,gas:0,value:0 memmove_forward 
+2024-08-20T09:21:02.289Z [PASSED] 36/37,0 MCOPY_memory_hash 6/6 data:5,gas:0,value:0 memmove_backward 

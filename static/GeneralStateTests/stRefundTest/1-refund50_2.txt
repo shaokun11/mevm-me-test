@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund50_2.json
-2024-08-18T03:35:20.048Z [PASSED] 1/22,0 refund50_2 1/1 data:0,gas:0,value:0  
+2024-08-20T10:07:31.399Z [PASSED] 1/22,0 refund50_2 1/1 data:0,gas:0,value:0  

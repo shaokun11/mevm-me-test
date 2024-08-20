@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/jumpNonConst.json
-2024-08-18T02:31:58.327Z [PASSED] 19/46,0 jumpNonConst 1/2 data:0,gas:0,value:0  
-2024-08-18T02:31:58.539Z [PASSED] 19/46,0 jumpNonConst 2/2 data:0,gas:0,value:1  
+2024-08-20T09:25:12.976Z [PASSED] 19/46,0 jumpNonConst 1/2 data:0,gas:0,value:0  
+2024-08-20T09:25:13.190Z [PASSED] 19/46,0 jumpNonConst 2/2 data:0,gas:0,value:1  

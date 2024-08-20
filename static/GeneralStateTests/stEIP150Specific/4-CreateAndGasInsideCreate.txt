@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/CreateAndGasInsideCreate.json
-2024-08-18T03:04:10.792Z [PASSED] 4/14,0 CreateAndGasInsideCreate 1/1 data:0,gas:0,value:0  
+2024-08-20T09:47:43.888Z [PASSED] 4/14,0 CreateAndGasInsideCreate 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertInCallCode.json
-2024-08-18T03:36:41.847Z [PASSED] 10/46,0 RevertInCallCode 1/1 data:0,gas:0,value:0  
+2024-08-20T10:08:47.812Z [PASSED] 10/46,0 RevertInCallCode 1/1 data:0,gas:0,value:0  

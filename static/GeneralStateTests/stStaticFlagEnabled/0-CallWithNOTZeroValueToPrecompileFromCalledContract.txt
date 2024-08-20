@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromCalledContract.json
-2024-08-18T04:09:59.256Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 1/8 data:0,gas:0,value:0  
-2024-08-18T04:09:59.476Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 2/8 data:1,gas:0,value:0  
-2024-08-18T04:09:59.696Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 3/8 data:2,gas:0,value:0  
-2024-08-18T04:09:59.915Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 4/8 data:3,gas:0,value:0  
-2024-08-18T04:10:00.132Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 5/8 data:4,gas:0,value:0  
-2024-08-18T04:10:00.349Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 6/8 data:5,gas:0,value:0  
-2024-08-18T04:10:00.567Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 7/8 data:6,gas:0,value:0  
-2024-08-18T04:10:00.783Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 8/8 data:7,gas:0,value:0  
+2024-08-20T10:13:47.441Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 1/8 data:0,gas:0,value:0  
+2024-08-20T10:13:47.663Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 2/8 data:1,gas:0,value:0  
+2024-08-20T10:13:47.882Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 3/8 data:2,gas:0,value:0  
+2024-08-20T10:13:48.098Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 4/8 data:3,gas:0,value:0  
+2024-08-20T10:13:48.317Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 5/8 data:4,gas:0,value:0  
+2024-08-20T10:13:48.533Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 6/8 data:5,gas:0,value:0  
+2024-08-20T10:13:48.749Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 7/8 data:6,gas:0,value:0  
+2024-08-20T10:13:48.965Z [PASSED] 0/13,0 CallWithNOTZeroValueToPrecompileFromCalledContract 8/8 data:7,gas:0,value:0  

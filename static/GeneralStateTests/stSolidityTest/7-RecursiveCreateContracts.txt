@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/RecursiveCreateContracts.json
-2024-08-18T03:40:05.704Z [PASSED] 7/18,0 RecursiveCreateContracts 1/1 data:0,gas:0,value:0  
+2024-08-20T10:11:59.717Z [PASSED] 7/18,0 RecursiveCreateContracts 1/1 data:0,gas:0,value:0  

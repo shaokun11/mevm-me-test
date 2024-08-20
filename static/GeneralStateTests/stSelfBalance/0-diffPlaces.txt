@@ -1,36 +1,36 @@
 ethereum-tests/GeneralStateTests/stSelfBalance/diffPlaces.json
-2024-08-18T03:39:28.986Z [PASSED] 0/6,0 diffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-08-18T03:39:29.209Z [PASSED] 0/6,0 diffPlaces 2/35 data:1,gas:0,value:0 normal 
-2024-08-18T03:39:29.430Z [PASSED] 0/6,0 diffPlaces 3/35 data:2,gas:0,value:0 normal 
-2024-08-18T03:39:29.647Z [PASSED] 0/6,0 diffPlaces 4/35 data:3,gas:0,value:0  
-2024-08-18T03:39:29.865Z [PASSED] 0/6,0 diffPlaces 5/35 data:4,gas:0,value:0  
-2024-08-18T03:39:30.081Z [PASSED] 0/6,0 diffPlaces 6/35 data:5,gas:0,value:0  
-2024-08-18T03:39:30.298Z [PASSED] 0/6,0 diffPlaces 7/35 data:6,gas:0,value:0  
-2024-08-18T03:39:30.921Z [PASSED] 0/6,0 diffPlaces 8/35 data:7,gas:0,value:0  
-2024-08-18T03:39:31.142Z [PASSED] 0/6,0 diffPlaces 9/35 data:8,gas:0,value:0  
-2024-08-18T03:39:31.358Z [PASSED] 0/6,0 diffPlaces 10/35 data:9,gas:0,value:0  
-2024-08-18T03:39:31.575Z [PASSED] 0/6,0 diffPlaces 11/35 data:10,gas:0,value:0  
-2024-08-18T03:39:31.791Z [PASSED] 0/6,0 diffPlaces 12/35 data:11,gas:0,value:0  
-2024-08-18T03:39:32.007Z [PASSED] 0/6,0 diffPlaces 13/35 data:12,gas:0,value:0  
-2024-08-18T03:39:32.222Z [PASSED] 0/6,0 diffPlaces 14/35 data:13,gas:0,value:0  
-2024-08-18T03:39:32.438Z [PASSED] 0/6,0 diffPlaces 15/35 data:14,gas:0,value:0  
-2024-08-18T03:39:32.653Z [PASSED] 0/6,0 diffPlaces 16/35 data:15,gas:0,value:0  
-2024-08-18T03:39:32.871Z [PASSED] 0/6,0 diffPlaces 17/35 data:16,gas:0,value:0  
-2024-08-18T03:39:33.086Z [PASSED] 0/6,0 diffPlaces 18/35 data:17,gas:0,value:0  
-2024-08-18T03:39:33.302Z [PASSED] 0/6,0 diffPlaces 19/35 data:18,gas:0,value:0  
-2024-08-18T03:39:33.517Z [PASSED] 0/6,0 diffPlaces 20/35 data:19,gas:0,value:0  
-2024-08-18T03:39:33.731Z [PASSED] 0/6,0 diffPlaces 21/35 data:20,gas:0,value:0  
-2024-08-18T03:39:33.952Z [PASSED] 0/6,0 diffPlaces 22/35 data:21,gas:0,value:0  
-2024-08-18T03:39:34.168Z [PASSED] 0/6,0 diffPlaces 23/35 data:22,gas:0,value:0  
-2024-08-18T03:39:34.383Z [SKIP] 0/6,0 diffPlaces 24/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-18T03:39:34.601Z [PASSED] 0/6,0 diffPlaces 25/35 data:24,gas:0,value:0  
-2024-08-18T03:39:34.815Z [PASSED] 0/6,0 diffPlaces 26/35 data:25,gas:0,value:0  
-2024-08-18T03:39:35.030Z [PASSED] 0/6,0 diffPlaces 27/35 data:26,gas:0,value:0  
-2024-08-18T03:39:35.243Z [PASSED] 0/6,0 diffPlaces 28/35 data:27,gas:0,value:0  
-2024-08-18T03:39:35.457Z [PASSED] 0/6,0 diffPlaces 29/35 data:28,gas:0,value:0  
-2024-08-18T03:39:35.673Z [PASSED] 0/6,0 diffPlaces 30/35 data:29,gas:0,value:0  
-2024-08-18T03:39:35.889Z [PASSED] 0/6,0 diffPlaces 31/35 data:30,gas:0,value:0  
-2024-08-18T03:39:36.106Z [PASSED] 0/6,0 diffPlaces 32/35 data:31,gas:0,value:0  
-2024-08-18T03:39:36.323Z [PASSED] 0/6,0 diffPlaces 33/35 data:32,gas:0,value:0  
-2024-08-18T03:39:36.548Z [PASSED] 0/6,0 diffPlaces 34/35 data:33,gas:0,value:0  
-2024-08-18T03:39:38.993Z [PASSED] 0/6,0 diffPlaces 35/35 data:34,gas:0,value:0  
+2024-08-20T10:11:32.359Z [PASSED] 0/6,0 diffPlaces 1/35 data:0,gas:0,value:0 normal 
+2024-08-20T10:11:32.582Z [PASSED] 0/6,0 diffPlaces 2/35 data:1,gas:0,value:0 normal 
+2024-08-20T10:11:32.802Z [PASSED] 0/6,0 diffPlaces 3/35 data:2,gas:0,value:0 normal 
+2024-08-20T10:11:33.021Z [PASSED] 0/6,0 diffPlaces 4/35 data:3,gas:0,value:0  
+2024-08-20T10:11:33.239Z [PASSED] 0/6,0 diffPlaces 5/35 data:4,gas:0,value:0  
+2024-08-20T10:11:33.455Z [PASSED] 0/6,0 diffPlaces 6/35 data:5,gas:0,value:0  
+2024-08-20T10:11:33.670Z [PASSED] 0/6,0 diffPlaces 7/35 data:6,gas:0,value:0  
+2024-08-20T10:11:33.886Z [PASSED] 0/6,0 diffPlaces 8/35 data:7,gas:0,value:0  
+2024-08-20T10:11:34.106Z [PASSED] 0/6,0 diffPlaces 9/35 data:8,gas:0,value:0  
+2024-08-20T10:11:34.323Z [PASSED] 0/6,0 diffPlaces 10/35 data:9,gas:0,value:0  
+2024-08-20T10:11:34.538Z [PASSED] 0/6,0 diffPlaces 11/35 data:10,gas:0,value:0  
+2024-08-20T10:11:34.754Z [PASSED] 0/6,0 diffPlaces 12/35 data:11,gas:0,value:0  
+2024-08-20T10:11:34.972Z [PASSED] 0/6,0 diffPlaces 13/35 data:12,gas:0,value:0  
+2024-08-20T10:11:35.188Z [PASSED] 0/6,0 diffPlaces 14/35 data:13,gas:0,value:0  
+2024-08-20T10:11:35.405Z [PASSED] 0/6,0 diffPlaces 15/35 data:14,gas:0,value:0  
+2024-08-20T10:11:35.620Z [PASSED] 0/6,0 diffPlaces 16/35 data:15,gas:0,value:0  
+2024-08-20T10:11:35.836Z [PASSED] 0/6,0 diffPlaces 17/35 data:16,gas:0,value:0  
+2024-08-20T10:11:36.050Z [PASSED] 0/6,0 diffPlaces 18/35 data:17,gas:0,value:0  
+2024-08-20T10:11:36.265Z [PASSED] 0/6,0 diffPlaces 19/35 data:18,gas:0,value:0  
+2024-08-20T10:11:36.479Z [PASSED] 0/6,0 diffPlaces 20/35 data:19,gas:0,value:0  
+2024-08-20T10:11:36.694Z [PASSED] 0/6,0 diffPlaces 21/35 data:20,gas:0,value:0  
+2024-08-20T10:11:36.913Z [PASSED] 0/6,0 diffPlaces 22/35 data:21,gas:0,value:0  
+2024-08-20T10:11:37.128Z [PASSED] 0/6,0 diffPlaces 23/35 data:22,gas:0,value:0  
+2024-08-20T10:11:37.343Z [SKIP] 0/6,0 diffPlaces 24/35 data:23,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-20T10:11:37.558Z [PASSED] 0/6,0 diffPlaces 25/35 data:24,gas:0,value:0  
+2024-08-20T10:11:37.781Z [PASSED] 0/6,0 diffPlaces 26/35 data:25,gas:0,value:0  
+2024-08-20T10:11:37.996Z [PASSED] 0/6,0 diffPlaces 27/35 data:26,gas:0,value:0  
+2024-08-20T10:11:38.211Z [PASSED] 0/6,0 diffPlaces 28/35 data:27,gas:0,value:0  
+2024-08-20T10:11:38.424Z [PASSED] 0/6,0 diffPlaces 29/35 data:28,gas:0,value:0  
+2024-08-20T10:11:38.639Z [PASSED] 0/6,0 diffPlaces 30/35 data:29,gas:0,value:0  
+2024-08-20T10:11:38.855Z [PASSED] 0/6,0 diffPlaces 31/35 data:30,gas:0,value:0  
+2024-08-20T10:11:39.071Z [PASSED] 0/6,0 diffPlaces 32/35 data:31,gas:0,value:0  
+2024-08-20T10:11:39.287Z [PASSED] 0/6,0 diffPlaces 33/35 data:32,gas:0,value:0  
+2024-08-20T10:11:39.511Z [PASSED] 0/6,0 diffPlaces 34/35 data:33,gas:0,value:0  
+2024-08-20T10:11:40.942Z [PASSED] 0/6,0 diffPlaces 35/35 data:34,gas:0,value:0  

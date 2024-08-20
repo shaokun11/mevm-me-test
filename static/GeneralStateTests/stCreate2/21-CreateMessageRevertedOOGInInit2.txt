@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/CreateMessageRevertedOOGInInit2.json
-2024-08-18T03:02:04.756Z [PASSED] 21/51,0 CreateMessageRevertedOOGInInit2 1/2 data:0,gas:0,value:0  
-2024-08-18T03:02:04.971Z [PASSED] 21/51,0 CreateMessageRevertedOOGInInit2 2/2 data:0,gas:1,value:0  
+2024-08-20T09:45:52.364Z [PASSED] 21/51,0 CreateMessageRevertedOOGInInit2 1/2 data:0,gas:0,value:0  
+2024-08-20T09:45:52.579Z [PASSED] 21/51,0 CreateMessageRevertedOOGInInit2 2/2 data:0,gas:1,value:0  

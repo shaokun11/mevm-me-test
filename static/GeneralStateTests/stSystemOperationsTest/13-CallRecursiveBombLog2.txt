@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBombLog2.json
-2024-08-18T04:10:20.871Z [PASSED] 13/67,0 CallRecursiveBombLog2 1/1 data:0,gas:0,value:0  
+2024-08-20T10:14:03.358Z [PASSED] 13/67,0 CallRecursiveBombLog2 1/1 data:0,gas:0,value:0  

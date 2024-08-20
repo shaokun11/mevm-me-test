@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/CreateContractFromMethod.json
-2024-08-18T03:40:05.488Z [PASSED] 6/18,0 CreateContractFromMethod 1/1 data:0,gas:0,value:0  
+2024-08-20T10:11:59.499Z [PASSED] 6/18,0 CreateContractFromMethod 1/1 data:0,gas:0,value:0  

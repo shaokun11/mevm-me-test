@@ -1,11 +1,11 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/envInfo.json
-2024-08-18T02:30:39.229Z [PASSED] 58/64,0 envInfo 1/10 data:0,gas:0,value:0 address 
-2024-08-18T02:30:39.442Z [PASSED] 58/64,0 envInfo 2/10 data:1,gas:0,value:0 codecopy 
-2024-08-18T02:30:39.661Z [PASSED] 58/64,0 envInfo 3/10 data:2,gas:0,value:0 codecopy_len0 
-2024-08-18T02:30:39.874Z [PASSED] 58/64,0 envInfo 4/10 data:3,gas:0,value:0 codecopy_neg_offset 
-2024-08-18T02:30:40.087Z [PASSED] 58/64,0 envInfo 5/10 data:4,gas:0,value:0 caller 
-2024-08-18T02:30:40.300Z [PASSED] 58/64,0 envInfo 6/10 data:5,gas:0,value:0 callvalue 
-2024-08-18T02:30:40.513Z [PASSED] 58/64,0 envInfo 7/10 data:6,gas:0,value:0 codesize 
-2024-08-18T02:30:40.725Z [PASSED] 58/64,0 envInfo 8/10 data:7,gas:0,value:0 gasprice 
-2024-08-18T02:30:40.938Z [PASSED] 58/64,0 envInfo 9/10 data:8,gas:0,value:0 origin 
-2024-08-18T02:30:41.150Z [PASSED] 58/64,0 envInfo 10/10 data:9,gas:0,value:0 calldatasize 
+2024-08-20T09:24:45.044Z [PASSED] 58/64,0 envInfo 1/10 data:0,gas:0,value:0 address 
+2024-08-20T09:24:45.257Z [PASSED] 58/64,0 envInfo 2/10 data:1,gas:0,value:0 codecopy 
+2024-08-20T09:24:45.475Z [PASSED] 58/64,0 envInfo 3/10 data:2,gas:0,value:0 codecopy_len0 
+2024-08-20T09:24:45.688Z [PASSED] 58/64,0 envInfo 4/10 data:3,gas:0,value:0 codecopy_neg_offset 
+2024-08-20T09:24:45.901Z [PASSED] 58/64,0 envInfo 5/10 data:4,gas:0,value:0 caller 
+2024-08-20T09:24:46.114Z [PASSED] 58/64,0 envInfo 6/10 data:5,gas:0,value:0 callvalue 
+2024-08-20T09:24:46.328Z [PASSED] 58/64,0 envInfo 7/10 data:6,gas:0,value:0 codesize 
+2024-08-20T09:24:46.541Z [PASSED] 58/64,0 envInfo 8/10 data:7,gas:0,value:0 gasprice 
+2024-08-20T09:24:46.754Z [PASSED] 58/64,0 envInfo 9/10 data:8,gas:0,value:0 origin 
+2024-08-20T09:24:46.967Z [PASSED] 58/64,0 envInfo 10/10 data:9,gas:0,value:0 calldatasize 

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log0_logMemsizeTooHigh.json
-2024-08-20T07:59:44.225Z [SKIP] 271/286,0 static_log0_logMemsizeTooHigh 1/1 data:0,gas:0,value:0  out of gas
+2024-08-20T10:13:46.918Z [SKIP] 271/286,0 static_log0_logMemsizeTooHigh 1/1 data:0,gas:0,value:0  out of gas

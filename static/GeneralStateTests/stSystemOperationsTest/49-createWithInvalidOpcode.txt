@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/createWithInvalidOpcode.json
-2024-08-18T04:10:29.068Z [PASSED] 49/67,0 createWithInvalidOpcode 1/1 data:0,gas:0,value:0  
+2024-08-20T10:14:11.537Z [PASSED] 49/67,0 createWithInvalidOpcode 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_DELEGATECALL_OOGRevert.json
-2024-08-18T04:37:37.094Z [PASSED] 8/16,0 ZeroValue_DELEGATECALL_OOGRevert 1/1 data:0,gas:0,value:0  
+2024-08-20T10:36:55.791Z [PASSED] 8/16,0 ZeroValue_DELEGATECALL_OOGRevert 1/1 data:0,gas:0,value:0  

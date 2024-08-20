@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_EmptyContractAndCallIt_0wei.json
-2024-08-18T03:02:31.436Z [PASSED] 14/47,0 CREATE_EmptyContractAndCallIt_0wei 1/1 data:0,gas:0,value:0  
+2024-08-20T09:46:19.074Z [PASSED] 14/47,0 CREATE_EmptyContractAndCallIt_0wei 1/1 data:0,gas:0,value:0  
