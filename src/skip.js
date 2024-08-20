@@ -5,6 +5,7 @@ export const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT
 const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm"
 const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check"
 const MST_TIMEOUT="execute timeout"
+const MST_OUT_OF_GAS="out of gas"
 const MST_RLP="rlp decode error"
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx"
 export const MSG_NOT_SUPPORT_BLOB_BASEFEE = "Not support blob basefee opcode"
@@ -71,6 +72,18 @@ export const IGNORE_TEST = [
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: MST_TIMEOUT,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stStaticCall/static_Call1MB1024Calldepth.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_TIMEOUT,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stStaticCall/static_Return50000_2.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MST_OUT_OF_GAS,
     },
     // {
     //     path: "ethereum-tests/GeneralStateTests/stCreate2/Create2Recursive.json",

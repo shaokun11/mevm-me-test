@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010_OOGMAfter_2.json
-2024-08-18T04:08:21.833Z [PASSED] 182/286,0 static_callcallcodecall_010_OOGMAfter_2 1/2 data:0,gas:0,value:0  
-2024-08-18T04:08:27.298Z [PASSED] 182/286,0 static_callcallcodecall_010_OOGMAfter_2 2/2 data:1,gas:0,value:0  
+2024-08-20T06:39:20.374Z [PASSED] 182/286,0 static_callcallcodecall_010_OOGMAfter_2 1/2 data:0,gas:0,value:0  
+2024-08-20T06:39:26.038Z [PASSED] 182/286,0 static_callcallcodecall_010_OOGMAfter_2 2/2 data:1,gas:0,value:0  

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call1MB1024Calldepth.json
-2024-08-18T03:42:32.120Z [PASSED] 23/286,0 static_Call1MB1024Calldepth 1/2 data:0,gas:0,value:0  
-2024-08-18T03:42:34.975Z [FAILED] 23/286,0 static_Call1MB1024Calldepth 2/2 data:1,gas:0,value:0  {"error":"Execution failed in 0x1::evm_util::read_memory at code offset 7","hash":"0xa658f4846e2e5dd93780b9be1cfc68c8eb4e8c763bc6d1164df5399175ee3577","expected":"0x49b2be6bd4601d280c9d6c5d0207f8132f5048602566cf69909e7b169f204532"}
+2024-08-20T06:10:41.306Z [SKIP] 23/286,0 static_Call1MB1024Calldepth 1/2 data:0,gas:0,value:0  execute timeout
+2024-08-20T06:10:41.306Z [SKIP] 23/286,0 static_Call1MB1024Calldepth 2/2 data:1,gas:0,value:0  execute timeout

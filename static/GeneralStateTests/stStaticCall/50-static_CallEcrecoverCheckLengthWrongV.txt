@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecoverCheckLengthWrongV.json
-2024-08-18T04:00:16.561Z [PASSED] 50/286,0 static_CallEcrecoverCheckLengthWrongV 1/1 data:0,gas:0,value:0  
+2024-08-20T06:31:08.903Z [PASSED] 50/286,0 static_CallEcrecoverCheckLengthWrongV 1/1 data:0,gas:0,value:0  

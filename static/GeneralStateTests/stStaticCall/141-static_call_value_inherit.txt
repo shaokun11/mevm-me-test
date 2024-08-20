@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_call_value_inherit.json
-2024-08-18T04:07:17.024Z [PASSED] 141/286,0 static_call_value_inherit 1/1 data:0,gas:0,value:0  
+2024-08-20T06:38:14.010Z [PASSED] 141/286,0 static_call_value_inherit 1/1 data:0,gas:0,value:0  

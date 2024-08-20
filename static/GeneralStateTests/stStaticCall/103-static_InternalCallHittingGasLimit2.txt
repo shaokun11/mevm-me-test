@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_InternalCallHittingGasLimit2.json
-2024-08-18T04:00:50.523Z [PASSED] 103/286,0 static_InternalCallHittingGasLimit2 1/1 data:0,gas:0,value:0  
+2024-08-20T06:31:41.666Z [PASSED] 103/286,0 static_InternalCallHittingGasLimit2 1/1 data:0,gas:0,value:0  

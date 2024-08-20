@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010_SuicideEnd2.json
-2024-08-18T04:08:41.944Z [SKIP] 187/286,0 static_callcallcodecall_010_SuicideEnd2 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-20T06:39:40.463Z [SKIP] 187/286,0 static_callcallcodecall_010_SuicideEnd2 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_ZeroValue_SUICIDE_OOGRevert.json
-2024-08-18T04:07:02.883Z [SKIP] 119/286,0 static_ZeroValue_SUICIDE_OOGRevert 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-20T06:38:02.095Z [SKIP] 119/286,0 static_ZeroValue_SUICIDE_OOGRevert 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

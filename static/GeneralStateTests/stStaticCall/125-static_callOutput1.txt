@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callOutput1.json
-2024-08-18T04:07:11.159Z [PASSED] 125/286,0 static_callOutput1 1/1 data:0,gas:0,value:0  
+2024-08-20T06:38:10.357Z [PASSED] 125/286,0 static_callOutput1 1/1 data:0,gas:0,value:0  

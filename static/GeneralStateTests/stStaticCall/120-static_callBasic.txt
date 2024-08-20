@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callBasic.json
-2024-08-18T04:07:03.100Z [PASSED] 120/286,0 static_callBasic 1/4 data:0,gas:0,value:0  
-2024-08-18T04:07:03.317Z [PASSED] 120/286,0 static_callBasic 2/4 data:1,gas:0,value:0  
-2024-08-18T04:07:03.531Z [FAILED] 120/286,0 static_callBasic 3/4 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"71096","state_root":"0xd091715326dcf8a112b1d7a3dd5dd07b4cd67c8ee9c3b015bad64492b29513c2","expected":"0x174afe01887371b875c708a3be633ad2b6a6f0600d67ca4d8671805940da2a6b","hash":"0xe997d335d4de8a7d486ca9d36f4cf38ec394f16213e73740eeada2d892790a6a"}
-2024-08-18T04:07:03.746Z [PASSED] 120/286,0 static_callBasic 4/4 data:3,gas:0,value:0  
+2024-08-20T06:38:02.309Z [PASSED] 120/286,0 static_callBasic 1/4 data:0,gas:0,value:0  
+2024-08-20T06:38:02.522Z [PASSED] 120/286,0 static_callBasic 2/4 data:1,gas:0,value:0  
+2024-08-20T06:38:02.736Z [FAILED] 120/286,0 static_callBasic 3/4 data:2,gas:0,value:0  {"gas_refund":"0","gas_usage":"71096","state_root":"0xd091715326dcf8a112b1d7a3dd5dd07b4cd67c8ee9c3b015bad64492b29513c2","expected":"0x174afe01887371b875c708a3be633ad2b6a6f0600d67ca4d8671805940da2a6b","hash":"0x51668321c765104aa09813e38b370a646ed0a0736ccb83bfa0a83b747503dc31"}
+2024-08-20T06:38:02.950Z [PASSED] 120/286,0 static_callBasic 4/4 data:3,gas:0,value:0  
