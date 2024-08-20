@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom2/randomStatetest649.json
-2024-08-20T01:11:42.440Z [FAILED] 218/220,0 randomStatetest649 1/1 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_util::copy_to_memory at code offset 4","hash":"0x9571633c03471ed6bdd9e7316d383a5893ee70b9b23aad6b0b245e32ceddb180","expected":"0xe766bfc6b96ba5e78e963d33a4f533359981b6a734043b926f94311baf818264"}
+2024-08-20T04:20:11.423Z [PASSED] 218/220,0 randomStatetest649 1/1 data:0,gas:0,value:0  
