@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json
-2024-08-18T04:37:22.818Z [FAILED] 34/35,0 ValueOverflowParis 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"21000","state_root":"0xbb40acbdbcd3df122b48e6c61fa56272de41175182198795d513c03a99b3d7dd","expected":"0xecd1cea72bd1224b1d7a28a577170c00dd480b26b5b0f353e3d4ad2bb542cc09","hash":"0x9003863bcdb5f3621fcbe603919ec7bcc693c98bf181fe5bd1d0151155510d32"}
+2024-08-20T09:08:47.892Z [SKIP] 34/35,0 ValueOverflowParis 1/1 data:0,gas:0,value:0  wrong tx

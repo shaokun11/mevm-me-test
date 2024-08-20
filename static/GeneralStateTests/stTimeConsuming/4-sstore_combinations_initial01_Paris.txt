@@ -1,427 +1,427 @@
 ethereum-tests/GeneralStateTests/stTimeConsuming/sstore_combinations_initial01_Paris.json
-2024-08-18T04:18:37.506Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 1/426 data:0,gas:0,value:0  
-2024-08-18T04:18:37.719Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 2/426 data:1,gas:0,value:0  {"gas_refund":"156559","gas_usage":"626238","state_root":"0xe3248226a263ad54eacaf01ea879cf245127e6e6e39d8733fa3420928053dfcd","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x3daefedd55c10a224a93b2eec186c0ebde631c33acf1dae2f887cc3b5e941592"}
-2024-08-18T04:18:37.932Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 3/426 data:2,gas:0,value:0  
-2024-08-18T04:18:38.145Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 4/426 data:3,gas:0,value:0  
-2024-08-18T04:18:38.359Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 5/426 data:4,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x3deba1d0c3e16c7ee612fc965083756c5bf95d562e92031821969d1e9528ecb9"}
-2024-08-18T04:18:38.577Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 6/426 data:5,gas:0,value:0  
-2024-08-18T04:18:38.790Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 7/426 data:6,gas:0,value:0  
-2024-08-18T04:18:39.002Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 8/426 data:7,gas:0,value:0  
-2024-08-18T04:18:39.215Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 9/426 data:8,gas:0,value:0  
-2024-08-18T04:18:39.428Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 10/426 data:9,gas:0,value:0  
-2024-08-18T04:18:39.641Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 11/426 data:10,gas:0,value:0  
-2024-08-18T04:18:39.853Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 12/426 data:11,gas:0,value:0  
-2024-08-18T04:18:40.066Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 13/426 data:12,gas:0,value:0  
-2024-08-18T04:18:40.285Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 14/426 data:13,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0x19eccd4a96dad5331ecaebe60be4580a76c33d9bd69048419f9de09422ada3df"}
-2024-08-18T04:18:40.498Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 15/426 data:14,gas:0,value:0  
-2024-08-18T04:18:40.711Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 16/426 data:15,gas:0,value:0  
-2024-08-18T04:18:40.923Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 17/426 data:16,gas:0,value:0  {"gas_refund":"211029","gas_usage":"844118","state_root":"0x74cc32db81770dafbade1e494078bbde2aedd19917fd54d29f4bf60814a93143","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x592e7ac7f7699c25b91cc645cac882114064e8d0824b3cf830ef6056a752359d"}
-2024-08-18T04:18:41.137Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 18/426 data:17,gas:0,value:0  
-2024-08-18T04:18:41.349Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 19/426 data:18,gas:0,value:0  
-2024-08-18T04:18:41.562Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 20/426 data:19,gas:0,value:0  
-2024-08-18T04:18:41.775Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 21/426 data:20,gas:0,value:0  
-2024-08-18T04:18:41.992Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 22/426 data:21,gas:0,value:0  
-2024-08-18T04:18:42.206Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 23/426 data:22,gas:0,value:0  
-2024-08-18T04:18:42.418Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 24/426 data:23,gas:0,value:0  
-2024-08-18T04:18:42.631Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 25/426 data:24,gas:0,value:0  
-2024-08-18T04:18:42.844Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 26/426 data:25,gas:0,value:0  {"gas_refund":"216484","gas_usage":"865940","state_root":"0x1a329edef5371843b07cb9d30b8a1c9ed0455e88db42cb6ac652d2b4ef99966f","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0x569de5c6a896206e400e04c17cd162bd6349f6de74ab9c095ae0a6ce6b48fe29"}
-2024-08-18T04:18:43.057Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 27/426 data:26,gas:0,value:0  
-2024-08-18T04:18:43.271Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 28/426 data:27,gas:0,value:0  
-2024-08-18T04:18:43.484Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 29/426 data:28,gas:0,value:0  {"gas_refund":"160317","gas_usage":"641271","state_root":"0x4f5e9c9613f3b354d5727bc894baedcc40b55cb4a6e9b2eab5a4839960440b37","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0x19fcdf730b44856c24b1f2e47778bf00970067bccf830c65ab775418a1498ac0"}
-2024-08-18T04:18:43.702Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 30/426 data:29,gas:0,value:0  
-2024-08-18T04:18:43.915Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 31/426 data:30,gas:0,value:0  
-2024-08-18T04:18:44.128Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 32/426 data:31,gas:0,value:0  
-2024-08-18T04:18:44.340Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 33/426 data:32,gas:0,value:0  
-2024-08-18T04:18:44.552Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 34/426 data:33,gas:0,value:0  
-2024-08-18T04:18:44.765Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 35/426 data:34,gas:0,value:0  
-2024-08-18T04:18:44.977Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 36/426 data:35,gas:0,value:0  
-2024-08-18T04:18:45.190Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 37/426 data:36,gas:0,value:0  
-2024-08-18T04:18:45.407Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 38/426 data:37,gas:0,value:0  {"gas_refund":"165773","gas_usage":"663092","state_root":"0x088bb58b34d88e7befa16177f28e1fbe013128cfa78b6ae93b1b02b15696b096","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0xcf0e6fb5d97908431f940c246e7f4d16dc90c6207f3758737626c91fc5305527"}
-2024-08-18T04:18:45.619Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 39/426 data:38,gas:0,value:0  
-2024-08-18T04:18:45.832Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 40/426 data:39,gas:0,value:0  
-2024-08-18T04:18:46.045Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 41/426 data:40,gas:0,value:0  {"gas_refund":"151097","gas_usage":"604391","state_root":"0x687a6b9524db2371554be7239291771be3c327d60d973f5445b7b5c7cf5184c3","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0xa9ec0f7c5b312a41e1202273301eb728ba5e0ab224a2bb5f721c19fc353787ad"}
-2024-08-18T04:18:46.258Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 42/426 data:41,gas:0,value:0  
-2024-08-18T04:18:46.471Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 43/426 data:42,gas:0,value:0  
-2024-08-18T04:18:46.683Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 44/426 data:43,gas:0,value:0  
-2024-08-18T04:18:46.896Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 45/426 data:44,gas:0,value:0  
-2024-08-18T04:18:47.113Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 46/426 data:45,gas:0,value:0  
-2024-08-18T04:18:47.325Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 47/426 data:46,gas:0,value:0  
-2024-08-18T04:18:47.538Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 48/426 data:47,gas:0,value:0  
-2024-08-18T04:18:47.750Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 49/426 data:48,gas:0,value:0  
-2024-08-18T04:18:47.963Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 50/426 data:49,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x4970239f8df2eac84949d4fa34733a6205771b80486eb5cabfc6136afba9f730"}
-2024-08-18T04:18:48.176Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 51/426 data:50,gas:0,value:0  
-2024-08-18T04:18:48.387Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 52/426 data:51,gas:0,value:0  
-2024-08-18T04:18:48.600Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 53/426 data:52,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x5fd6e74d53983cf47ea498bca0a59f79357c081fb393f4c291f0b8bd182f4f3c"}
-2024-08-18T04:18:48.823Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 54/426 data:53,gas:0,value:0  
-2024-08-18T04:18:49.036Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 55/426 data:54,gas:0,value:0  
-2024-08-18T04:18:49.249Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 56/426 data:55,gas:0,value:0  
-2024-08-18T04:18:49.462Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 57/426 data:56,gas:0,value:0  
-2024-08-18T04:18:49.675Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 58/426 data:57,gas:0,value:0  
-2024-08-18T04:18:50.091Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 59/426 data:58,gas:0,value:0  
-2024-08-18T04:18:50.304Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 60/426 data:59,gas:0,value:0  
-2024-08-18T04:18:50.517Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 61/426 data:60,gas:0,value:0  
-2024-08-18T04:18:50.730Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 62/426 data:61,gas:0,value:0  {"gas_refund":"156548","gas_usage":"626194","state_root":"0xced1fd5e307f2f1a76337f297b4fcd0e756fe6039907af1558bde3b692fb003c","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0x8cf317051f8c41cae743f8dfbf2083e634bba26518977cc3512c84ff99103d1b"}
-2024-08-18T04:18:50.952Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 63/426 data:62,gas:0,value:0  
-2024-08-18T04:18:51.166Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 64/426 data:63,gas:0,value:0  
-2024-08-18T04:18:51.378Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 65/426 data:64,gas:0,value:0  {"gas_refund":"270529","gas_usage":"1082118","state_root":"0x7e24b75b038e6886ae5f1b3861e9d9ddfdb2b9fa2c3a1749d7a1b9932cfdd9e1","expected":"0x5a1924357306db4bb70963eacbd412e89363e9181b66d6b499bf08a9daa713d9","hash":"0x06fedcc1f9c0caee7bcb1b1568db0dd989a3fc9b8445685b6ee1b8ded6e99b37"}
-2024-08-18T04:18:51.591Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 66/426 data:65,gas:0,value:0  
-2024-08-18T04:18:51.803Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 67/426 data:66,gas:0,value:0  
-2024-08-18T04:18:52.217Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 68/426 data:67,gas:0,value:0  
-2024-08-18T04:18:52.430Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 69/426 data:68,gas:0,value:0  
-2024-08-18T04:18:52.648Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 70/426 data:69,gas:0,value:0  
-2024-08-18T04:18:52.861Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 71/426 data:70,gas:0,value:0  
-2024-08-18T04:18:53.074Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 72/426 data:71,gas:0,value:0  
-2024-08-18T04:18:53.286Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 73/426 data:72,gas:0,value:0  
-2024-08-18T04:18:53.499Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 74/426 data:73,gas:0,value:0  {"gas_refund":"275984","gas_usage":"1103940","state_root":"0x7dd2a942310aca88c3bbf65417cb75a78284b3d1dccf72beda8caecd660e09cf","expected":"0x6cf2ff58a989d85c9b40a2be1ccf96c7131a7a92ba609de0bfd47bbbe4280739","hash":"0x6765505e0a87943ce876faf63338389e0fce69526cf7a907170f0b2899cc03bb"}
-2024-08-18T04:18:53.712Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 75/426 data:74,gas:0,value:0  
-2024-08-18T04:18:53.925Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 76/426 data:75,gas:0,value:0  
-2024-08-18T04:18:54.138Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 77/426 data:76,gas:0,value:0  {"gas_refund":"219817","gas_usage":"879271","state_root":"0xd515d86f91a906fff665bbc5fec7f6be7769345c930f36b7e9141f80394938f4","expected":"0xd2ed8fc904f594090dea2d85ff5d3e23dc5fd688edc0936e0353ad602617e44b","hash":"0xe02e6262fbb7c88555038583fcc3148b6e8ef61976efcb8c98709b59e5a81645"}
-2024-08-18T04:18:54.355Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 78/426 data:77,gas:0,value:0  
-2024-08-18T04:18:54.568Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 79/426 data:78,gas:0,value:0  
-2024-08-18T04:18:54.781Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 80/426 data:79,gas:0,value:0  
-2024-08-18T04:18:54.993Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 81/426 data:80,gas:0,value:0  
-2024-08-18T04:18:55.206Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 82/426 data:81,gas:0,value:0  
-2024-08-18T04:18:55.419Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 83/426 data:82,gas:0,value:0  
-2024-08-18T04:18:55.632Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 84/426 data:83,gas:0,value:0  
-2024-08-18T04:18:55.844Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 85/426 data:84,gas:0,value:0  
-2024-08-18T04:18:56.062Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 86/426 data:85,gas:0,value:0  {"gas_refund":"225273","gas_usage":"901092","state_root":"0xca51fe5b22f4335c03a4c61b4a932d747ae13873418a05a1a09059af9cc9e274","expected":"0x87b694afd065b60743453f7bc96f50ac996c993d1e74c19e4a7a8fccf1f7c43f","hash":"0x6a29fbdf60748d68cd4a4adda5f2284e85e0723108d6d867dad48ce392f181a5"}
-2024-08-18T04:18:56.275Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 87/426 data:86,gas:0,value:0  
-2024-08-18T04:18:56.488Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 88/426 data:87,gas:0,value:0  
-2024-08-18T04:18:56.700Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 89/426 data:88,gas:0,value:0  {"gas_refund":"210597","gas_usage":"842391","state_root":"0xd42375ec9a4be21e7a844daff71d8218417547613cfde75ac353b83c9d6fa3d9","expected":"0x0b52082f2e64a890d550f4083fad60fba63fb259c1ad8efea21399900aa971a2","hash":"0x4a5d5a800b741d31f1de838915d54c1aba0c30363971c1fcec3b8b568e758e59"}
-2024-08-18T04:18:56.913Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 90/426 data:89,gas:0,value:0  
-2024-08-18T04:18:57.125Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 91/426 data:90,gas:0,value:0  
-2024-08-18T04:18:57.337Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 92/426 data:91,gas:0,value:0  
-2024-08-18T04:18:57.549Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 93/426 data:92,gas:0,value:0  
-2024-08-18T04:18:57.766Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 94/426 data:93,gas:0,value:0  
-2024-08-18T04:18:57.978Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 95/426 data:94,gas:0,value:0  
-2024-08-18T04:18:58.190Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 96/426 data:95,gas:0,value:0  
-2024-08-18T04:18:58.402Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 97/426 data:96,gas:0,value:0  
-2024-08-18T04:18:58.817Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 98/426 data:97,gas:0,value:0  {"gas_refund":"216053","gas_usage":"864212","state_root":"0x0fac125f090d724529c97ede23357f688c185771d459ac8cc52d529cd5c1b71c","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0x14222714161f015006fa249a8651f78ca12008a03c77af35898eaeadcc132c56"}
-2024-08-18T04:18:59.031Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 99/426 data:98,gas:0,value:0  
-2024-08-18T04:18:59.244Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 100/426 data:99,gas:0,value:0  
-2024-08-18T04:18:59.457Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 101/426 data:100,gas:0,value:0  {"gas_refund":"210593","gas_usage":"842372","state_root":"0x3af2d145d84ca92dc1205f54b3235b9cd2251836dc191e1f012cd814c06f06e3","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0x3559d9f8a0c94a8148d89db6fe80ce82b30993d5b959f982fe5ea1af839b522c"}
-2024-08-18T04:18:59.674Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 102/426 data:101,gas:0,value:0  
-2024-08-18T04:18:59.887Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 103/426 data:102,gas:0,value:0  
-2024-08-18T04:19:00.099Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 104/426 data:103,gas:0,value:0  
-2024-08-18T04:19:00.312Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 105/426 data:104,gas:0,value:0  
-2024-08-18T04:19:00.525Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 106/426 data:105,gas:0,value:0  
-2024-08-18T04:19:00.738Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 107/426 data:106,gas:0,value:0  
-2024-08-18T04:19:00.951Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 108/426 data:107,gas:0,value:0  
-2024-08-18T04:19:01.163Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 109/426 data:108,gas:0,value:0  
-2024-08-18T04:19:01.381Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 110/426 data:109,gas:0,value:0  {"gas_refund":"216048","gas_usage":"864194","state_root":"0x4402b396ec45fc963224dcd869003d9b628521b3a7bd7f328f99bc409442e473","expected":"0xda0d2fb23cbe78ec0db8382fb1ad1edbe76b82ffd3f67547d19cf91196790984","hash":"0x7091eab3e0f8fe7b878fab7564fcc35b2f68ba45832ea0ea9e1003230d86a18e"}
-2024-08-18T04:19:01.595Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 111/426 data:110,gas:0,value:0  
-2024-08-18T04:19:01.807Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 112/426 data:111,gas:0,value:0  
-2024-08-18T04:19:02.020Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 113/426 data:112,gas:0,value:0  {"gas_refund":"211031","gas_usage":"844125","state_root":"0x3ef7ad4626979a81f584b25199bbfa5069726f0a13f1fb4f771f31d84609a7ae","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0xb30802f7f8a8c33887dd09756ccddae1fbb3992bb6b1a19a33934a219dd82309"}
-2024-08-18T04:19:02.233Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 114/426 data:113,gas:0,value:0  
-2024-08-18T04:19:02.446Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 115/426 data:114,gas:0,value:0  
-2024-08-18T04:19:02.659Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 116/426 data:115,gas:0,value:0  
-2024-08-18T04:19:02.872Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 117/426 data:116,gas:0,value:0  
-2024-08-18T04:19:03.090Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 118/426 data:117,gas:0,value:0  
-2024-08-18T04:19:03.304Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 119/426 data:118,gas:0,value:0  
-2024-08-18T04:19:03.516Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 120/426 data:119,gas:0,value:0  
-2024-08-18T04:19:03.729Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 121/426 data:120,gas:0,value:0  
-2024-08-18T04:19:03.942Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 122/426 data:121,gas:0,value:0  {"gas_refund":"216486","gas_usage":"865947","state_root":"0x890faa373e9bf985fa9cedd9bd278208fcf3bb75fd4659beb5a3b90ad574aa44","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0x061e672e794c75c0af00e0d38d0c85e5f6093c52055c19eea61e1adada74520b"}
-2024-08-18T04:19:04.155Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 123/426 data:122,gas:0,value:0  
-2024-08-18T04:19:04.367Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 124/426 data:123,gas:0,value:0  
-2024-08-18T04:19:04.783Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 125/426 data:124,gas:0,value:0  {"gas_refund":"160319","gas_usage":"641278","state_root":"0x4f2f5269403479bc724bfdf3a3a27859f4166e2dc902f1ccd033dbd778292433","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0x9d4437958d3471acc9c41241d7cd83663ad650ab2f6b29b0deacd40ffa12ea5f"}
-2024-08-18T04:19:05.002Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 126/426 data:125,gas:0,value:0  
-2024-08-18T04:19:05.216Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 127/426 data:126,gas:0,value:0  
-2024-08-18T04:19:05.428Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 128/426 data:127,gas:0,value:0  
-2024-08-18T04:19:05.640Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 129/426 data:128,gas:0,value:0  
-2024-08-18T04:19:05.853Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 130/426 data:129,gas:0,value:0  
-2024-08-18T04:19:06.065Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 131/426 data:130,gas:0,value:0  
-2024-08-18T04:19:06.278Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 132/426 data:131,gas:0,value:0  
-2024-08-18T04:19:06.490Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 133/426 data:132,gas:0,value:0  
-2024-08-18T04:19:06.707Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 134/426 data:133,gas:0,value:0  {"gas_refund":"165774","gas_usage":"663100","state_root":"0xf4dff7d3d71b4b0efbecc11a731603ff7efd8ca2a13d812344cf8f1d52fb1438","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0xa32566ed67a0e74425ee92b8626577ebfee10fe2da14c362787be09435c312c5"}
-2024-08-18T04:19:06.920Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 135/426 data:134,gas:0,value:0  
-2024-08-18T04:19:07.132Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 136/426 data:135,gas:0,value:0  
-2024-08-18T04:19:07.344Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 137/426 data:136,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x5d6806a575ac8d80055bfb200aadaf5f3fafd4e84db71bb49a78dd073349ace2"}
-2024-08-18T04:19:07.556Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 138/426 data:137,gas:0,value:0  
-2024-08-18T04:19:07.768Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 139/426 data:138,gas:0,value:0  
-2024-08-18T04:19:07.981Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 140/426 data:139,gas:0,value:0  
-2024-08-18T04:19:08.193Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 141/426 data:140,gas:0,value:0  
-2024-08-18T04:19:08.411Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 142/426 data:141,gas:0,value:0  
-2024-08-18T04:19:08.624Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 143/426 data:142,gas:0,value:0  
-2024-08-18T04:19:08.837Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 144/426 data:143,gas:0,value:0  
-2024-08-18T04:19:09.049Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 145/426 data:144,gas:0,value:0  
-2024-08-18T04:19:09.262Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 146/426 data:145,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xb70e4866f0b406280456d4c8eac214c9f9e981112cbcb143086fddcd6967bb74"}
-2024-08-18T04:19:09.474Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 147/426 data:146,gas:0,value:0  
-2024-08-18T04:19:09.687Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 148/426 data:147,gas:0,value:0  
-2024-08-18T04:19:09.900Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 149/426 data:148,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xfd60d911c7710f0d69a5db230cebb0a0832b82c608781ae5300309047bc6adf6"}
-2024-08-18T04:19:10.118Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 150/426 data:149,gas:0,value:0  
-2024-08-18T04:19:10.331Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 151/426 data:150,gas:0,value:0  
-2024-08-18T04:19:10.544Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 152/426 data:151,gas:0,value:0  
-2024-08-18T04:19:10.757Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 153/426 data:152,gas:0,value:0  
-2024-08-18T04:19:10.969Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 154/426 data:153,gas:0,value:0  
-2024-08-18T04:19:11.181Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 155/426 data:154,gas:0,value:0  
-2024-08-18T04:19:11.393Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 156/426 data:155,gas:0,value:0  
-2024-08-18T04:19:11.606Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 157/426 data:156,gas:0,value:0  
-2024-08-18T04:19:11.823Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 158/426 data:157,gas:0,value:0  {"gas_refund":"156550","gas_usage":"626201","state_root":"0x498fc56497f850ac60f9b4942c7c65f00f0fb96cbcc93e580c933b590fe69ed1","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0x3166c2909572a5b09f26a2f3446553c3b61eda4dc05dc76c65785ca5a5195968"}
-2024-08-18T04:19:12.035Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 159/426 data:158,gas:0,value:0  
-2024-08-18T04:19:12.248Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 160/426 data:159,gas:0,value:0  
-2024-08-18T04:19:12.460Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 161/426 data:160,gas:0,value:0  {"gas_refund":"211029","gas_usage":"844118","state_root":"0x74cc32db81770dafbade1e494078bbde2aedd19917fd54d29f4bf60814a93143","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x20cd09e1ef4e3ba8eb1aa0b27b971ed46cfccb72f774d151329bbc5fe404feb4"}
-2024-08-18T04:19:12.672Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 162/426 data:161,gas:0,value:0  
-2024-08-18T04:19:12.884Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 163/426 data:162,gas:0,value:0  
-2024-08-18T04:19:13.097Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 164/426 data:163,gas:0,value:0  
-2024-08-18T04:19:13.309Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 165/426 data:164,gas:0,value:0  
-2024-08-18T04:19:13.532Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 166/426 data:165,gas:0,value:0  
-2024-08-18T04:19:13.745Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 167/426 data:166,gas:0,value:0  
-2024-08-18T04:19:13.958Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 168/426 data:167,gas:0,value:0  
-2024-08-18T04:19:14.171Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 169/426 data:168,gas:0,value:0  
-2024-08-18T04:19:14.384Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 170/426 data:169,gas:0,value:0  {"gas_refund":"216484","gas_usage":"865940","state_root":"0x1a329edef5371843b07cb9d30b8a1c9ed0455e88db42cb6ac652d2b4ef99966f","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0x72025f893f3c74b3547f72744e06bf0423951e75e161bff09226c5eb8c4ff7ad"}
-2024-08-18T04:19:14.597Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 171/426 data:170,gas:0,value:0  
-2024-08-18T04:19:14.809Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 172/426 data:171,gas:0,value:0  
-2024-08-18T04:19:15.022Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 173/426 data:172,gas:0,value:0  {"gas_refund":"160317","gas_usage":"641271","state_root":"0x4f5e9c9613f3b354d5727bc894baedcc40b55cb4a6e9b2eab5a4839960440b37","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0x5c79ad6ded2f468a2af90201f8a949ac456d8336aced5c6dc153dbdc19ceae65"}
-2024-08-18T04:19:15.436Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 174/426 data:173,gas:0,value:0  
-2024-08-18T04:19:15.656Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 175/426 data:174,gas:0,value:0  
-2024-08-18T04:19:15.869Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 176/426 data:175,gas:0,value:0  
-2024-08-18T04:19:16.082Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 177/426 data:176,gas:0,value:0  
-2024-08-18T04:19:16.295Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 178/426 data:177,gas:0,value:0  
-2024-08-18T04:19:16.507Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 179/426 data:178,gas:0,value:0  
-2024-08-18T04:19:16.720Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 180/426 data:179,gas:0,value:0  
-2024-08-18T04:19:16.933Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 181/426 data:180,gas:0,value:0  
-2024-08-18T04:19:17.146Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 182/426 data:181,gas:0,value:0  {"gas_refund":"165773","gas_usage":"663092","state_root":"0x088bb58b34d88e7befa16177f28e1fbe013128cfa78b6ae93b1b02b15696b096","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0x9d3392f9918bd63270f7649ef82251fb9df66667af9f6f307c809d2d641bdff9"}
-2024-08-18T04:19:17.361Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 183/426 data:182,gas:0,value:0  
-2024-08-18T04:19:17.575Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 184/426 data:183,gas:0,value:0  
-2024-08-18T04:19:17.788Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 185/426 data:184,gas:0,value:0  {"gas_refund":"151097","gas_usage":"604391","state_root":"0x687a6b9524db2371554be7239291771be3c327d60d973f5445b7b5c7cf5184c3","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0x336272a407f5ce9243bcd4f0b34d823e79c97b0aef2a1e6f35e0879660231035"}
-2024-08-18T04:19:18.000Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 186/426 data:185,gas:0,value:0  
-2024-08-18T04:19:18.212Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 187/426 data:186,gas:0,value:0  
-2024-08-18T04:19:18.424Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 188/426 data:187,gas:0,value:0  
-2024-08-18T04:19:18.637Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 189/426 data:188,gas:0,value:0  
-2024-08-18T04:19:18.850Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 190/426 data:189,gas:0,value:0  
-2024-08-18T04:19:19.068Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 191/426 data:190,gas:0,value:0  
-2024-08-18T04:19:19.281Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 192/426 data:191,gas:0,value:0  
-2024-08-18T04:19:19.494Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 193/426 data:192,gas:0,value:0  
-2024-08-18T04:19:19.706Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 194/426 data:193,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x8acb9650341ed5e23f6703d74447c9147f408d40882815fc3bca88038440925e"}
-2024-08-18T04:19:19.919Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 195/426 data:194,gas:0,value:0  
-2024-08-18T04:19:20.131Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 196/426 data:195,gas:0,value:0  
-2024-08-18T04:19:20.343Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 197/426 data:196,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0xcda99ca5910a05446ba6257f2700581be3f60a2ebf5949597f8ddba2f813d3b2"}
-2024-08-18T04:19:20.556Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 198/426 data:197,gas:0,value:0  
-2024-08-18T04:19:20.773Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 199/426 data:198,gas:0,value:0  
-2024-08-18T04:19:21.188Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 200/426 data:199,gas:0,value:0  
-2024-08-18T04:19:21.402Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 201/426 data:200,gas:0,value:0  
-2024-08-18T04:19:21.616Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 202/426 data:201,gas:0,value:0  
-2024-08-18T04:19:21.829Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 203/426 data:202,gas:0,value:0  
-2024-08-18T04:19:22.041Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 204/426 data:203,gas:0,value:0  
-2024-08-18T04:19:22.253Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 205/426 data:204,gas:0,value:0  
-2024-08-18T04:19:22.465Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 206/426 data:205,gas:0,value:0  {"gas_refund":"156548","gas_usage":"626194","state_root":"0xced1fd5e307f2f1a76337f297b4fcd0e756fe6039907af1558bde3b692fb003c","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0xd6ac5d27eccc8919c112f9ad3093d14294cadee80fc5ac545f1b4e1abf68ae77"}
-2024-08-18T04:19:22.682Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 207/426 data:206,gas:0,value:0  
-2024-08-18T04:19:22.897Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 208/426 data:207,gas:0,value:0  {"gas_refund":"216489","gas_usage":"865958","state_root":"0x785fb92dea0def4310cd44c8e5fa9b8c54f2e92e1681abc66fed36458be9f086","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x9c9c1ee557e96fffde99b3353eee59aa996e25e726104cb29ccf3725efdd5bca"}
-2024-08-18T04:19:23.110Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 209/426 data:208,gas:0,value:0  {"gas_refund":"270529","gas_usage":"1082118","state_root":"0x7e24b75b038e6886ae5f1b3861e9d9ddfdb2b9fa2c3a1749d7a1b9932cfdd9e1","expected":"0x5a1924357306db4bb70963eacbd412e89363e9181b66d6b499bf08a9daa713d9","hash":"0x5bf2b65e847dc335fb701e85b2bd8d05b4efd9216dd89028cb44ad3c288cd200"}
-2024-08-18T04:19:23.323Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 210/426 data:209,gas:0,value:0  {"gas_refund":"216491","gas_usage":"865965","state_root":"0xe38e3046369bfd5c17c51d7879c065c570d049b3091f029f53a24188a9b97110","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0x19683901ccd44c324684c076097c96cdd15ee8fe10910a59444dd500a282a1cd"}
-2024-08-18T04:19:23.535Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 211/426 data:210,gas:0,value:0  {"gas_refund":"216489","gas_usage":"865958","state_root":"0x785fb92dea0def4310cd44c8e5fa9b8c54f2e92e1681abc66fed36458be9f086","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x536a5125e5d1c23cbc7e184121cdcb09a7c007f9886510c670c0f5fa7461907c"}
-2024-08-18T04:19:23.748Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 212/426 data:211,gas:0,value:0  {"gas_refund":"275989","gas_usage":"1103958","state_root":"0xfc8a1c262d476674c0aa63e768ca49204070acc38a4a115802b533c3a6e45ddc","expected":"0x5a1924357306db4bb70963eacbd412e89363e9181b66d6b499bf08a9daa713d9","hash":"0x81c3142c21de6eefc0238fe1855634d0d2d68f2489c32d7081b3041c82907721"}
-2024-08-18T04:19:23.962Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 213/426 data:212,gas:0,value:0  {"gas_refund":"216491","gas_usage":"865965","state_root":"0xe38e3046369bfd5c17c51d7879c065c570d049b3091f029f53a24188a9b97110","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0x501e683cc99c0eba4a9706755c2f6e2de875a57c4e0e782a4308a432c705556f"}
-2024-08-18T04:19:24.174Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 214/426 data:213,gas:0,value:0  {"gas_refund":"216484","gas_usage":"865940","state_root":"0x1a329edef5371843b07cb9d30b8a1c9ed0455e88db42cb6ac652d2b4ef99966f","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0xbd05fb50b8cfb6b77ad4dc92a4b51ccad1b4645d9b5b3647fd35b14263d0c7fb"}
-2024-08-18T04:19:24.392Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 215/426 data:214,gas:0,value:0  {"gas_refund":"275984","gas_usage":"1103940","state_root":"0x7dd2a942310aca88c3bbf65417cb75a78284b3d1dccf72beda8caecd660e09cf","expected":"0x6cf2ff58a989d85c9b40a2be1ccf96c7131a7a92ba609de0bfd47bbbe4280739","hash":"0x087ca88af10a82f11f29639cbd378b5783ed44cb2d01c72ae52f74ce16cf169b"}
-2024-08-18T04:19:24.605Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 216/426 data:215,gas:0,value:0  {"gas_refund":"216486","gas_usage":"865947","state_root":"0x890faa373e9bf985fa9cedd9bd278208fcf3bb75fd4659beb5a3b90ad574aa44","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0x3139c6cae352e5883388e3330530b900fac58081d5f39db91bb912193d2870d1"}
-2024-08-18T04:19:24.818Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 217/426 data:216,gas:0,value:0  {"gas_refund":"216484","gas_usage":"865940","state_root":"0x1a329edef5371843b07cb9d30b8a1c9ed0455e88db42cb6ac652d2b4ef99966f","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0x94e348b52d5fcf33285c1ccbf3cd7849b33ec4b9b99597e27b77b20b87da7f7d"}
-2024-08-18T04:19:25.031Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 218/426 data:217,gas:0,value:0  {"gas_refund":"275984","gas_usage":"1103940","state_root":"0x7dd2a942310aca88c3bbf65417cb75a78284b3d1dccf72beda8caecd660e09cf","expected":"0x6cf2ff58a989d85c9b40a2be1ccf96c7131a7a92ba609de0bfd47bbbe4280739","hash":"0xd4fc408a2c4e32646ad174949778ca663e5ea9dccea2beb4199128aef0af994c"}
-2024-08-18T04:19:25.245Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 219/426 data:218,gas:0,value:0  {"gas_refund":"216486","gas_usage":"865947","state_root":"0x890faa373e9bf985fa9cedd9bd278208fcf3bb75fd4659beb5a3b90ad574aa44","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0xe181f057c3dcc3ee96aaf03a129b67db5b9d8174efeb9dde888c96bc2a5ffa6c"}
-2024-08-18T04:19:25.458Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 220/426 data:219,gas:0,value:0  {"gas_refund":"165777","gas_usage":"663111","state_root":"0xa3025e19ab90be24c64ce0b878b6ed9d3d0d192d5c7da16e8e2a607cd5debd3c","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0x45131b917d4936f8312ca1b9895daf00645ea707f06fae93ed91db19f1dc65bd"}
-2024-08-18T04:19:25.671Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 221/426 data:220,gas:0,value:0  {"gas_refund":"219817","gas_usage":"879271","state_root":"0xd515d86f91a906fff665bbc5fec7f6be7769345c930f36b7e9141f80394938f4","expected":"0xd2ed8fc904f594090dea2d85ff5d3e23dc5fd688edc0936e0353ad602617e44b","hash":"0x26010b744fcf4210cd347e563f73c268ad5289f69d0c7df7230896cde51a389a"}
-2024-08-18T04:19:25.884Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 222/426 data:221,gas:0,value:0  {"gas_refund":"165779","gas_usage":"663118","state_root":"0xefb9381322a4ca76ce31e477f0476cb8ecfd552cec8811a366ca9c76ace7a3a9","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0x9032c0072accdc3bdc2364ff18c77a4eae717c68c5f24170ea961c1aaa688a95"}
-2024-08-18T04:19:26.101Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 223/426 data:222,gas:0,value:0  {"gas_refund":"165777","gas_usage":"663111","state_root":"0xa3025e19ab90be24c64ce0b878b6ed9d3d0d192d5c7da16e8e2a607cd5debd3c","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0xf33f8f1d2688607d22218edc698553a8eb64f8ef1a1bcd29e6019f49daebbecc"}
-2024-08-18T04:19:26.314Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 224/426 data:223,gas:0,value:0  {"gas_refund":"225277","gas_usage":"901111","state_root":"0xeb3a47fb1badd8bbcff8245731036baa7b1d921f2f5e143dbcc4a95853a36bbe","expected":"0xd2ed8fc904f594090dea2d85ff5d3e23dc5fd688edc0936e0353ad602617e44b","hash":"0x81d2007e517de44271609a7de7ec044309e10f88a1454d4c6f188be411f75081"}
-2024-08-18T04:19:26.527Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 225/426 data:224,gas:0,value:0  {"gas_refund":"165779","gas_usage":"663118","state_root":"0xefb9381322a4ca76ce31e477f0476cb8ecfd552cec8811a366ca9c76ace7a3a9","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0xb523204ccfeb3ea11c913056b520a565b2b16a12f636b8bb3b9c21b3d096cc85"}
-2024-08-18T04:19:26.740Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 226/426 data:225,gas:0,value:0  {"gas_refund":"165773","gas_usage":"663092","state_root":"0x088bb58b34d88e7befa16177f28e1fbe013128cfa78b6ae93b1b02b15696b096","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0x547f515dc726ed08dc07f1ba8587848d03ea47fa6169cc72be55cf953559a7ab"}
-2024-08-18T04:19:26.953Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 227/426 data:226,gas:0,value:0  {"gas_refund":"225273","gas_usage":"901092","state_root":"0xca51fe5b22f4335c03a4c61b4a932d747ae13873418a05a1a09059af9cc9e274","expected":"0x87b694afd065b60743453f7bc96f50ac996c993d1e74c19e4a7a8fccf1f7c43f","hash":"0xb96bbf6ab4a771a143908f7bc7ddbfdede0ec00b34ce920b35a151aeba8abbf1"}
-2024-08-18T04:19:27.165Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 228/426 data:227,gas:0,value:0  {"gas_refund":"165774","gas_usage":"663100","state_root":"0xf4dff7d3d71b4b0efbecc11a731603ff7efd8ca2a13d812344cf8f1d52fb1438","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0x1c82320f21de2aaf528bd910ef553b361457b3776327a4d5e5e1318d9a86d1cc"}
-2024-08-18T04:19:27.580Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 229/426 data:228,gas:0,value:0  {"gas_refund":"165773","gas_usage":"663092","state_root":"0x088bb58b34d88e7befa16177f28e1fbe013128cfa78b6ae93b1b02b15696b096","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0xa217d5d250a652ddd456d31878f3acd2ff497a2dde57e9e4404ec29c8ca9ce3a"}
-2024-08-18T04:19:27.794Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 230/426 data:229,gas:0,value:0  {"gas_refund":"225273","gas_usage":"901092","state_root":"0xca51fe5b22f4335c03a4c61b4a932d747ae13873418a05a1a09059af9cc9e274","expected":"0x87b694afd065b60743453f7bc96f50ac996c993d1e74c19e4a7a8fccf1f7c43f","hash":"0x90e0c172e10f78da72a8c61f87d8149cc6f06c2e45ff2d0cd8d6475345d7ab46"}
-2024-08-18T04:19:28.013Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 231/426 data:230,gas:0,value:0  {"gas_refund":"165774","gas_usage":"663100","state_root":"0xf4dff7d3d71b4b0efbecc11a731603ff7efd8ca2a13d812344cf8f1d52fb1438","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0xfb5d8e203d65248f728323204d9743e9faffa3317e41cb7dd2abf3f0661a3bee"}
-2024-08-18T04:19:30.458Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 232/426 data:231,gas:0,value:0  {"gas_refund":"156557","gas_usage":"626231","state_root":"0x7558f1208d32fa2e2dd92b1a9b17cc63621824a89260f646a2862f1dd2622f37","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0x6e931a7a45d6d287ebd4b71046037a60809e0bdb4ed1fc9799f68ab039941daa"}
-2024-08-18T04:19:30.671Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 233/426 data:232,gas:0,value:0  {"gas_refund":"210597","gas_usage":"842391","state_root":"0xd42375ec9a4be21e7a844daff71d8218417547613cfde75ac353b83c9d6fa3d9","expected":"0x0b52082f2e64a890d550f4083fad60fba63fb259c1ad8efea21399900aa971a2","hash":"0x3b8bca9984576552dfd8f9abf665ca78b19b5e77c3d312ed557a597cfecf271a"}
-2024-08-18T04:19:30.884Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 234/426 data:233,gas:0,value:0  {"gas_refund":"156559","gas_usage":"626238","state_root":"0xe3248226a263ad54eacaf01ea879cf245127e6e6e39d8733fa3420928053dfcd","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x31506f80c4f37858feceef3e6a633d70d016e48a43f6c027889a7619ad6e7889"}
-2024-08-18T04:19:31.097Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 235/426 data:234,gas:0,value:0  {"gas_refund":"156557","gas_usage":"626231","state_root":"0x7558f1208d32fa2e2dd92b1a9b17cc63621824a89260f646a2862f1dd2622f37","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0x6776522c40358d19641b6a359310d08727967498990ee802825092050480403d"}
-2024-08-18T04:19:31.310Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 236/426 data:235,gas:0,value:0  {"gas_refund":"216057","gas_usage":"864231","state_root":"0x37aabaaf66df9ea7339edfd244862fdc7301ec6ed2d25ef9de93193e2a32503a","expected":"0x0b52082f2e64a890d550f4083fad60fba63fb259c1ad8efea21399900aa971a2","hash":"0x24caa698a9a5fc4937173dbc2c626c3c3a58c23fa7031e5bbec92195f21e0ffa"}
-2024-08-18T04:19:31.524Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 237/426 data:236,gas:0,value:0  {"gas_refund":"156559","gas_usage":"626238","state_root":"0xe3248226a263ad54eacaf01ea879cf245127e6e6e39d8733fa3420928053dfcd","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x9a545ec67a36b3cf0002528c6a8b5c97570e8cec75ff6885e5ead198448c4d23"}
-2024-08-18T04:19:31.741Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 238/426 data:237,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x975c0c56a081c7ca019591b4fddef628e33bf59848277eb66a81bf222e0c64d0"}
-2024-08-18T04:19:31.955Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 239/426 data:238,gas:0,value:0  {"gas_refund":"216053","gas_usage":"864212","state_root":"0x0fac125f090d724529c97ede23357f688c185771d459ac8cc52d529cd5c1b71c","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0xae76602fefaef28cbd9b135ca3f543da671188ca039e8aff169054935a978b96"}
-2024-08-18T04:19:32.168Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 240/426 data:239,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xc9e552f044e0567faf6103dc627db2d6ed7706a794de37f700b64e94c3f3ceb9"}
-2024-08-18T04:19:32.381Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 241/426 data:240,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x51e2965503b4fa7d447ebc43f04a3283e0e2f3aff246a20e2e19705d5010c5a6"}
-2024-08-18T04:19:32.594Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 242/426 data:241,gas:0,value:0  {"gas_refund":"216053","gas_usage":"864212","state_root":"0x0fac125f090d724529c97ede23357f688c185771d459ac8cc52d529cd5c1b71c","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0x7c49ef3ea7291b3f657a7c240b93b1c4a07b73a5ce7213d401fd43f720cd569c"}
-2024-08-18T04:19:32.807Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 243/426 data:242,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0x9958b5ed7c804a5b2932481fbda66d502dc4e71a7a9c6181a739527b4fc42718"}
-2024-08-18T04:19:33.020Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 244/426 data:243,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x15d6343255a13f9574d6196907adf2d6fe4cb31c7649b978f8e907d1d4763f30"}
-2024-08-18T04:19:33.233Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 245/426 data:244,gas:0,value:0  {"gas_refund":"210593","gas_usage":"842372","state_root":"0x3af2d145d84ca92dc1205f54b3235b9cd2251836dc191e1f012cd814c06f06e3","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0xe7cc49a7ec73e8c5bdd754c00c14fd89303c73cfa28f5da179da7cc78a0fd974"}
-2024-08-18T04:19:33.451Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 246/426 data:245,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xf31c01c11944b049355a3280c3671e4a7c5edbfb3c066ec40444bfc9f0270a05"}
-2024-08-18T04:19:33.664Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 247/426 data:246,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0xf48f0d7ba70c8cf1883445af0d6c91cfff59baa0f1c5f1c5976ccaadefa9d1ea"}
-2024-08-18T04:19:33.877Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 248/426 data:247,gas:0,value:0  {"gas_refund":"216053","gas_usage":"864212","state_root":"0x0fac125f090d724529c97ede23357f688c185771d459ac8cc52d529cd5c1b71c","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0x6327d25efb0f4ef871831309b5a144f1494091218493cfdf1834fe9cabc4d3cb"}
-2024-08-18T04:19:34.090Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 249/426 data:248,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0x5ddbaad69f4984ed432eb16aa4ead88340cdf9e131abc4b9c1f5cc40fb7ba8b5"}
-2024-08-18T04:19:34.303Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 250/426 data:249,gas:0,value:0  {"gas_refund":"156548","gas_usage":"626194","state_root":"0xced1fd5e307f2f1a76337f297b4fcd0e756fe6039907af1558bde3b692fb003c","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0x636fc5f981a4b32d50564531ca075a6a9e4968033428404e191d538d7957dee0"}
-2024-08-18T04:19:34.515Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 251/426 data:250,gas:0,value:0  {"gas_refund":"216048","gas_usage":"864194","state_root":"0x4402b396ec45fc963224dcd869003d9b628521b3a7bd7f328f99bc409442e473","expected":"0xda0d2fb23cbe78ec0db8382fb1ad1edbe76b82ffd3f67547d19cf91196790984","hash":"0x2b1cf917582ea3c0665f9aebe10e618834fc9aed19a0dde5338800ef2102ee7e"}
-2024-08-18T04:19:34.728Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 252/426 data:251,gas:0,value:0  {"gas_refund":"156550","gas_usage":"626201","state_root":"0x498fc56497f850ac60f9b4942c7c65f00f0fb96cbcc93e580c933b590fe69ed1","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0x6e4e992e4d5572046e86a8f037141cd82aa895a8ab5a9df1f40ce1dcb3f5dab2"}
-2024-08-18T04:19:34.940Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 253/426 data:252,gas:0,value:0  {"gas_refund":"156548","gas_usage":"626194","state_root":"0xced1fd5e307f2f1a76337f297b4fcd0e756fe6039907af1558bde3b692fb003c","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0x20395e68608e10a22434747250e5ca7c33b66d6a87e41120e71a0251200f43b3"}
-2024-08-18T04:19:35.361Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 254/426 data:253,gas:0,value:0  {"gas_refund":"216048","gas_usage":"864194","state_root":"0x4402b396ec45fc963224dcd869003d9b628521b3a7bd7f328f99bc409442e473","expected":"0xda0d2fb23cbe78ec0db8382fb1ad1edbe76b82ffd3f67547d19cf91196790984","hash":"0x2c8a07f651bfbabdd3d67bf5be5492a17af4a7eda0bfd15204d12bc30cdceb17"}
-2024-08-18T04:19:35.574Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 255/426 data:254,gas:0,value:0  {"gas_refund":"156550","gas_usage":"626201","state_root":"0x498fc56497f850ac60f9b4942c7c65f00f0fb96cbcc93e580c933b590fe69ed1","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0xf2e71b1acea20a48625e959d150b27914876d1dccd5a7b00dbf37b4d5cddb34a"}
-2024-08-18T04:19:35.788Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 256/426 data:255,gas:0,value:0  
-2024-08-18T04:19:36.001Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 257/426 data:256,gas:0,value:0  {"gas_refund":"211031","gas_usage":"844125","state_root":"0x3ef7ad4626979a81f584b25199bbfa5069726f0a13f1fb4f771f31d84609a7ae","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0x2811a2d9f8648962ff2c55f306c530277ca3ed10e0f73b545d08d0d6ad5cd471"}
-2024-08-18T04:19:36.214Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 258/426 data:257,gas:0,value:0  
-2024-08-18T04:19:36.426Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 259/426 data:258,gas:0,value:0  
-2024-08-18T04:19:36.638Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 260/426 data:259,gas:0,value:0  
-2024-08-18T04:19:36.850Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 261/426 data:260,gas:0,value:0  
-2024-08-18T04:19:37.067Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 262/426 data:261,gas:0,value:0  
-2024-08-18T04:19:37.280Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 263/426 data:262,gas:0,value:0  
-2024-08-18T04:19:37.493Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 264/426 data:263,gas:0,value:0  
-2024-08-18T04:19:37.706Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 265/426 data:264,gas:0,value:0  
-2024-08-18T04:19:37.919Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 266/426 data:265,gas:0,value:0  {"gas_refund":"216486","gas_usage":"865947","state_root":"0x890faa373e9bf985fa9cedd9bd278208fcf3bb75fd4659beb5a3b90ad574aa44","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0xf75f95fd13c62a1f1542ef66cf9ac758eb185ba56b0eba67e22971f3a30f1a69"}
-2024-08-18T04:19:38.132Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 267/426 data:266,gas:0,value:0  
-2024-08-18T04:19:38.344Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 268/426 data:267,gas:0,value:0  
-2024-08-18T04:19:38.557Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 269/426 data:268,gas:0,value:0  {"gas_refund":"160319","gas_usage":"641278","state_root":"0x4f2f5269403479bc724bfdf3a3a27859f4166e2dc902f1ccd033dbd778292433","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0x83c7f8fb1e710a18c50ed3dbea4ee88732d4b12a912a2f12d989a0e0a1b91033"}
-2024-08-18T04:19:38.774Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 270/426 data:269,gas:0,value:0  
-2024-08-18T04:19:38.989Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 271/426 data:270,gas:0,value:0  
-2024-08-18T04:19:39.201Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 272/426 data:271,gas:0,value:0  
-2024-08-18T04:19:39.414Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 273/426 data:272,gas:0,value:0  
-2024-08-18T04:19:39.627Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 274/426 data:273,gas:0,value:0  
-2024-08-18T04:19:39.839Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 275/426 data:274,gas:0,value:0  
-2024-08-18T04:19:40.050Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 276/426 data:275,gas:0,value:0  
-2024-08-18T04:19:40.263Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 277/426 data:276,gas:0,value:0  
-2024-08-18T04:19:40.487Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 278/426 data:277,gas:0,value:0  {"gas_refund":"165774","gas_usage":"663100","state_root":"0xf4dff7d3d71b4b0efbecc11a731603ff7efd8ca2a13d812344cf8f1d52fb1438","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0x39550ce9d90a3a785ee04f2c3b3a537aedee74ab94ffae3aadf86d9f7ebcc2b6"}
-2024-08-18T04:19:40.700Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 279/426 data:278,gas:0,value:0  
-2024-08-18T04:19:40.913Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 280/426 data:279,gas:0,value:0  
-2024-08-18T04:19:41.126Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 281/426 data:280,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x10f2873818eb4c35945a51aa6e4bf2dc47af4eee56bb3feebaef2546404ebed1"}
-2024-08-18T04:19:41.339Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 282/426 data:281,gas:0,value:0  
-2024-08-18T04:19:41.552Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 283/426 data:282,gas:0,value:0  
-2024-08-18T04:19:41.764Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 284/426 data:283,gas:0,value:0  
-2024-08-18T04:19:41.977Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 285/426 data:284,gas:0,value:0  
-2024-08-18T04:19:42.189Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 286/426 data:285,gas:0,value:0  
-2024-08-18T04:19:42.411Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 287/426 data:286,gas:0,value:0  
-2024-08-18T04:19:42.625Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 288/426 data:287,gas:0,value:0  
-2024-08-18T04:19:42.837Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 289/426 data:288,gas:0,value:0  
-2024-08-18T04:19:43.051Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 290/426 data:289,gas:0,value:0  {"gas_refund":"156554","gas_usage":"626220","state_root":"0xfdf63bbc5aaffbb676d6be8175c531976cacb02b1d454b606ca7efd36c7c1845","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xc57fa5bce7c61f614a1cd41867104933c55e1d421f162190d296ad12a71e56f8"}
-2024-08-18T04:19:43.264Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 291/426 data:290,gas:0,value:0  
-2024-08-18T04:19:43.476Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 292/426 data:291,gas:0,value:0  
-2024-08-18T04:19:43.688Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 293/426 data:292,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0x033b6a80094761f664f48470ef3ae6a679459d5a5179deb3c23ced50b7a29d43"}
-2024-08-18T04:19:43.907Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 294/426 data:293,gas:0,value:0  
-2024-08-18T04:19:44.119Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 295/426 data:294,gas:0,value:0  
-2024-08-18T04:19:44.332Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 296/426 data:295,gas:0,value:0  
-2024-08-18T04:19:44.544Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 297/426 data:296,gas:0,value:0  
-2024-08-18T04:19:44.757Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 298/426 data:297,gas:0,value:0  
-2024-08-18T04:19:44.970Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 299/426 data:298,gas:0,value:0  
-2024-08-18T04:19:45.182Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 300/426 data:299,gas:0,value:0  
-2024-08-18T04:19:45.395Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 301/426 data:300,gas:0,value:0  
-2024-08-18T04:19:45.612Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 302/426 data:301,gas:0,value:0  {"gas_refund":"156550","gas_usage":"626201","state_root":"0x498fc56497f850ac60f9b4942c7c65f00f0fb96cbcc93e580c933b590fe69ed1","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0xab94b9378cc6cfdaa43570323562143ee5d72562e0e78fc451e00b0f1097f6cb"}
-2024-08-18T04:19:45.825Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 303/426 data:302,gas:0,value:0  
-2024-08-18T04:19:46.038Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 304/426 data:303,gas:0,value:0  
-2024-08-18T04:19:46.251Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 305/426 data:304,gas:0,value:0  {"gas_refund":"211029","gas_usage":"844118","state_root":"0x74cc32db81770dafbade1e494078bbde2aedd19917fd54d29f4bf60814a93143","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x2152de655b588f0c94ddeb195355ab0bbc1c004c3cea03342082681b4dbda2d2"}
-2024-08-18T04:19:46.464Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 306/426 data:305,gas:0,value:0  
-2024-08-18T04:19:46.677Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 307/426 data:306,gas:0,value:0  
-2024-08-18T04:19:46.889Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 308/426 data:307,gas:0,value:0  
-2024-08-18T04:19:47.103Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 309/426 data:308,gas:0,value:0  
-2024-08-18T04:19:47.320Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 310/426 data:309,gas:0,value:0  
-2024-08-18T04:19:47.532Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 311/426 data:310,gas:0,value:0  
-2024-08-18T04:19:47.745Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 312/426 data:311,gas:0,value:0  
-2024-08-18T04:19:47.958Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 313/426 data:312,gas:0,value:0  
-2024-08-18T04:19:48.172Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 314/426 data:313,gas:0,value:0  {"gas_refund":"216484","gas_usage":"865940","state_root":"0x1a329edef5371843b07cb9d30b8a1c9ed0455e88db42cb6ac652d2b4ef99966f","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0x663798ee91ec78f6c4d7578f3e473fb193ffa7a7fe50f451a4a09aefdf64ec69"}
-2024-08-18T04:19:48.384Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 315/426 data:314,gas:0,value:0  
-2024-08-18T04:19:48.597Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 316/426 data:315,gas:0,value:0  
-2024-08-18T04:19:49.013Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 317/426 data:316,gas:0,value:0  {"gas_refund":"160317","gas_usage":"641271","state_root":"0x4f5e9c9613f3b354d5727bc894baedcc40b55cb4a6e9b2eab5a4839960440b37","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0xbb3b7477efde52163225705f312fb6470597dc08e8ac25f7a15e4bfa4e9f6a2a"}
-2024-08-18T04:19:49.231Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 318/426 data:317,gas:0,value:0  
-2024-08-18T04:19:49.445Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 319/426 data:318,gas:0,value:0  
-2024-08-18T04:19:49.658Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 320/426 data:319,gas:0,value:0  
-2024-08-18T04:19:49.871Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 321/426 data:320,gas:0,value:0  
-2024-08-18T04:19:50.084Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 322/426 data:321,gas:0,value:0  
-2024-08-18T04:19:50.297Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 323/426 data:322,gas:0,value:0  
-2024-08-18T04:19:50.509Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 324/426 data:323,gas:0,value:0  
-2024-08-18T04:19:50.722Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 325/426 data:324,gas:0,value:0  
-2024-08-18T04:19:50.940Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 326/426 data:325,gas:0,value:0  {"gas_refund":"165773","gas_usage":"663092","state_root":"0x088bb58b34d88e7befa16177f28e1fbe013128cfa78b6ae93b1b02b15696b096","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0xa2b7ef8774415d71c0579be87ce426ea315f0adb7c87473576b6c0c89664676d"}
-2024-08-18T04:19:51.153Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 327/426 data:326,gas:0,value:0  
-2024-08-18T04:19:51.366Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 328/426 data:327,gas:0,value:0  
-2024-08-18T04:19:51.579Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 329/426 data:328,gas:0,value:0  {"gas_refund":"151097","gas_usage":"604391","state_root":"0x687a6b9524db2371554be7239291771be3c327d60d973f5445b7b5c7cf5184c3","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0x82cb7e7bb14a4ddb0fc6425d1b931cd4bacb2d8587a4ac2ee2a5c3bf17bf0d46"}
-2024-08-18T04:19:51.792Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 330/426 data:329,gas:0,value:0  
-2024-08-18T04:19:52.005Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 331/426 data:330,gas:0,value:0  
-2024-08-18T04:19:52.216Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 332/426 data:331,gas:0,value:0  
-2024-08-18T04:19:52.429Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 333/426 data:332,gas:0,value:0  
-2024-08-18T04:19:52.646Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 334/426 data:333,gas:0,value:0  
-2024-08-18T04:19:52.858Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 335/426 data:334,gas:0,value:0  
-2024-08-18T04:19:53.072Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 336/426 data:335,gas:0,value:0  
-2024-08-18T04:19:53.284Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 337/426 data:336,gas:0,value:0  
-2024-08-18T04:19:53.497Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 338/426 data:337,gas:0,value:0  {"gas_refund":"156553","gas_usage":"626212","state_root":"0x4da37e9ae125ac10583956f018fa4ffe5c349b3ccd5fca19ce827ee7cb2775f4","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x59f20bd5a36284f20267a6af6fc8d9f63ca14ba81d806946b1bf267225f991c7"}
-2024-08-18T04:19:53.709Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 339/426 data:338,gas:0,value:0  
-2024-08-18T04:19:53.921Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 340/426 data:339,gas:0,value:0  
-2024-08-18T04:19:54.135Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 341/426 data:340,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x265710073b1e421b8c58add70a5a0cd0bb8a5be4a01f1b9d546b0f731b902845"}
-2024-08-18T04:19:54.352Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 342/426 data:341,gas:0,value:0  
-2024-08-18T04:19:54.565Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 343/426 data:342,gas:0,value:0  
-2024-08-18T04:19:54.777Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 344/426 data:343,gas:0,value:0  
-2024-08-18T04:19:55.192Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 345/426 data:344,gas:0,value:0  
-2024-08-18T04:19:55.405Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 346/426 data:345,gas:0,value:0  
-2024-08-18T04:19:55.618Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 347/426 data:346,gas:0,value:0  
-2024-08-18T04:19:55.831Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 348/426 data:347,gas:0,value:0  
-2024-08-18T04:19:56.043Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 349/426 data:348,gas:0,value:0  
-2024-08-18T04:19:56.261Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 350/426 data:349,gas:0,value:0  {"gas_refund":"156548","gas_usage":"626194","state_root":"0xced1fd5e307f2f1a76337f297b4fcd0e756fe6039907af1558bde3b692fb003c","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0x6806ea643d377cb42aa7e3dd67c280aa9f3bcde5a8c3d88aec423ef69badc374"}
-2024-08-18T04:19:56.474Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 351/426 data:350,gas:0,value:0  
-2024-08-18T04:19:56.687Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 352/426 data:351,gas:0,value:0  {"gas_refund":"211029","gas_usage":"844118","state_root":"0x74cc32db81770dafbade1e494078bbde2aedd19917fd54d29f4bf60814a93143","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0xef9d9eb7e7e15a95288e1e76a9aab41b7146085fe00e64418bb1c81e30aa467e"}
-2024-08-18T04:19:56.899Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 353/426 data:352,gas:0,value:0  {"gas_refund":"270109","gas_usage":"1080438","state_root":"0x772747dc639ea7d8acc411b8f73ee19cfd66101af7c98e7f9a70b7a1dd754582","expected":"0x5a1924357306db4bb70963eacbd412e89363e9181b66d6b499bf08a9daa713d9","hash":"0xcf41c6903659589c4b748917cbda6f30797b87acdc82cd704d175b11a9c37c93"}
-2024-08-18T04:19:57.112Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 354/426 data:353,gas:0,value:0  {"gas_refund":"211031","gas_usage":"844125","state_root":"0x3ef7ad4626979a81f584b25199bbfa5069726f0a13f1fb4f771f31d84609a7ae","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0xd95899b804f1e900db687b4a22b08e9d56b958d2c103ebaad25e1b8987b5566b"}
-2024-08-18T04:19:57.325Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 355/426 data:354,gas:0,value:0  {"gas_refund":"211029","gas_usage":"844118","state_root":"0x74cc32db81770dafbade1e494078bbde2aedd19917fd54d29f4bf60814a93143","expected":"0xa002ef3d6d60dce027a98fb8addf58b9b81d0fea6757e3f7904ce37708a51b41","hash":"0x6c917d3c0311f39c826e54d58a3625d5a10192b03539b6899761800ff6891842"}
-2024-08-18T04:19:57.539Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 356/426 data:355,gas:0,value:0  {"gas_refund":"270529","gas_usage":"1082118","state_root":"0x7e24b75b038e6886ae5f1b3861e9d9ddfdb2b9fa2c3a1749d7a1b9932cfdd9e1","expected":"0x5a1924357306db4bb70963eacbd412e89363e9181b66d6b499bf08a9daa713d9","hash":"0xae0e3e3867687d364d1d8b135374aa3d3766fa38062cc97289f50f5eec5d2864"}
-2024-08-18T04:19:57.751Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 357/426 data:356,gas:0,value:0  {"gas_refund":"211031","gas_usage":"844125","state_root":"0x3ef7ad4626979a81f584b25199bbfa5069726f0a13f1fb4f771f31d84609a7ae","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0x472c1fe9b0e589cf8fb26dffb6284dfc7489cee0ff5da1f98aa5cf4bef8c4db1"}
-2024-08-18T04:19:57.969Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 358/426 data:357,gas:0,value:0  {"gas_refund":"211024","gas_usage":"844100","state_root":"0x805cf09aaf16969507cc3f157a3658db0feee40cff21d50aabfc32b1359b5079","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0x52f113e25eee60b59d35d0f8eb6e8088b8738835d0b333e870f7b4e5240a13a5"}
-2024-08-18T04:19:58.182Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 359/426 data:358,gas:0,value:0  {"gas_refund":"270524","gas_usage":"1082100","state_root":"0xc1d977b1c50a4dcee885f20940102cd4682970cb7c0d55d0eb9f028315ab2579","expected":"0x6cf2ff58a989d85c9b40a2be1ccf96c7131a7a92ba609de0bfd47bbbe4280739","hash":"0x48ccad0004be2d7da7e565d862d035587baa340392b5303a426683b26a547598"}
-2024-08-18T04:19:58.395Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 360/426 data:359,gas:0,value:0  {"gas_refund":"211026","gas_usage":"844107","state_root":"0xc79918a4c903373a6c152b9dcbf0745e84c7ad2126ae4fd8fc626c54e73ac4a6","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0xe66629eda7125fca6c9956813fe35a376e47e20928f40cd31f58881eee3fbeb3"}
-2024-08-18T04:19:58.608Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 361/426 data:360,gas:0,value:0  {"gas_refund":"211024","gas_usage":"844100","state_root":"0x805cf09aaf16969507cc3f157a3658db0feee40cff21d50aabfc32b1359b5079","expected":"0x619c267a18db86ca15628fe7ba885a674ef18a8553c80a76bdca7d222f39ab72","hash":"0xd071b56aaafb7365e59fea40c9254e359f0ca00a0ee68308ccbff5219a111ad5"}
-2024-08-18T04:19:58.821Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 362/426 data:361,gas:0,value:0  {"gas_refund":"270524","gas_usage":"1082100","state_root":"0xc1d977b1c50a4dcee885f20940102cd4682970cb7c0d55d0eb9f028315ab2579","expected":"0x6cf2ff58a989d85c9b40a2be1ccf96c7131a7a92ba609de0bfd47bbbe4280739","hash":"0x9ba6adca9abae6271e58c23f20708735201baa657d55f67c6b8b020f6b3a674a"}
-2024-08-18T04:19:59.034Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 363/426 data:362,gas:0,value:0  {"gas_refund":"211026","gas_usage":"844107","state_root":"0xc79918a4c903373a6c152b9dcbf0745e84c7ad2126ae4fd8fc626c54e73ac4a6","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0xcf631a1be9da7624e713b8672fd1d2ec64d844ee4f37b12d0120dc6d56793d0b"}
-2024-08-18T04:19:59.247Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 364/426 data:363,gas:0,value:0  {"gas_refund":"160317","gas_usage":"641271","state_root":"0x4f5e9c9613f3b354d5727bc894baedcc40b55cb4a6e9b2eab5a4839960440b37","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0x01cafff308eca7b29aaea45f8dbcb848586d9178c5f7914856a07b028900e93e"}
-2024-08-18T04:19:59.459Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 365/426 data:364,gas:0,value:0  {"gas_refund":"219397","gas_usage":"877591","state_root":"0x8652a38dc4c38110d560955a9b3c1bddae3a6b089c3aa44b6e4c309f29cf74f4","expected":"0xd2ed8fc904f594090dea2d85ff5d3e23dc5fd688edc0936e0353ad602617e44b","hash":"0x33644e5cb56577fbb6504562e92e5106e1657a21284712607c06954f28903ebd"}
-2024-08-18T04:19:59.676Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 366/426 data:365,gas:0,value:0  {"gas_refund":"160319","gas_usage":"641278","state_root":"0x4f2f5269403479bc724bfdf3a3a27859f4166e2dc902f1ccd033dbd778292433","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0x62c7bf317d88edac7adc6ee688b88201b5f81845f722ec5226b15e518a0b3612"}
-2024-08-18T04:19:59.889Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 367/426 data:366,gas:0,value:0  {"gas_refund":"160317","gas_usage":"641271","state_root":"0x4f5e9c9613f3b354d5727bc894baedcc40b55cb4a6e9b2eab5a4839960440b37","expected":"0xa22963a887feab8f58aebfd7b6cbc1f4678b9eee6d1f83903214f6440bf00239","hash":"0x0f27876ed79dd25dc572ee02496c21448859319f7b54a0c4e594ee910d8e2eb7"}
-2024-08-18T04:20:00.304Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 368/426 data:367,gas:0,value:0  {"gas_refund":"219817","gas_usage":"879271","state_root":"0xd515d86f91a906fff665bbc5fec7f6be7769345c930f36b7e9141f80394938f4","expected":"0xd2ed8fc904f594090dea2d85ff5d3e23dc5fd688edc0936e0353ad602617e44b","hash":"0x33b123bc415de22aa4d1c41876ce7966db4ed1f6c577d9503f87b2bc7e3c8694"}
-2024-08-18T04:20:00.517Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 369/426 data:368,gas:0,value:0  {"gas_refund":"160319","gas_usage":"641278","state_root":"0x4f2f5269403479bc724bfdf3a3a27859f4166e2dc902f1ccd033dbd778292433","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0x8af92371b34cbcfc70b2f06ea3f7518010aba3dbba328e2bbb382e4d7caeac62"}
-2024-08-18T04:20:00.730Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 370/426 data:369,gas:0,value:0  {"gas_refund":"160313","gas_usage":"641252","state_root":"0x615b405dacee03e9fb059fa5969f1cc3f7af02c7e945a2a12d95b8b8f9d68e1e","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0x93502909bc6b6a04e387f42f12f5799c85d007f7f2c001870d7c0639d4c28fc9"}
-2024-08-18T04:20:00.942Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 371/426 data:370,gas:0,value:0  {"gas_refund":"219813","gas_usage":"879252","state_root":"0x4693dd3a2444eb5cc5032bb2cf11ac1ff608b0db177ca12e660ea47b0357fe8f","expected":"0x87b694afd065b60743453f7bc96f50ac996c993d1e74c19e4a7a8fccf1f7c43f","hash":"0xe390027e77fa4724b0d5ff15a83812fb71f3adf18e0571a455158f075253eb6b"}
-2024-08-18T04:20:01.155Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 372/426 data:371,gas:0,value:0  {"gas_refund":"160314","gas_usage":"641260","state_root":"0x8308faf384c13c6bf3257f8bb89bd0700c74e2fa2b35b099d549d9d6e1c56cf1","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0x291f23cefdbe508f71145687f54e4fbd1b93730220a1d7bfe15621b770346ed6"}
-2024-08-18T04:20:01.368Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 373/426 data:372,gas:0,value:0  {"gas_refund":"160313","gas_usage":"641252","state_root":"0x615b405dacee03e9fb059fa5969f1cc3f7af02c7e945a2a12d95b8b8f9d68e1e","expected":"0xb5bf301113a8435a9a0046a965b4a33ac3fb01a7ea457bc2542c7ac0f128656e","hash":"0x0567af49d5f74e82562834653ec66d99a2d19fa72702511422302b3ea3ddb186"}
-2024-08-18T04:20:01.585Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 374/426 data:373,gas:0,value:0  {"gas_refund":"219813","gas_usage":"879252","state_root":"0x4693dd3a2444eb5cc5032bb2cf11ac1ff608b0db177ca12e660ea47b0357fe8f","expected":"0x87b694afd065b60743453f7bc96f50ac996c993d1e74c19e4a7a8fccf1f7c43f","hash":"0x1caf804e555313e9cef2a7c093472a6d03d187bf5c83e5a68307f1079ea213dd"}
-2024-08-18T04:20:01.799Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 375/426 data:374,gas:0,value:0  {"gas_refund":"160314","gas_usage":"641260","state_root":"0x8308faf384c13c6bf3257f8bb89bd0700c74e2fa2b35b099d549d9d6e1c56cf1","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0xf0ff11d510aba93723b25ca11adf26ba0c070fd95f1dcdb8388043264d0b3cbc"}
-2024-08-18T04:20:02.011Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 376/426 data:375,gas:0,value:0  {"gas_refund":"151097","gas_usage":"604391","state_root":"0x687a6b9524db2371554be7239291771be3c327d60d973f5445b7b5c7cf5184c3","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0xc8ca2f4ae1f7ac9f6797699715141bd8e88444ebdcc2b155abf9b495bddfe352"}
-2024-08-18T04:20:02.224Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 377/426 data:376,gas:0,value:0  {"gas_refund":"210177","gas_usage":"840711","state_root":"0x0ced666e363ae819871164314a049a2b2c13ef16091bc7d6520b90e51d6ee048","expected":"0x0b52082f2e64a890d550f4083fad60fba63fb259c1ad8efea21399900aa971a2","hash":"0x9682ad510f4917438d14e01c449d373cc7dccfc106a913ff28b2d8a1701e574e"}
-2024-08-18T04:20:02.436Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 378/426 data:377,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x9993100f609cda32e5c79b1e24f03d93eb35241b5487a08b51d7789f57302e8f"}
-2024-08-18T04:20:02.648Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 379/426 data:378,gas:0,value:0  {"gas_refund":"151097","gas_usage":"604391","state_root":"0x687a6b9524db2371554be7239291771be3c327d60d973f5445b7b5c7cf5184c3","expected":"0xfdc7d93340645ad49d05a6ddd7f2835cb39290ea7d8f8f22aab97155c21c6289","hash":"0x5a5205560abdebdcfcf5fbd57b330074293e93d83cfa9af18bf67f0ec0313b68"}
-2024-08-18T04:20:02.861Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 380/426 data:379,gas:0,value:0  {"gas_refund":"210597","gas_usage":"842391","state_root":"0xd42375ec9a4be21e7a844daff71d8218417547613cfde75ac353b83c9d6fa3d9","expected":"0x0b52082f2e64a890d550f4083fad60fba63fb259c1ad8efea21399900aa971a2","hash":"0x0093643bf44a9e04b48ae8c5393eb63035812a4242e9cfc9d3bf89791ffb71e3"}
-2024-08-18T04:20:03.074Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 381/426 data:380,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0x740f08db35ebd1beeadff47def8f730bed5c959fc0b5d13edb75292749783e18"}
-2024-08-18T04:20:03.291Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 382/426 data:381,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0xd4e765acb43f95407c137c4d1e5d3f6082e98f5bbe841ccae59ce684b0e2a473"}
-2024-08-18T04:20:03.504Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 383/426 data:382,gas:0,value:0  {"gas_refund":"210593","gas_usage":"842372","state_root":"0x3af2d145d84ca92dc1205f54b3235b9cd2251836dc191e1f012cd814c06f06e3","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0xa33f39128a499b5c88899d30ead02a9b8ec758576d52d80039736302de0ced14"}
-2024-08-18T04:20:03.716Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 384/426 data:383,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xa6375a9be6ff4e129c4e3817a0c64add5254941677dedf43113c3126e771efc1"}
-2024-08-18T04:20:03.929Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 385/426 data:384,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0xb6c0d0eea2747fdb59df90fb0abff3c8f49805bc8cb5aa1613bb0cda2d2b856a"}
-2024-08-18T04:20:04.142Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 386/426 data:385,gas:0,value:0  {"gas_refund":"210593","gas_usage":"842372","state_root":"0x3af2d145d84ca92dc1205f54b3235b9cd2251836dc191e1f012cd814c06f06e3","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0xf4f0ffb496fa280595375f7f46339c342980cc858364bcdcb2c559ab0d7b6448"}
-2024-08-18T04:20:04.354Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 387/426 data:386,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xb718be2224abfe717be56b711e75da06d90a575f46c8334b6d925720dda25a62"}
-2024-08-18T04:20:04.566Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 388/426 data:387,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0xe5c163d330143a335e6e6582d4bc8d324d30c4e243b23c21c6a669e50db77d9a"}
-2024-08-18T04:20:04.981Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 389/426 data:388,gas:0,value:0  {"gas_refund":"210173","gas_usage":"840692","state_root":"0x67bf0342d9f4fd43020b0ab245dd74ce7c4f7a933bc25f4a55a98d66fc3208ea","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0xa2db33a6bc9c7e2d1fae077891f7d91a5beb5a120584865be67dd971cbba1f7c"}
-2024-08-18T04:20:05.208Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 390/426 data:389,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0xdd53e13354904a83e4b9da8f2d9bfe3ad349357ad1d55c3f2375a6585825fd3d"}
-2024-08-18T04:20:05.421Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 391/426 data:390,gas:0,value:0  {"gas_refund":"151093","gas_usage":"604372","state_root":"0x82543f5f785bb39270213c313832fb55927eb2ae8894a4bb42e29b289c18b2a1","expected":"0x2a7a69f707a3248e4a0c3c515246615b2e046981379bb23e3372afaf42c4f561","hash":"0x8ff14ee10312894e470cd5537930265642744929f34fcf9bd77a07b681da1f1e"}
-2024-08-18T04:20:05.635Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 392/426 data:391,gas:0,value:0  {"gas_refund":"210593","gas_usage":"842372","state_root":"0x3af2d145d84ca92dc1205f54b3235b9cd2251836dc191e1f012cd814c06f06e3","expected":"0xfdca7a7e2089026ae94ace88b663c54299deb30537c52336566bea23b47fd502","hash":"0x2cc9e588284599dc3b60782f4021d33e55a99544650c8b5363ca56e1dc68824f"}
-2024-08-18T04:20:05.848Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 393/426 data:392,gas:0,value:0  {"gas_refund":"151094","gas_usage":"604380","state_root":"0xfa07d6df7a46e72a2e032104d738c1b97c2d15b11ede6997d3cce69feecd71fe","expected":"0x848fcb62429928c3dbfddc0971c79d043f27260eeb95a611a0869f787a045852","hash":"0x6c49224531ff3b858f913264741ab5d9eb4a48f9b3e9a2841d0cf967b4eff6a5"}
-2024-08-18T04:20:06.061Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 394/426 data:393,gas:0,value:0  {"gas_refund":"151088","gas_usage":"604354","state_root":"0x93f425691845faa585d0e90cd6588d7b1fa2cff8306200e6ba65eaba5e7f1f17","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0xed9f0df7b7613a199bc682b3ede5624ac169deef407349e79b343c01014e2956"}
-2024-08-18T04:20:06.275Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 395/426 data:394,gas:0,value:0  {"gas_refund":"210588","gas_usage":"842354","state_root":"0x5b10704d43575538562ac00d65793da7f55bb19b880d55e14b62342cb2b60f6b","expected":"0xda0d2fb23cbe78ec0db8382fb1ad1edbe76b82ffd3f67547d19cf91196790984","hash":"0xcbc47b629436cab174329fde6ecb00d030ef2915fde92c7b50270ccf0d95cb30"}
-2024-08-18T04:20:06.487Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 396/426 data:395,gas:0,value:0  {"gas_refund":"151090","gas_usage":"604361","state_root":"0x8e5798312094b87e6125dce2f352cf9be518d5e281b027ebbc0746b9f55a550f","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0x5b5bd605637f704940cbacb8e5e42b0f57d7b65f565ae725c95aeb6eefa605df"}
-2024-08-18T04:20:06.700Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 397/426 data:396,gas:0,value:0  {"gas_refund":"151088","gas_usage":"604354","state_root":"0x93f425691845faa585d0e90cd6588d7b1fa2cff8306200e6ba65eaba5e7f1f17","expected":"0xd9e9969f7989d8c695109949e0fb080a2a5fb1b8be0c4962c6149bcb7035b7d0","hash":"0x7df8292e9bf5479b8da7d1d23bcd2a890eb831520f6060201457bcebc8fa7fb0"}
-2024-08-18T04:20:06.918Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 398/426 data:397,gas:0,value:0  {"gas_refund":"210588","gas_usage":"842354","state_root":"0x5b10704d43575538562ac00d65793da7f55bb19b880d55e14b62342cb2b60f6b","expected":"0xda0d2fb23cbe78ec0db8382fb1ad1edbe76b82ffd3f67547d19cf91196790984","hash":"0xe2f213b86c1ebe9abd035a44acd2cf8f3b3c43c08b3684e8b13219daa4dad7aa"}
-2024-08-18T04:20:07.130Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 399/426 data:398,gas:0,value:0  {"gas_refund":"151090","gas_usage":"604361","state_root":"0x8e5798312094b87e6125dce2f352cf9be518d5e281b027ebbc0746b9f55a550f","expected":"0xdc1c5134654d9a0f4c0778f081d3bea40de6974b61a5470601d6a97f4c492d95","hash":"0xb900d1ddb20175b919192437af909390a13ce9cb862ff3dcff82945c1bc1d27a"}
-2024-08-18T04:20:07.343Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 400/426 data:399,gas:0,value:0  
-2024-08-18T04:20:07.556Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 401/426 data:400,gas:0,value:0  {"gas_refund":"211031","gas_usage":"844125","state_root":"0x3ef7ad4626979a81f584b25199bbfa5069726f0a13f1fb4f771f31d84609a7ae","expected":"0x65bbd0285989e95220141032684a92238fe5ef1da6d8febad67fdf5586157df2","hash":"0x3c3986119fbe36d1d5af532e710fd457f56646aaca2a8f48c05eff85e17f63af"}
-2024-08-18T04:20:07.767Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 402/426 data:401,gas:0,value:0  
-2024-08-18T04:20:07.980Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 403/426 data:402,gas:0,value:0  
-2024-08-18T04:20:08.192Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 404/426 data:403,gas:0,value:0  
-2024-08-18T04:20:08.404Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 405/426 data:404,gas:0,value:0  
-2024-08-18T04:20:08.622Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 406/426 data:405,gas:0,value:0  
-2024-08-18T04:20:08.835Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 407/426 data:406,gas:0,value:0  
-2024-08-18T04:20:09.047Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 408/426 data:407,gas:0,value:0  
-2024-08-18T04:20:09.260Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 409/426 data:408,gas:0,value:0  
-2024-08-18T04:20:09.472Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 410/426 data:409,gas:0,value:0  {"gas_refund":"216486","gas_usage":"865947","state_root":"0x890faa373e9bf985fa9cedd9bd278208fcf3bb75fd4659beb5a3b90ad574aa44","expected":"0x64de38308b6898f6e98f2d1be067aa4b7757c91cb614a01426c5575b014efe2b","hash":"0x0900d53baaf7cdccfe5014fed4b2c5c7ccb1cd96cdf302ffc16b7d9b5855f12b"}
-2024-08-18T04:20:09.684Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 411/426 data:410,gas:0,value:0  
-2024-08-18T04:20:09.896Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 412/426 data:411,gas:0,value:0  
-2024-08-18T04:20:10.109Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 413/426 data:412,gas:0,value:0  {"gas_refund":"160319","gas_usage":"641278","state_root":"0x4f2f5269403479bc724bfdf3a3a27859f4166e2dc902f1ccd033dbd778292433","expected":"0xaf77f37ea0c581f8c29dccd99e86cd5b4d94fc5a52ac1d10140071058b382b4b","hash":"0xf02d86c11dbee17ea63c73804653d64226ee0cd89c2dde8f34961eee291c458f"}
-2024-08-18T04:20:10.326Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 414/426 data:413,gas:0,value:0  
-2024-08-18T04:20:10.539Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 415/426 data:414,gas:0,value:0  
-2024-08-18T04:20:10.752Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 416/426 data:415,gas:0,value:0  
-2024-08-18T04:20:10.964Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 417/426 data:416,gas:0,value:0  
-2024-08-18T04:20:11.175Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 418/426 data:417,gas:0,value:0  
-2024-08-18T04:20:11.388Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 419/426 data:418,gas:0,value:0  
-2024-08-18T04:20:11.600Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 420/426 data:419,gas:0,value:0  
-2024-08-18T04:20:11.813Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 421/426 data:420,gas:0,value:0  
-2024-08-18T04:20:12.028Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 422/426 data:421,gas:0,value:0  {"gas_refund":"165774","gas_usage":"663100","state_root":"0xf4dff7d3d71b4b0efbecc11a731603ff7efd8ca2a13d812344cf8f1d52fb1438","expected":"0xb1fda50bf3a38859cc44584e9e019b1e947afad69dee159934cdca73f8361f7b","hash":"0x64de4e0f87f61906f251d2df85156a2135dd6894e14564c98e65d7091e2195fd"}
-2024-08-18T04:20:12.240Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 423/426 data:422,gas:0,value:0  
-2024-08-18T04:20:12.452Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 424/426 data:423,gas:0,value:0  
-2024-08-18T04:20:12.665Z [FAILED] 4/14,0 sstore_combinations_initial01_Paris 425/426 data:424,gas:0,value:0  {"gas_refund":"151099","gas_usage":"604398","state_root":"0xc9517b90c828c3f40d9235b38a44bfe3824a1a20e0757707e11a9145d78a112b","expected":"0xc060ab2a8940b69a21c21f2c9f5bf01b5e0fc1dce22c2c88f5713dc21c2b0f06","hash":"0xe124fb6d892b160c43be6fad9ed3b7aa5545adb3dfae5bf54416d9468194f0da"}
-2024-08-18T04:20:12.878Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 426/426 data:425,gas:0,value:0  
+2024-08-20T08:33:13.149Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 1/426 data:0,gas:0,value:0  
+2024-08-20T08:33:13.363Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 2/426 data:1,gas:0,value:0  
+2024-08-20T08:33:13.576Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 3/426 data:2,gas:0,value:0  
+2024-08-20T08:33:13.789Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 4/426 data:3,gas:0,value:0  
+2024-08-20T08:33:14.003Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 5/426 data:4,gas:0,value:0  
+2024-08-20T08:33:14.226Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 6/426 data:5,gas:0,value:0  
+2024-08-20T08:33:14.439Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 7/426 data:6,gas:0,value:0  
+2024-08-20T08:33:14.651Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 8/426 data:7,gas:0,value:0  
+2024-08-20T08:33:14.864Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 9/426 data:8,gas:0,value:0  
+2024-08-20T08:33:15.077Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 10/426 data:9,gas:0,value:0  
+2024-08-20T08:33:15.291Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 11/426 data:10,gas:0,value:0  
+2024-08-20T08:33:15.503Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 12/426 data:11,gas:0,value:0  
+2024-08-20T08:33:15.717Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 13/426 data:12,gas:0,value:0  
+2024-08-20T08:33:15.930Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 14/426 data:13,gas:0,value:0  
+2024-08-20T08:33:16.149Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 15/426 data:14,gas:0,value:0  
+2024-08-20T08:33:16.363Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 16/426 data:15,gas:0,value:0  
+2024-08-20T08:33:16.576Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 17/426 data:16,gas:0,value:0  
+2024-08-20T08:33:16.788Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 18/426 data:17,gas:0,value:0  
+2024-08-20T08:33:17.001Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 19/426 data:18,gas:0,value:0  
+2024-08-20T08:33:17.214Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 20/426 data:19,gas:0,value:0  
+2024-08-20T08:33:17.427Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 21/426 data:20,gas:0,value:0  
+2024-08-20T08:33:17.640Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 22/426 data:21,gas:0,value:0  
+2024-08-20T08:33:17.857Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 23/426 data:22,gas:0,value:0  
+2024-08-20T08:33:18.071Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 24/426 data:23,gas:0,value:0  
+2024-08-20T08:33:18.283Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 25/426 data:24,gas:0,value:0  
+2024-08-20T08:33:18.496Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 26/426 data:25,gas:0,value:0  
+2024-08-20T08:33:18.709Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 27/426 data:26,gas:0,value:0  
+2024-08-20T08:33:18.922Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 28/426 data:27,gas:0,value:0  
+2024-08-20T08:33:19.135Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 29/426 data:28,gas:0,value:0  
+2024-08-20T08:33:19.348Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 30/426 data:29,gas:0,value:0  
+2024-08-20T08:33:19.565Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 31/426 data:30,gas:0,value:0  
+2024-08-20T08:33:19.778Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 32/426 data:31,gas:0,value:0  
+2024-08-20T08:33:19.991Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 33/426 data:32,gas:0,value:0  
+2024-08-20T08:33:20.203Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 34/426 data:33,gas:0,value:0  
+2024-08-20T08:33:20.416Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 35/426 data:34,gas:0,value:0  
+2024-08-20T08:33:20.627Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 36/426 data:35,gas:0,value:0  
+2024-08-20T08:33:20.839Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 37/426 data:36,gas:0,value:0  
+2024-08-20T08:33:21.052Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 38/426 data:37,gas:0,value:0  
+2024-08-20T08:33:21.270Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 39/426 data:38,gas:0,value:0  
+2024-08-20T08:33:21.483Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 40/426 data:39,gas:0,value:0  
+2024-08-20T08:33:21.695Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 41/426 data:40,gas:0,value:0  
+2024-08-20T08:33:21.908Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 42/426 data:41,gas:0,value:0  
+2024-08-20T08:33:22.121Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 43/426 data:42,gas:0,value:0  
+2024-08-20T08:33:22.335Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 44/426 data:43,gas:0,value:0  
+2024-08-20T08:33:22.547Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 45/426 data:44,gas:0,value:0  
+2024-08-20T08:33:22.759Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 46/426 data:45,gas:0,value:0  
+2024-08-20T08:33:22.973Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 47/426 data:46,gas:0,value:0  
+2024-08-20T08:33:23.196Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 48/426 data:47,gas:0,value:0  
+2024-08-20T08:33:23.409Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 49/426 data:48,gas:0,value:0  
+2024-08-20T08:33:23.623Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 50/426 data:49,gas:0,value:0  
+2024-08-20T08:33:23.836Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 51/426 data:50,gas:0,value:0  
+2024-08-20T08:33:24.049Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 52/426 data:51,gas:0,value:0  
+2024-08-20T08:33:24.261Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 53/426 data:52,gas:0,value:0  
+2024-08-20T08:33:24.474Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 54/426 data:53,gas:0,value:0  
+2024-08-20T08:33:24.687Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 55/426 data:54,gas:0,value:0  
+2024-08-20T08:33:24.910Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 56/426 data:55,gas:0,value:0  
+2024-08-20T08:33:25.124Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 57/426 data:56,gas:0,value:0  
+2024-08-20T08:33:25.337Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 58/426 data:57,gas:0,value:0  
+2024-08-20T08:33:25.550Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 59/426 data:58,gas:0,value:0  
+2024-08-20T08:33:25.762Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 60/426 data:59,gas:0,value:0  
+2024-08-20T08:33:25.975Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 61/426 data:60,gas:0,value:0  
+2024-08-20T08:33:26.187Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 62/426 data:61,gas:0,value:0  
+2024-08-20T08:33:26.399Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 63/426 data:62,gas:0,value:0  
+2024-08-20T08:33:26.619Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 64/426 data:63,gas:0,value:0  
+2024-08-20T08:33:26.832Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 65/426 data:64,gas:0,value:0  
+2024-08-20T08:33:27.045Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 66/426 data:65,gas:0,value:0  
+2024-08-20T08:33:27.258Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 67/426 data:66,gas:0,value:0  
+2024-08-20T08:33:27.471Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 68/426 data:67,gas:0,value:0  
+2024-08-20T08:33:27.683Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 69/426 data:68,gas:0,value:0  
+2024-08-20T08:33:27.895Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 70/426 data:69,gas:0,value:0  
+2024-08-20T08:33:28.108Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 71/426 data:70,gas:0,value:0  
+2024-08-20T08:33:28.326Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 72/426 data:71,gas:0,value:0  
+2024-08-20T08:33:28.539Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 73/426 data:72,gas:0,value:0  
+2024-08-20T08:33:28.752Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 74/426 data:73,gas:0,value:0  
+2024-08-20T08:33:28.965Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 75/426 data:74,gas:0,value:0  
+2024-08-20T08:33:29.178Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 76/426 data:75,gas:0,value:0  
+2024-08-20T08:33:29.390Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 77/426 data:76,gas:0,value:0  
+2024-08-20T08:33:29.603Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 78/426 data:77,gas:0,value:0  
+2024-08-20T08:33:29.816Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 79/426 data:78,gas:0,value:0  
+2024-08-20T08:33:30.030Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 80/426 data:79,gas:0,value:0  
+2024-08-20T08:33:30.248Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 81/426 data:80,gas:0,value:0  
+2024-08-20T08:33:30.461Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 82/426 data:81,gas:0,value:0  
+2024-08-20T08:33:30.674Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 83/426 data:82,gas:0,value:0  
+2024-08-20T08:33:30.887Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 84/426 data:83,gas:0,value:0  
+2024-08-20T08:33:31.099Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 85/426 data:84,gas:0,value:0  
+2024-08-20T08:33:31.312Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 86/426 data:85,gas:0,value:0  
+2024-08-20T08:33:31.524Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 87/426 data:86,gas:0,value:0  
+2024-08-20T08:33:31.736Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 88/426 data:87,gas:0,value:0  
+2024-08-20T08:33:31.959Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 89/426 data:88,gas:0,value:0  
+2024-08-20T08:33:32.173Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 90/426 data:89,gas:0,value:0  
+2024-08-20T08:33:32.386Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 91/426 data:90,gas:0,value:0  
+2024-08-20T08:33:32.599Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 92/426 data:91,gas:0,value:0  
+2024-08-20T08:33:32.812Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 93/426 data:92,gas:0,value:0  
+2024-08-20T08:33:33.025Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 94/426 data:93,gas:0,value:0  
+2024-08-20T08:33:33.237Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 95/426 data:94,gas:0,value:0  
+2024-08-20T08:33:33.450Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 96/426 data:95,gas:0,value:0  
+2024-08-20T08:33:33.879Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 97/426 data:96,gas:0,value:0  
+2024-08-20T08:33:34.092Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 98/426 data:97,gas:0,value:0  
+2024-08-20T08:33:34.304Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 99/426 data:98,gas:0,value:0  
+2024-08-20T08:33:34.517Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 100/426 data:99,gas:0,value:0  
+2024-08-20T08:33:34.730Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 101/426 data:100,gas:0,value:0  
+2024-08-20T08:33:34.943Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 102/426 data:101,gas:0,value:0  
+2024-08-20T08:33:35.156Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 103/426 data:102,gas:0,value:0  
+2024-08-20T08:33:35.368Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 104/426 data:103,gas:0,value:0  
+2024-08-20T08:33:35.581Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 105/426 data:104,gas:0,value:0  
+2024-08-20T08:33:35.799Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 106/426 data:105,gas:0,value:0  
+2024-08-20T08:33:36.011Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 107/426 data:106,gas:0,value:0  
+2024-08-20T08:33:36.224Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 108/426 data:107,gas:0,value:0  
+2024-08-20T08:33:36.436Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 109/426 data:108,gas:0,value:0  
+2024-08-20T08:33:36.648Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 110/426 data:109,gas:0,value:0  
+2024-08-20T08:33:36.861Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 111/426 data:110,gas:0,value:0  
+2024-08-20T08:33:37.073Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 112/426 data:111,gas:0,value:0  
+2024-08-20T08:33:37.285Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 113/426 data:112,gas:0,value:0  
+2024-08-20T08:33:37.501Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 114/426 data:113,gas:0,value:0  
+2024-08-20T08:33:37.715Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 115/426 data:114,gas:0,value:0  
+2024-08-20T08:33:37.928Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 116/426 data:115,gas:0,value:0  
+2024-08-20T08:33:38.141Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 117/426 data:116,gas:0,value:0  
+2024-08-20T08:33:38.354Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 118/426 data:117,gas:0,value:0  
+2024-08-20T08:33:38.567Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 119/426 data:118,gas:0,value:0  
+2024-08-20T08:33:38.780Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 120/426 data:119,gas:0,value:0  
+2024-08-20T08:33:38.993Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 121/426 data:120,gas:0,value:0  
+2024-08-20T08:33:39.207Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 122/426 data:121,gas:0,value:0  
+2024-08-20T08:33:39.425Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 123/426 data:122,gas:0,value:0  
+2024-08-20T08:33:39.639Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 124/426 data:123,gas:0,value:0  
+2024-08-20T08:33:39.851Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 125/426 data:124,gas:0,value:0  
+2024-08-20T08:33:40.064Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 126/426 data:125,gas:0,value:0  
+2024-08-20T08:33:40.277Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 127/426 data:126,gas:0,value:0  
+2024-08-20T08:33:40.490Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 128/426 data:127,gas:0,value:0  
+2024-08-20T08:33:40.703Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 129/426 data:128,gas:0,value:0  
+2024-08-20T08:33:40.916Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 130/426 data:129,gas:0,value:0  
+2024-08-20T08:33:41.137Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 131/426 data:130,gas:0,value:0  
+2024-08-20T08:33:41.351Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 132/426 data:131,gas:0,value:0  
+2024-08-20T08:33:41.564Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 133/426 data:132,gas:0,value:0  
+2024-08-20T08:33:44.009Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 134/426 data:133,gas:0,value:0  
+2024-08-20T08:33:44.223Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 135/426 data:134,gas:0,value:0  
+2024-08-20T08:33:44.437Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 136/426 data:135,gas:0,value:0  
+2024-08-20T08:33:44.650Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 137/426 data:136,gas:0,value:0  
+2024-08-20T08:33:44.870Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 138/426 data:137,gas:0,value:0  
+2024-08-20T08:33:45.083Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 139/426 data:138,gas:0,value:0  
+2024-08-20T08:33:45.296Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 140/426 data:139,gas:0,value:0  
+2024-08-20T08:33:45.508Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 141/426 data:140,gas:0,value:0  
+2024-08-20T08:33:45.721Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 142/426 data:141,gas:0,value:0  
+2024-08-20T08:33:45.934Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 143/426 data:142,gas:0,value:0  
+2024-08-20T08:33:46.146Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 144/426 data:143,gas:0,value:0  
+2024-08-20T08:33:46.358Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 145/426 data:144,gas:0,value:0  
+2024-08-20T08:33:46.576Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 146/426 data:145,gas:0,value:0  
+2024-08-20T08:33:46.789Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 147/426 data:146,gas:0,value:0  
+2024-08-20T08:33:47.002Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 148/426 data:147,gas:0,value:0  
+2024-08-20T08:33:47.214Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 149/426 data:148,gas:0,value:0  
+2024-08-20T08:33:47.425Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 150/426 data:149,gas:0,value:0  
+2024-08-20T08:33:47.638Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 151/426 data:150,gas:0,value:0  
+2024-08-20T08:33:47.851Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 152/426 data:151,gas:0,value:0  
+2024-08-20T08:33:48.064Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 153/426 data:152,gas:0,value:0  
+2024-08-20T08:33:48.281Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 154/426 data:153,gas:0,value:0  
+2024-08-20T08:33:48.495Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 155/426 data:154,gas:0,value:0  
+2024-08-20T08:33:48.708Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 156/426 data:155,gas:0,value:0  
+2024-08-20T08:33:48.921Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 157/426 data:156,gas:0,value:0  
+2024-08-20T08:33:49.133Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 158/426 data:157,gas:0,value:0  
+2024-08-20T08:33:49.345Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 159/426 data:158,gas:0,value:0  
+2024-08-20T08:33:49.558Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 160/426 data:159,gas:0,value:0  
+2024-08-20T08:33:49.770Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 161/426 data:160,gas:0,value:0  
+2024-08-20T08:33:49.988Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 162/426 data:161,gas:0,value:0  
+2024-08-20T08:33:50.201Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 163/426 data:162,gas:0,value:0  
+2024-08-20T08:33:50.414Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 164/426 data:163,gas:0,value:0  
+2024-08-20T08:33:50.627Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 165/426 data:164,gas:0,value:0  
+2024-08-20T08:33:50.839Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 166/426 data:165,gas:0,value:0  
+2024-08-20T08:33:51.051Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 167/426 data:166,gas:0,value:0  
+2024-08-20T08:33:51.264Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 168/426 data:167,gas:0,value:0  
+2024-08-20T08:33:51.477Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 169/426 data:168,gas:0,value:0  
+2024-08-20T08:33:51.694Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 170/426 data:169,gas:0,value:0  
+2024-08-20T08:33:51.907Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 171/426 data:170,gas:0,value:0  
+2024-08-20T08:33:52.118Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 172/426 data:171,gas:0,value:0  
+2024-08-20T08:33:52.331Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 173/426 data:172,gas:0,value:0  
+2024-08-20T08:33:52.544Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 174/426 data:173,gas:0,value:0  
+2024-08-20T08:33:52.756Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 175/426 data:174,gas:0,value:0  
+2024-08-20T08:33:52.968Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 176/426 data:175,gas:0,value:0  
+2024-08-20T08:33:53.180Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 177/426 data:176,gas:0,value:0  
+2024-08-20T08:33:53.397Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 178/426 data:177,gas:0,value:0  
+2024-08-20T08:33:53.610Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 179/426 data:178,gas:0,value:0  
+2024-08-20T08:33:53.822Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 180/426 data:179,gas:0,value:0  
+2024-08-20T08:33:54.035Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 181/426 data:180,gas:0,value:0  
+2024-08-20T08:33:54.248Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 182/426 data:181,gas:0,value:0  
+2024-08-20T08:33:54.460Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 183/426 data:182,gas:0,value:0  
+2024-08-20T08:33:54.674Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 184/426 data:183,gas:0,value:0  
+2024-08-20T08:33:54.886Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 185/426 data:184,gas:0,value:0  
+2024-08-20T08:33:55.111Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 186/426 data:185,gas:0,value:0  
+2024-08-20T08:33:55.323Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 187/426 data:186,gas:0,value:0  
+2024-08-20T08:33:55.536Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 188/426 data:187,gas:0,value:0  
+2024-08-20T08:33:55.749Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 189/426 data:188,gas:0,value:0  
+2024-08-20T08:33:55.962Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 190/426 data:189,gas:0,value:0  
+2024-08-20T08:33:56.174Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 191/426 data:190,gas:0,value:0  
+2024-08-20T08:33:56.386Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 192/426 data:191,gas:0,value:0  
+2024-08-20T08:33:56.598Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 193/426 data:192,gas:0,value:0  
+2024-08-20T08:33:56.811Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 194/426 data:193,gas:0,value:0  
+2024-08-20T08:33:57.028Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 195/426 data:194,gas:0,value:0  
+2024-08-20T08:33:57.241Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 196/426 data:195,gas:0,value:0  
+2024-08-20T08:33:57.454Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 197/426 data:196,gas:0,value:0  
+2024-08-20T08:33:57.666Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 198/426 data:197,gas:0,value:0  
+2024-08-20T08:33:57.878Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 199/426 data:198,gas:0,value:0  
+2024-08-20T08:33:58.091Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 200/426 data:199,gas:0,value:0  
+2024-08-20T08:33:58.302Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 201/426 data:200,gas:0,value:0  
+2024-08-20T08:33:58.515Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 202/426 data:201,gas:0,value:0  
+2024-08-20T08:33:58.731Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 203/426 data:202,gas:0,value:0  
+2024-08-20T08:33:58.944Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 204/426 data:203,gas:0,value:0  
+2024-08-20T08:33:59.156Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 205/426 data:204,gas:0,value:0  
+2024-08-20T08:33:59.368Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 206/426 data:205,gas:0,value:0  
+2024-08-20T08:33:59.580Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 207/426 data:206,gas:0,value:0  
+2024-08-20T08:33:59.792Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 208/426 data:207,gas:0,value:0  
+2024-08-20T08:34:00.005Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 209/426 data:208,gas:0,value:0  
+2024-08-20T08:34:00.217Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 210/426 data:209,gas:0,value:0  
+2024-08-20T08:34:00.434Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 211/426 data:210,gas:0,value:0  
+2024-08-20T08:34:00.647Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 212/426 data:211,gas:0,value:0  
+2024-08-20T08:34:00.859Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 213/426 data:212,gas:0,value:0  
+2024-08-20T08:34:01.071Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 214/426 data:213,gas:0,value:0  
+2024-08-20T08:34:01.283Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 215/426 data:214,gas:0,value:0  
+2024-08-20T08:34:01.495Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 216/426 data:215,gas:0,value:0  
+2024-08-20T08:34:01.708Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 217/426 data:216,gas:0,value:0  
+2024-08-20T08:34:01.921Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 218/426 data:217,gas:0,value:0  
+2024-08-20T08:34:02.136Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 219/426 data:218,gas:0,value:0  
+2024-08-20T08:34:02.349Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 220/426 data:219,gas:0,value:0  
+2024-08-20T08:34:02.562Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 221/426 data:220,gas:0,value:0  
+2024-08-20T08:34:02.775Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 222/426 data:221,gas:0,value:0  
+2024-08-20T08:34:02.987Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 223/426 data:222,gas:0,value:0  
+2024-08-20T08:34:03.200Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 224/426 data:223,gas:0,value:0  
+2024-08-20T08:34:03.412Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 225/426 data:224,gas:0,value:0  
+2024-08-20T08:34:03.625Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 226/426 data:225,gas:0,value:0  
+2024-08-20T08:34:03.842Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 227/426 data:226,gas:0,value:0  
+2024-08-20T08:34:04.054Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 228/426 data:227,gas:0,value:0  
+2024-08-20T08:34:04.267Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 229/426 data:228,gas:0,value:0  
+2024-08-20T08:34:04.480Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 230/426 data:229,gas:0,value:0  
+2024-08-20T08:34:04.693Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 231/426 data:230,gas:0,value:0  
+2024-08-20T08:34:04.905Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 232/426 data:231,gas:0,value:0  
+2024-08-20T08:34:05.117Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 233/426 data:232,gas:0,value:0  
+2024-08-20T08:34:05.330Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 234/426 data:233,gas:0,value:0  
+2024-08-20T08:34:05.548Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 235/426 data:234,gas:0,value:0  
+2024-08-20T08:34:05.761Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 236/426 data:235,gas:0,value:0  
+2024-08-20T08:34:05.973Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 237/426 data:236,gas:0,value:0  
+2024-08-20T08:34:06.185Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 238/426 data:237,gas:0,value:0  
+2024-08-20T08:34:06.397Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 239/426 data:238,gas:0,value:0  
+2024-08-20T08:34:06.609Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 240/426 data:239,gas:0,value:0  
+2024-08-20T08:34:06.822Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 241/426 data:240,gas:0,value:0  
+2024-08-20T08:34:07.034Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 242/426 data:241,gas:0,value:0  
+2024-08-20T08:34:07.252Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 243/426 data:242,gas:0,value:0  
+2024-08-20T08:34:07.465Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 244/426 data:243,gas:0,value:0  
+2024-08-20T08:34:07.678Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 245/426 data:244,gas:0,value:0  
+2024-08-20T08:34:07.890Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 246/426 data:245,gas:0,value:0  
+2024-08-20T08:34:08.103Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 247/426 data:246,gas:0,value:0  
+2024-08-20T08:34:08.315Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 248/426 data:247,gas:0,value:0  
+2024-08-20T08:34:08.528Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 249/426 data:248,gas:0,value:0  
+2024-08-20T08:34:08.740Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 250/426 data:249,gas:0,value:0  
+2024-08-20T08:34:08.957Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 251/426 data:250,gas:0,value:0  
+2024-08-20T08:34:09.170Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 252/426 data:251,gas:0,value:0  
+2024-08-20T08:34:09.383Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 253/426 data:252,gas:0,value:0  
+2024-08-20T08:34:09.594Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 254/426 data:253,gas:0,value:0  
+2024-08-20T08:34:09.807Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 255/426 data:254,gas:0,value:0  
+2024-08-20T08:34:10.019Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 256/426 data:255,gas:0,value:0  
+2024-08-20T08:34:10.231Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 257/426 data:256,gas:0,value:0  
+2024-08-20T08:34:10.444Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 258/426 data:257,gas:0,value:0  
+2024-08-20T08:34:10.661Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 259/426 data:258,gas:0,value:0  
+2024-08-20T08:34:10.874Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 260/426 data:259,gas:0,value:0  
+2024-08-20T08:34:11.087Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 261/426 data:260,gas:0,value:0  
+2024-08-20T08:34:11.299Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 262/426 data:261,gas:0,value:0  
+2024-08-20T08:34:11.713Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 263/426 data:262,gas:0,value:0  
+2024-08-20T08:34:11.926Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 264/426 data:263,gas:0,value:0  
+2024-08-20T08:34:12.139Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 265/426 data:264,gas:0,value:0  
+2024-08-20T08:34:12.351Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 266/426 data:265,gas:0,value:0  
+2024-08-20T08:34:12.567Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 267/426 data:266,gas:0,value:0  
+2024-08-20T08:34:12.780Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 268/426 data:267,gas:0,value:0  
+2024-08-20T08:34:12.992Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 269/426 data:268,gas:0,value:0  
+2024-08-20T08:34:13.204Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 270/426 data:269,gas:0,value:0  
+2024-08-20T08:34:13.416Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 271/426 data:270,gas:0,value:0  
+2024-08-20T08:34:13.628Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 272/426 data:271,gas:0,value:0  
+2024-08-20T08:34:13.840Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 273/426 data:272,gas:0,value:0  
+2024-08-20T08:34:14.052Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 274/426 data:273,gas:0,value:0  
+2024-08-20T08:34:14.276Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 275/426 data:274,gas:0,value:0  
+2024-08-20T08:34:14.489Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 276/426 data:275,gas:0,value:0  
+2024-08-20T08:34:14.702Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 277/426 data:276,gas:0,value:0  
+2024-08-20T08:34:14.914Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 278/426 data:277,gas:0,value:0  
+2024-08-20T08:34:15.127Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 279/426 data:278,gas:0,value:0  
+2024-08-20T08:34:15.340Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 280/426 data:279,gas:0,value:0  
+2024-08-20T08:34:15.553Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 281/426 data:280,gas:0,value:0  
+2024-08-20T08:34:15.765Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 282/426 data:281,gas:0,value:0  
+2024-08-20T08:34:15.977Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 283/426 data:282,gas:0,value:0  
+2024-08-20T08:34:16.196Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 284/426 data:283,gas:0,value:0  
+2024-08-20T08:34:16.409Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 285/426 data:284,gas:0,value:0  
+2024-08-20T08:34:16.621Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 286/426 data:285,gas:0,value:0  
+2024-08-20T08:34:16.834Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 287/426 data:286,gas:0,value:0  
+2024-08-20T08:34:17.047Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 288/426 data:287,gas:0,value:0  
+2024-08-20T08:34:17.259Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 289/426 data:288,gas:0,value:0  
+2024-08-20T08:34:17.472Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 290/426 data:289,gas:0,value:0  
+2024-08-20T08:34:17.685Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 291/426 data:290,gas:0,value:0  
+2024-08-20T08:34:17.900Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 292/426 data:291,gas:0,value:0  
+2024-08-20T08:34:18.113Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 293/426 data:292,gas:0,value:0  
+2024-08-20T08:34:18.325Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 294/426 data:293,gas:0,value:0  
+2024-08-20T08:34:18.538Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 295/426 data:294,gas:0,value:0  
+2024-08-20T08:34:18.751Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 296/426 data:295,gas:0,value:0  
+2024-08-20T08:34:18.963Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 297/426 data:296,gas:0,value:0  
+2024-08-20T08:34:19.175Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 298/426 data:297,gas:0,value:0  
+2024-08-20T08:34:19.388Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 299/426 data:298,gas:0,value:0  
+2024-08-20T08:34:19.605Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 300/426 data:299,gas:0,value:0  
+2024-08-20T08:34:19.818Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 301/426 data:300,gas:0,value:0  
+2024-08-20T08:34:20.031Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 302/426 data:301,gas:0,value:0  
+2024-08-20T08:34:20.243Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 303/426 data:302,gas:0,value:0  
+2024-08-20T08:34:20.455Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 304/426 data:303,gas:0,value:0  
+2024-08-20T08:34:20.667Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 305/426 data:304,gas:0,value:0  
+2024-08-20T08:34:20.879Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 306/426 data:305,gas:0,value:0  
+2024-08-20T08:34:21.091Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 307/426 data:306,gas:0,value:0  
+2024-08-20T08:34:21.308Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 308/426 data:307,gas:0,value:0  
+2024-08-20T08:34:21.521Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 309/426 data:308,gas:0,value:0  
+2024-08-20T08:34:21.733Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 310/426 data:309,gas:0,value:0  
+2024-08-20T08:34:21.945Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 311/426 data:310,gas:0,value:0  
+2024-08-20T08:34:22.157Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 312/426 data:311,gas:0,value:0  
+2024-08-20T08:34:22.370Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 313/426 data:312,gas:0,value:0  
+2024-08-20T08:34:22.583Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 314/426 data:313,gas:0,value:0  
+2024-08-20T08:34:22.795Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 315/426 data:314,gas:0,value:0  
+2024-08-20T08:34:23.011Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 316/426 data:315,gas:0,value:0  
+2024-08-20T08:34:23.224Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 317/426 data:316,gas:0,value:0  
+2024-08-20T08:34:23.436Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 318/426 data:317,gas:0,value:0  
+2024-08-20T08:34:23.648Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 319/426 data:318,gas:0,value:0  
+2024-08-20T08:34:23.860Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 320/426 data:319,gas:0,value:0  
+2024-08-20T08:34:24.073Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 321/426 data:320,gas:0,value:0  
+2024-08-20T08:34:24.285Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 322/426 data:321,gas:0,value:0  
+2024-08-20T08:34:24.497Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 323/426 data:322,gas:0,value:0  
+2024-08-20T08:34:24.714Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 324/426 data:323,gas:0,value:0  
+2024-08-20T08:34:24.926Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 325/426 data:324,gas:0,value:0  
+2024-08-20T08:34:25.139Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 326/426 data:325,gas:0,value:0  
+2024-08-20T08:34:25.351Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 327/426 data:326,gas:0,value:0  
+2024-08-20T08:34:25.563Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 328/426 data:327,gas:0,value:0  
+2024-08-20T08:34:25.775Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 329/426 data:328,gas:0,value:0  
+2024-08-20T08:34:25.988Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 330/426 data:329,gas:0,value:0  
+2024-08-20T08:34:26.402Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 331/426 data:330,gas:0,value:0  
+2024-08-20T08:34:26.619Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 332/426 data:331,gas:0,value:0  
+2024-08-20T08:34:26.833Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 333/426 data:332,gas:0,value:0  
+2024-08-20T08:34:27.045Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 334/426 data:333,gas:0,value:0  
+2024-08-20T08:34:27.259Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 335/426 data:334,gas:0,value:0  
+2024-08-20T08:34:27.471Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 336/426 data:335,gas:0,value:0  
+2024-08-20T08:34:27.684Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 337/426 data:336,gas:0,value:0  
+2024-08-20T08:34:27.897Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 338/426 data:337,gas:0,value:0  
+2024-08-20T08:34:28.110Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 339/426 data:338,gas:0,value:0  
+2024-08-20T08:34:28.328Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 340/426 data:339,gas:0,value:0  
+2024-08-20T08:34:28.542Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 341/426 data:340,gas:0,value:0  
+2024-08-20T08:34:28.754Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 342/426 data:341,gas:0,value:0  
+2024-08-20T08:34:28.967Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 343/426 data:342,gas:0,value:0  
+2024-08-20T08:34:29.179Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 344/426 data:343,gas:0,value:0  
+2024-08-20T08:34:29.392Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 345/426 data:344,gas:0,value:0  
+2024-08-20T08:34:29.605Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 346/426 data:345,gas:0,value:0  
+2024-08-20T08:34:29.817Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 347/426 data:346,gas:0,value:0  
+2024-08-20T08:34:30.035Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 348/426 data:347,gas:0,value:0  
+2024-08-20T08:34:30.248Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 349/426 data:348,gas:0,value:0  
+2024-08-20T08:34:30.461Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 350/426 data:349,gas:0,value:0  
+2024-08-20T08:34:30.674Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 351/426 data:350,gas:0,value:0  
+2024-08-20T08:34:30.886Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 352/426 data:351,gas:0,value:0  
+2024-08-20T08:34:31.099Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 353/426 data:352,gas:0,value:0  
+2024-08-20T08:34:31.310Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 354/426 data:353,gas:0,value:0  
+2024-08-20T08:34:31.522Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 355/426 data:354,gas:0,value:0  
+2024-08-20T08:34:31.738Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 356/426 data:355,gas:0,value:0  
+2024-08-20T08:34:31.951Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 357/426 data:356,gas:0,value:0  
+2024-08-20T08:34:32.163Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 358/426 data:357,gas:0,value:0  
+2024-08-20T08:34:32.375Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 359/426 data:358,gas:0,value:0  
+2024-08-20T08:34:32.587Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 360/426 data:359,gas:0,value:0  
+2024-08-20T08:34:32.799Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 361/426 data:360,gas:0,value:0  
+2024-08-20T08:34:33.012Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 362/426 data:361,gas:0,value:0  
+2024-08-20T08:34:33.224Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 363/426 data:362,gas:0,value:0  
+2024-08-20T08:34:33.448Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 364/426 data:363,gas:0,value:0  
+2024-08-20T08:34:33.661Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 365/426 data:364,gas:0,value:0  
+2024-08-20T08:34:33.873Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 366/426 data:365,gas:0,value:0  
+2024-08-20T08:34:34.085Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 367/426 data:366,gas:0,value:0  
+2024-08-20T08:34:34.298Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 368/426 data:367,gas:0,value:0  
+2024-08-20T08:34:34.510Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 369/426 data:368,gas:0,value:0  
+2024-08-20T08:34:34.722Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 370/426 data:369,gas:0,value:0  
+2024-08-20T08:34:34.935Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 371/426 data:370,gas:0,value:0  
+2024-08-20T08:34:35.147Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 372/426 data:371,gas:0,value:0  
+2024-08-20T08:34:35.365Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 373/426 data:372,gas:0,value:0  
+2024-08-20T08:34:35.577Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 374/426 data:373,gas:0,value:0  
+2024-08-20T08:34:35.789Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 375/426 data:374,gas:0,value:0  
+2024-08-20T08:34:36.001Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 376/426 data:375,gas:0,value:0  
+2024-08-20T08:34:36.212Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 377/426 data:376,gas:0,value:0  
+2024-08-20T08:34:36.425Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 378/426 data:377,gas:0,value:0  
+2024-08-20T08:34:36.638Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 379/426 data:378,gas:0,value:0  
+2024-08-20T08:34:37.054Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 380/426 data:379,gas:0,value:0  
+2024-08-20T08:34:37.273Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 381/426 data:380,gas:0,value:0  
+2024-08-20T08:34:37.486Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 382/426 data:381,gas:0,value:0  
+2024-08-20T08:34:37.700Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 383/426 data:382,gas:0,value:0  
+2024-08-20T08:34:37.913Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 384/426 data:383,gas:0,value:0  
+2024-08-20T08:34:38.125Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 385/426 data:384,gas:0,value:0  
+2024-08-20T08:34:38.338Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 386/426 data:385,gas:0,value:0  
+2024-08-20T08:34:38.550Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 387/426 data:386,gas:0,value:0  
+2024-08-20T08:34:38.763Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 388/426 data:387,gas:0,value:0  
+2024-08-20T08:34:38.980Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 389/426 data:388,gas:0,value:0  
+2024-08-20T08:34:39.193Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 390/426 data:389,gas:0,value:0  
+2024-08-20T08:34:39.405Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 391/426 data:390,gas:0,value:0  
+2024-08-20T08:34:39.616Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 392/426 data:391,gas:0,value:0  
+2024-08-20T08:34:39.828Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 393/426 data:392,gas:0,value:0  
+2024-08-20T08:34:40.040Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 394/426 data:393,gas:0,value:0  
+2024-08-20T08:34:40.252Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 395/426 data:394,gas:0,value:0  
+2024-08-20T08:34:40.464Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 396/426 data:395,gas:0,value:0  
+2024-08-20T08:34:40.681Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 397/426 data:396,gas:0,value:0  
+2024-08-20T08:34:40.893Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 398/426 data:397,gas:0,value:0  
+2024-08-20T08:34:41.105Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 399/426 data:398,gas:0,value:0  
+2024-08-20T08:34:41.317Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 400/426 data:399,gas:0,value:0  
+2024-08-20T08:34:41.529Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 401/426 data:400,gas:0,value:0  
+2024-08-20T08:34:41.741Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 402/426 data:401,gas:0,value:0  
+2024-08-20T08:34:41.953Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 403/426 data:402,gas:0,value:0  
+2024-08-20T08:34:44.395Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 404/426 data:403,gas:0,value:0  
+2024-08-20T08:34:44.620Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 405/426 data:404,gas:0,value:0  
+2024-08-20T08:34:44.835Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 406/426 data:405,gas:0,value:0  
+2024-08-20T08:34:45.047Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 407/426 data:406,gas:0,value:0  
+2024-08-20T08:34:45.260Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 408/426 data:407,gas:0,value:0  
+2024-08-20T08:34:45.473Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 409/426 data:408,gas:0,value:0  
+2024-08-20T08:34:45.686Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 410/426 data:409,gas:0,value:0  
+2024-08-20T08:34:45.898Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 411/426 data:410,gas:0,value:0  
+2024-08-20T08:34:46.116Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 412/426 data:411,gas:0,value:0  
+2024-08-20T08:34:46.328Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 413/426 data:412,gas:0,value:0  
+2024-08-20T08:34:46.540Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 414/426 data:413,gas:0,value:0  
+2024-08-20T08:34:46.752Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 415/426 data:414,gas:0,value:0  
+2024-08-20T08:34:46.964Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 416/426 data:415,gas:0,value:0  
+2024-08-20T08:34:47.176Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 417/426 data:416,gas:0,value:0  
+2024-08-20T08:34:47.590Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 418/426 data:417,gas:0,value:0  
+2024-08-20T08:34:47.803Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 419/426 data:418,gas:0,value:0  
+2024-08-20T08:34:48.021Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 420/426 data:419,gas:0,value:0  
+2024-08-20T08:34:48.234Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 421/426 data:420,gas:0,value:0  
+2024-08-20T08:34:48.447Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 422/426 data:421,gas:0,value:0  
+2024-08-20T08:34:48.659Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 423/426 data:422,gas:0,value:0  
+2024-08-20T08:34:48.871Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 424/426 data:423,gas:0,value:0  
+2024-08-20T08:34:49.084Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 425/426 data:424,gas:0,value:0  
+2024-08-20T08:34:49.296Z [PASSED] 4/14,0 sstore_combinations_initial01_Paris 426/426 data:425,gas:0,value:0  

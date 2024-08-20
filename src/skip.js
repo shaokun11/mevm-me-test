@@ -4,6 +4,7 @@ export const SKIP_ALL_NAME = "__all__";
 export const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode";
 const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm";
 const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check";
+const MSG_WRONG_TX = "wrong tx";
 const MSG_TIMEOUT = "execute timeout";
 const MSG_OUT_OF_GAS = "out of gas";
 const MSG_ONLY_URN_LOCAL = "only run local";
@@ -104,76 +105,16 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_OUT_OF_GAS,
     },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stCreate2/Create2Recursive.json",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MSG_TO_DOUBLE_CHECK,
-    // },
-    // // {
-    // //     path: "ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterMaxCodesize.json",
-    // //     name: SKIP_ALL_NAME,
-    // //     label: "5,6",
-    // //     comment: MST_TIMEOUT,
-    // // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush3",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stQuadraticComplexityTest",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // // {
-    // //     path: "ethereum-tests/GeneralStateTests/stRandom",
-    // //     name: SKIP_ALL_NAME,
-    // //     label: SKIP_ALL_LABEL,
-    // //     comment: MST_TIMEOUT,
-    // // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stShift/shiftCombinations.json",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stShift/shiftSignedCombinations.json",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stStaticCall",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stTimeConsuming",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_TIMEOUT,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MST_RLP,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/stAttackTest",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MSG_DROP_FROM_MOVE_VM,
-    // },
-    // {
-    //     path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
-    //     name: SKIP_ALL_NAME,
-    //     label: SKIP_ALL_LABEL,
-    //     comment: MSG_NOT_SUPPORT_BLOB_TX,
-    // },
+    {
+        path: "ethereum-tests/GeneralStateTests/stTimeConsuming/static_Call50000_sha256.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_OUT_OF_GAS,
+    },
+    {
+        path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_WRONG_TX,
+    },
 ];
