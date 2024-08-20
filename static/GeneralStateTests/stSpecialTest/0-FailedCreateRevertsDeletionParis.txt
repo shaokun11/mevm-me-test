@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSpecialTest/FailedCreateRevertsDeletionParis.json
-2024-08-18T03:40:08.775Z [FAILED] 0/15,0 FailedCreateRevertsDeletionParis 1/1 data:0,gas:0,value:0  {"gas_refund":"0","gas_usage":"42949672960","state_root":"0x9648b05cc2eef5513ae2edfe16bfcedb3d1c60ffb5dff3fc501bd3e4ae39f536","expected":"0x3e518e0ca76504209a2a44b6c11af9537e7872c4005ce49b633ee0f1d845049f","hash":"0x9fd261329e0a6af685b19c07c0532df54f50c226b5277087bb06f2813c3d01a0"}
+2024-08-20T04:22:05.129Z [PASSED] 0/15,0 FailedCreateRevertsDeletionParis 1/1 data:0,gas:0,value:0  
