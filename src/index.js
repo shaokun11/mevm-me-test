@@ -5,16 +5,12 @@ import parse from "minimist";
 const args = parse(process.argv.slice(2));
 let testDir = "ethereum-tests/GeneralStateTests/";
 
-if (args.index !== 0) {
-    // not set index, default to 1
-    const dir = SUPPORT_DIR[args.index || 1];
-    if (!dir) {
-        throw new Error(
-            "index must be range from 1 to " + Object.keys(SUPPORT_DIR).length + " or 0 for all tests"
-        );
-    }
-    testDir = testDir + SUPPORT_DIR[args.index || 1] + "/";
+// not set index, default to 1
+const dir = SUPPORT_DIR[args.index || 1];
+if (!dir) {
+    throw new Error("index must be range from 1 to " + Object.keys(SUPPORT_DIR).length);
 }
+testDir = testDir + SUPPORT_DIR[args.index || 1] + "/";
 
 async function listFiles() {
     const pattern = `${testDir}**/*.json`;
@@ -28,7 +24,7 @@ async function listFiles() {
 const files = await listFiles();
 files.sort();
 
-for (let i = 7; i < files.length; i++) {
+for (let i = 8; i < files.length; i++) {
     await runTask({
         index: i,
         source: files[i],

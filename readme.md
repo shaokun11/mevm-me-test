@@ -27,7 +27,7 @@ npm i
 cp .env.example .env
 
 # for all
-node src/index.js --index 0 | tap-spec
+./run.sh
 
 # for special test
 
