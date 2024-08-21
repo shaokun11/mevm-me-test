@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_SUICIDE_ToEmpty_OOGRevert_Paris.json
-2024-08-20T10:36:56.866Z [SKIP] 13/16,0 ZeroValue_SUICIDE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T02:33:06.940Z [SKIP] 13/16,0 ZeroValue_SUICIDE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

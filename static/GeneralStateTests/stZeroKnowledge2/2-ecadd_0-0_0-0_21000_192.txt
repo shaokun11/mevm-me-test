@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge2/ecadd_0-0_0-0_21000_192.json
-2024-08-20T10:40:38.191Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 1/4 data:0,gas:0,value:0  
-2024-08-20T10:40:38.406Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 2/4 data:0,gas:1,value:0  
-2024-08-20T10:40:38.621Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 3/4 data:0,gas:2,value:0  
-2024-08-20T10:40:38.836Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 4/4 data:0,gas:3,value:0  
+2024-08-21T02:36:51.863Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 1/4 data:0,gas:0,value:0  
+2024-08-21T02:36:52.079Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 2/4 data:0,gas:1,value:0  
+2024-08-21T02:36:52.294Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 3/4 data:0,gas:2,value:0  
+2024-08-21T02:36:52.510Z [PASSED] 2/130,0 ecadd_0-0_0-0_21000_192 4/4 data:0,gas:3,value:0  

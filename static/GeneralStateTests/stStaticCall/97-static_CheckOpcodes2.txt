@@ -1,11 +1,11 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes2.json
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 1/10 data:0,gas:0,value:0  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 2/10 data:0,gas:0,value:1  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 3/10 data:2,gas:0,value:0  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 4/10 data:2,gas:0,value:1  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 5/10 data:3,gas:0,value:0  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 6/10 data:3,gas:0,value:1  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 7/10 data:4,gas:0,value:0  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 8/10 data:4,gas:0,value:1  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 9/10 data:1,gas:0,value:0  out of gas
-2024-08-20T10:13:46.813Z [SKIP] 97/286,0 static_CheckOpcodes2 10/10 data:1,gas:0,value:1  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 1/10 data:0,gas:0,value:0  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 2/10 data:0,gas:0,value:1  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 3/10 data:2,gas:0,value:0  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 4/10 data:2,gas:0,value:1  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 5/10 data:3,gas:0,value:0  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 6/10 data:3,gas:0,value:1  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 7/10 data:4,gas:0,value:0  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 8/10 data:4,gas:0,value:1  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 9/10 data:1,gas:0,value:0  out of gas
+2024-08-21T02:09:56.230Z [SKIP] 97/286,0 static_CheckOpcodes2 10/10 data:1,gas:0,value:1  out of gas

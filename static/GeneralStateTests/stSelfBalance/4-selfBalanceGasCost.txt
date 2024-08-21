@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSelfBalance/selfBalanceGasCost.json
-2024-08-20T10:11:42.232Z [PASSED] 4/6,0 selfBalanceGasCost 1/1 data:0,gas:0,value:0  
+2024-08-21T02:07:50.542Z [PASSED] 4/6,0 selfBalanceGasCost 1/1 data:0,gas:0,value:0  

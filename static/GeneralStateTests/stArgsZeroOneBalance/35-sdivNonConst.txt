@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/sdivNonConst.json
-2024-08-20T09:25:19.855Z [PASSED] 35/46,0 sdivNonConst 1/2 data:0,gas:0,value:0  
-2024-08-20T09:25:20.069Z [PASSED] 35/46,0 sdivNonConst 2/2 data:0,gas:0,value:1  
+2024-08-21T01:21:25.487Z [PASSED] 35/46,0 sdivNonConst 1/2 data:0,gas:0,value:0  
+2024-08-21T01:21:25.700Z [PASSED] 35/46,0 sdivNonConst 2/2 data:0,gas:0,value:1  

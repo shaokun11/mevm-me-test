@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callToCallCodeOpCodeCheck.json
-2024-08-20T10:13:46.836Z [SKIP] 131/286,0 static_callToCallCodeOpCodeCheck 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T02:09:56.249Z [SKIP] 131/286,0 static_callToCallCodeOpCodeCheck 1/1 data:0,gas:0,value:0  out of gas

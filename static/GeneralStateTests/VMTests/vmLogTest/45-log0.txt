@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json
-2024-08-20T09:24:21.452Z [PASSED] 45/64,0 log0 1/8 data:0,gas:0,value:0 emptyMem 
-2024-08-20T09:24:21.866Z [PASSED] 45/64,0 log0 2/8 data:3,gas:0,value:0 memStartTooHigh 
-2024-08-20T09:24:22.082Z [PASSED] 45/64,0 log0 3/8 data:4,gas:0,value:0 memSizeTooHigh 
-2024-08-20T09:24:22.295Z [PASSED] 45/64,0 log0 4/8 data:5,gas:0,value:0 memSizeZero 
-2024-08-20T09:24:22.508Z [PASSED] 45/64,0 log0 5/8 data:6,gas:0,value:0 nonEmptyMem 
-2024-08-20T09:24:22.721Z [PASSED] 45/64,0 log0 6/8 data:7,gas:0,value:0 log_0_1 
-2024-08-20T09:24:22.935Z [PASSED] 45/64,0 log0 7/8 data:1,gas:0,value:0 log_31_1 
-2024-08-20T09:24:23.148Z [PASSED] 45/64,0 log0 8/8 data:2,gas:0,value:0 logTwice 
+2024-08-21T01:20:27.267Z [PASSED] 45/64,0 log0 1/8 data:0,gas:0,value:0 emptyMem 
+2024-08-21T01:20:27.481Z [PASSED] 45/64,0 log0 2/8 data:3,gas:0,value:0 memStartTooHigh 
+2024-08-21T01:20:27.694Z [PASSED] 45/64,0 log0 3/8 data:4,gas:0,value:0 memSizeTooHigh 
+2024-08-21T01:20:27.908Z [PASSED] 45/64,0 log0 4/8 data:5,gas:0,value:0 memSizeZero 
+2024-08-21T01:20:28.121Z [PASSED] 45/64,0 log0 5/8 data:6,gas:0,value:0 nonEmptyMem 
+2024-08-21T01:20:28.338Z [PASSED] 45/64,0 log0 6/8 data:7,gas:0,value:0 log_0_1 
+2024-08-21T01:20:28.551Z [PASSED] 45/64,0 log0 7/8 data:1,gas:0,value:0 log_31_1 
+2024-08-21T01:20:28.764Z [PASSED] 45/64,0 log0 8/8 data:2,gas:0,value:0 logTwice 

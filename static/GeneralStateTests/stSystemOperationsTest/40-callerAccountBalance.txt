@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/callerAccountBalance.json
-2024-08-20T10:14:09.608Z [PASSED] 40/67,0 callerAccountBalance 1/1 data:0,gas:0,value:0  
+2024-08-21T02:10:19.251Z [PASSED] 40/67,0 callerAccountBalance 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_CALLCODE.json
-2024-08-20T10:00:34.619Z [PASSED] 1/24,0 NonZeroValue_CALLCODE 1/1 data:0,gas:0,value:0  
+2024-08-21T01:56:39.973Z [PASSED] 1/24,0 NonZeroValue_CALLCODE 1/1 data:0,gas:0,value:0  

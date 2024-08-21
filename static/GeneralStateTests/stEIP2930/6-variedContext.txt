@@ -1,37 +1,37 @@
 ethereum-tests/GeneralStateTests/stEIP2930/variedContext.json
-2024-08-20T09:57:02.969Z [PASSED] 6/7,0 variedContext 1/36 data:0,gas:0,value:0 delegateCallerInAccessList 
-2024-08-20T09:57:03.188Z [PASSED] 6/7,0 variedContext 2/36 data:1,gas:0,value:0 delegateCalleeInAccessList 
-2024-08-20T09:57:03.407Z [PASSED] 6/7,0 variedContext 3/36 data:2,gas:0,value:0 callcodeCallerInAccessList 
-2024-08-20T09:57:03.625Z [PASSED] 6/7,0 variedContext 4/36 data:3,gas:0,value:0 callcodeCalleeInAccessList 
-2024-08-20T09:57:03.844Z [PASSED] 6/7,0 variedContext 5/36 data:4,gas:0,value:0 callCallerInAccessList 
-2024-08-20T09:57:04.061Z [PASSED] 6/7,0 variedContext 6/36 data:5,gas:0,value:0 callCalleeInAccessList 
-2024-08-20T09:57:04.277Z [PASSED] 6/7,0 variedContext 7/36 data:6,gas:0,value:0 staticcallCallerInAccessList 
-2024-08-20T09:57:04.492Z [PASSED] 6/7,0 variedContext 8/36 data:7,gas:0,value:0 staticcallCalleeInAccessList 
-2024-08-20T09:57:04.707Z [PASSED] 6/7,0 variedContext 9/36 data:8,gas:0,value:0 callRevertCalleeInAccessList 
-2024-08-20T09:57:04.923Z [PASSED] 6/7,0 variedContext 10/36 data:9,gas:0,value:0 callRevertCallerInAccessList 
-2024-08-20T09:57:05.139Z [SKIP] 6/7,0 variedContext 11/36 data:10,gas:0,value:0 callWriteSuicideValid Not implementation SELFDESTRUCT opcode
-2024-08-20T09:57:05.354Z [SKIP] 6/7,0 variedContext 12/36 data:11,gas:0,value:0 callWriteSuicideInvalid Not implementation SELFDESTRUCT opcode
-2024-08-20T09:57:05.569Z [SKIP] 6/7,0 variedContext 13/36 data:12,gas:0,value:0 callReadSuicideValid Not implementation SELFDESTRUCT opcode
-2024-08-20T09:57:05.785Z [SKIP] 6/7,0 variedContext 14/36 data:13,gas:0,value:0 callReadSuicideInvalid Not implementation SELFDESTRUCT opcode
-2024-08-20T09:57:06.000Z [PASSED] 6/7,0 variedContext 15/36 data:14,gas:0,value:0 staticWriteInvalid 
-2024-08-20T09:57:06.215Z [PASSED] 6/7,0 variedContext 16/36 data:15,gas:0,value:0 staticWriteValid 
-2024-08-20T09:57:06.433Z [PASSED] 6/7,0 variedContext 17/36 data:16,gas:0,value:0 writeValidGas 
-2024-08-20T09:57:06.648Z [PASSED] 6/7,0 variedContext 18/36 data:17,gas:0,value:0 writeInvalidOOG 
-2024-08-20T09:57:06.864Z [PASSED] 6/7,0 variedContext 19/36 data:18,gas:0,value:0 readValidGas 
-2024-08-20T09:57:07.079Z [PASSED] 6/7,0 variedContext 20/36 data:19,gas:0,value:0 readInvalidOOG 
-2024-08-20T09:57:07.294Z [PASSED] 6/7,0 variedContext 21/36 data:20,gas:0,value:0 recurseValid 
-2024-08-20T09:57:07.711Z [PASSED] 6/7,0 variedContext 22/36 data:21,gas:0,value:0 recurseInvalid 
-2024-08-20T09:57:07.926Z [PASSED] 6/7,0 variedContext 23/36 data:22,gas:0,value:0 createValid 
-2024-08-20T09:57:08.141Z [PASSED] 6/7,0 variedContext 24/36 data:23,gas:0,value:0 createInvalid 
-2024-08-20T09:57:08.358Z [PASSED] 6/7,0 variedContext 25/36 data:24,gas:0,value:0 create2Valid 
-2024-08-20T09:57:08.573Z [PASSED] 6/7,0 variedContext 26/36 data:25,gas:0,value:0 create2Invalid 
-2024-08-20T09:57:08.789Z [PASSED] 6/7,0 variedContext 27/36 data:26,gas:0,value:0 callCreatedValid 
-2024-08-20T09:57:09.007Z [PASSED] 6/7,0 variedContext 28/36 data:27,gas:0,value:0 callCreatedInvalid 
-2024-08-20T09:57:09.222Z [PASSED] 6/7,0 variedContext 29/36 data:28,gas:0,value:0 callCreate2edValid 
-2024-08-20T09:57:09.439Z [PASSED] 6/7,0 variedContext 30/36 data:29,gas:0,value:0 callCreate2edInvalid 
-2024-08-20T09:57:09.655Z [PASSED] 6/7,0 variedContext 31/36 data:30,gas:0,value:0 createAndCallValid 
-2024-08-20T09:57:09.871Z [PASSED] 6/7,0 variedContext 32/36 data:31,gas:0,value:0 createAndCallInvalid 
-2024-08-20T09:57:10.090Z [PASSED] 6/7,0 variedContext 33/36 data:32,gas:0,value:0 create2AndCallValid 
-2024-08-20T09:57:10.306Z [PASSED] 6/7,0 variedContext 34/36 data:33,gas:0,value:0 create2AndCallInvalid 
-2024-08-20T09:57:10.520Z [PASSED] 6/7,0 variedContext 35/36 data:34,gas:0,value:0 callTwiceValid 
-2024-08-20T09:57:10.736Z [PASSED] 6/7,0 variedContext 36/36 data:35,gas:0,value:0 callTwiceInvalid 
+2024-08-21T01:53:06.821Z [PASSED] 6/7,0 variedContext 1/36 data:0,gas:0,value:0 delegateCallerInAccessList 
+2024-08-21T01:53:07.037Z [PASSED] 6/7,0 variedContext 2/36 data:1,gas:0,value:0 delegateCalleeInAccessList 
+2024-08-21T01:53:07.252Z [PASSED] 6/7,0 variedContext 3/36 data:2,gas:0,value:0 callcodeCallerInAccessList 
+2024-08-21T01:53:07.466Z [PASSED] 6/7,0 variedContext 4/36 data:3,gas:0,value:0 callcodeCalleeInAccessList 
+2024-08-21T01:53:07.683Z [PASSED] 6/7,0 variedContext 5/36 data:4,gas:0,value:0 callCallerInAccessList 
+2024-08-21T01:53:07.900Z [PASSED] 6/7,0 variedContext 6/36 data:5,gas:0,value:0 callCalleeInAccessList 
+2024-08-21T01:53:08.119Z [PASSED] 6/7,0 variedContext 7/36 data:6,gas:0,value:0 staticcallCallerInAccessList 
+2024-08-21T01:53:08.338Z [PASSED] 6/7,0 variedContext 8/36 data:7,gas:0,value:0 staticcallCalleeInAccessList 
+2024-08-21T01:53:08.557Z [PASSED] 6/7,0 variedContext 9/36 data:8,gas:0,value:0 callRevertCalleeInAccessList 
+2024-08-21T01:53:08.774Z [PASSED] 6/7,0 variedContext 10/36 data:9,gas:0,value:0 callRevertCallerInAccessList 
+2024-08-21T01:53:08.990Z [SKIP] 6/7,0 variedContext 11/36 data:10,gas:0,value:0 callWriteSuicideValid Not implementation SELFDESTRUCT opcode
+2024-08-21T01:53:09.205Z [SKIP] 6/7,0 variedContext 12/36 data:11,gas:0,value:0 callWriteSuicideInvalid Not implementation SELFDESTRUCT opcode
+2024-08-21T01:53:09.422Z [SKIP] 6/7,0 variedContext 13/36 data:12,gas:0,value:0 callReadSuicideValid Not implementation SELFDESTRUCT opcode
+2024-08-21T01:53:09.637Z [SKIP] 6/7,0 variedContext 14/36 data:13,gas:0,value:0 callReadSuicideInvalid Not implementation SELFDESTRUCT opcode
+2024-08-21T01:53:09.852Z [PASSED] 6/7,0 variedContext 15/36 data:14,gas:0,value:0 staticWriteInvalid 
+2024-08-21T01:53:10.069Z [PASSED] 6/7,0 variedContext 16/36 data:15,gas:0,value:0 staticWriteValid 
+2024-08-21T01:53:10.283Z [PASSED] 6/7,0 variedContext 17/36 data:16,gas:0,value:0 writeValidGas 
+2024-08-21T01:53:10.500Z [PASSED] 6/7,0 variedContext 18/36 data:17,gas:0,value:0 writeInvalidOOG 
+2024-08-21T01:53:10.716Z [PASSED] 6/7,0 variedContext 19/36 data:18,gas:0,value:0 readValidGas 
+2024-08-21T01:53:10.931Z [PASSED] 6/7,0 variedContext 20/36 data:19,gas:0,value:0 readInvalidOOG 
+2024-08-21T01:53:11.146Z [PASSED] 6/7,0 variedContext 21/36 data:20,gas:0,value:0 recurseValid 
+2024-08-21T01:53:11.361Z [PASSED] 6/7,0 variedContext 22/36 data:21,gas:0,value:0 recurseInvalid 
+2024-08-21T01:53:11.577Z [PASSED] 6/7,0 variedContext 23/36 data:22,gas:0,value:0 createValid 
+2024-08-21T01:53:11.794Z [PASSED] 6/7,0 variedContext 24/36 data:23,gas:0,value:0 createInvalid 
+2024-08-21T01:53:12.010Z [PASSED] 6/7,0 variedContext 25/36 data:24,gas:0,value:0 create2Valid 
+2024-08-21T01:53:12.226Z [PASSED] 6/7,0 variedContext 26/36 data:25,gas:0,value:0 create2Invalid 
+2024-08-21T01:53:12.441Z [PASSED] 6/7,0 variedContext 27/36 data:26,gas:0,value:0 callCreatedValid 
+2024-08-21T01:53:12.657Z [PASSED] 6/7,0 variedContext 28/36 data:27,gas:0,value:0 callCreatedInvalid 
+2024-08-21T01:53:12.872Z [PASSED] 6/7,0 variedContext 29/36 data:28,gas:0,value:0 callCreate2edValid 
+2024-08-21T01:53:13.089Z [PASSED] 6/7,0 variedContext 30/36 data:29,gas:0,value:0 callCreate2edInvalid 
+2024-08-21T01:53:13.303Z [PASSED] 6/7,0 variedContext 31/36 data:30,gas:0,value:0 createAndCallValid 
+2024-08-21T01:53:13.519Z [PASSED] 6/7,0 variedContext 32/36 data:31,gas:0,value:0 createAndCallInvalid 
+2024-08-21T01:53:13.733Z [PASSED] 6/7,0 variedContext 33/36 data:32,gas:0,value:0 create2AndCallValid 
+2024-08-21T01:53:13.947Z [PASSED] 6/7,0 variedContext 34/36 data:33,gas:0,value:0 create2AndCallInvalid 
+2024-08-21T01:53:14.162Z [PASSED] 6/7,0 variedContext 35/36 data:34,gas:0,value:0 callTwiceValid 
+2024-08-21T01:53:14.379Z [PASSED] 6/7,0 variedContext 36/36 data:35,gas:0,value:0 callTwiceInvalid 

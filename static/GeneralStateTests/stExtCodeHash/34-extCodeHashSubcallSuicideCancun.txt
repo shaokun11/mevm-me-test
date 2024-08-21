@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashSubcallSuicideCancun.json
-2024-08-20T09:57:35.336Z [SKIP] 34/36,0 extCodeHashSubcallSuicideCancun 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T01:53:41.203Z [SKIP] 34/36,0 extCodeHashSubcallSuicideCancun 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

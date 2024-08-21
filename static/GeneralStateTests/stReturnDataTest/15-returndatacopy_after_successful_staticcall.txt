@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatacopy_after_successful_staticcall.json
-2024-08-20T10:08:19.584Z [PASSED] 15/41,0 returndatacopy_after_successful_staticcall 1/1 data:0,gas:0,value:0  
+2024-08-21T02:04:23.252Z [PASSED] 15/41,0 returndatacopy_after_successful_staticcall 1/1 data:0,gas:0,value:0  

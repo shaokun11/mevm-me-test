@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/CallInfiniteLoop.json
-2024-08-20T10:11:58.432Z [PASSED] 2/18,0 CallInfiniteLoop 1/1 data:0,gas:0,value:0  
+2024-08-21T02:08:06.757Z [PASSED] 2/18,0 CallInfiniteLoop 1/1 data:0,gas:0,value:0  

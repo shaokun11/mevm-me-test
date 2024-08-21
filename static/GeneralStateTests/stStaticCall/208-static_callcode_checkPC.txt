@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcode_checkPC.json
-2024-08-20T10:13:46.881Z [SKIP] 208/286,0 static_callcode_checkPC 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T02:09:56.286Z [SKIP] 208/286,0 static_callcode_checkPC 1/1 data:0,gas:0,value:0  out of gas

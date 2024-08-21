@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCodeSizeLimit/codesizeOOGInvalidSize.json
-2024-08-20T09:45:22.284Z [PASSED] 1/5,0 codesizeOOGInvalidSize 1/2 data:0,gas:0,value:0  
-2024-08-20T09:45:22.502Z [PASSED] 1/5,0 codesizeOOGInvalidSize 2/2 data:1,gas:0,value:0  
+2024-08-21T01:41:32.613Z [PASSED] 1/5,0 codesizeOOGInvalidSize 1/2 data:0,gas:0,value:0  
+2024-08-21T01:41:32.831Z [PASSED] 1/5,0 codesizeOOGInvalidSize 2/2 data:1,gas:0,value:0  

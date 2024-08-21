@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Call1024PreCalls.json
-2024-08-20T09:47:30.175Z [PASSED] 2/28,0 Call1024PreCalls 1/3 data:0,gas:0,value:0  
-2024-08-20T09:47:32.417Z [PASSED] 2/28,0 Call1024PreCalls 2/3 data:0,gas:2,value:0  
-2024-08-20T09:47:34.657Z [PASSED] 2/28,0 Call1024PreCalls 3/3 data:0,gas:1,value:0  
+2024-08-21T01:43:42.123Z [PASSED] 2/28,0 Call1024PreCalls 1/3 data:0,gas:0,value:0  
+2024-08-21T01:43:44.358Z [PASSED] 2/28,0 Call1024PreCalls 2/3 data:0,gas:2,value:0  
+2024-08-21T01:43:46.595Z [PASSED] 2/28,0 Call1024PreCalls 3/3 data:0,gas:1,value:0  

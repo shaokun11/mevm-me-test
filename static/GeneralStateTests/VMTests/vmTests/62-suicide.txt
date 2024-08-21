@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json
-2024-08-20T09:24:59.159Z [SKIP] 62/64,0 suicide 1/3 data:0,gas:0,value:0 caller Not implementation SELFDESTRUCT opcode
-2024-08-20T09:24:59.371Z [SKIP] 62/64,0 suicide 2/3 data:1,gas:0,value:0 random Not implementation SELFDESTRUCT opcode
-2024-08-20T09:24:59.583Z [SKIP] 62/64,0 suicide 3/3 data:2,gas:0,value:0 myself Not implementation SELFDESTRUCT opcode
+2024-08-21T01:21:04.993Z [SKIP] 62/64,0 suicide 1/3 data:0,gas:0,value:0 caller Not implementation SELFDESTRUCT opcode
+2024-08-21T01:21:05.208Z [SKIP] 62/64,0 suicide 2/3 data:1,gas:0,value:0 random Not implementation SELFDESTRUCT opcode
+2024-08-21T01:21:05.424Z [SKIP] 62/64,0 suicide 3/3 data:2,gas:0,value:0 myself Not implementation SELFDESTRUCT opcode

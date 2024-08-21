@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log0_nonEmptyMem_logMemSize1.json
-2024-08-20T10:13:46.920Z [SKIP] 274/286,0 static_log0_nonEmptyMem_logMemSize1 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T02:09:56.318Z [SKIP] 274/286,0 static_log0_nonEmptyMem_logMemSize1 1/1 data:0,gas:0,value:0  out of gas

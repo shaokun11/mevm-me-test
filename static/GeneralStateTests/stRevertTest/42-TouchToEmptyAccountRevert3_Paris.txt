@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/TouchToEmptyAccountRevert3_Paris.json
-2024-08-20T10:09:35.149Z [SKIP] 42/46,0 TouchToEmptyAccountRevert3_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T02:05:41.481Z [SKIP] 42/46,0 TouchToEmptyAccountRevert3_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

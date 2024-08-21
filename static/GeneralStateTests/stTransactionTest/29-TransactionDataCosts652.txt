@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/TransactionDataCosts652.json
-2024-08-20T10:36:40.651Z [PASSED] 29/35,0 TransactionDataCosts652 1/2 data:0,gas:0,value:0  
-2024-08-20T10:36:40.864Z [PASSED] 29/35,0 TransactionDataCosts652 2/2 data:0,gas:1,value:0  
+2024-08-21T02:32:50.722Z [PASSED] 29/35,0 TransactionDataCosts652 1/2 data:0,gas:0,value:0  
+2024-08-21T02:32:50.942Z [PASSED] 29/35,0 TransactionDataCosts652 2/2 data:0,gas:1,value:0  

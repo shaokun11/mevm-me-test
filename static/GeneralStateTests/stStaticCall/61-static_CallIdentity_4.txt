@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallIdentity_4.json
-2024-08-20T10:13:46.793Z [SKIP] 61/286,0 static_CallIdentity_4 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T02:09:56.214Z [SKIP] 61/286,0 static_CallIdentity_4 1/1 data:0,gas:0,value:0  out of gas

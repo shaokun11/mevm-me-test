@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/Pyspecs/shanghai/eip3855_push0/push0_gas_cost.json
-2024-08-20T09:21:02.913Z [SKIP] 59/66,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_gas_cost[fork_Shanghai-state_test] No Cancun post state found
-2024-08-20T09:22:15.304Z [PASSED] 59/66,0 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_gas_cost[fork_Cancun-state_test] 1/1 data:0,gas:0,value:0  
+2024-08-21T01:17:08.934Z [SKIP] 59/66,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_gas_cost[fork_Shanghai-state_test] No Cancun post state found
+2024-08-21T01:18:21.318Z [PASSED] 59/66,0 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3855_push0/test_push0.py::test_push0_gas_cost[fork_Cancun-state_test] 1/1 data:0,gas:0,value:0  

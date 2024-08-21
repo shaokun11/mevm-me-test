@@ -1,13 +1,13 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeReturn.json
-2024-08-20T10:09:01.583Z [PASSED] 23/46,0 RevertOpcodeReturn 1/12 data:0,gas:0,value:0  
-2024-08-20T10:09:01.800Z [PASSED] 23/46,0 RevertOpcodeReturn 2/12 data:0,gas:1,value:0  
-2024-08-20T10:09:02.014Z [PASSED] 23/46,0 RevertOpcodeReturn 3/12 data:1,gas:0,value:0  
-2024-08-20T10:09:02.233Z [PASSED] 23/46,0 RevertOpcodeReturn 4/12 data:1,gas:1,value:0  
-2024-08-20T10:09:02.447Z [PASSED] 23/46,0 RevertOpcodeReturn 5/12 data:2,gas:0,value:0  
-2024-08-20T10:09:02.665Z [PASSED] 23/46,0 RevertOpcodeReturn 6/12 data:2,gas:1,value:0  
-2024-08-20T10:09:02.879Z [PASSED] 23/46,0 RevertOpcodeReturn 7/12 data:3,gas:0,value:0  
-2024-08-20T10:09:03.093Z [PASSED] 23/46,0 RevertOpcodeReturn 8/12 data:3,gas:1,value:0  
-2024-08-20T10:09:03.312Z [PASSED] 23/46,0 RevertOpcodeReturn 9/12 data:4,gas:0,value:0  
-2024-08-20T10:09:03.526Z [PASSED] 23/46,0 RevertOpcodeReturn 10/12 data:4,gas:1,value:0  
-2024-08-20T10:09:03.744Z [PASSED] 23/46,0 RevertOpcodeReturn 11/12 data:5,gas:0,value:0  
-2024-08-20T10:09:03.958Z [PASSED] 23/46,0 RevertOpcodeReturn 12/12 data:5,gas:1,value:0  
+2024-08-21T02:05:07.699Z [PASSED] 23/46,0 RevertOpcodeReturn 1/12 data:0,gas:0,value:0  
+2024-08-21T02:05:07.913Z [PASSED] 23/46,0 RevertOpcodeReturn 2/12 data:0,gas:1,value:0  
+2024-08-21T02:05:08.127Z [PASSED] 23/46,0 RevertOpcodeReturn 3/12 data:1,gas:0,value:0  
+2024-08-21T02:05:08.340Z [PASSED] 23/46,0 RevertOpcodeReturn 4/12 data:1,gas:1,value:0  
+2024-08-21T02:05:08.554Z [PASSED] 23/46,0 RevertOpcodeReturn 5/12 data:2,gas:0,value:0  
+2024-08-21T02:05:08.769Z [PASSED] 23/46,0 RevertOpcodeReturn 6/12 data:2,gas:1,value:0  
+2024-08-21T02:05:08.985Z [PASSED] 23/46,0 RevertOpcodeReturn 7/12 data:3,gas:0,value:0  
+2024-08-21T02:05:09.199Z [PASSED] 23/46,0 RevertOpcodeReturn 8/12 data:3,gas:1,value:0  
+2024-08-21T02:05:09.417Z [PASSED] 23/46,0 RevertOpcodeReturn 9/12 data:4,gas:0,value:0  
+2024-08-21T02:05:09.633Z [PASSED] 23/46,0 RevertOpcodeReturn 10/12 data:4,gas:1,value:0  
+2024-08-21T02:05:09.847Z [PASSED] 23/46,0 RevertOpcodeReturn 11/12 data:5,gas:0,value:0  
+2024-08-21T02:05:10.066Z [PASSED] 23/46,0 RevertOpcodeReturn 12/12 data:5,gas:1,value:0  

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeCreate.json
-2024-08-20T10:08:51.466Z [PASSED] 17/46,0 RevertOpcodeCreate 1/2 data:0,gas:0,value:0  
-2024-08-20T10:08:51.679Z [PASSED] 17/46,0 RevertOpcodeCreate 2/2 data:0,gas:1,value:0  
+2024-08-21T02:04:57.559Z [PASSED] 17/46,0 RevertOpcodeCreate 1/2 data:0,gas:0,value:0  
+2024-08-21T02:04:57.773Z [PASSED] 17/46,0 RevertOpcodeCreate 2/2 data:0,gas:1,value:0  

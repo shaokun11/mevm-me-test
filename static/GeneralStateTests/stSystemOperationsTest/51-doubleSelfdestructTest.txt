@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/doubleSelfdestructTest.json
-2024-08-20T10:14:11.964Z [SKIP] 51/67,0 doubleSelfdestructTest 1/8 data:0,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:12.381Z [SKIP] 51/67,0 doubleSelfdestructTest 2/8 data:1,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:12.596Z [SKIP] 51/67,0 doubleSelfdestructTest 3/8 data:2,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:12.813Z [SKIP] 51/67,0 doubleSelfdestructTest 4/8 data:3,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:13.027Z [SKIP] 51/67,0 doubleSelfdestructTest 5/8 data:7,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:15.475Z [SKIP] 51/67,0 doubleSelfdestructTest 6/8 data:4,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:15.690Z [SKIP] 51/67,0 doubleSelfdestructTest 7/8 data:5,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
-2024-08-20T10:14:15.907Z [SKIP] 51/67,0 doubleSelfdestructTest 8/8 data:6,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:21.632Z [SKIP] 51/67,0 doubleSelfdestructTest 1/8 data:0,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:21.851Z [SKIP] 51/67,0 doubleSelfdestructTest 2/8 data:1,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:22.066Z [SKIP] 51/67,0 doubleSelfdestructTest 3/8 data:2,gas:0,value:0 called-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:22.282Z [SKIP] 51/67,0 doubleSelfdestructTest 4/8 data:3,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:22.495Z [SKIP] 51/67,0 doubleSelfdestructTest 5/8 data:7,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:22.709Z [SKIP] 51/67,0 doubleSelfdestructTest 6/8 data:4,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:22.924Z [SKIP] 51/67,0 doubleSelfdestructTest 7/8 data:5,gas:0,value:0 code-self-destruct Not implementation SELFDESTRUCT opcode
+2024-08-21T02:10:23.139Z [SKIP] 51/67,0 doubleSelfdestructTest 8/8 data:6,gas:0,value:0 caller-self-destruct Not implementation SELFDESTRUCT opcode

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/DelegateCallOnEIP.json
-2024-08-20T09:47:44.103Z [PASSED] 5/14,0 DelegateCallOnEIP 1/1 data:0,gas:0,value:0  
+2024-08-21T01:43:56.023Z [PASSED] 5/14,0 DelegateCallOnEIP 1/1 data:0,gas:0,value:0  

@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stSStoreTest/InitCollisionParis.json
-2024-08-20T10:09:45.747Z [PASSED] 1/28,0 InitCollisionParis 1/4 data:0,gas:0,value:0  
-2024-08-20T10:09:45.967Z [PASSED] 1/28,0 InitCollisionParis 2/4 data:1,gas:0,value:0  
-2024-08-20T10:09:46.182Z [PASSED] 1/28,0 InitCollisionParis 3/4 data:2,gas:0,value:0  
-2024-08-20T10:09:46.397Z [PASSED] 1/28,0 InitCollisionParis 4/4 data:3,gas:0,value:0  
+2024-08-21T02:05:52.107Z [PASSED] 1/28,0 InitCollisionParis 1/4 data:0,gas:0,value:0  
+2024-08-21T02:05:52.330Z [PASSED] 1/28,0 InitCollisionParis 2/4 data:1,gas:0,value:0  
+2024-08-21T02:05:52.545Z [PASSED] 1/28,0 InitCollisionParis 3/4 data:2,gas:0,value:0  
+2024-08-21T02:05:52.762Z [PASSED] 1/28,0 InitCollisionParis 4/4 data:3,gas:0,value:0  

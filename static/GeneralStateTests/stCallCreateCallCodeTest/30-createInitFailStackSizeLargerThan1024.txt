@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json
-2024-08-20T09:44:46.518Z [SKIP] 30/43,0 createInitFailStackSizeLargerThan1024 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T01:40:57.007Z [SKIP] 30/43,0 createInitFailStackSizeLargerThan1024 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_SUICIDE.json
-2024-08-20T10:37:00.405Z [SKIP] 12/24,0 ZeroValue_SUICIDE 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T02:33:10.465Z [SKIP] 12/24,0 ZeroValue_SUICIDE 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

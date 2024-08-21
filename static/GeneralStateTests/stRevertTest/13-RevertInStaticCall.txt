@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertInStaticCall.json
-2024-08-20T10:08:48.457Z [PASSED] 13/46,0 RevertInStaticCall 1/1 data:0,gas:0,value:0  
+2024-08-21T02:04:54.556Z [PASSED] 13/46,0 RevertInStaticCall 1/1 data:0,gas:0,value:0  

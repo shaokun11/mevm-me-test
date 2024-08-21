@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/codecopy.json
-2024-08-20T09:23:43.570Z [PASSED] 30/64,0 codecopy 1/5 data:0,gas:0,value:0 codecopy 
-2024-08-20T09:23:43.785Z [PASSED] 30/64,0 codecopy 2/5 data:2,gas:0,value:0 codecopy_infbuff 
-2024-08-20T09:23:43.998Z [PASSED] 30/64,0 codecopy 3/5 data:1,gas:0,value:0 codecopy_bigbuff 
-2024-08-20T09:23:44.212Z [PASSED] 30/64,0 codecopy 4/5 data:3,gas:0,value:0 codecopy_2buff 
-2024-08-20T09:23:44.425Z [PASSED] 30/64,0 codecopy 5/5 data:4,gas:0,value:0 codecopy_opcodes 
+2024-08-21T01:19:47.132Z [PASSED] 30/64,0 codecopy 1/5 data:0,gas:0,value:0 codecopy 
+2024-08-21T01:19:47.357Z [PASSED] 30/64,0 codecopy 2/5 data:2,gas:0,value:0 codecopy_infbuff 
+2024-08-21T01:19:47.570Z [PASSED] 30/64,0 codecopy 3/5 data:1,gas:0,value:0 codecopy_bigbuff 
+2024-08-21T01:19:47.783Z [PASSED] 30/64,0 codecopy 4/5 data:3,gas:0,value:0 codecopy_2buff 
+2024-08-21T01:19:47.997Z [PASSED] 30/64,0 codecopy 5/5 data:4,gas:0,value:0 codecopy_opcodes 
