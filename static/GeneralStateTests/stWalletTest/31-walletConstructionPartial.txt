@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletConstructionPartial.json
-2024-08-21T02:33:01.470Z [PASSED] 31/42,0 walletConstructionPartial 1/1 data:0,gas:0,value:0  
+2024-08-21T10:13:50.748Z [PASSED] 31/42,0 walletConstructionPartial 1/1 data:0,gas:0,value:0  

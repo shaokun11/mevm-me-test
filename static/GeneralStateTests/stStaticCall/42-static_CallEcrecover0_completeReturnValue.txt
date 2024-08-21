@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_completeReturnValue.json
-2024-08-21T02:09:56.204Z [SKIP] 42/286,0 static_CallEcrecover0_completeReturnValue 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:42:12.762Z [PASSED] 42/286,0 static_CallEcrecover0_completeReturnValue 1/1 data:0,gas:0,value:0  

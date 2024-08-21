@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertRemoteSubCallStorageOOG.json
-2024-08-21T02:05:39.122Z [PASSED] 38/46,0 RevertRemoteSubCallStorageOOG 1/2 data:0,gas:0,value:0  
-2024-08-21T02:05:39.335Z [PASSED] 38/46,0 RevertRemoteSubCallStorageOOG 2/2 data:1,gas:0,value:0  
+2024-08-21T09:25:57.032Z [PASSED] 38/46,0 RevertRemoteSubCallStorageOOG 1/2 data:0,gas:0,value:0  
+2024-08-21T09:25:57.245Z [PASSED] 38/46,0 RevertRemoteSubCallStorageOOG 2/2 data:1,gas:0,value:0  

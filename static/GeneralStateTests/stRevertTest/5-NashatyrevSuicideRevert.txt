@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/NashatyrevSuicideRevert.json
-2024-08-21T02:04:49.593Z [SKIP] 5/46,0 NashatyrevSuicideRevert 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:25:07.099Z [SKIP] 5/46,0 NashatyrevSuicideRevert 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

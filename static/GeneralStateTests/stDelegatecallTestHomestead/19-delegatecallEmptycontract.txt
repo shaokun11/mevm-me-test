@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallEmptycontract.json
-2024-08-21T01:43:52.712Z [PASSED] 19/28,0 delegatecallEmptycontract 1/1 data:0,gas:0,value:0  
+2024-08-21T08:47:39.112Z [PASSED] 19/28,0 delegatecallEmptycontract 1/1 data:0,gas:0,value:0  

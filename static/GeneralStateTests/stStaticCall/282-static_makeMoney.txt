@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_makeMoney.json
-2024-08-21T02:09:56.321Z [SKIP] 282/286,0 static_makeMoney 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:48:21.674Z [PASSED] 282/286,0 static_makeMoney 1/1 data:0,gas:0,value:0  

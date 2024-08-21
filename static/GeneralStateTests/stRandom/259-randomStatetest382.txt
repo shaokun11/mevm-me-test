@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest382.json
-2024-08-21T02:02:23.256Z [PASSED] 259/310,0 randomStatetest382 1/1 data:0,gas:0,value:0  
+2024-08-21T09:22:41.181Z [PASSED] 259/310,0 randomStatetest382 1/1 data:0,gas:0,value:0  

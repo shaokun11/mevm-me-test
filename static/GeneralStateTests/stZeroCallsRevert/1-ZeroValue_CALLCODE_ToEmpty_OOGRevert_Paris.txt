@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris.json
-2024-08-21T02:33:04.338Z [PASSED] 1/16,0 ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  
+2024-08-21T10:13:53.609Z [PASSED] 1/16,0 ZeroValue_CALLCODE_ToEmpty_OOGRevert_Paris 1/1 data:0,gas:0,value:0  

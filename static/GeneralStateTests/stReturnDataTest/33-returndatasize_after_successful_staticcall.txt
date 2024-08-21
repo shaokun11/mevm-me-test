@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_after_successful_staticcall.json
-2024-08-21T02:04:27.743Z [PASSED] 33/41,0 returndatasize_after_successful_staticcall 1/1 data:0,gas:0,value:0  
+2024-08-21T09:24:47.461Z [PASSED] 33/41,0 returndatasize_after_successful_staticcall 1/1 data:0,gas:0,value:0  

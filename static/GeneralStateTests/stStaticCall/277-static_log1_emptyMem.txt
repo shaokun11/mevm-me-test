@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log1_emptyMem.json
-2024-08-21T02:09:56.319Z [SKIP] 277/286,0 static_log1_emptyMem 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:48:19.754Z [PASSED] 277/286,0 static_log1_emptyMem 1/1 data:0,gas:0,value:0  

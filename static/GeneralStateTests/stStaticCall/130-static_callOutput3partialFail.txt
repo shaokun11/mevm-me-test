@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callOutput3partialFail.json
-2024-08-21T02:09:56.248Z [SKIP] 130/286,0 static_callOutput3partialFail 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:46:31.447Z [PASSED] 130/286,0 static_callOutput3partialFail 1/1 data:0,gas:0,value:0  

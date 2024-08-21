@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/mulNonConst.json
-2024-08-21T01:21:23.340Z [PASSED] 30/46,0 mulNonConst 1/2 data:0,gas:0,value:0  
-2024-08-21T01:21:23.554Z [PASSED] 30/46,0 mulNonConst 2/2 data:0,gas:0,value:1  
+2024-08-21T08:24:14.434Z [PASSED] 30/46,0 mulNonConst 1/2 data:0,gas:0,value:0  
+2024-08-21T08:24:14.651Z [PASSED] 30/46,0 mulNonConst 2/2 data:0,gas:0,value:1  

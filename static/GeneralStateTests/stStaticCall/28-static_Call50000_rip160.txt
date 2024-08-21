@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_rip160.json
-2024-08-21T02:09:56.183Z [SKIP] 28/286,0 static_Call50000_rip160 1/2 data:0,gas:0,value:0  out of gas
-2024-08-21T02:09:56.184Z [SKIP] 28/286,0 static_Call50000_rip160 2/2 data:1,gas:0,value:0  out of gas
+2024-08-21T09:37:52.909Z [PASSED] 28/286,0 static_Call50000_rip160 1/2 data:0,gas:0,value:0  
+2024-08-21T09:39:05.202Z [PASSED] 28/286,0 static_Call50000_rip160 2/2 data:1,gas:0,value:0  

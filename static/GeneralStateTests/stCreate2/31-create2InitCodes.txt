@@ -1,10 +1,10 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2InitCodes.json
-2024-08-21T01:42:09.502Z [PASSED] 31/51,0 create2InitCodes 1/9 data:0,gas:0,value:0  
-2024-08-21T01:42:09.716Z [PASSED] 31/51,0 create2InitCodes 2/9 data:1,gas:0,value:0  
-2024-08-21T01:42:09.931Z [PASSED] 31/51,0 create2InitCodes 3/9 data:2,gas:0,value:0  
-2024-08-21T01:42:10.147Z [PASSED] 31/51,0 create2InitCodes 4/9 data:3,gas:0,value:0  
-2024-08-21T01:42:10.370Z [PASSED] 31/51,0 create2InitCodes 5/9 data:4,gas:0,value:0  
-2024-08-21T01:42:12.816Z [SKIP] 31/51,0 create2InitCodes 6/9 data:5,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T01:42:13.032Z [SKIP] 31/51,0 create2InitCodes 7/9 data:6,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T01:42:13.251Z [PASSED] 31/51,0 create2InitCodes 8/9 data:7,gas:0,value:0  
-2024-08-21T01:42:13.465Z [PASSED] 31/51,0 create2InitCodes 9/9 data:8,gas:0,value:0  
+2024-08-21T08:45:56.330Z [PASSED] 31/51,0 create2InitCodes 1/9 data:0,gas:0,value:0  
+2024-08-21T08:45:56.544Z [PASSED] 31/51,0 create2InitCodes 2/9 data:1,gas:0,value:0  
+2024-08-21T08:45:56.757Z [PASSED] 31/51,0 create2InitCodes 3/9 data:2,gas:0,value:0  
+2024-08-21T08:45:56.973Z [PASSED] 31/51,0 create2InitCodes 4/9 data:3,gas:0,value:0  
+2024-08-21T08:45:57.187Z [PASSED] 31/51,0 create2InitCodes 5/9 data:4,gas:0,value:0  
+2024-08-21T08:45:57.401Z [SKIP] 31/51,0 create2InitCodes 6/9 data:5,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T08:45:57.614Z [SKIP] 31/51,0 create2InitCodes 7/9 data:6,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T08:45:57.828Z [PASSED] 31/51,0 create2InitCodes 8/9 data:7,gas:0,value:0  
+2024-08-21T08:45:58.048Z [PASSED] 31/51,0 create2InitCodes 9/9 data:8,gas:0,value:0  

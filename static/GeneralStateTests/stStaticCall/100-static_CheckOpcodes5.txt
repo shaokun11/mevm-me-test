@@ -1,21 +1,21 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes5.json
-2024-08-21T02:09:56.232Z [SKIP] 100/286,0 static_CheckOpcodes5 1/20 data:0,gas:0,value:0  out of gas
-2024-08-21T02:09:56.232Z [SKIP] 100/286,0 static_CheckOpcodes5 2/20 data:0,gas:0,value:1  out of gas
-2024-08-21T02:09:56.232Z [SKIP] 100/286,0 static_CheckOpcodes5 3/20 data:1,gas:0,value:0  out of gas
-2024-08-21T02:09:56.232Z [SKIP] 100/286,0 static_CheckOpcodes5 4/20 data:1,gas:0,value:1  out of gas
-2024-08-21T02:09:56.232Z [SKIP] 100/286,0 static_CheckOpcodes5 5/20 data:2,gas:0,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 6/20 data:2,gas:0,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 7/20 data:3,gas:0,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 8/20 data:3,gas:0,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 9/20 data:4,gas:0,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 10/20 data:4,gas:0,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 11/20 data:0,gas:1,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 12/20 data:0,gas:1,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 13/20 data:1,gas:1,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 14/20 data:1,gas:1,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 15/20 data:2,gas:1,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 16/20 data:2,gas:1,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 17/20 data:3,gas:1,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 18/20 data:3,gas:1,value:1  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 19/20 data:4,gas:1,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 100/286,0 static_CheckOpcodes5 20/20 data:4,gas:1,value:1  out of gas
+2024-08-21T09:42:36.055Z [PASSED] 100/286,0 static_CheckOpcodes5 1/20 data:0,gas:0,value:0  
+2024-08-21T09:42:36.269Z [PASSED] 100/286,0 static_CheckOpcodes5 2/20 data:0,gas:0,value:1  
+2024-08-21T09:42:36.488Z [PASSED] 100/286,0 static_CheckOpcodes5 3/20 data:1,gas:0,value:0  
+2024-08-21T09:42:36.702Z [PASSED] 100/286,0 static_CheckOpcodes5 4/20 data:1,gas:0,value:1  
+2024-08-21T09:42:36.917Z [PASSED] 100/286,0 static_CheckOpcodes5 5/20 data:2,gas:0,value:0  
+2024-08-21T09:42:37.131Z [PASSED] 100/286,0 static_CheckOpcodes5 6/20 data:2,gas:0,value:1  
+2024-08-21T09:42:37.345Z [PASSED] 100/286,0 static_CheckOpcodes5 7/20 data:3,gas:0,value:0  
+2024-08-21T09:42:37.559Z [PASSED] 100/286,0 static_CheckOpcodes5 8/20 data:3,gas:0,value:1  
+2024-08-21T09:42:37.772Z [PASSED] 100/286,0 static_CheckOpcodes5 9/20 data:4,gas:0,value:0  
+2024-08-21T09:42:37.986Z [PASSED] 100/286,0 static_CheckOpcodes5 10/20 data:4,gas:0,value:1  
+2024-08-21T09:42:38.210Z [PASSED] 100/286,0 static_CheckOpcodes5 11/20 data:0,gas:1,value:0  
+2024-08-21T09:42:38.425Z [PASSED] 100/286,0 static_CheckOpcodes5 12/20 data:0,gas:1,value:1  
+2024-08-21T09:42:38.639Z [PASSED] 100/286,0 static_CheckOpcodes5 13/20 data:1,gas:1,value:0  
+2024-08-21T09:42:38.853Z [PASSED] 100/286,0 static_CheckOpcodes5 14/20 data:1,gas:1,value:1  
+2024-08-21T09:42:39.066Z [PASSED] 100/286,0 static_CheckOpcodes5 15/20 data:2,gas:1,value:0  
+2024-08-21T09:42:39.281Z [PASSED] 100/286,0 static_CheckOpcodes5 16/20 data:2,gas:1,value:1  
+2024-08-21T09:42:39.494Z [PASSED] 100/286,0 static_CheckOpcodes5 17/20 data:3,gas:1,value:0  
+2024-08-21T09:42:39.709Z [PASSED] 100/286,0 static_CheckOpcodes5 18/20 data:3,gas:1,value:1  
+2024-08-21T09:42:39.922Z [PASSED] 100/286,0 static_CheckOpcodes5 19/20 data:4,gas:1,value:0  
+2024-08-21T09:42:40.140Z [PASSED] 100/286,0 static_CheckOpcodes5 20/20 data:4,gas:1,value:1  

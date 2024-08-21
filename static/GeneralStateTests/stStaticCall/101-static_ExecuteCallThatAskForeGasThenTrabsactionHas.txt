@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_ExecuteCallThatAskForeGasThenTrabsactionHas.json
-2024-08-21T02:09:56.233Z [SKIP] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 1/3 data:1,gas:0,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 2/3 data:2,gas:0,value:0  out of gas
-2024-08-21T02:09:56.233Z [SKIP] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 3/3 data:0,gas:0,value:0  out of gas
+2024-08-21T09:42:40.757Z [PASSED] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 1/3 data:1,gas:0,value:0  
+2024-08-21T09:42:40.969Z [PASSED] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 2/3 data:2,gas:0,value:0  
+2024-08-21T09:42:41.182Z [PASSED] 101/286,0 static_ExecuteCallThatAskForeGasThenTrabsactionHas 3/3 data:0,gas:0,value:0  

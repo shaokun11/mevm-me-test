@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcodecall_110_OOGMAfter.json
-2024-08-21T02:09:56.308Z [SKIP] 252/286,0 static_callcodecallcodecall_110_OOGMAfter 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:48:09.233Z [PASSED] 252/286,0 static_callcodecallcodecall_110_OOGMAfter 1/1 data:0,gas:0,value:0  

@@ -2,12 +2,9 @@ export const SKIP_ALL_LABEL = "__all__";
 export const SKIP_ALL_NAME = "__all__";
 
 export const MSG_NOT_IMPLEMENTED_SELFDESTRUCT = "Not implementation SELFDESTRUCT opcode";
-const MSG_DROP_FROM_MOVE_VM = "Will execute long time and dropped from move-vm";
-const MSG_TO_DOUBLE_CHECK = "will execute error, need to double check";
-const MSG_WRONG_TX = "wrong tx";
 const MSG_TIMEOUT = "execute timeout";
 const MSG_OUT_OF_GAS = "out of gas";
-const MSG_ONLY_URN_LOCAL = "only run local";
+const MSG_ONLY_RUN_LOCAL = "only run local";
 const MSG_RLP = "rlp decode error";
 export const MSG_NOT_SUPPORT_BLOB_TX = "Not support blob tx";
 export const MSG_NOT_SUPPORT_BLOB_BASEFEE = "Not support blob basefee opcode";
@@ -19,14 +16,30 @@ export const MOVE_VM_SKIP_BLOB_BASEFEE_KEY = "0x1::evm_for_test: 0x4a";
 export const MOVE_VM_SKIP_KZG_KEY = "0x1::evm_precompile: 0xa";
 export const MOVE_VM_SKIP_BLOB_HASH_KEY = "0x1::evm_for_test: 0x49";
 export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff";
-
-export const IGNORE_TEST = [
+const wrongTx = {
+    path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
+    name: SKIP_ALL_NAME,
+    label: SKIP_ALL_LABEL,
+    comment: MSG_RLP,
+};
+const blobTx = [
     {
-        path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
+        path: "ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
-        comment: MSG_WRONG_TX,
+        comment: MSG_NOT_SUPPORT_BLOB_TX,
     },
+    {
+        path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_NOT_SUPPORT_BLOB_TX,
+    },
+]
+export const IGNORE_TEST = [wrongTx, ...blobTx];
+export const IGNORE_TEST1 = [
+    wrongTx,
+    ...blobTx,
     {
         path: "ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs",
         name: SKIP_ALL_NAME,
@@ -51,12 +64,7 @@ export const IGNORE_TEST = [
         label: SKIP_ALL_LABEL,
         comment: MSG_TIMEOUT,
     },
-    {
-        path: "ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/createBlobhashTx.json",
-        name: SKIP_ALL_NAME,
-        label: SKIP_ALL_LABEL,
-        comment: MSG_NOT_SUPPORT_BLOB_TX,
-    },
+
     {
         path: "ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/21_tstoreCannotBeDosdOOO.json",
         name: SKIP_ALL_NAME,
@@ -97,7 +105,7 @@ export const IGNORE_TEST = [
         path: "ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_identity.json",
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
-        comment: MSG_ONLY_URN_LOCAL,
+        comment: MSG_ONLY_RUN_LOCAL,
     },
     {
         path: "ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_identity2.json",

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/returndatacopy_0_0_following_successful_create.json
-2024-08-21T01:42:23.837Z [PASSED] 45/51,0 returndatacopy_0_0_following_successful_create 1/1 data:0,gas:0,value:0  
+2024-08-21T08:46:08.551Z [PASSED] 45/51,0 returndatacopy_0_0_following_successful_create 1/1 data:0,gas:0,value:0  

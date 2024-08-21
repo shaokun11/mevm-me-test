@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_ReturnTest.json
-2024-08-21T02:09:56.240Z [SKIP] 114/286,0 static_ReturnTest 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:46:21.021Z [PASSED] 114/286,0 static_ReturnTest 1/1 data:0,gas:0,value:0  

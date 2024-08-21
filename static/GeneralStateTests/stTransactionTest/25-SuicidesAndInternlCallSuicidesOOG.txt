@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesAndInternlCallSuicidesOOG.json
-2024-08-21T02:32:49.452Z [PASSED] 25/35,0 SuicidesAndInternlCallSuicidesOOG 1/1 data:0,gas:0,value:0  
+2024-08-21T10:13:36.714Z [PASSED] 25/35,0 SuicidesAndInternlCallSuicidesOOG 1/1 data:0,gas:0,value:0  

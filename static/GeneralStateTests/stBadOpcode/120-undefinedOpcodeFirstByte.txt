@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/undefinedOpcodeFirstByte.json
-2024-08-21T01:40:14.655Z [SKIP] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  Not support blob hash opcode
+2024-08-21T08:43:59.843Z [SKIP] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  Not support blob hash opcode

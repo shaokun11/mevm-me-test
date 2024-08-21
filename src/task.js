@@ -36,11 +36,10 @@ let SENDER_ACCOUNT;
 export async function sendTx(payload) {
     const from = SENDER_ACCOUNT.address();
     // there is one tx need about 60s to finish
-    const timeoutSecs = 5*60;
+    const timeoutSecs = 5 * 60;
     const txnRequest = await client.generateTransaction(from.hexString, payload, {
         expiration_timestamp_secs: timeoutSecs + Math.trunc(Date.now() / 1000),
-        max_gas_amount:2*1e6
-        
+        max_gas_amount: 2 * 1e6,
     });
     const signedTxn = await client.signTransaction(SENDER_ACCOUNT, txnRequest);
     const transactionRes = await client.submitTransaction(signedTxn);
@@ -59,6 +58,9 @@ function toBuffer(hex) {
 }
 
 function isSkip(source, name, index) {
+    if (source.includes("ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json")) {
+        return { skip: true, comment: "wrong tx " };
+    }
     let comment = "";
     const skip = IGNORE_TEST.some((t) => {
         const skip_labels_index = t.label.split(",");
@@ -208,9 +210,9 @@ export async function runTask(opt) {
             } ${label}`;
             const { skip, comment } = isSkip(source, skipCheckName, i + 1);
             if (skip) {
-               const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
-               appendFileSync(summary_file, output + "\n");
-               continue;
+                const output = `${new Date().toISOString()} [SKIP] ${loc} ${comment}`;
+                appendFileSync(summary_file, output + "\n");
+                continue;
             }
             let status = "";
             let msg = "";

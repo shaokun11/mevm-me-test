@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/AmbiguousMethod.json
-2024-08-21T02:08:04.048Z [PASSED] 0/18,0 AmbiguousMethod 1/1 data:0,gas:0,value:0  
+2024-08-21T09:28:21.168Z [PASSED] 0/18,0 AmbiguousMethod 1/1 data:0,gas:0,value:0  

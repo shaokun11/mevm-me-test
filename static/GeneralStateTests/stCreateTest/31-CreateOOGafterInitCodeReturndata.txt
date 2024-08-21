@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterInitCodeReturndata.json
-2024-08-21T01:42:53.581Z [PASSED] 31/47,0 CreateOOGafterInitCodeReturndata 1/2 data:0,gas:0,value:0  
-2024-08-21T01:42:53.799Z [PASSED] 31/47,0 CreateOOGafterInitCodeReturndata 2/2 data:0,gas:1,value:0  
+2024-08-21T08:46:39.925Z [PASSED] 31/47,0 CreateOOGafterInitCodeReturndata 1/2 data:0,gas:0,value:0  
+2024-08-21T08:46:40.140Z [PASSED] 31/47,0 CreateOOGafterInitCodeReturndata 2/2 data:0,gas:1,value:0  

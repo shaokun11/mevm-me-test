@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCreate2/CREATE2_Bounds2.json
-2024-08-21T01:41:35.062Z [PASSED] 1/51,0 CREATE2_Bounds2 1/2 data:0,gas:0,value:0  
-2024-08-21T01:41:35.278Z [PASSED] 1/51,0 CREATE2_Bounds2 2/2 data:0,gas:1,value:0  
+2024-08-21T08:45:19.657Z [PASSED] 1/51,0 CREATE2_Bounds2 1/2 data:0,gas:0,value:0  
+2024-08-21T08:45:19.873Z [PASSED] 1/51,0 CREATE2_Bounds2 2/2 data:0,gas:1,value:0  

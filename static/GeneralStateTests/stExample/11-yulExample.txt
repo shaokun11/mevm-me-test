@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExample/yulExample.json
-2024-08-21T01:53:28.183Z [PASSED] 11/12,0 yulExample 1/1 data:0,gas:0,value:0  
+2024-08-21T08:57:18.508Z [PASSED] 11/12,0 yulExample 1/1 data:0,gas:0,value:0  

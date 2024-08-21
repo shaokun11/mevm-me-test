@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_CallToSuicideNoStorage.json
-2024-08-21T02:03:39.836Z [PASSED] 11/22,0 refund_CallToSuicideNoStorage 1/2 data:0,gas:0,value:0  
-2024-08-21T02:03:40.059Z [SKIP] 11/22,0 refund_CallToSuicideNoStorage 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:23:56.352Z [PASSED] 11/22,0 refund_CallToSuicideNoStorage 1/2 data:0,gas:0,value:0  
+2024-08-21T09:23:56.567Z [SKIP] 11/22,0 refund_CallToSuicideNoStorage 2/2 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode

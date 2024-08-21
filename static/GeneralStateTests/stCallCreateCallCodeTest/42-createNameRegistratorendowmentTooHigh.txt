@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createNameRegistratorendowmentTooHigh.json
-2024-08-21T01:41:00.017Z [PASSED] 42/43,0 createNameRegistratorendowmentTooHigh 1/1 data:0,gas:0,value:0  
+2024-08-21T08:44:46.615Z [PASSED] 42/43,0 createNameRegistratorendowmentTooHigh 1/1 data:0,gas:0,value:0  

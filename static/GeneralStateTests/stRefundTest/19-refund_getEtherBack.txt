@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_getEtherBack.json
-2024-08-21T02:03:42.220Z [PASSED] 19/22,0 refund_getEtherBack 1/1 data:0,gas:0,value:0  
+2024-08-21T09:23:58.924Z [PASSED] 19/22,0 refund_getEtherBack 1/1 data:0,gas:0,value:0  

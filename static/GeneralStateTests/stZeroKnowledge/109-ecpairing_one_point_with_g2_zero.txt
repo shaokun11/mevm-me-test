@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_one_point_with_g2_zero.json
-2024-08-21T02:35:25.280Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 1/4 data:0,gas:0,value:0  
-2024-08-21T02:35:25.494Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 2/4 data:0,gas:1,value:0  
-2024-08-21T02:35:25.707Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 3/4 data:0,gas:2,value:0  
-2024-08-21T02:35:25.922Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 4/4 data:0,gas:3,value:0  
+2024-08-21T10:16:12.166Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 1/4 data:0,gas:0,value:0  
+2024-08-21T10:16:12.379Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 2/4 data:0,gas:1,value:0  
+2024-08-21T10:16:12.592Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 3/4 data:0,gas:2,value:0  
+2024-08-21T10:16:12.805Z [PASSED] 109/134,0 ecpairing_one_point_with_g2_zero 4/4 data:0,gas:3,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest147.json
-2024-08-21T02:01:28.344Z [SKIP] 44/310,0 randomStatetest147 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:21:46.096Z [SKIP] 44/310,0 randomStatetest147 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

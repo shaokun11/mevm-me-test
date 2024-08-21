@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideSendEtherPostDeath.json
-2024-08-21T02:10:27.214Z [SKIP] 64/67,0 suicideSendEtherPostDeath 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:48:56.261Z [SKIP] 64/67,0 suicideSendEtherPostDeath 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

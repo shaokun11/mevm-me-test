@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stSpecialTest/eoaEmptyParis.json
-2024-08-21T02:08:23.284Z [SKIP] 7/15,0 eoaEmptyParis 1/8 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:08:23.499Z [SKIP] 7/15,0 eoaEmptyParis 2/8 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:08:23.718Z [PASSED] 7/15,0 eoaEmptyParis 3/8 data:0,gas:0,value:1  
-2024-08-21T02:08:23.933Z [PASSED] 7/15,0 eoaEmptyParis 4/8 data:1,gas:0,value:1  
-2024-08-21T02:08:24.150Z [SKIP] 7/15,0 eoaEmptyParis 5/8 data:0,gas:1,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:08:24.365Z [SKIP] 7/15,0 eoaEmptyParis 6/8 data:1,gas:1,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:08:24.581Z [SKIP] 7/15,0 eoaEmptyParis 7/8 data:0,gas:1,value:1  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:08:24.797Z [SKIP] 7/15,0 eoaEmptyParis 8/8 data:1,gas:1,value:1  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:41.829Z [SKIP] 7/15,0 eoaEmptyParis 1/8 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:42.048Z [SKIP] 7/15,0 eoaEmptyParis 2/8 data:1,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:42.263Z [PASSED] 7/15,0 eoaEmptyParis 3/8 data:0,gas:0,value:1  
+2024-08-21T09:28:42.479Z [PASSED] 7/15,0 eoaEmptyParis 4/8 data:1,gas:0,value:1  
+2024-08-21T09:28:42.694Z [SKIP] 7/15,0 eoaEmptyParis 5/8 data:0,gas:1,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:42.909Z [SKIP] 7/15,0 eoaEmptyParis 6/8 data:1,gas:1,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:43.127Z [SKIP] 7/15,0 eoaEmptyParis 7/8 data:0,gas:1,value:1  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:28:43.342Z [SKIP] 7/15,0 eoaEmptyParis 8/8 data:1,gas:1,value:1  Not implementation SELFDESTRUCT opcode

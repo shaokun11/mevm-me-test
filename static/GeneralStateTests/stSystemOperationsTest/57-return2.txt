@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/return2.json
-2024-08-21T02:10:25.717Z [PASSED] 57/67,0 return2 1/1 data:0,gas:0,value:0  
+2024-08-21T09:48:54.765Z [PASSED] 57/67,0 return2 1/1 data:0,gas:0,value:0  

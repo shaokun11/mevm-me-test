@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_DELEGATECALL_ToNonNonZeroBalance.json
-2024-08-21T01:56:41.922Z [PASSED] 10/24,0 NonZeroValue_DELEGATECALL_ToNonNonZeroBalance 1/1 data:0,gas:0,value:0  
+2024-08-21T09:03:34.696Z [PASSED] 10/24,0 NonZeroValue_DELEGATECALL_ToNonNonZeroBalance 1/1 data:0,gas:0,value:0  

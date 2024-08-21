@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stExample/labelsExample.json
-2024-08-21T01:53:19.486Z [PASSED] 7/12,0 labelsExample 1/4 data:0,gas:0,value:0 transaction1 
-2024-08-21T01:53:19.703Z [PASSED] 7/12,0 labelsExample 2/4 data:1,gas:0,value:0 transaction2 
-2024-08-21T01:53:19.919Z [PASSED] 7/12,0 labelsExample 3/4 data:2,gas:0,value:0 transaction3 
-2024-08-21T01:53:20.133Z [PASSED] 7/12,0 labelsExample 4/4 data:3,gas:0,value:0 transaction3 
+2024-08-21T08:57:11.849Z [PASSED] 7/12,0 labelsExample 1/4 data:0,gas:0,value:0 transaction1 
+2024-08-21T08:57:12.065Z [PASSED] 7/12,0 labelsExample 2/4 data:1,gas:0,value:0 transaction2 
+2024-08-21T08:57:12.280Z [PASSED] 7/12,0 labelsExample 3/4 data:2,gas:0,value:0 transaction3 
+2024-08-21T08:57:12.494Z [PASSED] 7/12,0 labelsExample 4/4 data:3,gas:0,value:0 transaction3 

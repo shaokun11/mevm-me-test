@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Call1024BalanceTooLow.json
-2024-08-21T01:40:39.067Z [PASSED] 0/43,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  
+2024-08-21T08:44:23.832Z [PASSED] 0/43,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  

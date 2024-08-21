@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/Call10.json
-2024-08-21T02:10:08.447Z [PASSED] 6/67,0 Call10 1/1 data:0,gas:0,value:0  
+2024-08-21T09:48:37.291Z [PASSED] 6/67,0 Call10 1/1 data:0,gas:0,value:0  

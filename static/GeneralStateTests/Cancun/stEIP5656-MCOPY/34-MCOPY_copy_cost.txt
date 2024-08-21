@@ -1,65 +1,65 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json
-2024-08-21T01:16:46.375Z [PASSED] 34/37,0 MCOPY_copy_cost 1/64 data:0,gas:0,value:0 src0_size0 
-2024-08-21T01:16:46.587Z [PASSED] 34/37,0 MCOPY_copy_cost 2/64 data:1,gas:0,value:0 src0_size1 
-2024-08-21T01:16:46.809Z [PASSED] 34/37,0 MCOPY_copy_cost 3/64 data:2,gas:0,value:0 src0_size31 
-2024-08-21T01:16:47.021Z [PASSED] 34/37,0 MCOPY_copy_cost 4/64 data:3,gas:0,value:0 src0_size32 
-2024-08-21T01:16:47.235Z [PASSED] 34/37,0 MCOPY_copy_cost 5/64 data:4,gas:0,value:0 src0_size33 
-2024-08-21T01:16:47.448Z [PASSED] 34/37,0 MCOPY_copy_cost 6/64 data:5,gas:0,value:0 src0_size44767 
-2024-08-21T01:16:47.660Z [PASSED] 34/37,0 MCOPY_copy_cost 7/64 data:6,gas:0,value:0 src0_size44768 
-2024-08-21T01:16:47.876Z [PASSED] 34/37,0 MCOPY_copy_cost 8/64 data:7,gas:0,value:0 src0_size44769 
-2024-08-21T01:16:48.088Z [PASSED] 34/37,0 MCOPY_copy_cost 9/64 data:8,gas:0,value:0 src1_size0 
-2024-08-21T01:16:48.300Z [PASSED] 34/37,0 MCOPY_copy_cost 10/64 data:9,gas:0,value:0 src1_size1 
-2024-08-21T01:16:48.513Z [PASSED] 34/37,0 MCOPY_copy_cost 11/64 data:10,gas:0,value:0 src1_size31 
-2024-08-21T01:16:48.726Z [PASSED] 34/37,0 MCOPY_copy_cost 12/64 data:11,gas:0,value:0 src1_size32 
-2024-08-21T01:16:48.946Z [PASSED] 34/37,0 MCOPY_copy_cost 13/64 data:12,gas:0,value:0 src1_size33 
-2024-08-21T01:16:49.160Z [PASSED] 34/37,0 MCOPY_copy_cost 14/64 data:13,gas:0,value:0 src1_size44767 
-2024-08-21T01:16:49.373Z [PASSED] 34/37,0 MCOPY_copy_cost 15/64 data:14,gas:0,value:0 src1_size44768 
-2024-08-21T01:16:49.585Z [PASSED] 34/37,0 MCOPY_copy_cost 16/64 data:15,gas:0,value:0 src1_size44769 
-2024-08-21T01:16:49.800Z [PASSED] 34/37,0 MCOPY_copy_cost 17/64 data:16,gas:0,value:0 src31_size0 
-2024-08-21T01:16:50.013Z [PASSED] 34/37,0 MCOPY_copy_cost 18/64 data:17,gas:0,value:0 src31_size1 
-2024-08-21T01:16:50.226Z [PASSED] 34/37,0 MCOPY_copy_cost 19/64 data:18,gas:0,value:0 src31_size31 
-2024-08-21T01:16:50.439Z [PASSED] 34/37,0 MCOPY_copy_cost 20/64 data:19,gas:0,value:0 src31_size32 
-2024-08-21T01:16:50.654Z [PASSED] 34/37,0 MCOPY_copy_cost 21/64 data:20,gas:0,value:0 src31_size33 
-2024-08-21T01:16:50.867Z [PASSED] 34/37,0 MCOPY_copy_cost 22/64 data:21,gas:0,value:0 src31_size44767 
-2024-08-21T01:16:51.080Z [PASSED] 34/37,0 MCOPY_copy_cost 23/64 data:22,gas:0,value:0 src31_size44768 
-2024-08-21T01:16:51.293Z [PASSED] 34/37,0 MCOPY_copy_cost 24/64 data:23,gas:0,value:0 src31_size44769 
-2024-08-21T01:16:51.505Z [PASSED] 34/37,0 MCOPY_copy_cost 25/64 data:24,gas:0,value:0 src32_size0 
-2024-08-21T01:16:51.725Z [PASSED] 34/37,0 MCOPY_copy_cost 26/64 data:25,gas:0,value:0 src32_size1 
-2024-08-21T01:16:51.938Z [PASSED] 34/37,0 MCOPY_copy_cost 27/64 data:26,gas:0,value:0 src32_size31 
-2024-08-21T01:16:52.151Z [PASSED] 34/37,0 MCOPY_copy_cost 28/64 data:27,gas:0,value:0 src32_size32 
-2024-08-21T01:16:52.365Z [PASSED] 34/37,0 MCOPY_copy_cost 29/64 data:28,gas:0,value:0 src32_size33 
-2024-08-21T01:16:52.580Z [PASSED] 34/37,0 MCOPY_copy_cost 30/64 data:29,gas:0,value:0 src32_size44767 
-2024-08-21T01:16:52.793Z [PASSED] 34/37,0 MCOPY_copy_cost 31/64 data:30,gas:0,value:0 src32_size44768 
-2024-08-21T01:16:53.006Z [PASSED] 34/37,0 MCOPY_copy_cost 32/64 data:31,gas:0,value:0 src32_size44769 
-2024-08-21T01:16:53.219Z [PASSED] 34/37,0 MCOPY_copy_cost 33/64 data:0,gas:1,value:0  
-2024-08-21T01:16:53.432Z [PASSED] 34/37,0 MCOPY_copy_cost 34/64 data:1,gas:1,value:0  
-2024-08-21T01:16:53.653Z [PASSED] 34/37,0 MCOPY_copy_cost 35/64 data:2,gas:1,value:0  
-2024-08-21T01:16:53.867Z [PASSED] 34/37,0 MCOPY_copy_cost 36/64 data:3,gas:1,value:0  
-2024-08-21T01:16:54.081Z [PASSED] 34/37,0 MCOPY_copy_cost 37/64 data:4,gas:1,value:0  
-2024-08-21T01:16:54.294Z [PASSED] 34/37,0 MCOPY_copy_cost 38/64 data:5,gas:1,value:0  
-2024-08-21T01:16:54.510Z [PASSED] 34/37,0 MCOPY_copy_cost 39/64 data:6,gas:1,value:0  
-2024-08-21T01:16:54.723Z [PASSED] 34/37,0 MCOPY_copy_cost 40/64 data:7,gas:1,value:0  
-2024-08-21T01:16:57.168Z [PASSED] 34/37,0 MCOPY_copy_cost 41/64 data:8,gas:1,value:0  
-2024-08-21T01:16:57.382Z [PASSED] 34/37,0 MCOPY_copy_cost 42/64 data:9,gas:1,value:0  
-2024-08-21T01:16:57.604Z [PASSED] 34/37,0 MCOPY_copy_cost 43/64 data:10,gas:1,value:0  
-2024-08-21T01:16:57.817Z [PASSED] 34/37,0 MCOPY_copy_cost 44/64 data:11,gas:1,value:0  
-2024-08-21T01:16:58.030Z [PASSED] 34/37,0 MCOPY_copy_cost 45/64 data:12,gas:1,value:0  
-2024-08-21T01:16:58.244Z [PASSED] 34/37,0 MCOPY_copy_cost 46/64 data:16,gas:1,value:0  
-2024-08-21T01:16:58.458Z [PASSED] 34/37,0 MCOPY_copy_cost 47/64 data:17,gas:1,value:0  
-2024-08-21T01:16:58.671Z [PASSED] 34/37,0 MCOPY_copy_cost 48/64 data:18,gas:1,value:0  
-2024-08-21T01:16:58.885Z [PASSED] 34/37,0 MCOPY_copy_cost 49/64 data:19,gas:1,value:0  
-2024-08-21T01:16:59.099Z [PASSED] 34/37,0 MCOPY_copy_cost 50/64 data:20,gas:1,value:0  
-2024-08-21T01:16:59.315Z [PASSED] 34/37,0 MCOPY_copy_cost 51/64 data:24,gas:1,value:0  
-2024-08-21T01:16:59.535Z [PASSED] 34/37,0 MCOPY_copy_cost 52/64 data:25,gas:1,value:0  
-2024-08-21T01:16:59.749Z [PASSED] 34/37,0 MCOPY_copy_cost 53/64 data:26,gas:1,value:0  
-2024-08-21T01:16:59.961Z [PASSED] 34/37,0 MCOPY_copy_cost 54/64 data:27,gas:1,value:0  
-2024-08-21T01:17:00.175Z [PASSED] 34/37,0 MCOPY_copy_cost 55/64 data:28,gas:1,value:0  
-2024-08-21T01:17:00.388Z [PASSED] 34/37,0 MCOPY_copy_cost 56/64 data:13,gas:1,value:0  
-2024-08-21T01:17:00.602Z [PASSED] 34/37,0 MCOPY_copy_cost 57/64 data:14,gas:1,value:0  
-2024-08-21T01:17:00.816Z [PASSED] 34/37,0 MCOPY_copy_cost 58/64 data:15,gas:1,value:0  
-2024-08-21T01:17:01.029Z [PASSED] 34/37,0 MCOPY_copy_cost 59/64 data:21,gas:1,value:0  
-2024-08-21T01:17:01.246Z [PASSED] 34/37,0 MCOPY_copy_cost 60/64 data:22,gas:1,value:0  
-2024-08-21T01:17:01.460Z [PASSED] 34/37,0 MCOPY_copy_cost 61/64 data:23,gas:1,value:0  
-2024-08-21T01:17:01.673Z [PASSED] 34/37,0 MCOPY_copy_cost 62/64 data:29,gas:1,value:0  
-2024-08-21T01:17:01.885Z [PASSED] 34/37,0 MCOPY_copy_cost 63/64 data:30,gas:1,value:0  
-2024-08-21T01:17:02.098Z [PASSED] 34/37,0 MCOPY_copy_cost 64/64 data:31,gas:1,value:0  
+2024-08-21T07:59:06.123Z [PASSED] 34/37,0 MCOPY_copy_cost 1/64 data:0,gas:0,value:0 src0_size0 
+2024-08-21T07:59:06.343Z [PASSED] 34/37,0 MCOPY_copy_cost 2/64 data:1,gas:0,value:0 src0_size1 
+2024-08-21T07:59:06.557Z [PASSED] 34/37,0 MCOPY_copy_cost 3/64 data:2,gas:0,value:0 src0_size31 
+2024-08-21T07:59:06.771Z [PASSED] 34/37,0 MCOPY_copy_cost 4/64 data:3,gas:0,value:0 src0_size32 
+2024-08-21T07:59:06.984Z [PASSED] 34/37,0 MCOPY_copy_cost 5/64 data:4,gas:0,value:0 src0_size33 
+2024-08-21T07:59:07.403Z [PASSED] 34/37,0 MCOPY_copy_cost 6/64 data:5,gas:0,value:0 src0_size44767 
+2024-08-21T07:59:07.617Z [PASSED] 34/37,0 MCOPY_copy_cost 7/64 data:6,gas:0,value:0 src0_size44768 
+2024-08-21T07:59:07.829Z [PASSED] 34/37,0 MCOPY_copy_cost 8/64 data:7,gas:0,value:0 src0_size44769 
+2024-08-21T07:59:08.042Z [PASSED] 34/37,0 MCOPY_copy_cost 9/64 data:8,gas:0,value:0 src1_size0 
+2024-08-21T07:59:08.256Z [PASSED] 34/37,0 MCOPY_copy_cost 10/64 data:9,gas:0,value:0 src1_size1 
+2024-08-21T07:59:08.469Z [PASSED] 34/37,0 MCOPY_copy_cost 11/64 data:10,gas:0,value:0 src1_size31 
+2024-08-21T07:59:08.682Z [PASSED] 34/37,0 MCOPY_copy_cost 12/64 data:11,gas:0,value:0 src1_size32 
+2024-08-21T07:59:08.895Z [PASSED] 34/37,0 MCOPY_copy_cost 13/64 data:12,gas:0,value:0 src1_size33 
+2024-08-21T07:59:09.109Z [PASSED] 34/37,0 MCOPY_copy_cost 14/64 data:13,gas:0,value:0 src1_size44767 
+2024-08-21T07:59:09.323Z [PASSED] 34/37,0 MCOPY_copy_cost 15/64 data:14,gas:0,value:0 src1_size44768 
+2024-08-21T07:59:09.536Z [PASSED] 34/37,0 MCOPY_copy_cost 16/64 data:15,gas:0,value:0 src1_size44769 
+2024-08-21T07:59:09.749Z [PASSED] 34/37,0 MCOPY_copy_cost 17/64 data:16,gas:0,value:0 src31_size0 
+2024-08-21T07:59:09.962Z [PASSED] 34/37,0 MCOPY_copy_cost 18/64 data:17,gas:0,value:0 src31_size1 
+2024-08-21T07:59:10.181Z [PASSED] 34/37,0 MCOPY_copy_cost 19/64 data:18,gas:0,value:0 src31_size31 
+2024-08-21T07:59:10.394Z [PASSED] 34/37,0 MCOPY_copy_cost 20/64 data:19,gas:0,value:0 src31_size32 
+2024-08-21T07:59:10.607Z [PASSED] 34/37,0 MCOPY_copy_cost 21/64 data:20,gas:0,value:0 src31_size33 
+2024-08-21T07:59:10.820Z [PASSED] 34/37,0 MCOPY_copy_cost 22/64 data:21,gas:0,value:0 src31_size44767 
+2024-08-21T07:59:11.035Z [PASSED] 34/37,0 MCOPY_copy_cost 23/64 data:22,gas:0,value:0 src31_size44768 
+2024-08-21T07:59:11.247Z [PASSED] 34/37,0 MCOPY_copy_cost 24/64 data:23,gas:0,value:0 src31_size44769 
+2024-08-21T07:59:11.459Z [PASSED] 34/37,0 MCOPY_copy_cost 25/64 data:24,gas:0,value:0 src32_size0 
+2024-08-21T07:59:11.672Z [PASSED] 34/37,0 MCOPY_copy_cost 26/64 data:25,gas:0,value:0 src32_size1 
+2024-08-21T07:59:11.887Z [PASSED] 34/37,0 MCOPY_copy_cost 27/64 data:26,gas:0,value:0 src32_size31 
+2024-08-21T07:59:12.101Z [PASSED] 34/37,0 MCOPY_copy_cost 28/64 data:27,gas:0,value:0 src32_size32 
+2024-08-21T07:59:12.314Z [PASSED] 34/37,0 MCOPY_copy_cost 29/64 data:28,gas:0,value:0 src32_size33 
+2024-08-21T07:59:12.527Z [PASSED] 34/37,0 MCOPY_copy_cost 30/64 data:29,gas:0,value:0 src32_size44767 
+2024-08-21T07:59:12.740Z [PASSED] 34/37,0 MCOPY_copy_cost 31/64 data:30,gas:0,value:0 src32_size44768 
+2024-08-21T07:59:12.958Z [PASSED] 34/37,0 MCOPY_copy_cost 32/64 data:31,gas:0,value:0 src32_size44769 
+2024-08-21T07:59:13.171Z [PASSED] 34/37,0 MCOPY_copy_cost 33/64 data:0,gas:1,value:0  
+2024-08-21T07:59:13.384Z [PASSED] 34/37,0 MCOPY_copy_cost 34/64 data:1,gas:1,value:0  
+2024-08-21T07:59:13.598Z [PASSED] 34/37,0 MCOPY_copy_cost 35/64 data:2,gas:1,value:0  
+2024-08-21T07:59:13.822Z [PASSED] 34/37,0 MCOPY_copy_cost 36/64 data:3,gas:1,value:0  
+2024-08-21T07:59:14.035Z [PASSED] 34/37,0 MCOPY_copy_cost 37/64 data:4,gas:1,value:0  
+2024-08-21T07:59:14.248Z [PASSED] 34/37,0 MCOPY_copy_cost 38/64 data:5,gas:1,value:0  
+2024-08-21T07:59:14.461Z [PASSED] 34/37,0 MCOPY_copy_cost 39/64 data:6,gas:1,value:0  
+2024-08-21T07:59:14.673Z [PASSED] 34/37,0 MCOPY_copy_cost 40/64 data:7,gas:1,value:0  
+2024-08-21T07:59:14.886Z [PASSED] 34/37,0 MCOPY_copy_cost 41/64 data:8,gas:1,value:0  
+2024-08-21T07:59:15.099Z [PASSED] 34/37,0 MCOPY_copy_cost 42/64 data:9,gas:1,value:0  
+2024-08-21T07:59:15.313Z [PASSED] 34/37,0 MCOPY_copy_cost 43/64 data:10,gas:1,value:0  
+2024-08-21T07:59:15.732Z [PASSED] 34/37,0 MCOPY_copy_cost 44/64 data:11,gas:1,value:0  
+2024-08-21T07:59:15.948Z [PASSED] 34/37,0 MCOPY_copy_cost 45/64 data:12,gas:1,value:0  
+2024-08-21T07:59:16.173Z [PASSED] 34/37,0 MCOPY_copy_cost 46/64 data:16,gas:1,value:0  
+2024-08-21T07:59:16.388Z [PASSED] 34/37,0 MCOPY_copy_cost 47/64 data:17,gas:1,value:0  
+2024-08-21T07:59:16.601Z [PASSED] 34/37,0 MCOPY_copy_cost 48/64 data:18,gas:1,value:0  
+2024-08-21T07:59:16.814Z [PASSED] 34/37,0 MCOPY_copy_cost 49/64 data:19,gas:1,value:0  
+2024-08-21T07:59:17.027Z [PASSED] 34/37,0 MCOPY_copy_cost 50/64 data:20,gas:1,value:0  
+2024-08-21T07:59:17.241Z [PASSED] 34/37,0 MCOPY_copy_cost 51/64 data:24,gas:1,value:0  
+2024-08-21T07:59:17.455Z [PASSED] 34/37,0 MCOPY_copy_cost 52/64 data:25,gas:1,value:0  
+2024-08-21T07:59:17.669Z [PASSED] 34/37,0 MCOPY_copy_cost 53/64 data:26,gas:1,value:0  
+2024-08-21T07:59:17.890Z [PASSED] 34/37,0 MCOPY_copy_cost 54/64 data:27,gas:1,value:0  
+2024-08-21T07:59:18.103Z [PASSED] 34/37,0 MCOPY_copy_cost 55/64 data:28,gas:1,value:0  
+2024-08-21T07:59:18.316Z [PASSED] 34/37,0 MCOPY_copy_cost 56/64 data:13,gas:1,value:0  
+2024-08-21T07:59:18.529Z [PASSED] 34/37,0 MCOPY_copy_cost 57/64 data:14,gas:1,value:0  
+2024-08-21T07:59:18.741Z [PASSED] 34/37,0 MCOPY_copy_cost 58/64 data:15,gas:1,value:0  
+2024-08-21T07:59:18.954Z [PASSED] 34/37,0 MCOPY_copy_cost 59/64 data:21,gas:1,value:0  
+2024-08-21T07:59:19.167Z [PASSED] 34/37,0 MCOPY_copy_cost 60/64 data:22,gas:1,value:0  
+2024-08-21T07:59:19.379Z [PASSED] 34/37,0 MCOPY_copy_cost 61/64 data:23,gas:1,value:0  
+2024-08-21T07:59:19.594Z [PASSED] 34/37,0 MCOPY_copy_cost 62/64 data:29,gas:1,value:0  
+2024-08-21T07:59:19.810Z [PASSED] 34/37,0 MCOPY_copy_cost 63/64 data:30,gas:1,value:0  
+2024-08-21T07:59:20.022Z [PASSED] 34/37,0 MCOPY_copy_cost 64/64 data:31,gas:1,value:0  

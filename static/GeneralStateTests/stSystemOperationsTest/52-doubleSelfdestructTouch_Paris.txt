@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/doubleSelfdestructTouch_Paris.json
-2024-08-21T02:10:23.354Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 1/3 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:10:23.568Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 2/3 data:0,gas:0,value:1  Not implementation SELFDESTRUCT opcode
-2024-08-21T02:10:23.782Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 3/3 data:0,gas:0,value:2  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:48:52.386Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 1/3 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:48:52.600Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 2/3 data:0,gas:0,value:1  Not implementation SELFDESTRUCT opcode
+2024-08-21T09:48:52.815Z [SKIP] 52/67,0 doubleSelfdestructTouch_Paris 3/3 data:0,gas:0,value:2  Not implementation SELFDESTRUCT opcode

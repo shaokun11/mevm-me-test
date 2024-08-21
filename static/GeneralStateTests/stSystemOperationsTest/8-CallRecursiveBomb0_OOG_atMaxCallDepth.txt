@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBomb0_OOG_atMaxCallDepth.json
-2024-08-21T02:10:10.496Z [PASSED] 8/67,0 CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  
+2024-08-21T09:48:39.342Z [PASSED] 8/67,0 CallRecursiveBomb0_OOG_atMaxCallDepth 1/1 data:0,gas:0,value:0  

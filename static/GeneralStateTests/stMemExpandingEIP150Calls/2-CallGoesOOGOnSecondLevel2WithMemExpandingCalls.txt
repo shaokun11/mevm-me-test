@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/CallGoesOOGOnSecondLevel2WithMemExpandingCalls.json
-2024-08-21T01:54:00.898Z [PASSED] 2/9,0 CallGoesOOGOnSecondLevel2WithMemExpandingCalls 1/1 data:0,gas:0,value:0  
+2024-08-21T08:57:53.678Z [PASSED] 2/9,0 CallGoesOOGOnSecondLevel2WithMemExpandingCalls 1/1 data:0,gas:0,value:0  

@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/operationDiffGas.json
-2024-08-21T01:40:09.061Z [PASSED] 119/121,0 operationDiffGas 1/11 data:0,gas:0,value:0 CREATE 
-2024-08-21T01:40:09.879Z [PASSED] 119/121,0 operationDiffGas 2/11 data:1,gas:0,value:0 CREATE2 
-2024-08-21T01:40:12.324Z [PASSED] 119/121,0 operationDiffGas 3/11 data:2,gas:0,value:0 CALL 
-2024-08-21T01:40:12.538Z [PASSED] 119/121,0 operationDiffGas 4/11 data:3,gas:0,value:0 CALLCODE 
-2024-08-21T01:40:12.751Z [PASSED] 119/121,0 operationDiffGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
-2024-08-21T01:40:12.963Z [PASSED] 119/121,0 operationDiffGas 6/11 data:5,gas:0,value:0 STATICCALL 
-2024-08-21T01:40:13.176Z [PASSED] 119/121,0 operationDiffGas 7/11 data:6,gas:0,value:0 MLOAD 
-2024-08-21T01:40:13.591Z [PASSED] 119/121,0 operationDiffGas 8/11 data:7,gas:0,value:0 MSTORE 
-2024-08-21T01:40:13.804Z [PASSED] 119/121,0 operationDiffGas 9/11 data:8,gas:0,value:0 MSTORE8 
-2024-08-21T01:40:14.020Z [PASSED] 119/121,0 operationDiffGas 10/11 data:10,gas:0,value:0 SHA3 
-2024-08-21T01:40:14.434Z [PASSED] 119/121,0 operationDiffGas 11/11 data:9,gas:0,value:0 EXTCODE 
+2024-08-21T08:43:56.273Z [PASSED] 119/121,0 operationDiffGas 1/11 data:0,gas:0,value:0 CREATE 
+2024-08-21T08:43:57.293Z [PASSED] 119/121,0 operationDiffGas 2/11 data:1,gas:0,value:0 CREATE2 
+2024-08-21T08:43:57.506Z [PASSED] 119/121,0 operationDiffGas 3/11 data:2,gas:0,value:0 CALL 
+2024-08-21T08:43:57.719Z [PASSED] 119/121,0 operationDiffGas 4/11 data:3,gas:0,value:0 CALLCODE 
+2024-08-21T08:43:57.932Z [PASSED] 119/121,0 operationDiffGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
+2024-08-21T08:43:58.144Z [PASSED] 119/121,0 operationDiffGas 6/11 data:5,gas:0,value:0 STATICCALL 
+2024-08-21T08:43:58.558Z [PASSED] 119/121,0 operationDiffGas 7/11 data:6,gas:0,value:0 MLOAD 
+2024-08-21T08:43:58.771Z [PASSED] 119/121,0 operationDiffGas 8/11 data:7,gas:0,value:0 MSTORE 
+2024-08-21T08:43:58.992Z [PASSED] 119/121,0 operationDiffGas 9/11 data:8,gas:0,value:0 MSTORE8 
+2024-08-21T08:43:59.206Z [PASSED] 119/121,0 operationDiffGas 10/11 data:10,gas:0,value:0 SHA3 
+2024-08-21T08:43:59.622Z [PASSED] 119/121,0 operationDiffGas 11/11 data:9,gas:0,value:0 EXTCODE 

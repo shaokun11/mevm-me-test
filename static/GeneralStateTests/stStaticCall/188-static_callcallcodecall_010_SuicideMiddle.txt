@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010_SuicideMiddle.json
-2024-08-21T02:09:56.277Z [SKIP] 188/286,0 static_callcallcodecall_010_SuicideMiddle 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:47:27.421Z [SKIP] 188/286,0 static_callcallcodecall_010_SuicideMiddle 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

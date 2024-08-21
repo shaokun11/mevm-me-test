@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcodecall_010.json
-2024-08-21T02:09:56.271Z [SKIP] 176/286,0 static_callcallcodecall_010 1/1 data:0,gas:0,value:0  out of gas
+2024-08-21T09:47:06.174Z [PASSED] 176/286,0 static_callcallcodecall_010 1/1 data:0,gas:0,value:0  

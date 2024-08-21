@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/CallLoseGasOOG.json
-2024-08-21T01:43:46.812Z [PASSED] 3/28,0 CallLoseGasOOG 1/1 data:0,gas:0,value:0  
+2024-08-21T08:47:30.965Z [PASSED] 3/28,0 CallLoseGasOOG 1/1 data:0,gas:0,value:0  

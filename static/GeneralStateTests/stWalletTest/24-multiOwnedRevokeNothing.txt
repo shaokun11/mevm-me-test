@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedRevokeNothing.json
-2024-08-21T02:32:59.520Z [PASSED] 24/42,0 multiOwnedRevokeNothing 1/1 data:0,gas:0,value:0  
+2024-08-21T10:13:48.797Z [PASSED] 24/42,0 multiOwnedRevokeNothing 1/1 data:0,gas:0,value:0  

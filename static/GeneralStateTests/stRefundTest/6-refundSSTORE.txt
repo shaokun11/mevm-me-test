@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refundSSTORE.json
-2024-08-21T02:03:38.541Z [PASSED] 6/22,0 refundSSTORE 1/1 data:0,gas:0,value:0  
+2024-08-21T09:23:55.061Z [PASSED] 6/22,0 refundSSTORE 1/1 data:0,gas:0,value:0  

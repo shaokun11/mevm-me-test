@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeCalls.json
-2024-08-21T02:04:55.840Z [PASSED] 16/46,0 RevertOpcodeCalls 1/8 data:0,gas:0,value:0  
-2024-08-21T02:04:56.055Z [PASSED] 16/46,0 RevertOpcodeCalls 2/8 data:0,gas:1,value:0  
-2024-08-21T02:04:56.267Z [PASSED] 16/46,0 RevertOpcodeCalls 3/8 data:1,gas:0,value:0  
-2024-08-21T02:04:56.490Z [PASSED] 16/46,0 RevertOpcodeCalls 4/8 data:1,gas:1,value:0  
-2024-08-21T02:04:56.704Z [PASSED] 16/46,0 RevertOpcodeCalls 5/8 data:2,gas:0,value:0  
-2024-08-21T02:04:56.917Z [PASSED] 16/46,0 RevertOpcodeCalls 6/8 data:2,gas:1,value:0  
-2024-08-21T02:04:57.132Z [PASSED] 16/46,0 RevertOpcodeCalls 7/8 data:3,gas:0,value:0  
-2024-08-21T02:04:57.346Z [PASSED] 16/46,0 RevertOpcodeCalls 8/8 data:3,gas:1,value:0  
+2024-08-21T09:25:13.361Z [PASSED] 16/46,0 RevertOpcodeCalls 1/8 data:0,gas:0,value:0  
+2024-08-21T09:25:13.579Z [PASSED] 16/46,0 RevertOpcodeCalls 2/8 data:0,gas:1,value:0  
+2024-08-21T09:25:13.796Z [PASSED] 16/46,0 RevertOpcodeCalls 3/8 data:1,gas:0,value:0  
+2024-08-21T09:25:14.013Z [PASSED] 16/46,0 RevertOpcodeCalls 4/8 data:1,gas:1,value:0  
+2024-08-21T09:25:14.229Z [PASSED] 16/46,0 RevertOpcodeCalls 5/8 data:2,gas:0,value:0  
+2024-08-21T09:25:14.444Z [PASSED] 16/46,0 RevertOpcodeCalls 6/8 data:2,gas:1,value:0  
+2024-08-21T09:25:14.659Z [PASSED] 16/46,0 RevertOpcodeCalls 7/8 data:3,gas:0,value:0  
+2024-08-21T09:25:14.875Z [PASSED] 16/46,0 RevertOpcodeCalls 8/8 data:3,gas:1,value:0  

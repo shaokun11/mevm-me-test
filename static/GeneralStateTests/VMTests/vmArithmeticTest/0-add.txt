@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json
-2024-08-21T01:18:44.330Z [PASSED] 0/64,0 add 1/5 data:0,gas:0,value:0 add_neg1_neg1 
-2024-08-21T01:18:44.548Z [PASSED] 0/64,0 add 2/5 data:1,gas:0,value:0 add_neg1_4 
-2024-08-21T01:18:44.766Z [PASSED] 0/64,0 add 3/5 data:2,gas:0,value:0 add_neg1_1 
-2024-08-21T01:18:44.986Z [PASSED] 0/64,0 add 4/5 data:3,gas:0,value:0 add_0_0 
-2024-08-21T01:18:45.200Z [PASSED] 0/64,0 add 5/5 data:4,gas:0,value:0 add_1_neg1 
+2024-08-21T08:04:53.238Z [PASSED] 0/64,0 add 1/5 data:0,gas:0,value:0 add_neg1_neg1 
+2024-08-21T08:04:53.457Z [PASSED] 0/64,0 add 2/5 data:1,gas:0,value:0 add_neg1_4 
+2024-08-21T08:04:53.680Z [PASSED] 0/64,0 add 3/5 data:2,gas:0,value:0 add_neg1_1 
+2024-08-21T08:04:53.897Z [PASSED] 0/64,0 add 4/5 data:3,gas:0,value:0 add_0_0 
+2024-08-21T08:04:54.113Z [PASSED] 0/64,0 add 5/5 data:4,gas:0,value:0 add_1_neg1 

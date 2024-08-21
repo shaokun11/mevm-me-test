@@ -1,13 +1,13 @@
 ethereum-tests/GeneralStateTests/stEIP2930/transactionCosts.json
-2024-08-21T01:53:04.238Z [PASSED] 5/7,0 transactionCosts 1/12 data:0,gas:0,value:0 type0 
-2024-08-21T01:53:04.452Z [PASSED] 5/7,0 transactionCosts 2/12 data:1,gas:0,value:0 addrs_0_keys_0 
-2024-08-21T01:53:04.665Z [PASSED] 5/7,0 transactionCosts 3/12 data:2,gas:0,value:0 addrs_1_keys_0 
-2024-08-21T01:53:04.884Z [PASSED] 5/7,0 transactionCosts 4/12 data:3,gas:0,value:0 addrs_1_keys_1 
-2024-08-21T01:53:05.098Z [PASSED] 5/7,0 transactionCosts 5/12 data:4,gas:0,value:0 addrs_1_keys_1 
-2024-08-21T01:53:05.311Z [PASSED] 5/7,0 transactionCosts 6/12 data:5,gas:0,value:0 addrs_1_keys_1 
-2024-08-21T01:53:05.525Z [PASSED] 5/7,0 transactionCosts 7/12 data:6,gas:0,value:0 addrs_1_keys_2 
-2024-08-21T01:53:05.738Z [PASSED] 5/7,0 transactionCosts 8/12 data:10,gas:0,value:0 addrs_2_keys_2 
-2024-08-21T01:53:05.952Z [PASSED] 5/7,0 transactionCosts 9/12 data:7,gas:0,value:0 addrs_2_keys_2 
-2024-08-21T01:53:06.166Z [PASSED] 5/7,0 transactionCosts 10/12 data:8,gas:0,value:0 addrs_2_keys_2 
-2024-08-21T01:53:06.380Z [PASSED] 5/7,0 transactionCosts 11/12 data:9,gas:0,value:0 addrs_1_keys_2 
-2024-08-21T01:53:06.594Z [PASSED] 5/7,0 transactionCosts 12/12 data:11,gas:0,value:0 addrs_10_keys_25 
+2024-08-21T08:56:56.368Z [PASSED] 5/7,0 transactionCosts 1/12 data:0,gas:0,value:0 type0 
+2024-08-21T08:56:56.583Z [PASSED] 5/7,0 transactionCosts 2/12 data:1,gas:0,value:0 addrs_0_keys_0 
+2024-08-21T08:56:56.797Z [PASSED] 5/7,0 transactionCosts 3/12 data:2,gas:0,value:0 addrs_1_keys_0 
+2024-08-21T08:56:57.012Z [PASSED] 5/7,0 transactionCosts 4/12 data:3,gas:0,value:0 addrs_1_keys_1 
+2024-08-21T08:56:57.226Z [PASSED] 5/7,0 transactionCosts 5/12 data:4,gas:0,value:0 addrs_1_keys_1 
+2024-08-21T08:56:57.440Z [PASSED] 5/7,0 transactionCosts 6/12 data:5,gas:0,value:0 addrs_1_keys_1 
+2024-08-21T08:56:57.655Z [PASSED] 5/7,0 transactionCosts 7/12 data:6,gas:0,value:0 addrs_1_keys_2 
+2024-08-21T08:56:57.872Z [PASSED] 5/7,0 transactionCosts 8/12 data:10,gas:0,value:0 addrs_2_keys_2 
+2024-08-21T08:56:58.089Z [PASSED] 5/7,0 transactionCosts 9/12 data:7,gas:0,value:0 addrs_2_keys_2 
+2024-08-21T08:56:58.305Z [PASSED] 5/7,0 transactionCosts 10/12 data:8,gas:0,value:0 addrs_2_keys_2 
+2024-08-21T08:56:58.519Z [PASSED] 5/7,0 transactionCosts 11/12 data:9,gas:0,value:0 addrs_1_keys_2 
+2024-08-21T08:56:58.735Z [PASSED] 5/7,0 transactionCosts 12/12 data:11,gas:0,value:0 addrs_10_keys_25 

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stBugs/randomStatetestDEFAULT-Tue_07_58_41-15153-575192.json
-2024-08-21T01:40:15.387Z [SKIP] 1/5,0 randomStatetestDEFAULT-Tue_07_58_41-15153-575192 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
+2024-08-21T08:44:00.580Z [SKIP] 1/5,0 randomStatetestDEFAULT-Tue_07_58_41-15153-575192 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode
