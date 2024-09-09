@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/add.json
-2024-08-21T08:04:53.238Z [PASSED] 0/64,0 add 1/5 data:0,gas:0,value:0 add_neg1_neg1 
-2024-08-21T08:04:53.457Z [PASSED] 0/64,0 add 2/5 data:1,gas:0,value:0 add_neg1_4 
-2024-08-21T08:04:53.680Z [PASSED] 0/64,0 add 3/5 data:2,gas:0,value:0 add_neg1_1 
-2024-08-21T08:04:53.897Z [PASSED] 0/64,0 add 4/5 data:3,gas:0,value:0 add_0_0 
-2024-08-21T08:04:54.113Z [PASSED] 0/64,0 add 5/5 data:4,gas:0,value:0 add_1_neg1 
+2024-09-09T07:38:54.802Z [FAILED] 0/64,0 add 1/5 data:0,gas:0,value:0 add_neg1_neg1 {"error":"Execution failed in 0x1::evm_for_test_v2::run_test at code offset 50","hash":"0x80f02cf0aa6035a88ff7891319a6329a98b428cd1cdb1c6bc91eded5189003db","expected":"0x62108b638acc2df76b8882f5187ca314668c9fb3f81e9cf26b108e5c609ca1b8"}
+2024-09-09T07:38:55.019Z [FAILED] 0/64,0 add 2/5 data:1,gas:0,value:0 add_neg1_4 {"error":"Execution failed in 0x1::evm_for_test_v2::run_test at code offset 50","hash":"0x7a059b3a5e0df92362d85e9410077f66f958212826fe87275ff2a899b52db462","expected":"0xfc12cfd59f71898fc785cb45d3081f94900a4c0cfecb506cb83ddbc831ba70a2"}
+2024-09-09T07:38:55.237Z [FAILED] 0/64,0 add 3/5 data:2,gas:0,value:0 add_neg1_1 {"error":"Execution failed in 0x1::evm_for_test_v2::run_test at code offset 50","hash":"0x1d307c77be8480d7c57096c4713c86f830ac6e4b192f4cd4678f5fea17c2dcae","expected":"0xaea5a57fbff90e98d63b3f80a86aa78fa79da7b00d0a17e50669f7d086625724"}
+2024-09-09T07:38:55.454Z [FAILED] 0/64,0 add 4/5 data:3,gas:0,value:0 add_0_0 {"error":"Execution failed in 0x1::evm_for_test_v2::run_test at code offset 50","hash":"0x56b30d707e16b831fdc0f836d340ef43b8eb579010573298b91dc9c178d3e3e6","expected":"0xaea5a57fbff90e98d63b3f80a86aa78fa79da7b00d0a17e50669f7d086625724"}
+2024-09-09T07:38:55.671Z [FAILED] 0/64,0 add 5/5 data:4,gas:0,value:0 add_1_neg1 {"error":"Execution failed in 0x1::evm_for_test_v2::run_test at code offset 50","hash":"0x65831b65460ba05317607a8a12f6ff574e9b6687674241c637f4aadb520d34ed","expected":"0xaea5a57fbff90e98d63b3f80a86aa78fa79da7b00d0a17e50669f7d086625724"}

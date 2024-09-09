@@ -1,2 +1,1 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/15_tstoreCannotBeDosd.json
-2024-08-21T07:57:19.904Z [PASSED] 14/37,0 15_tstoreCannotBeDosd 1/1 data:0,gas:0,value:0  

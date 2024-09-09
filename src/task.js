@@ -167,7 +167,7 @@ export async function runTask(opt) {
         for (let i = 0; i < post.length; i++) {
             const indexes = post[i].indexes;
             const gasPrice = [];
-            const txType = tx.gasPrice ? 0 : 1;
+            const txType = tx.gasPrice ? 1 : 2;
             if (tx.gasPrice) {
                 gasPrice.push(toBuffer(tx.gasPrice));
             } else {
@@ -182,7 +182,7 @@ export async function runTask(opt) {
                 access_storage_keys.push(item.storageKeys.map((k) => toBuffer(k)));
             }
             const payload = {
-                function: `0x1::evm_for_test::run_test`,
+                function: `0x1::evm_for_test_v2::run_test`,
                 type_arguments: [],
                 arguments: [
                     addresses,
@@ -221,7 +221,7 @@ export async function runTask(opt) {
                     const res = await sendTx(payload);
                     if (res.success) {
                         const root_data = res.events.find(
-                            (e) => e.type === "0x1::evm_for_test::ExecResultEvent"
+                            (e) => e.type === "0x1::evm_for_test_v2::ExecResultEvent"
                         );
                         t.equals(root_data.data.state_root, post[i].hash);
 
