@@ -4,16 +4,8 @@ import tape from "tape";
 import { SENDER_ACCOUNTS, TEST_FORK } from "./comm.js";
 import {
     IGNORE_TEST,
-    MOVE_VM_SKIP_BLOB_BASEFEE_KEY,
-    MOVE_VM_SKIP_BLOB_HASH_KEY,
-    MOVE_VM_SKIP_BLOB_KEY,
-    MOVE_VM_SKIP_KZG_KEY,
-    MOVE_VM_SKIP_SELFDESTRUCT_KEY,
-    MSG_NOT_IMPLEMENTED_SELFDESTRUCT,
-    MSG_NOT_SUPPORT_BLOB_BASEFEE,
-    MSG_NOT_SUPPORT_BLOB_HASH,
-    MSG_NOT_SUPPORT_BLOB_TX,
-    MSG_NOT_SUPPORT_OPCODE_KZG,
+    MOVE_VM_OPCODE_NOT_SUPPORT,
+    MSG_NOT_SUPPORT_OPCODE,
     SKIP_ALL_LABEL,
     SKIP_ALL_NAME,
 } from "./skip.js";
@@ -236,26 +228,10 @@ export async function runTask(opt) {
                             });
                         }
                     } else {
-                        if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_KEY)) {
+                        if (res.vm_status.includes(MOVE_VM_OPCODE_NOT_SUPPORT)) {
                             status = RUN_STATUS.SKIP;
-                            msg = MSG_NOT_SUPPORT_BLOB_TX;
-                            t.ok(1, MSG_NOT_SUPPORT_BLOB_TX);
-                        } else if (res.vm_status.includes(MOVE_VM_SKIP_SELFDESTRUCT_KEY)) {
-                            status = RUN_STATUS.SKIP;
-                            msg = MSG_NOT_IMPLEMENTED_SELFDESTRUCT;
-                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
-                        } else if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_HASH_KEY)) {
-                            status = RUN_STATUS.SKIP;
-                            msg = MSG_NOT_SUPPORT_BLOB_HASH;
-                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
-                        } else if (res.vm_status.includes(MOVE_VM_SKIP_BLOB_BASEFEE_KEY)) {
-                            status = RUN_STATUS.SKIP;
-                            msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
-                            t.ok(1, MSG_NOT_IMPLEMENTED_SELFDESTRUCT);
-                        } else if (res.vm_status.includes(MOVE_VM_SKIP_KZG_KEY)) {
-                            status = RUN_STATUS.SKIP;
-                            msg = MSG_NOT_SUPPORT_BLOB_BASEFEE;
-                            t.ok(1, MSG_NOT_SUPPORT_OPCODE_KZG);
+                            msg = MSG_NOT_SUPPORT_OPCODE;
+                            t.ok(1, MSG_NOT_SUPPORT_OPCODE);
                         } else {
                             t.fail(res.vm_status);
                             status += RUN_STATUS.FAILED;

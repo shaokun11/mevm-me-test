@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip7516_blobgasfee/blobbasefee_stack_overflow.json
+2024-09-10T16:07:53.327Z [SKIP] 49/66,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip7516_blobgasfee/test_blobgasfee_opcode.py::test_blobbasefee_stack_overflow[fork_Cancun-state_test-no_stack_overflow] 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-10T16:07:53.541Z [SKIP] 49/66,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip7516_blobgasfee/test_blobgasfee_opcode.py::test_blobbasefee_stack_overflow[fork_Cancun-state_test-stack_overflow] 1/1 data:0,gas:0,value:0  Not support opcode
