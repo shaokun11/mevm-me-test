@@ -1,1 +1,21 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY.json
+2024-09-09T16:39:59.192Z [PASSED] 33/37,0 MCOPY 1/20 data:0,gas:0,value:0 forward_size0_0 
+2024-09-09T16:39:59.405Z [PASSED] 33/37,0 MCOPY 2/20 data:1,gas:0,value:0 forward_size0_1 
+2024-09-09T16:39:59.617Z [PASSED] 33/37,0 MCOPY 3/20 data:2,gas:0,value:0 backward_size0_0 
+2024-09-09T16:39:59.829Z [PASSED] 33/37,0 MCOPY 4/20 data:3,gas:0,value:0 backward_size0_1 
+2024-09-09T16:40:00.040Z [PASSED] 33/37,0 MCOPY 5/20 data:4,gas:0,value:0 inplace_size0_0 
+2024-09-09T16:40:00.258Z [PASSED] 33/37,0 MCOPY 6/20 data:5,gas:0,value:0 inplace_size0_1 
+2024-09-09T16:40:00.470Z [PASSED] 33/37,0 MCOPY 7/20 data:18,gas:0,value:0 forward_overlapped_0 
+2024-09-09T16:40:00.683Z [PASSED] 33/37,0 MCOPY 8/20 data:19,gas:0,value:0 forward_overlapped_1 
+2024-09-09T16:40:00.895Z [PASSED] 33/37,0 MCOPY 9/20 data:6,gas:0,value:0 forward_disjoint_0 
+2024-09-09T16:40:01.115Z [PASSED] 33/37,0 MCOPY 10/20 data:7,gas:0,value:0 forward_disjoint_1 
+2024-09-09T16:40:01.328Z [PASSED] 33/37,0 MCOPY 11/20 data:8,gas:0,value:0 forward_adjacent_0 
+2024-09-09T16:40:01.540Z [PASSED] 33/37,0 MCOPY 12/20 data:9,gas:0,value:0 forward_adjacent_1 
+2024-09-09T16:40:01.752Z [PASSED] 33/37,0 MCOPY 13/20 data:10,gas:0,value:0 backward_overlapped_0 
+2024-09-09T16:40:02.175Z [PASSED] 33/37,0 MCOPY 14/20 data:11,gas:0,value:0 backward_overlapped_1 
+2024-09-09T16:40:02.387Z [PASSED] 33/37,0 MCOPY 15/20 data:12,gas:0,value:0 backward_disjoint_0 
+2024-09-09T16:40:02.599Z [PASSED] 33/37,0 MCOPY 16/20 data:13,gas:0,value:0 backward_disjoint_1 
+2024-09-09T16:40:02.811Z [PASSED] 33/37,0 MCOPY 17/20 data:14,gas:0,value:0 backward_adjacent_0 
+2024-09-09T16:40:03.028Z [PASSED] 33/37,0 MCOPY 18/20 data:15,gas:0,value:0 backward_adjacent_1 
+2024-09-09T16:40:03.240Z [PASSED] 33/37,0 MCOPY 19/20 data:16,gas:0,value:0 inplace_0 
+2024-09-09T16:40:03.452Z [PASSED] 33/37,0 MCOPY 20/20 data:17,gas:0,value:0 inplace_1 

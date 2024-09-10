@@ -1,1 +1,23 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_memory_expansion_cost.json
+2024-09-10T03:52:45.845Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 1/22 data:0,gas:0,value:0 dst0_src0_size0 
+2024-09-10T03:52:46.064Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 2/22 data:14,gas:0,value:0 dst0_src31_size706 
+2024-09-10T03:52:46.282Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 3/22 data:1,gas:0,value:0 dst31_src0_size706 
+2024-09-10T03:52:46.500Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 4/22 data:2,gas:0,value:0 dst62_src31_size706 
+2024-09-10T03:52:46.715Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 5/22 data:3,gas:0,value:0 dst31_src62_size706 
+2024-09-10T03:52:46.929Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 6/22 data:4,gas:0,value:0 dst62_src62_size706 
+2024-09-10T03:52:47.144Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 7/22 data:5,gas:0,value:0 dst64_src0_size1344 
+2024-09-10T03:52:47.359Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 8/22 data:6,gas:0,value:0 dst0_src64_size1344 
+2024-09-10T03:52:47.573Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 9/22 data:7,gas:0,value:0 dst64_src33_size1344 
+2024-09-10T03:52:47.785Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 10/22 data:8,gas:0,value:0 dst33_src64_size1344 
+2024-09-10T03:52:47.998Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 11/22 data:9,gas:0,value:0 dst1_src33_size1344 
+2024-09-10T03:52:48.212Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 12/22 data:10,gas:0,value:0 dst33_src1_size1344 
+2024-09-10T03:52:48.430Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 13/22 data:11,gas:0,value:0 dst33_src33_size1344 
+2024-09-10T03:52:48.644Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 14/22 data:12,gas:0,value:0 dst64_src64_size1344 
+2024-09-10T03:52:48.857Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 15/22 data:13,gas:0,value:0 huge_size0 
+2024-09-10T03:52:49.070Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 16/22 data:15,gas:0,value:0 huge_src0_size1 
+2024-09-10T03:52:49.287Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 17/22 data:16,gas:0,value:0 huge_dst0_size1 
+2024-09-10T03:52:49.501Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 18/22 data:17,gas:0,value:0 huge_size_n255 
+2024-09-10T03:52:49.714Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 19/22 data:18,gas:0,value:0 huge_dst0_size_n256 
+2024-09-10T03:52:49.926Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 20/22 data:19,gas:0,value:0 huge_src0_size_n256 
+2024-09-10T03:52:50.139Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 21/22 data:20,gas:0,value:0 huge_size_n63 
+2024-09-10T03:52:50.357Z [PASSED] 35/37,0 MCOPY_memory_expansion_cost 22/22 data:21,gas:0,value:0 huge_size_n64 

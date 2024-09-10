@@ -1,1 +1,17 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/transStorageOK.json
+2024-09-09T16:39:46.924Z [PASSED] 21/37,0 transStorageOK 1/16 data:0,gas:0,value:0 sum_16 
+2024-09-09T16:39:47.140Z [PASSED] 21/37,0 transStorageOK 2/16 data:1,gas:0,value:0 callcode_sum_16 
+2024-09-09T16:39:49.383Z [PASSED] 21/37,0 transStorageOK 3/16 data:2,gas:0,value:0 delegate_sum_16 
+2024-09-09T16:39:49.801Z [PASSED] 21/37,0 transStorageOK 4/16 data:3,gas:0,value:0 sum_256 
+2024-09-09T16:39:50.016Z [PASSED] 21/37,0 transStorageOK 5/16 data:4,gas:0,value:0 callback_sum_10 
+2024-09-09T16:39:50.233Z [PASSED] 21/37,0 transStorageOK 6/16 data:5,gas:0,value:0 callback_sum_50 
+2024-09-09T16:39:50.448Z [PASSED] 21/37,0 transStorageOK 7/16 data:6,gas:0,value:0 bin_tree_6 
+2024-09-09T16:39:50.661Z [PASSED] 21/37,0 transStorageOK 8/16 data:7,gas:0,value:0 delegate_bin_tree_6 
+2024-09-09T16:39:50.874Z [PASSED] 21/37,0 transStorageOK 9/16 data:8,gas:0,value:0 inherit_trans 
+2024-09-09T16:39:51.089Z [PASSED] 21/37,0 transStorageOK 10/16 data:9,gas:0,value:0 deep_call 
+2024-09-09T16:39:51.302Z [PASSED] 21/37,0 transStorageOK 11/16 data:10,gas:0,value:0 deep_call 
+2024-09-09T16:39:51.516Z [PASSED] 21/37,0 transStorageOK 12/16 data:11,gas:0,value:0 deep_call 
+2024-09-09T16:39:51.728Z [PASSED] 21/37,0 transStorageOK 13/16 data:12,gas:0,value:0 deep_call 
+2024-09-09T16:39:51.943Z [PASSED] 21/37,0 transStorageOK 14/16 data:13,gas:0,value:0 deep_call 
+2024-09-09T16:39:52.158Z [PASSED] 21/37,0 transStorageOK 15/16 data:14,gas:0,value:0 deep_call 
+2024-09-09T16:39:52.372Z [PASSED] 21/37,0 transStorageOK 16/16 data:15,gas:0,value:0 static_call 

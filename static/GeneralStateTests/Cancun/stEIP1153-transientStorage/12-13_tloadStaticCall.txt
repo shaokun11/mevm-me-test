@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP1153-transientStorage/13_tloadStaticCall.json
-2024-09-09T08:16:06.447Z [FAILED] 12/37,0 13_tloadStaticCall 1/1 data:0,gas:0,value:0  {"state_root":"0x362e630145f34d833085361f0d57654eb85599727f461ee6c6a9481df0785fd9","expected":"0x77825674bc60bc90ff40c07a1947bc3d4330a61e69948ed4f707b5ff01ab0674","hash":"0xf5da8f28629d6eef54420c5252b0789ff3a45d0e3c9a56d4a05e08f0256308f8"}
+2024-09-09T16:38:54.503Z [PASSED] 12/37,0 13_tloadStaticCall 1/1 data:0,gas:0,value:0  

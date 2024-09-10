@@ -1,1 +1,65 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP5656-MCOPY/MCOPY_copy_cost.json
+2024-09-09T16:40:03.664Z [PASSED] 34/37,0 MCOPY_copy_cost 1/64 data:0,gas:0,value:0 src0_size0 
+2024-09-09T16:40:03.878Z [PASSED] 34/37,0 MCOPY_copy_cost 2/64 data:1,gas:0,value:0 src0_size1 
+2024-09-09T16:40:04.090Z [PASSED] 34/37,0 MCOPY_copy_cost 3/64 data:2,gas:0,value:0 src0_size31 
+2024-09-09T16:40:04.301Z [PASSED] 34/37,0 MCOPY_copy_cost 4/64 data:3,gas:0,value:0 src0_size32 
+2024-09-09T16:40:04.513Z [PASSED] 34/37,0 MCOPY_copy_cost 5/64 data:4,gas:0,value:0 src0_size33 
+2024-09-09T16:40:04.725Z [PASSED] 34/37,0 MCOPY_copy_cost 6/64 data:5,gas:0,value:0 src0_size44767 
+2024-09-09T16:40:04.942Z [PASSED] 34/37,0 MCOPY_copy_cost 7/64 data:6,gas:0,value:0 src0_size44768 
+2024-09-09T16:40:05.154Z [PASSED] 34/37,0 MCOPY_copy_cost 8/64 data:7,gas:0,value:0 src0_size44769 
+2024-09-09T16:40:05.367Z [PASSED] 34/37,0 MCOPY_copy_cost 9/64 data:8,gas:0,value:0 src1_size0 
+2024-09-09T16:40:05.579Z [PASSED] 34/37,0 MCOPY_copy_cost 10/64 data:9,gas:0,value:0 src1_size1 
+2024-09-09T16:40:05.794Z [PASSED] 34/37,0 MCOPY_copy_cost 11/64 data:10,gas:0,value:0 src1_size31 
+2024-09-09T16:40:06.007Z [PASSED] 34/37,0 MCOPY_copy_cost 12/64 data:11,gas:0,value:0 src1_size32 
+2024-09-09T16:40:06.219Z [PASSED] 34/37,0 MCOPY_copy_cost 13/64 data:12,gas:0,value:0 src1_size33 
+2024-09-09T16:40:06.431Z [PASSED] 34/37,0 MCOPY_copy_cost 14/64 data:13,gas:0,value:0 src1_size44767 
+2024-09-09T16:40:06.646Z [PASSED] 34/37,0 MCOPY_copy_cost 15/64 data:14,gas:0,value:0 src1_size44768 
+2024-09-09T16:40:06.858Z [PASSED] 34/37,0 MCOPY_copy_cost 16/64 data:15,gas:0,value:0 src1_size44769 
+2024-09-09T16:40:07.070Z [PASSED] 34/37,0 MCOPY_copy_cost 17/64 data:16,gas:0,value:0 src31_size0 
+2024-09-09T16:40:07.484Z [PASSED] 34/37,0 MCOPY_copy_cost 18/64 data:17,gas:0,value:0 src31_size1 
+2024-09-09T16:40:07.696Z [PASSED] 34/37,0 MCOPY_copy_cost 19/64 data:18,gas:0,value:0 src31_size31 
+2024-09-09T16:40:07.913Z [PASSED] 34/37,0 MCOPY_copy_cost 20/64 data:19,gas:0,value:0 src31_size32 
+2024-09-09T16:40:08.126Z [PASSED] 34/37,0 MCOPY_copy_cost 21/64 data:20,gas:0,value:0 src31_size33 
+2024-09-09T16:40:08.337Z [PASSED] 34/37,0 MCOPY_copy_cost 22/64 data:21,gas:0,value:0 src31_size44767 
+2024-09-09T16:40:08.549Z [PASSED] 34/37,0 MCOPY_copy_cost 23/64 data:22,gas:0,value:0 src31_size44768 
+2024-09-09T16:40:08.768Z [PASSED] 34/37,0 MCOPY_copy_cost 24/64 data:23,gas:0,value:0 src31_size44769 
+2024-09-09T16:40:08.981Z [PASSED] 34/37,0 MCOPY_copy_cost 25/64 data:24,gas:0,value:0 src32_size0 
+2024-09-09T16:40:09.193Z [PASSED] 34/37,0 MCOPY_copy_cost 26/64 data:25,gas:0,value:0 src32_size1 
+2024-09-09T16:40:09.405Z [PASSED] 34/37,0 MCOPY_copy_cost 27/64 data:26,gas:0,value:0 src32_size31 
+2024-09-09T16:40:09.625Z [PASSED] 34/37,0 MCOPY_copy_cost 28/64 data:27,gas:0,value:0 src32_size32 
+2024-09-09T16:40:09.838Z [PASSED] 34/37,0 MCOPY_copy_cost 29/64 data:28,gas:0,value:0 src32_size33 
+2024-09-09T16:40:10.050Z [PASSED] 34/37,0 MCOPY_copy_cost 30/64 data:29,gas:0,value:0 src32_size44767 
+2024-09-09T16:40:10.263Z [PASSED] 34/37,0 MCOPY_copy_cost 31/64 data:30,gas:0,value:0 src32_size44768 
+2024-09-09T16:40:10.475Z [PASSED] 34/37,0 MCOPY_copy_cost 32/64 data:31,gas:0,value:0 src32_size44769 
+2024-09-09T16:40:10.687Z [PASSED] 34/37,0 MCOPY_copy_cost 33/64 data:0,gas:1,value:0  
+2024-09-09T16:40:10.900Z [PASSED] 34/37,0 MCOPY_copy_cost 34/64 data:1,gas:1,value:0  
+2024-09-09T16:40:11.113Z [PASSED] 34/37,0 MCOPY_copy_cost 35/64 data:2,gas:1,value:0  
+2024-09-09T16:40:11.327Z [PASSED] 34/37,0 MCOPY_copy_cost 36/64 data:3,gas:1,value:0  
+2024-09-09T16:40:11.541Z [PASSED] 34/37,0 MCOPY_copy_cost 37/64 data:4,gas:1,value:0  
+2024-09-09T16:40:11.760Z [PASSED] 34/37,0 MCOPY_copy_cost 38/64 data:5,gas:1,value:0  
+2024-09-09T16:40:11.972Z [PASSED] 34/37,0 MCOPY_copy_cost 39/64 data:6,gas:1,value:0  
+2024-09-09T16:40:12.184Z [PASSED] 34/37,0 MCOPY_copy_cost 40/64 data:7,gas:1,value:0  
+2024-09-09T16:40:12.396Z [PASSED] 34/37,0 MCOPY_copy_cost 41/64 data:8,gas:1,value:0  
+2024-09-09T16:40:12.608Z [PASSED] 34/37,0 MCOPY_copy_cost 42/64 data:9,gas:1,value:0  
+2024-09-09T16:40:12.820Z [PASSED] 34/37,0 MCOPY_copy_cost 43/64 data:10,gas:1,value:0  
+2024-09-09T16:40:13.033Z [PASSED] 34/37,0 MCOPY_copy_cost 44/64 data:11,gas:1,value:0  
+2024-09-09T16:40:13.245Z [PASSED] 34/37,0 MCOPY_copy_cost 45/64 data:12,gas:1,value:0  
+2024-09-09T16:40:13.459Z [PASSED] 34/37,0 MCOPY_copy_cost 46/64 data:16,gas:1,value:0  
+2024-09-09T16:40:13.677Z [PASSED] 34/37,0 MCOPY_copy_cost 47/64 data:17,gas:1,value:0  
+2024-09-09T16:40:13.889Z [PASSED] 34/37,0 MCOPY_copy_cost 48/64 data:18,gas:1,value:0  
+2024-09-09T16:40:14.101Z [PASSED] 34/37,0 MCOPY_copy_cost 49/64 data:19,gas:1,value:0  
+2024-09-09T16:40:14.313Z [PASSED] 34/37,0 MCOPY_copy_cost 50/64 data:20,gas:1,value:0  
+2024-09-09T16:40:14.727Z [PASSED] 34/37,0 MCOPY_copy_cost 51/64 data:24,gas:1,value:0  
+2024-09-09T16:40:14.940Z [PASSED] 34/37,0 MCOPY_copy_cost 52/64 data:25,gas:1,value:0  
+2024-09-09T16:40:15.152Z [PASSED] 34/37,0 MCOPY_copy_cost 53/64 data:26,gas:1,value:0  
+2024-09-09T16:40:15.364Z [PASSED] 34/37,0 MCOPY_copy_cost 54/64 data:27,gas:1,value:0  
+2024-09-09T16:40:15.576Z [PASSED] 34/37,0 MCOPY_copy_cost 55/64 data:28,gas:1,value:0  
+2024-09-09T16:40:15.797Z [PASSED] 34/37,0 MCOPY_copy_cost 56/64 data:13,gas:1,value:0  
+2024-09-09T16:40:16.009Z [PASSED] 34/37,0 MCOPY_copy_cost 57/64 data:14,gas:1,value:0  
+2024-09-09T16:40:16.221Z [PASSED] 34/37,0 MCOPY_copy_cost 58/64 data:15,gas:1,value:0  
+2024-09-09T16:40:16.433Z [PASSED] 34/37,0 MCOPY_copy_cost 59/64 data:21,gas:1,value:0  
+2024-09-09T16:40:16.644Z [PASSED] 34/37,0 MCOPY_copy_cost 60/64 data:22,gas:1,value:0  
+2024-09-09T16:40:16.856Z [PASSED] 34/37,0 MCOPY_copy_cost 61/64 data:23,gas:1,value:0  
+2024-09-09T16:40:17.067Z [PASSED] 34/37,0 MCOPY_copy_cost 62/64 data:29,gas:1,value:0  
+2024-09-09T16:40:17.278Z [PASSED] 34/37,0 MCOPY_copy_cost 63/64 data:30,gas:1,value:0  
+2024-09-09T16:40:17.502Z [PASSED] 34/37,0 MCOPY_copy_cost 64/64 data:31,gas:1,value:0  
