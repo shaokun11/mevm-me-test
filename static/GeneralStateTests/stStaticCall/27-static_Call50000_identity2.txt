@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_identity2.json
-2024-08-21T09:36:20.198Z [FAILED] 27/286,0 static_Call50000_identity2 1/2 data:0,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::run at code offset 1288","hash":"0x60af272fc63e6a2f06f409e28b3fbb4bf1cfb10b94930c9c78a99e976dd4f815","expected":"0x465061b4d2328c6bd20fc29a685987c9bfbd38f92b9493f4d1ed28e0bbe73513"}
-2024-08-21T09:36:45.053Z [FAILED] 27/286,0 static_Call50000_identity2 2/2 data:1,gas:0,value:0  {"error":"Execution failed in 0x1::evm_for_test::run at code offset 1288","hash":"0xf5d3d8b2e7aada28837c6ce15df3df25ee11124f50e1827a5e28b7f1a9db46ca","expected":"0x6da379c8a8690db0bd0e3713b56ffae9f5ef2228745f663636d346c7256aae73"}

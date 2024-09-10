@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmTests/blockInfo.json
-2024-08-21T08:23:28.475Z [PASSED] 53/64,0 blockInfo 1/5 data:0,gas:0,value:0 coinbase 
-2024-08-21T08:23:28.692Z [PASSED] 53/64,0 blockInfo 2/5 data:1,gas:0,value:0 difficulty 
-2024-08-21T08:23:28.909Z [PASSED] 53/64,0 blockInfo 3/5 data:2,gas:0,value:0 gaslimit 
-2024-08-21T08:23:29.122Z [PASSED] 53/64,0 blockInfo 4/5 data:3,gas:0,value:0 number 
-2024-08-21T08:23:29.337Z [PASSED] 53/64,0 blockInfo 5/5 data:4,gas:0,value:0 timestamp 

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/QuadraticComplexitySolidity_CallDataCopy.json
-2024-08-21T09:16:51.354Z [PASSED] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 1/2 data:0,gas:0,value:0  
-2024-08-21T09:18:52.903Z [FAILED] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 2/2 data:0,gas:1,value:0  {"error":"Out of gas","hash":"0xd623e4e61850605277e8d7814bc5cdc1cb1a97f3b165048d8a018551554cb35f","expected":"0x869125358a383fe2a896b6eb75e2e0371aa04722f613c64785b8ce55a30ae778"}

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_Call1024PreCalls2.json
-2024-08-21T09:30:29.804Z [PASSED] 21/286,0 static_Call1024PreCalls2 1/2 data:0,gas:0,value:0  
-2024-08-21T09:30:32.245Z [PASSED] 21/286,0 static_Call1024PreCalls2 2/2 data:1,gas:0,value:0  

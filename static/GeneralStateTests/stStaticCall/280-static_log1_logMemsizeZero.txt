@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_log1_logMemsizeZero.json
-2024-08-21T09:48:20.393Z [PASSED] 280/286,0 static_log1_logMemsizeZero 1/1 data:0,gas:0,value:0  

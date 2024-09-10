@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_callChangeRevert.json
-2024-08-21T09:46:25.605Z [PASSED] 121/286,0 static_callChangeRevert 1/3 data:0,gas:0,value:0  
-2024-08-21T09:46:27.031Z [PASSED] 121/286,0 static_callChangeRevert 2/3 data:1,gas:0,value:0  
-2024-08-21T09:46:27.247Z [PASSED] 121/286,0 static_callChangeRevert 3/3 data:2,gas:0,value:0  

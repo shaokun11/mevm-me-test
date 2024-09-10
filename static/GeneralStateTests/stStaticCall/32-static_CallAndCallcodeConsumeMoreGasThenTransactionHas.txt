@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stStaticCall/static_CallAndCallcodeConsumeMoreGasThenTransactionHas.json
-2024-08-21T09:42:07.840Z [PASSED] 32/286,0 static_CallAndCallcodeConsumeMoreGasThenTransactionHas 1/2 data:0,gas:0,value:0  
-2024-08-21T09:42:08.054Z [PASSED] 32/286,0 static_CallAndCallcodeConsumeMoreGasThenTransactionHas 2/2 data:1,gas:0,value:0  
