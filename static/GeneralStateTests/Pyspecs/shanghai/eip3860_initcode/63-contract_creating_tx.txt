@@ -1,9 +1,5 @@
 ethereum-tests/GeneralStateTests/Pyspecs/shanghai/eip3860_initcode/contract_creating_tx.json
-2024-08-21T11:03:17.666Z [SKIP] 63/66,4 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-max_size_ones] No Cancun post state found
-2024-08-21T11:03:17.666Z [SKIP] 63/66,5 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-max_size_zeros] No Cancun post state found
-2024-08-21T11:03:17.666Z [SKIP] 63/66,6 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-over_limit_ones] No Cancun post state found
-2024-08-21T11:03:17.666Z [SKIP] 63/66,7 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-over_limit_zeros] No Cancun post state found
-2024-08-21T11:06:14.371Z [PASSED] 63/66,0 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Cancun-state_test-max_size_ones] 1/1 data:0,gas:0,value:0  
-2024-08-21T11:06:14.611Z [PASSED] 63/66,1 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Cancun-state_test-max_size_zeros] 1/1 data:0,gas:0,value:0  
-2024-08-21T11:06:14.852Z [PASSED] 63/66,2 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Cancun-state_test-over_limit_ones] 1/1 data:0,gas:0,value:0  
-2024-08-21T11:06:15.089Z [PASSED] 63/66,3 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Cancun-state_test-over_limit_zeros] 1/1 data:0,gas:0,value:0  
+2024-09-10T07:31:12.132Z [SKIP] 63/66,4 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-max_size_ones] No Cancun post state found
+2024-09-10T07:31:12.133Z [SKIP] 63/66,5 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-max_size_zeros] No Cancun post state found
+2024-09-10T07:31:12.133Z [SKIP] 63/66,6 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-over_limit_ones] No Cancun post state found
+2024-09-10T07:31:12.133Z [SKIP] 63/66,7 src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py::test_contract_creating_tx[fork_Shanghai-state_test-over_limit_zeros] No Cancun post state found
