@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json

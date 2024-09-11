@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/Shanghai/stEIP3855-push0/push0Gas2.json
-2024-08-21T08:04:51.165Z [PASSED] 4/8,0 push0Gas2 1/2 data:0,gas:0,value:0 use_push0 
-2024-08-21T08:04:51.379Z [PASSED] 4/8,0 push0Gas2 2/2 data:1,gas:0,value:0 use_push1_00 
+2024-09-11T01:02:20.728Z [PASSED] 4/8,0 push0Gas2 1/2 data:0,gas:0,value:0 use_push0 
+2024-09-11T01:02:20.941Z [PASSED] 4/8,0 push0Gas2 2/2 data:1,gas:0,value:0 use_push1_00 

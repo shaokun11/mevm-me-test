@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower256.json
+2024-09-11T01:03:00.723Z [FAILED] 7/64,0 expPower256 1/1 data:0,gas:0,value:0  {"state_root":"0x42b3dec053aea24e2649f0452daf98de1c76f56ccd9638a0fa2df024c12780a2","expected":"0x860e42edde799ef710ce6e2f86447313989364b17a51af421d1fcd0f40191443","hash":"0xdfeb40d41e07a859e4d1257f4d1c5f63e739e25043b26e37ecf81240f290612c"}

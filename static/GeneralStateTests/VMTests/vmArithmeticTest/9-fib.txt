@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/fib.json
+2024-09-11T01:03:01.360Z [FAILED] 9/64,0 fib 1/1 data:0,gas:0,value:0  {"state_root":"0x75ad891ea63fa585dcc598883c640b502b57f3b571258e734d8022535f3faeb6","expected":"0x11b18edf688c9bae6277fcf3a951195b51bdcf5cbed1c470cf3beac2362dd2ed","hash":"0x89528a2ea36f39675cc7c3bccb9487d2a348bf3badb977282a9fda1290fd97f7"}
