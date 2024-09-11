@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/xorNonConst.json
+2024-09-11T06:21:16.408Z [PASSED] 45/46,0 xorNonConst 1/2 data:0,gas:0,value:0  
+2024-09-11T06:21:16.625Z [PASSED] 45/46,0 xorNonConst 2/2 data:0,gas:0,value:1  

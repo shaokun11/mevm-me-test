@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/extcodesizeNonConst.json
+2024-09-11T06:21:01.736Z [PASSED] 16/46,0 extcodesizeNonConst 1/2 data:0,gas:0,value:0  
+2024-09-11T06:21:01.950Z [PASSED] 16/46,0 extcodesizeNonConst 2/2 data:0,gas:0,value:1  

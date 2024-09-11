@@ -1,36 +1,4 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/opc0CDiffPlaces.json
-2024-08-21T08:26:20.029Z [PASSED] 5/121,0 opc0CDiffPlaces 1/35 data:0,gas:0,value:0 normal 
-2024-08-21T08:26:20.246Z [PASSED] 5/121,0 opc0CDiffPlaces 2/35 data:1,gas:0,value:0 normal 
-2024-08-21T08:26:20.463Z [PASSED] 5/121,0 opc0CDiffPlaces 3/35 data:2,gas:0,value:0 normal 
-2024-08-21T08:26:20.681Z [PASSED] 5/121,0 opc0CDiffPlaces 4/35 data:3,gas:0,value:0  
-2024-08-21T08:26:20.898Z [PASSED] 5/121,0 opc0CDiffPlaces 5/35 data:4,gas:0,value:0  
-2024-08-21T08:26:21.115Z [PASSED] 5/121,0 opc0CDiffPlaces 6/35 data:5,gas:0,value:0  
-2024-08-21T08:26:21.331Z [PASSED] 5/121,0 opc0CDiffPlaces 7/35 data:6,gas:0,value:0  
-2024-08-21T08:26:21.547Z [PASSED] 5/121,0 opc0CDiffPlaces 8/35 data:7,gas:0,value:0  
-2024-08-21T08:26:21.764Z [PASSED] 5/121,0 opc0CDiffPlaces 9/35 data:8,gas:0,value:0  
-2024-08-21T08:26:21.981Z [PASSED] 5/121,0 opc0CDiffPlaces 10/35 data:9,gas:0,value:0  
-2024-08-21T08:26:22.198Z [PASSED] 5/121,0 opc0CDiffPlaces 11/35 data:10,gas:0,value:0  
-2024-08-21T08:26:22.413Z [PASSED] 5/121,0 opc0CDiffPlaces 12/35 data:11,gas:0,value:0  
-2024-08-21T08:26:24.863Z [PASSED] 5/121,0 opc0CDiffPlaces 13/35 data:12,gas:0,value:0  
-2024-08-21T08:26:25.079Z [PASSED] 5/121,0 opc0CDiffPlaces 14/35 data:13,gas:0,value:0  
-2024-08-21T08:26:25.299Z [PASSED] 5/121,0 opc0CDiffPlaces 15/35 data:14,gas:0,value:0  
-2024-08-21T08:26:25.514Z [PASSED] 5/121,0 opc0CDiffPlaces 16/35 data:15,gas:0,value:0  
-2024-08-21T08:26:25.732Z [PASSED] 5/121,0 opc0CDiffPlaces 17/35 data:16,gas:0,value:0  
-2024-08-21T08:26:25.946Z [PASSED] 5/121,0 opc0CDiffPlaces 18/35 data:17,gas:0,value:0  
-2024-08-21T08:26:26.162Z [PASSED] 5/121,0 opc0CDiffPlaces 19/35 data:18,gas:0,value:0  
-2024-08-21T08:26:26.377Z [PASSED] 5/121,0 opc0CDiffPlaces 20/35 data:19,gas:0,value:0  
-2024-08-21T08:26:26.593Z [PASSED] 5/121,0 opc0CDiffPlaces 21/35 data:20,gas:0,value:0  
-2024-08-21T08:26:26.809Z [PASSED] 5/121,0 opc0CDiffPlaces 22/35 data:21,gas:0,value:0  
-2024-08-21T08:26:27.026Z [PASSED] 5/121,0 opc0CDiffPlaces 23/35 data:22,gas:0,value:0  
-2024-08-21T08:26:27.242Z [PASSED] 5/121,0 opc0CDiffPlaces 24/35 data:23,gas:0,value:0  
-2024-08-21T08:26:27.458Z [PASSED] 5/121,0 opc0CDiffPlaces 25/35 data:24,gas:0,value:0  
-2024-08-21T08:26:27.674Z [PASSED] 5/121,0 opc0CDiffPlaces 26/35 data:25,gas:0,value:0  
-2024-08-21T08:26:27.890Z [PASSED] 5/121,0 opc0CDiffPlaces 27/35 data:26,gas:0,value:0  
-2024-08-21T08:26:28.105Z [PASSED] 5/121,0 opc0CDiffPlaces 28/35 data:27,gas:0,value:0  
-2024-08-21T08:26:28.321Z [PASSED] 5/121,0 opc0CDiffPlaces 29/35 data:28,gas:0,value:0  
-2024-08-21T08:26:28.535Z [PASSED] 5/121,0 opc0CDiffPlaces 30/35 data:29,gas:0,value:0  
-2024-08-21T08:26:28.751Z [PASSED] 5/121,0 opc0CDiffPlaces 31/35 data:30,gas:0,value:0  
-2024-08-21T08:26:28.971Z [PASSED] 5/121,0 opc0CDiffPlaces 32/35 data:31,gas:0,value:0  
-2024-08-21T08:26:29.186Z [PASSED] 5/121,0 opc0CDiffPlaces 33/35 data:32,gas:0,value:0  
-2024-08-21T08:26:29.401Z [PASSED] 5/121,0 opc0CDiffPlaces 34/35 data:33,gas:0,value:0  
-2024-08-21T08:26:31.035Z [PASSED] 5/121,0 opc0CDiffPlaces 35/35 data:34,gas:0,value:0  
+2024-09-11T06:23:27.439Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 1/35 data:0,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:30.616Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 2/35 data:1,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:33.750Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 3/35 data:2,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

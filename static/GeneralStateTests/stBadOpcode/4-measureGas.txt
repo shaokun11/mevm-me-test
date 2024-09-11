@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/measureGas.json
-2024-08-21T08:26:17.463Z [PASSED] 4/121,0 measureGas 1/11 data:0,gas:0,value:0 CREATE 
-2024-08-21T08:26:17.677Z [PASSED] 4/121,0 measureGas 2/11 data:1,gas:0,value:0 CREATE2 
-2024-08-21T08:26:17.891Z [PASSED] 4/121,0 measureGas 3/11 data:2,gas:0,value:0 CALL 
-2024-08-21T08:26:18.105Z [PASSED] 4/121,0 measureGas 4/11 data:3,gas:0,value:0 CALLCODE 
-2024-08-21T08:26:18.321Z [PASSED] 4/121,0 measureGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
-2024-08-21T08:26:18.535Z [PASSED] 4/121,0 measureGas 6/11 data:5,gas:0,value:0 STATICCALL 
-2024-08-21T08:26:18.748Z [PASSED] 4/121,0 measureGas 7/11 data:6,gas:0,value:0 MLOAD 
-2024-08-21T08:26:18.961Z [PASSED] 4/121,0 measureGas 8/11 data:7,gas:0,value:0 MSTORE 
-2024-08-21T08:26:19.178Z [PASSED] 4/121,0 measureGas 9/11 data:8,gas:0,value:0 MSTORE8 
-2024-08-21T08:26:19.393Z [PASSED] 4/121,0 measureGas 10/11 data:10,gas:0,value:0 SHA3 
-2024-08-21T08:26:19.811Z [PASSED] 4/121,0 measureGas 11/11 data:9,gas:0,value:0 EXTCODE 
+2024-09-11T06:22:53.358Z [EXCEPTION] 4/121,0 measureGas 1/11 data:0,gas:0,value:0 CREATE {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:22:56.487Z [EXCEPTION] 4/121,0 measureGas 2/11 data:1,gas:0,value:0 CREATE2 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:22:59.597Z [EXCEPTION] 4/121,0 measureGas 3/11 data:2,gas:0,value:0 CALL {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:02.657Z [EXCEPTION] 4/121,0 measureGas 4/11 data:3,gas:0,value:0 CALLCODE {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:05.830Z [EXCEPTION] 4/121,0 measureGas 5/11 data:4,gas:0,value:0 DELEGATECALL {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:08.934Z [EXCEPTION] 4/121,0 measureGas 6/11 data:5,gas:0,value:0 STATICCALL {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:12.103Z [EXCEPTION] 4/121,0 measureGas 7/11 data:6,gas:0,value:0 MLOAD {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:15.165Z [EXCEPTION] 4/121,0 measureGas 8/11 data:7,gas:0,value:0 MSTORE {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:18.260Z [EXCEPTION] 4/121,0 measureGas 9/11 data:8,gas:0,value:0 MSTORE8 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:21.341Z [EXCEPTION] 4/121,0 measureGas 10/11 data:10,gas:0,value:0 SHA3 {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
+2024-09-11T06:23:24.373Z [EXCEPTION] 4/121,0 measureGas 11/11 data:9,gas:0,value:0 EXTCODE {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
