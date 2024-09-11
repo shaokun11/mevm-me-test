@@ -1,4 +1,4 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/suicide.json
-2024-09-11T04:19:42.267Z [SKIP] 62/64,0 suicide 1/3 data:0,gas:0,value:0 caller Not support opcode
-2024-09-11T04:19:42.480Z [SKIP] 62/64,0 suicide 2/3 data:1,gas:0,value:0 random Not support opcode
-2024-09-11T04:19:42.691Z [SKIP] 62/64,0 suicide 3/3 data:2,gas:0,value:0 myself Not support opcode
+2024-09-11T05:36:12.074Z [SKIP] 62/64,0 suicide 1/3 data:0,gas:0,value:0 caller Not support opcode
+2024-09-11T05:36:12.288Z [SKIP] 62/64,0 suicide 2/3 data:1,gas:0,value:0 random Not support opcode
+2024-09-11T05:36:12.501Z [SKIP] 62/64,0 suicide 3/3 data:2,gas:0,value:0 myself Not support opcode

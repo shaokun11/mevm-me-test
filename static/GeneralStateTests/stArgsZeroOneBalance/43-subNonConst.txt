@@ -1,3 +1,1 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/subNonConst.json
-2024-08-21T08:24:20.034Z [PASSED] 43/46,0 subNonConst 1/2 data:0,gas:0,value:0  
-2024-08-21T08:24:20.248Z [PASSED] 43/46,0 subNonConst 2/2 data:0,gas:0,value:1  
