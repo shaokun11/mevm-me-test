@@ -1,12 +1,12 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json
-2024-09-11T01:02:58.142Z [PASSED] 5/64,0 exp 1/11 data:3,gas:0,value:0 exp_2_2 
-2024-09-11T01:02:58.356Z [PASSED] 5/64,0 exp 2/11 data:7,gas:0,value:0 exp_neg1_neg2 
-2024-09-11T01:02:58.570Z [PASSED] 5/64,0 exp 3/11 data:9,gas:0,value:0 exp_big_big 
-2024-09-11T01:02:58.785Z [PASSED] 5/64,0 exp 4/11 data:0,gas:0,value:0 exp_0_big 
-2024-09-11T01:02:59.001Z [PASSED] 5/64,0 exp 5/11 data:1,gas:0,value:0 exp_big_0 
-2024-09-11T01:02:59.215Z [PASSED] 5/64,0 exp 6/11 data:2,gas:0,value:0 exp_257_1 
-2024-09-11T01:02:59.430Z [FAILED] 5/64,0 exp 7/11 data:4,gas:0,value:0 exp_1_257 {"state_root":"0x96eb76b7eae12de68a8295bcf83f25cbca250304d096af9683134121f44e44fa","expected":"0xa4a1304f99ad5c7bd3eb49f47899dc9faf85b32d561796fe8b3dc34df315406d","hash":"0x63ee083aa8129fe42a43e57ece70f233096513d16ab5d255c4cd60a28276021f"}
-2024-09-11T01:02:59.644Z [PASSED] 5/64,0 exp 8/11 data:5,gas:0,value:0 exp_2_257 
-2024-09-11T01:02:59.858Z [PASSED] 5/64,0 exp 9/11 data:6,gas:0,value:0 exp_0_0 
-2024-09-11T01:03:00.077Z [FAILED] 5/64,0 exp 10/11 data:8,gas:0,value:0 exp_2_big {"state_root":"0x975ba9898cefd8ee6ee33f386efac74d27c9a61dc4847f2b83ced8f2ce6107f6","expected":"0xb231d3a1919a2b524a223bee5e6acf12fe49a4f07e64ca7d1165d007ea4fa5fd","hash":"0x2c3fac6b6568b1664e15be3f04f01359ed44aa54ce75a8675c1bb2a8ccca3176"}
-2024-09-11T01:03:00.292Z [PASSED] 5/64,0 exp 11/11 data:10,gas:0,value:0 exp_2_15 
+2024-09-11T04:17:52.732Z [PASSED] 5/64,0 exp 1/11 data:3,gas:0,value:0 exp_2_2 
+2024-09-11T04:17:52.946Z [PASSED] 5/64,0 exp 2/11 data:7,gas:0,value:0 exp_neg1_neg2 
+2024-09-11T04:17:53.161Z [PASSED] 5/64,0 exp 3/11 data:9,gas:0,value:0 exp_big_big 
+2024-09-11T04:17:53.376Z [PASSED] 5/64,0 exp 4/11 data:0,gas:0,value:0 exp_0_big 
+2024-09-11T04:17:53.590Z [PASSED] 5/64,0 exp 5/11 data:1,gas:0,value:0 exp_big_0 
+2024-09-11T04:17:53.805Z [PASSED] 5/64,0 exp 6/11 data:2,gas:0,value:0 exp_257_1 
+2024-09-11T04:17:54.019Z [PASSED] 5/64,0 exp 7/11 data:4,gas:0,value:0 exp_1_257 
+2024-09-11T04:17:54.239Z [PASSED] 5/64,0 exp 8/11 data:5,gas:0,value:0 exp_2_257 
+2024-09-11T04:17:54.454Z [PASSED] 5/64,0 exp 9/11 data:6,gas:0,value:0 exp_0_0 
+2024-09-11T04:17:54.668Z [PASSED] 5/64,0 exp 10/11 data:8,gas:0,value:0 exp_2_big 
+2024-09-11T04:17:54.881Z [PASSED] 5/64,0 exp 11/11 data:10,gas:0,value:0 exp_2_15 

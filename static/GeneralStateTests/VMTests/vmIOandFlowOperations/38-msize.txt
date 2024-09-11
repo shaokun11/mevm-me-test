@@ -1,1 +1,7 @@
 ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/msize.json
+2024-09-11T04:18:58.911Z [PASSED] 38/64,0 msize 1/6 data:0,gas:0,value:0 msize0 
+2024-09-11T04:18:59.124Z [PASSED] 38/64,0 msize 2/6 data:1,gas:0,value:0 msize1 
+2024-09-11T04:18:59.337Z [PASSED] 38/64,0 msize 3/6 data:2,gas:0,value:0 msize2 
+2024-09-11T04:18:59.551Z [PASSED] 38/64,0 msize 4/6 data:3,gas:0,value:0 msize3 
+2024-09-11T04:18:59.764Z [PASSED] 38/64,0 msize 5/6 data:4,gas:0,value:0 chunks 
+2024-09-11T04:18:59.978Z [PASSED] 38/64,0 msize 6/6 data:5,gas:0,value:0 farChunk 

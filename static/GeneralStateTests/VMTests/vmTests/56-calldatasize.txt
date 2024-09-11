@@ -1,1 +1,21 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/calldatasize.json
+2024-09-11T04:19:20.407Z [PASSED] 56/64,0 calldatasize 1/20 data:0,gas:0,value:0 data1_2 
+2024-09-11T04:19:20.619Z [PASSED] 56/64,0 calldatasize 2/20 data:5,gas:0,value:0 data1_11 
+2024-09-11T04:19:20.831Z [PASSED] 56/64,0 calldatasize 3/20 data:10,gas:0,value:0 data1_21 
+2024-09-11T04:19:21.044Z [PASSED] 56/64,0 calldatasize 4/20 data:15,gas:0,value:0 data1_31 
+2024-09-11T04:19:21.261Z [PASSED] 56/64,0 calldatasize 5/20 data:1,gas:0,value:0 data1_101 
+2024-09-11T04:19:21.473Z [PASSED] 56/64,0 calldatasize 6/20 data:6,gas:0,value:0 data2_2 
+2024-09-11T04:19:21.686Z [PASSED] 56/64,0 calldatasize 7/20 data:11,gas:0,value:0 data2_11 
+2024-09-11T04:19:21.899Z [PASSED] 56/64,0 calldatasize 8/20 data:16,gas:0,value:0 data2_21 
+2024-09-11T04:19:22.111Z [PASSED] 56/64,0 calldatasize 9/20 data:2,gas:0,value:0 data2_31 
+2024-09-11T04:19:22.324Z [PASSED] 56/64,0 calldatasize 10/20 data:7,gas:0,value:0 data2_101 
+2024-09-11T04:19:22.739Z [PASSED] 56/64,0 calldatasize 11/20 data:12,gas:0,value:0 data3_2 
+2024-09-11T04:19:22.953Z [PASSED] 56/64,0 calldatasize 12/20 data:17,gas:0,value:0 data3_11 
+2024-09-11T04:19:23.166Z [PASSED] 56/64,0 calldatasize 13/20 data:3,gas:0,value:0 data3_21 
+2024-09-11T04:19:23.388Z [PASSED] 56/64,0 calldatasize 14/20 data:8,gas:0,value:0 data3_31 
+2024-09-11T04:19:23.602Z [PASSED] 56/64,0 calldatasize 15/20 data:13,gas:0,value:0 data3_101 
+2024-09-11T04:19:23.815Z [PASSED] 56/64,0 calldatasize 16/20 data:18,gas:0,value:0 data4_2 
+2024-09-11T04:19:24.028Z [PASSED] 56/64,0 calldatasize 17/20 data:4,gas:0,value:0 data4_11 
+2024-09-11T04:19:24.241Z [PASSED] 56/64,0 calldatasize 18/20 data:9,gas:0,value:0 data4_21 
+2024-09-11T04:19:24.454Z [PASSED] 56/64,0 calldatasize 19/20 data:14,gas:0,value:0 data4_31 
+2024-09-11T04:19:24.666Z [PASSED] 56/64,0 calldatasize 20/20 data:19,gas:0,value:0 data4_101 

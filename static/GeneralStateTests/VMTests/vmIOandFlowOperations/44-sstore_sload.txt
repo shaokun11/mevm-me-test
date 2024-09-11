@@ -1,1 +1,4 @@
 ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/sstore_sload.json
+2024-09-11T04:19:06.068Z [PASSED] 44/64,0 sstore_sload 1/3 data:0,gas:0,value:0 sstore_sload_3 
+2024-09-11T04:19:06.281Z [PASSED] 44/64,0 sstore_sload 2/3 data:1,gas:0,value:0 sstore_sload_noinit 
+2024-09-11T04:19:06.500Z [PASSED] 44/64,0 sstore_sload 3/3 data:2,gas:0,value:0 sstore_sload_4 

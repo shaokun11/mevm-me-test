@@ -1,1 +1,17 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/dup.json
+2024-09-11T04:19:24.879Z [PASSED] 57/64,0 dup 1/16 data:0,gas:0,value:0 dup1 
+2024-09-11T04:19:25.099Z [PASSED] 57/64,0 dup 2/16 data:1,gas:0,value:0 dup2 
+2024-09-11T04:19:25.314Z [PASSED] 57/64,0 dup 3/16 data:2,gas:0,value:0 dup3 
+2024-09-11T04:19:25.529Z [PASSED] 57/64,0 dup 4/16 data:3,gas:0,value:0 dup4 
+2024-09-11T04:19:25.743Z [PASSED] 57/64,0 dup 5/16 data:4,gas:0,value:0 dup5 
+2024-09-11T04:19:25.957Z [PASSED] 57/64,0 dup 6/16 data:5,gas:0,value:0 dup6 
+2024-09-11T04:19:26.172Z [PASSED] 57/64,0 dup 7/16 data:6,gas:0,value:0 dup7 
+2024-09-11T04:19:26.386Z [PASSED] 57/64,0 dup 8/16 data:7,gas:0,value:0 dup8 
+2024-09-11T04:19:26.601Z [PASSED] 57/64,0 dup 9/16 data:8,gas:0,value:0 dup9 
+2024-09-11T04:19:26.819Z [PASSED] 57/64,0 dup 10/16 data:9,gas:0,value:0 dup10 
+2024-09-11T04:19:27.033Z [PASSED] 57/64,0 dup 11/16 data:10,gas:0,value:0 dup11 
+2024-09-11T04:19:27.247Z [PASSED] 57/64,0 dup 12/16 data:11,gas:0,value:0 dup12 
+2024-09-11T04:19:27.462Z [PASSED] 57/64,0 dup 13/16 data:12,gas:0,value:0 dup13 
+2024-09-11T04:19:27.675Z [PASSED] 57/64,0 dup 14/16 data:13,gas:0,value:0 dup14 
+2024-09-11T04:19:27.888Z [PASSED] 57/64,0 dup 15/16 data:14,gas:0,value:0 dup15 
+2024-09-11T04:19:28.102Z [PASSED] 57/64,0 dup 16/16 data:15,gas:0,value:0 dup16 

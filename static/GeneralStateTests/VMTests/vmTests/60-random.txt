@@ -1,1 +1,7 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/random.json
+2024-09-11T04:19:37.344Z [PASSED] 60/64,0 random 1/6 data:0,gas:0,value:0 random0 
+2024-09-11T04:19:37.557Z [PASSED] 60/64,0 random 2/6 data:1,gas:0,value:0 random1 
+2024-09-11T04:19:37.770Z [PASSED] 60/64,0 random 3/6 data:2,gas:0,value:0 random2 
+2024-09-11T04:19:37.985Z [FAILED] 60/64,0 random 4/6 data:3,gas:0,value:0 random3 {"state_root":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a","expected":"0x6ecfc776b5d1aae1b02c29a5a8db17d03c8da51a70cfe6d307298871012fb1c2","hash":"0xcc1db859e0211e740c98ee8737627bcd670272bce9a7a1e74b37c9ce1c5b3b07"}
+2024-09-11T04:19:38.198Z [FAILED] 60/64,0 random 5/6 data:4,gas:0,value:0 random4 {"state_root":"0x84c5419cd20e0bda2fd83038a56d9792954f2eea883073b1fd81ba6f850d628a","expected":"0x6ecfc776b5d1aae1b02c29a5a8db17d03c8da51a70cfe6d307298871012fb1c2","hash":"0x01c7980df31d0cc81c70f3066b4ff4446fd414d85548f72d785a6ba021beefdd"}
+2024-09-11T04:19:38.411Z [PASSED] 60/64,0 random 6/6 data:5,gas:0,value:0 random5 

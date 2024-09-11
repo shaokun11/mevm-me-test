@@ -1,1 +1,11 @@
 ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log3.json
+2024-09-11T04:19:12.498Z [PASSED] 48/64,0 log3 1/10 data:0,gas:0,value:0 emptyMem 
+2024-09-11T04:19:12.711Z [PASSED] 48/64,0 log3 2/10 data:3,gas:0,value:0 memStartTooHigh 
+2024-09-11T04:19:12.925Z [PASSED] 48/64,0 log3 3/10 data:4,gas:0,value:0 memSizeTooHigh 
+2024-09-11T04:19:13.138Z [PASSED] 48/64,0 log3 4/10 data:5,gas:0,value:0 memSizeZero 
+2024-09-11T04:19:13.352Z [PASSED] 48/64,0 log3 5/10 data:6,gas:0,value:0 nonEmptyMem 
+2024-09-11T04:19:13.566Z [PASSED] 48/64,0 log3 6/10 data:7,gas:0,value:0 log_0_1 
+2024-09-11T04:19:13.779Z [PASSED] 48/64,0 log3 7/10 data:8,gas:0,value:0 log_31_1 
+2024-09-11T04:19:13.997Z [PASSED] 48/64,0 log3 8/10 data:9,gas:0,value:0 caller 
+2024-09-11T04:19:14.211Z [PASSED] 48/64,0 log3 9/10 data:1,gas:0,value:0 maxTopic 
+2024-09-11T04:19:14.424Z [PASSED] 48/64,0 log3 10/10 data:2,gas:0,value:0 pc 

@@ -1,1 +1,18 @@
 ethereum-tests/GeneralStateTests/VMTests/vmTests/sha3.json
+2024-09-11T04:19:38.625Z [PASSED] 61/64,0 sha3 1/17 data:0,gas:0,value:0 sha3_nodata 
+2024-09-11T04:19:38.844Z [PASSED] 61/64,0 sha3 2/17 data:1,gas:0,value:0 sha3_five_0s 
+2024-09-11T04:19:39.059Z [PASSED] 61/64,0 sha3 3/17 data:2,gas:0,value:0 sha3_ten_0s 
+2024-09-11T04:19:39.272Z [PASSED] 61/64,0 sha3 4/17 data:3,gas:0,value:0 sha3_0xFFFFF_0s 
+2024-09-11T04:19:39.485Z [PASSED] 61/64,0 sha3 5/17 data:4,gas:0,value:0 sha3_highmem 
+2024-09-11T04:19:39.697Z [PASSED] 61/64,0 sha3 6/17 data:5,gas:0,value:0 sha3_huge_buffer 
+2024-09-11T04:19:39.910Z [PASSED] 61/64,0 sha3 7/17 data:6,gas:0,value:0 sha3_neg1_neg1 
+2024-09-11T04:19:40.123Z [PASSED] 61/64,0 sha3 8/17 data:7,gas:0,value:0 sha3_neg1_2 
+2024-09-11T04:19:40.336Z [PASSED] 61/64,0 sha3 9/17 data:8,gas:0,value:0 sha3_0x1000000_2 
+2024-09-11T04:19:40.554Z [PASSED] 61/64,0 sha3 10/17 data:9,gas:0,value:0 sha3_960_1 
+2024-09-11T04:19:40.769Z [PASSED] 61/64,0 sha3 11/17 data:10,gas:0,value:0 sha3_992_1 
+2024-09-11T04:19:40.982Z [PASSED] 61/64,0 sha3 12/17 data:11,gas:0,value:0 sha3_1024_1 
+2024-09-11T04:19:41.195Z [PASSED] 61/64,0 sha3 13/17 data:12,gas:0,value:0 sha3_1984_1 
+2024-09-11T04:19:41.409Z [PASSED] 61/64,0 sha3 14/17 data:13,gas:0,value:0 sha3_2016_1 
+2024-09-11T04:19:41.622Z [PASSED] 61/64,0 sha3 15/17 data:15,gas:0,value:0 sha3_2016_32 
+2024-09-11T04:19:41.836Z [PASSED] 61/64,0 sha3 16/17 data:16,gas:0,value:0 sha3_2048_1 
+2024-09-11T04:19:42.049Z [PASSED] 61/64,0 sha3 17/17 data:14,gas:0,value:0 sha3_1024_0 

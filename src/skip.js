@@ -17,7 +17,7 @@ export const MOVE_VM_SKIP_BLOB_BASEFEE_KEY = "0x1::evm_for_test: 0x4a";
 export const MOVE_VM_SKIP_KZG_KEY = "0x1::evm_precompile: 0xa";
 export const MOVE_VM_SKIP_BLOB_HASH_KEY = "0x1::evm_for_test: 0x49";
 export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff";
-export const MOVE_VM_OPCODE_NOT_SUPPORT= "0x1::evm_for_test_v2: 0xd3";
+export const MOVE_VM_OPCODE_NOT_SUPPORT = "0x1::evm_for_test_v2: 0xd3";
 const wrongTx = {
     path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
     name: SKIP_ALL_NAME,
@@ -37,8 +37,17 @@ const blobTx = [
         label: SKIP_ALL_LABEL,
         comment: MSG_NOT_SUPPORT_BLOB_TX,
     },
-]
-export const IGNORE_TEST = [wrongTx, ...blobTx];
+];
+export const IGNORE_TEST = [
+    wrongTx,
+    ...blobTx,
+    {
+        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance",
+        name: SKIP_ALL_NAME,
+        label: SKIP_ALL_LABEL,
+        comment: MSG_TIMEOUT,
+    },
+];
 export const IGNORE_TEST1 = [
     wrongTx,
     ...blobTx,
@@ -47,12 +56,6 @@ export const IGNORE_TEST1 = [
         name: SKIP_ALL_NAME,
         label: SKIP_ALL_LABEL,
         comment: MSG_NOT_SUPPORT_BLOB_TX,
-    },
-    {
-        path: "ethereum-tests/GeneralStateTests/VMTests/vmPerformance",
-        name: SKIP_ALL_NAME,
-        label: SKIP_ALL_LABEL,
-        comment: MSG_TIMEOUT,
     },
     {
         path: "ethereum-tests/GeneralStateTests/stAttackTest",
