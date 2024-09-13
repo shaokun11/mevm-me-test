@@ -247,6 +247,7 @@ export async function runTask(opt) {
                     status += RUN_STATUS.EXCEPTION;
                     msg += `${JSON.stringify({
                         error: error.message,
+                        expected: post[i].hash,
                     })}`;
                 } finally {
                     const output = `${new Date().toISOString()} ${status} ${loc} ${msg}`;
