@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stBadOpcode/opc0CDiffPlaces.json
-2024-09-11T06:23:27.439Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 1/35 data:0,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-09-11T06:23:30.616Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 2/35 data:1,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}
-2024-09-11T06:23:33.750Z [EXCEPTION] 5/121,0 opc0CDiffPlaces 3/35 data:2,gas:0,value:0 normal {"error":"connect ECONNREFUSED 127.0.0.1:8080"}

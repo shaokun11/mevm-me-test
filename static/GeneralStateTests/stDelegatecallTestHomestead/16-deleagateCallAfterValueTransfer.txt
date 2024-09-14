@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/deleagateCallAfterValueTransfer.json
-2024-08-21T08:47:38.466Z [PASSED] 16/28,0 deleagateCallAfterValueTransfer 1/1 data:0,gas:0,value:0  

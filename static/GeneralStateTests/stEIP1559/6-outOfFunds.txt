@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP1559/outOfFunds.json
-2024-08-21T08:56:25.595Z [PASSED] 6/13,0 outOfFunds 1/4 data:0,gas:0,value:0 declaredKeyWrite 
-2024-08-21T08:56:25.808Z [PASSED] 6/13,0 outOfFunds 2/4 data:0,gas:0,value:1  
-2024-08-21T08:56:26.020Z [PASSED] 6/13,0 outOfFunds 3/4 data:0,gas:1,value:0  
-2024-08-21T08:56:26.238Z [PASSED] 6/13,0 outOfFunds 4/4 data:0,gas:1,value:1  

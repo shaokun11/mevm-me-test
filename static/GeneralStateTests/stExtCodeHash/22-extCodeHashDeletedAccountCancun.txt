@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashDeletedAccountCancun.json
-2024-08-21T08:57:25.062Z [SKIP] 22/36,0 extCodeHashDeletedAccountCancun 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

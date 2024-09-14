@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedRemoveOwner.json
-2024-08-21T10:13:47.938Z [PASSED] 20/42,0 multiOwnedRemoveOwner 1/1 data:0,gas:0,value:0  

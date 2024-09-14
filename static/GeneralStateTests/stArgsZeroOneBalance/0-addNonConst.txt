@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/addNonConst.json
-2024-09-11T06:20:53.774Z [PASSED] 0/46,0 addNonConst 1/2 data:0,gas:0,value:0  
-2024-09-11T06:20:53.995Z [PASSED] 0/46,0 addNonConst 2/2 data:0,gas:0,value:1  

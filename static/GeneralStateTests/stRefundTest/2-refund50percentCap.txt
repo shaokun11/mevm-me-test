@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stRefundTest/refund50percentCap.json
-2024-08-21T09:23:54.196Z [PASSED] 2/22,0 refund50percentCap 1/1 data:0,gas:0,value:0  

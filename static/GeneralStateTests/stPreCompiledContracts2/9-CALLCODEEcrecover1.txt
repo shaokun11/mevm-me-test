@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover1.json
-2024-08-21T09:13:40.067Z [PASSED] 9/102,0 CALLCODEEcrecover1 1/1 data:0,gas:0,value:0  

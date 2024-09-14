@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallDelegateCodesHomestead/callcodecallcode_11_OOGE.json
-2024-08-21T08:45:11.431Z [PASSED] 42/58,0 callcodecallcode_11_OOGE 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/gasCostReturn.json
-2024-08-21T08:49:27.426Z [PASSED] 39/40,0 gasCostReturn 1/1 data:0,gas:0,value:0  

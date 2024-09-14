@@ -1,9 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmLogTest/log0.json
-2024-09-11T04:19:06.715Z [PASSED] 45/64,0 log0 1/8 data:0,gas:0,value:0 emptyMem 
-2024-09-11T04:19:06.929Z [PASSED] 45/64,0 log0 2/8 data:3,gas:0,value:0 memStartTooHigh 
-2024-09-11T04:19:07.142Z [PASSED] 45/64,0 log0 3/8 data:4,gas:0,value:0 memSizeTooHigh 
-2024-09-11T04:19:07.355Z [PASSED] 45/64,0 log0 4/8 data:5,gas:0,value:0 memSizeZero 
-2024-09-11T04:19:07.569Z [PASSED] 45/64,0 log0 5/8 data:6,gas:0,value:0 nonEmptyMem 
-2024-09-11T04:19:07.783Z [PASSED] 45/64,0 log0 6/8 data:7,gas:0,value:0 log_0_1 
-2024-09-11T04:19:07.997Z [PASSED] 45/64,0 log0 7/8 data:1,gas:0,value:0 log_31_1 
-2024-09-11T04:19:08.215Z [PASSED] 45/64,0 log0 8/8 data:2,gas:0,value:0 logTwice 

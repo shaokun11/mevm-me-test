@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stBadOpcode/eip2315NotRemoved.json
-2024-09-11T06:22:20.762Z [PASSED] 1/121,0 eip2315NotRemoved 1/1 data:0,gas:0,value:0  

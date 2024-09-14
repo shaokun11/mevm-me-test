@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CreateCollisionResults.json
-2024-08-21T08:46:23.704Z [PASSED] 26/47,0 CreateCollisionResults 1/2 data:0,gas:0,value:0  
-2024-08-21T08:46:23.918Z [PASSED] 26/47,0 CreateCollisionResults 2/2 data:1,gas:0,value:0  

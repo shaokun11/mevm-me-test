@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stSelfBalance/selfBalanceCallTypes.json
-2024-08-21T09:28:06.806Z [PASSED] 2/6,0 selfBalanceCallTypes 1/3 data:0,gas:0,value:0  
-2024-08-21T09:28:07.021Z [PASSED] 2/6,0 selfBalanceCallTypes 2/3 data:1,gas:0,value:0  
-2024-08-21T09:28:07.235Z [PASSED] 2/6,0 selfBalanceCallTypes 3/3 data:2,gas:0,value:0  

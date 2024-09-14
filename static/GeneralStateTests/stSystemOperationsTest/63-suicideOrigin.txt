@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideOrigin.json
-2024-08-21T09:48:56.049Z [SKIP] 63/67,0 suicideOrigin 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

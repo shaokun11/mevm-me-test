@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Call1024OOG.json
-2024-08-21T08:44:24.458Z [PASSED] 1/43,0 Call1024OOG 1/4 data:0,gas:0,value:0  
-2024-08-21T08:44:24.877Z [PASSED] 1/43,0 Call1024OOG 2/4 data:0,gas:1,value:0  
-2024-08-21T08:44:25.498Z [PASSED] 1/43,0 Call1024OOG 3/4 data:0,gas:2,value:0  
-2024-08-21T08:44:25.917Z [PASSED] 1/43,0 Call1024OOG 4/4 data:0,gas:3,value:0  

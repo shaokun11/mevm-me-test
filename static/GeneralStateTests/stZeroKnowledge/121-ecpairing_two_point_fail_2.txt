@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_two_point_fail_2.json
-2024-08-21T10:16:22.435Z [PASSED] 121/134,0 ecpairing_two_point_fail_2 1/4 data:0,gas:0,value:0  
-2024-08-21T10:16:22.648Z [PASSED] 121/134,0 ecpairing_two_point_fail_2 2/4 data:0,gas:1,value:0  
-2024-08-21T10:16:22.862Z [PASSED] 121/134,0 ecpairing_two_point_fail_2 3/4 data:0,gas:2,value:0  
-2024-08-21T10:16:23.076Z [PASSED] 121/134,0 ecpairing_two_point_fail_2 4/4 data:0,gas:3,value:0  

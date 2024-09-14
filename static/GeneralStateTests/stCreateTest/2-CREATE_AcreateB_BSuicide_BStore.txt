@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CREATE_AcreateB_BSuicide_BStore.json
-2024-08-21T08:46:10.784Z [SKIP] 2/47,0 CREATE_AcreateB_BSuicide_BStore 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

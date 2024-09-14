@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedConstructionCorrect.json
-2024-08-21T10:13:46.637Z [PASSED] 15/42,0 multiOwnedConstructionCorrect 1/1 data:0,gas:0,value:0  

@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitOOGforCREATE.json
-2024-08-21T08:44:44.887Z [PASSED] 36/43,0 createInitOOGforCREATE 1/2 data:0,gas:0,value:0  
-2024-08-21T08:44:45.101Z [SKIP] 36/43,0 createInitOOGforCREATE 2/2 data:0,gas:1,value:0  Not implementation SELFDESTRUCT opcode

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stTransactionTest/StoreClearsAndInternlCallStoreClearsSuccess.json
-2024-08-21T10:13:35.859Z [PASSED] 21/35,0 StoreClearsAndInternlCallStoreClearsSuccess 1/1 data:0,gas:0,value:0  

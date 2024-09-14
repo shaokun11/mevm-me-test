@@ -1,1 +1,0 @@
-ethereum-tests/GeneralStateTests/stBadOpcode/opcC2DiffPlaces.json

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/callValue.json
-2024-08-21T09:48:46.385Z [PASSED] 33/67,0 callValue 1/1 data:0,gas:0,value:0  

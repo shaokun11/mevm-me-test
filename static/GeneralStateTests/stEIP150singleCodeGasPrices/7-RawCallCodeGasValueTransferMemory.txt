@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCallCodeGasValueTransferMemory.json
-2024-08-21T08:47:48.759Z [PASSED] 7/40,0 RawCallCodeGasValueTransferMemory 1/1 data:0,gas:0,value:0  

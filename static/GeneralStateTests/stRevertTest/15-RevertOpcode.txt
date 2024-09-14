@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcode.json
-2024-08-21T09:25:12.499Z [PASSED] 15/46,0 RevertOpcode 1/4 data:0,gas:0,value:0  
-2024-08-21T09:25:12.714Z [PASSED] 15/46,0 RevertOpcode 2/4 data:0,gas:0,value:1  
-2024-08-21T09:25:12.930Z [PASSED] 15/46,0 RevertOpcode 3/4 data:0,gas:1,value:0  
-2024-08-21T09:25:13.146Z [PASSED] 15/46,0 RevertOpcode 4/4 data:0,gas:1,value:1  

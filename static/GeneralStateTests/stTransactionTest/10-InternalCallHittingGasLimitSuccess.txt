@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stTransactionTest/InternalCallHittingGasLimitSuccess.json
-2024-08-21T10:12:45.019Z [PASSED] 10/35,0 InternalCallHittingGasLimitSuccess 1/1 data:0,gas:0,value:0  

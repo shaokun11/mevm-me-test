@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP1559/lowFeeCap.json
-2024-08-21T08:56:24.089Z [PASSED] 3/13,0 lowFeeCap 1/1 data:0,gas:0,value:0 declaredKeyWrite 

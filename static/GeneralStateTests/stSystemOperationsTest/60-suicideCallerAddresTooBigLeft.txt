@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideCallerAddresTooBigLeft.json
-2024-08-21T09:48:55.406Z [SKIP] 60/67,0 suicideCallerAddresTooBigLeft 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

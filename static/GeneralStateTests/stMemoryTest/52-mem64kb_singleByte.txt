@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stMemoryTest/mem64kb_singleByte.json
-2024-08-21T09:00:14.169Z [PASSED] 52/71,0 mem64kb_singleByte 1/1 data:0,gas:0,value:0  

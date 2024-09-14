@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCodes/callcallcode_01_OOGE.json
-2024-08-21T08:44:07.545Z [PASSED] 21/79,0 callcallcode_01_OOGE 1/1 data:0,gas:0,value:0  

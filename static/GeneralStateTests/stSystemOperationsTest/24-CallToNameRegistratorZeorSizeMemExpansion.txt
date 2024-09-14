@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorZeorSizeMemExpansion.json
-2024-08-21T09:48:44.231Z [PASSED] 24/67,0 CallToNameRegistratorZeorSizeMemExpansion 1/2 data:0,gas:0,value:0  
-2024-08-21T09:48:44.449Z [PASSED] 24/67,0 CallToNameRegistratorZeorSizeMemExpansion 2/2 data:0,gas:1,value:0  

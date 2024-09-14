@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecoverV_prefixedf0.json
-2024-08-21T09:13:41.788Z [PASSED] 17/102,0 CALLCODEEcrecoverV_prefixedf0 1/2 data:0,gas:0,value:0  
-2024-08-21T09:13:42.001Z [PASSED] 17/102,0 CALLCODEEcrecoverV_prefixedf0 2/2 data:1,gas:0,value:0  

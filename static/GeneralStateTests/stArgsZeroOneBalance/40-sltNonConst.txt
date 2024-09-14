@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/sltNonConst.json
-2024-09-11T06:21:14.259Z [PASSED] 40/46,0 sltNonConst 1/2 data:0,gas:0,value:0  
-2024-09-11T06:21:14.473Z [PASSED] 40/46,0 sltNonConst 2/2 data:0,gas:0,value:1  

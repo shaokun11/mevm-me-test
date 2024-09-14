@@ -1,1 +1,0 @@
-ethereum-tests/GeneralStateTests/stBadOpcode/opcC8DiffPlaces.json

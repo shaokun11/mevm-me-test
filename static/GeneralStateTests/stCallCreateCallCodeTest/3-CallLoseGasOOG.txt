@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/CallLoseGasOOG.json
-2024-08-21T08:44:31.011Z [PASSED] 3/43,0 CallLoseGasOOG 1/1 data:0,gas:0,value:0  

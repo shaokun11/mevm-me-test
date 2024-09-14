@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callWithHighValueAndGasOOG.json
-2024-08-21T08:44:38.697Z [PASSED] 15/43,0 callWithHighValueAndGasOOG 1/2 data:0,gas:0,value:0  
-2024-08-21T08:44:38.911Z [PASSED] 15/43,0 callWithHighValueAndGasOOG 2/2 data:0,gas:0,value:1  

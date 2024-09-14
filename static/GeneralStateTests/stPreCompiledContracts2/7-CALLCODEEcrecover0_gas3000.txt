@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stPreCompiledContracts2/CALLCODEEcrecover0_gas3000.json
-2024-08-21T09:13:39.638Z [PASSED] 7/102,0 CALLCODEEcrecover0_gas3000 1/1 data:0,gas:0,value:0  

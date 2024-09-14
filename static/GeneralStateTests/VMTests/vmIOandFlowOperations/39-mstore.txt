@@ -1,6 +1,0 @@
-ethereum-tests/GeneralStateTests/VMTests/vmIOandFlowOperations/mstore.json
-2024-09-11T04:19:00.192Z [PASSED] 39/64,0 mstore 1/5 data:0,gas:0,value:0 mstore_allF 
-2024-09-11T04:19:00.405Z [PASSED] 39/64,0 mstore 2/5 data:2,gas:0,value:0 mstore_one 
-2024-09-11T04:19:00.628Z [PASSED] 39/64,0 mstore 3/5 data:1,gas:0,value:0 mstore_neg1 
-2024-09-11T04:19:00.842Z [PASSED] 39/64,0 mstore 4/5 data:3,gas:0,value:0 mstore_byte32 
-2024-09-11T04:19:01.056Z [PASSED] 39/64,0 mstore 5/5 data:4,gas:0,value:0 mstore_byte31 

@@ -1,4 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_empty_data_insufficient_gas.json
-2024-08-21T10:15:34.465Z [PASSED] 103/134,0 ecpairing_empty_data_insufficient_gas 1/3 data:0,gas:0,value:0  
-2024-08-21T10:15:34.679Z [PASSED] 103/134,0 ecpairing_empty_data_insufficient_gas 2/3 data:0,gas:1,value:0  
-2024-08-21T10:15:34.892Z [PASSED] 103/134,0 ecpairing_empty_data_insufficient_gas 3/3 data:0,gas:2,value:0  

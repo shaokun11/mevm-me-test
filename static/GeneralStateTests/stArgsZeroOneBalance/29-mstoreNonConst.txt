@@ -1,3 +1,0 @@
-ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/mstoreNonConst.json
-2024-09-11T06:21:07.315Z [PASSED] 29/46,0 mstoreNonConst 1/2 data:0,gas:0,value:0  
-2024-09-11T06:21:07.529Z [PASSED] 29/46,0 mstoreNonConst 2/2 data:0,gas:0,value:1  

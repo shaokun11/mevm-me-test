@@ -1,7 +1,0 @@
-ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGafterMaxCodesize.json
-2024-08-21T08:46:41.865Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 1/6 data:0,gas:0,value:0 LowContractCount_NoDelegateCreate_CallCreateOOG 
-2024-08-21T08:46:42.284Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 2/6 data:1,gas:0,value:0 LowContractCount_DelegateCreate_CallCreateOOG 
-2024-08-21T08:46:43.103Z [SKIP] 37/47,0 CreateOOGafterMaxCodesize 3/6 data:2,gas:0,value:0 LowContractCount_DelegateCreate_CallCreate_SelfDestruct Not implementation SELFDESTRUCT opcode
-2024-08-21T08:46:43.723Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 4/6 data:3,gas:0,value:0 HighContractCount_NoDelegateCreate_CallCreateOOG 
-2024-08-21T08:46:51.412Z [PASSED] 37/47,0 CreateOOGafterMaxCodesize 5/6 data:4,gas:0,value:0 HighContractCount_DelegateCreate_CallCreateOOG 
-2024-08-21T08:47:05.969Z [SKIP] 37/47,0 CreateOOGafterMaxCodesize 6/6 data:5,gas:0,value:0 HighContractCount_DelegateCreate_CallCreate_SelfDestruct Not implementation SELFDESTRUCT opcode

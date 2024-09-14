@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stInitCodeTest/CallContractToCreateContractOOGBonusGas.json
-2024-08-21T08:57:36.184Z [PASSED] 3/17,0 CallContractToCreateContractOOGBonusGas 1/1 data:0,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_SUICIDE_ToOneStorageKey_Paris.json
-2024-08-21T10:14:00.395Z [SKIP] 15/24,0 ZeroValue_SUICIDE_ToOneStorageKey_Paris 1/1 data:0,gas:0,value:0  Not implementation SELFDESTRUCT opcode

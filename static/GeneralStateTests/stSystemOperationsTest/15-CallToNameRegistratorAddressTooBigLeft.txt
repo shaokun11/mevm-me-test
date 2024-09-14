@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallToNameRegistratorAddressTooBigLeft.json
-2024-08-21T09:48:42.285Z [PASSED] 15/67,0 CallToNameRegistratorAddressTooBigLeft 1/1 data:0,gas:0,value:0  

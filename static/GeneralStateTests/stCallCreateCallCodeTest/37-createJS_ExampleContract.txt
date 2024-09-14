@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createJS_ExampleContract.json
-2024-08-21T08:44:45.321Z [PASSED] 37/43,0 createJS_ExampleContract 1/1 data:0,gas:0,value:0  

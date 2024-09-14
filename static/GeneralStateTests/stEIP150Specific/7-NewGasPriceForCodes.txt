@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP150Specific/NewGasPriceForCodes.json
-2024-08-21T08:47:42.853Z [PASSED] 7/14,0 NewGasPriceForCodes 1/1 data:0,gas:0,value:0  

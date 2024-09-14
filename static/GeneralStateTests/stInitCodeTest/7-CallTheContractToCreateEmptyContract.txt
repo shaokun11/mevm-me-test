@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stInitCodeTest/CallTheContractToCreateEmptyContract.json
-2024-08-21T08:57:37.053Z [PASSED] 7/17,0 CallTheContractToCreateEmptyContract 1/1 data:0,gas:0,value:0  

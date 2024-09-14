@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip7516_blobgasfee/blobbasefee_before_fork.json
-2024-09-10T16:39:37.724Z [SKIP] 47/66,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip7516_blobgasfee/test_blobgasfee_opcode.py::test_blobbasefee_before_fork[fork_ShanghaiToCancunAtTime15k-state_test] No Cancun post state found

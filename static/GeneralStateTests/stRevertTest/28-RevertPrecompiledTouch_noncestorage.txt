@@ -1,5 +1,0 @@
-ethereum-tests/GeneralStateTests/stRevertTest/RevertPrecompiledTouch_noncestorage.json
-2024-08-21T09:25:53.402Z [PASSED] 28/46,0 RevertPrecompiledTouch_noncestorage 1/4 data:0,gas:0,value:0  
-2024-08-21T09:25:53.616Z [PASSED] 28/46,0 RevertPrecompiledTouch_noncestorage 2/4 data:1,gas:0,value:0  
-2024-08-21T09:25:53.829Z [PASSED] 28/46,0 RevertPrecompiledTouch_noncestorage 3/4 data:2,gas:0,value:0  
-2024-08-21T09:25:54.042Z [PASSED] 28/46,0 RevertPrecompiledTouch_noncestorage 4/4 data:3,gas:0,value:0  

@@ -1,2 +1,0 @@
-ethereum-tests/GeneralStateTests/stEIP3607/transactionCollidingWithNonEmptyAccount_send_Paris.json
-2024-08-21T08:57:09.614Z [PASSED] 4/5,0 transactionCollidingWithNonEmptyAccount_send_Paris 1/1 data:0,gas:0,value:0  
