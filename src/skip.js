@@ -17,7 +17,7 @@ export const MOVE_VM_SKIP_BLOB_BASEFEE_KEY = "0x1::evm_for_test: 0x4a";
 export const MOVE_VM_SKIP_KZG_KEY = "0x1::evm_precompile: 0xa";
 export const MOVE_VM_SKIP_BLOB_HASH_KEY = "0x1::evm_for_test: 0x49";
 export const MOVE_VM_SKIP_SELFDESTRUCT_KEY = "0x1::evm_for_test: 0xff";
-export const MOVE_VM_OPCODE_NOT_SUPPORT = "0x1::evm_for_test_v2: 0xd3";
+export const MOVE_VM_OPCODE_NOT_SUPPORT = "0x1::evm_for_test_v2: 0x12d";
 const wrongTx = {
     path: "ethereum-tests/GeneralStateTests/stTransactionTest/ValueOverflowParis.json",
     name: SKIP_ALL_NAME,

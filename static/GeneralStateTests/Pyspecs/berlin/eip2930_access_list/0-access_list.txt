@@ -1,0 +1,6 @@
+ethereum-tests/GeneralStateTests/Pyspecs/berlin/eip2930_access_list/access_list.json
+2024-09-14T05:20:30.336Z [SKIP] 0/66,0 src/GeneralStateTestsFiller/Pyspecs/berlin/eip2930_access_list/test_acl.py::test_access_list[fork_Berlin-state_test] No Cancun post state found
+2024-09-14T05:20:30.338Z [SKIP] 0/66,2 src/GeneralStateTestsFiller/Pyspecs/berlin/eip2930_access_list/test_acl.py::test_access_list[fork_London-state_test] No Cancun post state found
+2024-09-14T05:20:30.338Z [SKIP] 0/66,3 src/GeneralStateTestsFiller/Pyspecs/berlin/eip2930_access_list/test_acl.py::test_access_list[fork_Paris-state_test] No Cancun post state found
+2024-09-14T05:20:30.338Z [SKIP] 0/66,4 src/GeneralStateTestsFiller/Pyspecs/berlin/eip2930_access_list/test_acl.py::test_access_list[fork_Shanghai-state_test] No Cancun post state found
+2024-09-14T05:20:30.630Z [PASSED] 0/66,1 src/GeneralStateTestsFiller/Pyspecs/berlin/eip2930_access_list/test_acl.py::test_access_list[fork_Cancun-state_test] 1/1 data:0,gas:0,value:0  

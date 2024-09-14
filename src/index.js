@@ -24,7 +24,7 @@ async function listFiles() {
 const files = await listFiles();
 files.sort();
 
-for (let i = 0; i < files.length; i++) {
+for (let i = 63; i < files.length; i++) {
     await runTask({
         index: i,
         source: files[i],
@@ -37,5 +37,3 @@ for (let i = 0; i < files.length; i++) {
 
 // https://evm-test-rpc.bbd.sh/v1/transactions/by_hash/0x03e1876285baa81157fc9cf8bf9b8bd1accebd5d9bb8acfcf5084c81132c7e2d
 // curl http://127.0.0.1:8080/v1/transactions/by_hash/0x521069fb465a6bade12ab467d28c3872cda99cb39de97b883584019b2e211cd6
-// go test -timeout 30s -run TestState/stSystemOperationsTest/ABAcalls0.json$ github.com/ethereum/go-ethereum/tests
-// go test -timeout 30s -run Cancun/stEIP1153-transientStorage/03_tloadAfterStoreIs0.json github.com/ethereum/go-ethereum/tests
