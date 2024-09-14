@@ -1,13 +1,13 @@
 ethereum-tests/GeneralStateTests/stCreate2/CREATE2_Suicide.json
-2024-09-14T16:39:23.111Z [SKIP] 8/51,0 CREATE2_Suicide 1/12 data:0,gas:0,value:0  Not support opcode
-2024-09-14T16:39:23.323Z [SKIP] 8/51,0 CREATE2_Suicide 2/12 data:1,gas:0,value:0  Not support opcode
-2024-09-14T16:39:23.537Z [SKIP] 8/51,0 CREATE2_Suicide 3/12 data:2,gas:0,value:0  Not support opcode
-2024-09-14T16:39:23.753Z [SKIP] 8/51,0 CREATE2_Suicide 4/12 data:3,gas:0,value:0  Not support opcode
-2024-09-14T16:39:23.969Z [SKIP] 8/51,0 CREATE2_Suicide 5/12 data:4,gas:0,value:0  Not support opcode
-2024-09-14T16:39:24.185Z [SKIP] 8/51,0 CREATE2_Suicide 6/12 data:5,gas:0,value:0  Not support opcode
-2024-09-14T16:39:24.404Z [SKIP] 8/51,0 CREATE2_Suicide 7/12 data:6,gas:0,value:0  Not support opcode
-2024-09-14T16:39:24.619Z [SKIP] 8/51,0 CREATE2_Suicide 8/12 data:7,gas:0,value:0  Not support opcode
-2024-09-14T16:39:24.835Z [SKIP] 8/51,0 CREATE2_Suicide 9/12 data:8,gas:0,value:0  Not support opcode
-2024-09-14T16:39:25.051Z [SKIP] 8/51,0 CREATE2_Suicide 10/12 data:9,gas:0,value:0  Not support opcode
-2024-09-14T16:39:25.265Z [SKIP] 8/51,0 CREATE2_Suicide 11/12 data:10,gas:0,value:0  Not support opcode
-2024-09-14T16:39:25.480Z [SKIP] 8/51,0 CREATE2_Suicide 12/12 data:11,gas:0,value:0  Not support opcode
+2024-09-14T16:59:43.798Z [SKIP] 8/51,0 CREATE2_Suicide 1/12 data:0,gas:0,value:0  Not support opcode
+2024-09-14T16:59:44.013Z [SKIP] 8/51,0 CREATE2_Suicide 2/12 data:1,gas:0,value:0  Not support opcode
+2024-09-14T16:59:44.228Z [SKIP] 8/51,0 CREATE2_Suicide 3/12 data:2,gas:0,value:0  Not support opcode
+2024-09-14T16:59:44.444Z [SKIP] 8/51,0 CREATE2_Suicide 4/12 data:3,gas:0,value:0  Not support opcode
+2024-09-14T16:59:44.659Z [SKIP] 8/51,0 CREATE2_Suicide 5/12 data:4,gas:0,value:0  Not support opcode
+2024-09-14T16:59:44.874Z [SKIP] 8/51,0 CREATE2_Suicide 6/12 data:5,gas:0,value:0  Not support opcode
+2024-09-14T16:59:45.090Z [SKIP] 8/51,0 CREATE2_Suicide 7/12 data:6,gas:0,value:0  Not support opcode
+2024-09-14T16:59:45.308Z [SKIP] 8/51,0 CREATE2_Suicide 8/12 data:7,gas:0,value:0  Not support opcode
+2024-09-14T16:59:45.524Z [SKIP] 8/51,0 CREATE2_Suicide 9/12 data:8,gas:0,value:0  Not support opcode
+2024-09-14T16:59:45.740Z [SKIP] 8/51,0 CREATE2_Suicide 10/12 data:9,gas:0,value:0  Not support opcode
+2024-09-14T16:59:45.954Z [SKIP] 8/51,0 CREATE2_Suicide 11/12 data:10,gas:0,value:0  Not support opcode
+2024-09-14T16:59:46.168Z [SKIP] 8/51,0 CREATE2_Suicide 12/12 data:11,gas:0,value:0  Not support opcode

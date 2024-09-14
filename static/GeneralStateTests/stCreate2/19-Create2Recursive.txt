@@ -1,3 +1,4 @@
 ethereum-tests/GeneralStateTests/stCreate2/Create2Recursive.json
-2024-09-14T16:39:34.057Z [FAILED] 19/51,0 Create2Recursive 1/3 data:0,gas:0,value:0  {"state_root":"0x4dc83516d732235348a3de11d06ce80d67ba1170696e0970d7bebd84d2f6c381","expected":"0xd2c30ecf50a5bd0b5511b53a0d1db29289ff4ef1d6341cf58425589dc3193998","hash":"0x60d289cc3524c992c8da72d157d8b8aaa138828701f06dd362af8054178ce66b"}
-2024-09-14T16:39:34.880Z [PASSED] 19/51,0 Create2Recursive 2/3 data:0,gas:1,value:0  
+2024-09-14T16:59:54.959Z [PASSED] 19/51,0 Create2Recursive 1/3 data:0,gas:0,value:0  
+2024-09-14T16:59:55.785Z [PASSED] 19/51,0 Create2Recursive 2/3 data:0,gas:1,value:0  
+2024-09-14T16:59:56.606Z [PASSED] 19/51,0 Create2Recursive 3/3 data:0,gas:2,value:0  

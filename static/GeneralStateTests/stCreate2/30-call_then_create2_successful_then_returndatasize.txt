@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/call_then_create2_successful_then_returndatasize.json
+2024-09-14T17:00:05.827Z [PASSED] 30/51,0 call_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

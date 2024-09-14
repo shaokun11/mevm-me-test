@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/Create2OOGafterInitCodeReturndataSize.json
-2024-09-14T16:39:32.379Z [PASSED] 14/51,0 Create2OOGafterInitCodeReturndataSize 1/1 data:0,gas:0,value:0  
+2024-09-14T16:59:53.072Z [PASSED] 14/51,0 Create2OOGafterInitCodeReturndataSize 1/1 data:0,gas:0,value:0  
