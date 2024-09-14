@@ -24,7 +24,7 @@ async function listFiles() {
 const files = await listFiles();
 files.sort();
 
-for (let i = 63; i < files.length; i++) {
+for (let i = 0; i < files.length; i++) {
     await runTask({
         index: i,
         source: files[i],
