@@ -1,0 +1,13 @@
+ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json
+2024-09-14T08:54:45.596Z [PASSED] 20/64,0 byte 1/12 data:0,gas:0,value:0 byte_31_big 
+2024-09-14T08:54:45.810Z [PASSED] 20/64,0 byte 2/12 data:1,gas:0,value:0 byte_30_big 
+2024-09-14T08:54:46.024Z [PASSED] 20/64,0 byte 3/12 data:2,gas:0,value:0 byte_29_big 
+2024-09-14T08:54:46.246Z [PASSED] 20/64,0 byte 4/12 data:3,gas:0,value:0 byte_28_big 
+2024-09-14T08:54:46.460Z [PASSED] 20/64,0 byte 5/12 data:4,gas:0,value:0 byte_27_big 
+2024-09-14T08:54:46.674Z [PASSED] 20/64,0 byte 6/12 data:5,gas:0,value:0 byte_26_big 
+2024-09-14T08:54:46.887Z [PASSED] 20/64,0 byte 7/12 data:6,gas:0,value:0 byte_25_big 
+2024-09-14T08:54:47.101Z [PASSED] 20/64,0 byte 8/12 data:7,gas:0,value:0 byte_24_big 
+2024-09-14T08:54:47.315Z [PASSED] 20/64,0 byte 9/12 data:8,gas:0,value:0 byte_00_big 
+2024-09-14T08:54:47.529Z [PASSED] 20/64,0 byte 10/12 data:9,gas:0,value:0 byte_00_big_2nd 
+2024-09-14T08:54:47.742Z [PASSED] 20/64,0 byte 11/12 data:10,gas:0,value:0 byte_asm 
+2024-09-14T08:54:47.956Z [PASSED] 20/64,0 byte 12/12 data:11,gas:0,value:0 byte_all 

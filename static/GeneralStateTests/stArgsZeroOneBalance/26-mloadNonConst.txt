@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/mloadNonConst.json
+2024-09-14T08:56:39.676Z [PASSED] 26/46,0 mloadNonConst 1/2 data:0,gas:0,value:0  
+2024-09-14T08:56:39.889Z [PASSED] 26/46,0 mloadNonConst 2/2 data:0,gas:0,value:1  

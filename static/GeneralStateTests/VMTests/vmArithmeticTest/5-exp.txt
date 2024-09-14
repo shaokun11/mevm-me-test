@@ -1,0 +1,12 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/exp.json
+2024-09-14T08:54:24.546Z [PASSED] 5/64,0 exp 1/11 data:3,gas:0,value:0 exp_2_2 
+2024-09-14T08:54:24.761Z [PASSED] 5/64,0 exp 2/11 data:7,gas:0,value:0 exp_neg1_neg2 
+2024-09-14T08:54:24.975Z [PASSED] 5/64,0 exp 3/11 data:9,gas:0,value:0 exp_big_big 
+2024-09-14T08:54:25.191Z [PASSED] 5/64,0 exp 4/11 data:0,gas:0,value:0 exp_0_big 
+2024-09-14T08:54:25.406Z [PASSED] 5/64,0 exp 5/11 data:1,gas:0,value:0 exp_big_0 
+2024-09-14T08:54:25.620Z [PASSED] 5/64,0 exp 6/11 data:2,gas:0,value:0 exp_257_1 
+2024-09-14T08:54:25.834Z [PASSED] 5/64,0 exp 7/11 data:4,gas:0,value:0 exp_1_257 
+2024-09-14T08:54:26.050Z [PASSED] 5/64,0 exp 8/11 data:5,gas:0,value:0 exp_2_257 
+2024-09-14T08:54:26.264Z [PASSED] 5/64,0 exp 9/11 data:6,gas:0,value:0 exp_0_0 
+2024-09-14T08:54:26.478Z [PASSED] 5/64,0 exp 10/11 data:8,gas:0,value:0 exp_2_big 
+2024-09-14T08:54:26.692Z [PASSED] 5/64,0 exp 11/11 data:10,gas:0,value:0 exp_2_15 

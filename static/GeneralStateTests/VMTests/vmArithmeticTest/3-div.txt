@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/div.json
+2024-09-14T08:53:59.717Z [PASSED] 3/64,0 div 1/8 data:0,gas:0,value:0 div_2_big 
+2024-09-14T08:53:59.932Z [PASSED] 3/64,0 div 2/8 data:3,gas:0,value:0 div_boost_bug 
+2024-09-14T08:54:00.146Z [PASSED] 3/64,0 div 3/8 data:4,gas:0,value:0 div_5_2 
+2024-09-14T08:54:00.361Z [PASSED] 3/64,0 div 4/8 data:6,gas:0,value:0 div_23_24 
+2024-09-14T08:54:00.576Z [PASSED] 3/64,0 div 5/8 data:1,gas:0,value:0 div_0_24 
+2024-09-14T08:54:00.798Z [PASSED] 3/64,0 div 6/8 data:2,gas:0,value:0 div_1_0 
+2024-09-14T08:54:01.012Z [PASSED] 3/64,0 div 7/8 data:5,gas:0,value:0 div_2_0 
+2024-09-14T08:54:01.227Z [PASSED] 3/64,0 div 8/8 data:7,gas:0,value:0 div_0_add 

@@ -1,0 +1,18 @@
+ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/sdiv.json
+2024-09-14T08:54:34.647Z [PASSED] 14/64,0 sdiv 1/17 data:2,gas:0,value:0 sdiv_1_neg1 
+2024-09-14T08:54:34.866Z [PASSED] 14/64,0 sdiv 2/17 data:6,gas:0,value:0 sdiv_neg1_1 
+2024-09-14T08:54:35.080Z [PASSED] 14/64,0 sdiv 3/17 data:7,gas:0,value:0 sdiv_neg2_neg4 
+2024-09-14T08:54:35.294Z [PASSED] 14/64,0 sdiv 4/17 data:10,gas:0,value:0 sdiv_4_neg2 
+2024-09-14T08:54:35.511Z [PASSED] 14/64,0 sdiv 5/17 data:11,gas:0,value:0 sdiv_5_neg4 
+2024-09-14T08:54:35.724Z [PASSED] 14/64,0 sdiv 6/17 data:16,gas:0,value:0 sdiv_2pow255_neg1 
+2024-09-14T08:54:36.141Z [PASSED] 14/64,0 sdiv 7/17 data:0,gas:0,value:0 sdiv_2pow255_0 
+2024-09-14T08:54:36.355Z [PASSED] 14/64,0 sdiv 8/17 data:1,gas:0,value:0 sdiv_neg1_25 
+2024-09-14T08:54:36.569Z [PASSED] 14/64,0 sdiv 9/17 data:3,gas:0,value:0 sdiv_neg1_neg1 
+2024-09-14T08:54:36.794Z [PASSED] 14/64,0 sdiv 10/17 data:4,gas:0,value:0 sdiv_neg1_1_2nd 
+2024-09-14T08:54:37.008Z [PASSED] 14/64,0 sdiv 11/17 data:5,gas:0,value:0 sdiv_neg3_0 
+2024-09-14T08:54:37.223Z [PASSED] 14/64,0 sdiv 12/17 data:8,gas:0,value:0 sdiv_1_0 
+2024-09-14T08:54:37.437Z [PASSED] 14/64,0 sdiv 13/17 data:9,gas:0,value:0 sdiv_1_0_add1 
+2024-09-14T08:54:37.652Z [PASSED] 14/64,0 sdiv 14/17 data:12,gas:0,value:0 sdiv_neg9_5 
+2024-09-14T08:54:37.865Z [PASSED] 14/64,0 sdiv 15/17 data:13,gas:0,value:0 sdiv_2pow255_neg1_2nd 
+2024-09-14T08:54:38.079Z [PASSED] 14/64,0 sdiv 16/17 data:15,gas:0,value:0 sdiv_minint_neg1 
+2024-09-14T08:54:38.292Z [PASSED] 14/64,0 sdiv 17/17 data:14,gas:0,value:0 sdiv_neg1_minint 
