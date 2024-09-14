@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailStackSizeLargerThan1024.json
+2024-09-14T15:44:29.424Z [SKIP] 30/43,0 createInitFailStackSizeLargerThan1024 1/1 data:0,gas:0,value:0  Not support opcode

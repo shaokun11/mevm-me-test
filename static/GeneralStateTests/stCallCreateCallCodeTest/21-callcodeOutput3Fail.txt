@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callcodeOutput3Fail.json
+2024-09-14T15:44:27.057Z [PASSED] 21/43,0 callcodeOutput3Fail 1/1 data:0,gas:0,value:0  

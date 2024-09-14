@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createJS_NoCollision.json
+2024-09-14T15:44:31.354Z [PASSED] 38/43,0 createJS_NoCollision 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stChainId/chainId.json
+2024-09-14T15:48:22.196Z [PASSED] 0/2,0 chainId 1/1 data:0,gas:0,value:0  

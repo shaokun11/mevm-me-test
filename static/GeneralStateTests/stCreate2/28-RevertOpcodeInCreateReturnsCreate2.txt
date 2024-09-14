@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCreate2/RevertOpcodeInCreateReturnsCreate2.json

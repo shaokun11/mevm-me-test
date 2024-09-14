@@ -1,1 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createFailBalanceTooLow.json
+2024-09-14T15:44:28.562Z [SKIP] 27/43,0 createFailBalanceTooLow 1/2 data:0,gas:0,value:0  Not support opcode
+2024-09-14T15:44:28.776Z [SKIP] 27/43,0 createFailBalanceTooLow 2/2 data:0,gas:0,value:1  Not support opcode

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallDelegateCodesCallCodeHomestead/callcallcallcode_001_SuicideEnd.json
+2024-09-14T15:44:40.861Z [SKIP] 4/58,0 callcallcallcode_001_SuicideEnd 1/1 data:0,gas:0,value:0  Not support opcode

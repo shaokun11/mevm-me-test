@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction2.json
+2024-09-14T15:44:30.065Z [SKIP] 33/43,0 createInitFailUndefinedInstruction2 1/1 data:0,gas:0,value:0  Not support opcode

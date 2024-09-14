@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreate2/Create2OnDepth1023.json
+2024-09-14T16:39:33.023Z [FAILED] 17/51,0 Create2OnDepth1023 1/1 data:0,gas:0,value:0  {"state_root":"0x8cea6df7317153dea2d0d1d7e5e97e7bdb72c2bc760134c46fdef5df090e4e7a","expected":"0x2e1cb40993a8f3fadce5aac1b325f163f424ecbcb768b05e552e445562482df7","hash":"0x06938ce122a1ab43b47b41c329674fd21703feefe4cbbb49536720445e7765e1"}

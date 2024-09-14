@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCodeSizeLimit/codesizeInit.json
+2024-09-14T16:24:40.425Z [PASSED] 0/5,0 codesizeInit 1/1 data:0,gas:0,value:0  

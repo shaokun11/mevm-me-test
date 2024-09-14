@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCreate2/create2collisionSelfdestructed.json
