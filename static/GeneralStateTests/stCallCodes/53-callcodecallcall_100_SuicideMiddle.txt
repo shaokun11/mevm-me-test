@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/callcodecallcall_100_SuicideMiddle.json
+2024-09-14T14:12:36.888Z [SKIP] 53/79,0 callcodecallcall_100_SuicideMiddle 1/1 data:0,gas:0,value:0  Not support opcode

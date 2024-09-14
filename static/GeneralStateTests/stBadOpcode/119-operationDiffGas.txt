@@ -1,0 +1,12 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/operationDiffGas.json
+2024-09-14T09:13:20.851Z [PASSED] 119/121,0 operationDiffGas 1/11 data:0,gas:0,value:0 CREATE 
+2024-09-14T09:13:21.064Z [PASSED] 119/121,0 operationDiffGas 2/11 data:1,gas:0,value:0 CREATE2 
+2024-09-14T09:13:21.277Z [PASSED] 119/121,0 operationDiffGas 3/11 data:2,gas:0,value:0 CALL 
+2024-09-14T09:13:21.490Z [PASSED] 119/121,0 operationDiffGas 4/11 data:3,gas:0,value:0 CALLCODE 
+2024-09-14T09:13:21.704Z [PASSED] 119/121,0 operationDiffGas 5/11 data:4,gas:0,value:0 DELEGATECALL 
+2024-09-14T09:13:21.917Z [PASSED] 119/121,0 operationDiffGas 6/11 data:5,gas:0,value:0 STATICCALL 
+2024-09-14T09:13:22.130Z [PASSED] 119/121,0 operationDiffGas 7/11 data:6,gas:0,value:0 MLOAD 
+2024-09-14T09:13:22.353Z [PASSED] 119/121,0 operationDiffGas 8/11 data:7,gas:0,value:0 MSTORE 
+2024-09-14T09:13:22.566Z [PASSED] 119/121,0 operationDiffGas 9/11 data:8,gas:0,value:0 MSTORE8 
+2024-09-14T09:13:22.779Z [PASSED] 119/121,0 operationDiffGas 10/11 data:10,gas:0,value:0 SHA3 
+2024-09-14T09:13:22.993Z [PASSED] 119/121,0 operationDiffGas 11/11 data:9,gas:0,value:0 EXTCODE 

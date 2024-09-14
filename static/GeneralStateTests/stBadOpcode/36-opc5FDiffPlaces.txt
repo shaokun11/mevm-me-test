@@ -1,0 +1,36 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/opc5FDiffPlaces.json
+2024-09-14T09:02:28.265Z [PASSED] 36/121,0 opc5FDiffPlaces 1/35 data:1,gas:0,value:0 normal 
+2024-09-14T09:02:28.480Z [PASSED] 36/121,0 opc5FDiffPlaces 2/35 data:2,gas:0,value:0 normal 
+2024-09-14T09:02:28.693Z [PASSED] 36/121,0 opc5FDiffPlaces 3/35 data:3,gas:0,value:0 normal 
+2024-09-14T09:02:28.907Z [PASSED] 36/121,0 opc5FDiffPlaces 4/35 data:4,gas:0,value:0  
+2024-09-14T09:02:29.121Z [PASSED] 36/121,0 opc5FDiffPlaces 5/35 data:5,gas:0,value:0  
+2024-09-14T09:02:29.340Z [PASSED] 36/121,0 opc5FDiffPlaces 6/35 data:6,gas:0,value:0  
+2024-09-14T09:02:29.556Z [PASSED] 36/121,0 opc5FDiffPlaces 7/35 data:7,gas:0,value:0  
+2024-09-14T09:02:29.770Z [PASSED] 36/121,0 opc5FDiffPlaces 8/35 data:8,gas:0,value:0  
+2024-09-14T09:02:29.984Z [PASSED] 36/121,0 opc5FDiffPlaces 9/35 data:9,gas:0,value:0  
+2024-09-14T09:02:30.199Z [PASSED] 36/121,0 opc5FDiffPlaces 10/35 data:10,gas:0,value:0  
+2024-09-14T09:02:30.412Z [PASSED] 36/121,0 opc5FDiffPlaces 11/35 data:11,gas:0,value:0  
+2024-09-14T09:02:30.626Z [PASSED] 36/121,0 opc5FDiffPlaces 12/35 data:12,gas:0,value:0  
+2024-09-14T09:02:30.841Z [PASSED] 36/121,0 opc5FDiffPlaces 13/35 data:13,gas:0,value:0  
+2024-09-14T09:02:31.060Z [PASSED] 36/121,0 opc5FDiffPlaces 14/35 data:14,gas:0,value:0  
+2024-09-14T09:02:31.274Z [PASSED] 36/121,0 opc5FDiffPlaces 15/35 data:15,gas:0,value:0  
+2024-09-14T09:02:31.488Z [PASSED] 36/121,0 opc5FDiffPlaces 16/35 data:16,gas:0,value:0  
+2024-09-14T09:02:31.703Z [PASSED] 36/121,0 opc5FDiffPlaces 17/35 data:17,gas:0,value:0  
+2024-09-14T09:02:31.918Z [PASSED] 36/121,0 opc5FDiffPlaces 18/35 data:18,gas:0,value:0  
+2024-09-14T09:02:32.132Z [PASSED] 36/121,0 opc5FDiffPlaces 19/35 data:19,gas:0,value:0  
+2024-09-14T09:02:32.346Z [PASSED] 36/121,0 opc5FDiffPlaces 20/35 data:20,gas:0,value:0  
+2024-09-14T09:02:32.561Z [PASSED] 36/121,0 opc5FDiffPlaces 21/35 data:24,gas:0,value:0  
+2024-09-14T09:02:32.780Z [PASSED] 36/121,0 opc5FDiffPlaces 22/35 data:25,gas:0,value:0  
+2024-09-14T09:02:32.995Z [PASSED] 36/121,0 opc5FDiffPlaces 23/35 data:26,gas:0,value:0  
+2024-09-14T09:02:33.210Z [PASSED] 36/121,0 opc5FDiffPlaces 24/35 data:27,gas:0,value:0  
+2024-09-14T09:02:33.425Z [PASSED] 36/121,0 opc5FDiffPlaces 25/35 data:28,gas:0,value:0  
+2024-09-14T09:02:33.639Z [PASSED] 36/121,0 opc5FDiffPlaces 26/35 data:29,gas:0,value:0  
+2024-09-14T09:02:33.853Z [PASSED] 36/121,0 opc5FDiffPlaces 27/35 data:30,gas:0,value:0  
+2024-09-14T09:02:34.067Z [PASSED] 36/121,0 opc5FDiffPlaces 28/35 data:31,gas:0,value:0  
+2024-09-14T09:02:34.282Z [PASSED] 36/121,0 opc5FDiffPlaces 29/35 data:32,gas:0,value:0  
+2024-09-14T09:02:34.501Z [PASSED] 36/121,0 opc5FDiffPlaces 30/35 data:33,gas:0,value:0  
+2024-09-14T09:02:34.717Z [PASSED] 36/121,0 opc5FDiffPlaces 31/35 data:34,gas:0,value:0  
+2024-09-14T09:02:34.932Z [PASSED] 36/121,0 opc5FDiffPlaces 32/35 data:0,gas:0,value:0  
+2024-09-14T09:02:35.147Z [PASSED] 36/121,0 opc5FDiffPlaces 33/35 data:21,gas:0,value:0  
+2024-09-14T09:02:35.361Z [PASSED] 36/121,0 opc5FDiffPlaces 34/35 data:22,gas:0,value:0  
+2024-09-14T09:02:35.575Z [SKIP] 36/121,0 opc5FDiffPlaces 35/35 data:23,gas:0,value:0  Not support opcode

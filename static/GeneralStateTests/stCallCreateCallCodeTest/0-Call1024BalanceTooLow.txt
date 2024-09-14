@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/Call1024BalanceTooLow.json
+2024-09-14T14:13:07.017Z [FAILED] 0/43,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  {"state_root":"0xc26c0c7b3e038c8ffcf51cd61562c229f021e108b57a5bd30ceed9d97c87dde5","expected":"0x76916e1a09d9c9284c005d53299e6a5851772cc926cf1efff482d9078e47ce2e","hash":"0x9a4439feb6d89cab75f18e70c032251f0b3a2961e793d46f3795dfba4eda80ac"}

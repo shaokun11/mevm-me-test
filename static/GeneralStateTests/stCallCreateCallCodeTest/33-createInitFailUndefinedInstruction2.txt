@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailUndefinedInstruction2.json

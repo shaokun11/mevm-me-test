@@ -1,0 +1,36 @@
+ethereum-tests/GeneralStateTests/stBadOpcode/opcA5DiffPlaces.json
+2024-09-14T09:02:35.789Z [SKIP] 37/121,0 opcA5DiffPlaces 1/35 data:0,gas:0,value:0 normal Not support opcode
+2024-09-14T09:02:36.004Z [SKIP] 37/121,0 opcA5DiffPlaces 2/35 data:1,gas:0,value:0 normal Not support opcode
+2024-09-14T09:02:36.224Z [SKIP] 37/121,0 opcA5DiffPlaces 3/35 data:2,gas:0,value:0 normal Not support opcode
+2024-09-14T09:02:36.439Z [SKIP] 37/121,0 opcA5DiffPlaces 4/35 data:3,gas:0,value:0  Not support opcode
+2024-09-14T09:02:36.653Z [SKIP] 37/121,0 opcA5DiffPlaces 5/35 data:4,gas:0,value:0  Not support opcode
+2024-09-14T09:02:36.867Z [SKIP] 37/121,0 opcA5DiffPlaces 6/35 data:5,gas:0,value:0  Not support opcode
+2024-09-14T09:02:37.081Z [SKIP] 37/121,0 opcA5DiffPlaces 7/35 data:6,gas:0,value:0  Not support opcode
+2024-09-14T09:02:37.296Z [SKIP] 37/121,0 opcA5DiffPlaces 8/35 data:7,gas:0,value:0  Not support opcode
+2024-09-14T09:02:37.510Z [SKIP] 37/121,0 opcA5DiffPlaces 9/35 data:8,gas:0,value:0  Not support opcode
+2024-09-14T09:02:37.724Z [SKIP] 37/121,0 opcA5DiffPlaces 10/35 data:9,gas:0,value:0  Not support opcode
+2024-09-14T09:02:37.943Z [SKIP] 37/121,0 opcA5DiffPlaces 11/35 data:10,gas:0,value:0  Not support opcode
+2024-09-14T09:02:38.158Z [SKIP] 37/121,0 opcA5DiffPlaces 12/35 data:11,gas:0,value:0  Not support opcode
+2024-09-14T09:02:38.375Z [SKIP] 37/121,0 opcA5DiffPlaces 13/35 data:12,gas:0,value:0  Not support opcode
+2024-09-14T09:02:38.590Z [SKIP] 37/121,0 opcA5DiffPlaces 14/35 data:13,gas:0,value:0  Not support opcode
+2024-09-14T09:02:38.804Z [SKIP] 37/121,0 opcA5DiffPlaces 15/35 data:14,gas:0,value:0  Not support opcode
+2024-09-14T09:02:39.017Z [SKIP] 37/121,0 opcA5DiffPlaces 16/35 data:15,gas:0,value:0  Not support opcode
+2024-09-14T09:02:39.231Z [SKIP] 37/121,0 opcA5DiffPlaces 17/35 data:16,gas:0,value:0  Not support opcode
+2024-09-14T09:02:39.446Z [SKIP] 37/121,0 opcA5DiffPlaces 18/35 data:17,gas:0,value:0  Not support opcode
+2024-09-14T09:02:39.664Z [SKIP] 37/121,0 opcA5DiffPlaces 19/35 data:18,gas:0,value:0  Not support opcode
+2024-09-14T09:02:39.879Z [SKIP] 37/121,0 opcA5DiffPlaces 20/35 data:19,gas:0,value:0  Not support opcode
+2024-09-14T09:02:40.094Z [SKIP] 37/121,0 opcA5DiffPlaces 21/35 data:20,gas:0,value:0  Not support opcode
+2024-09-14T09:02:40.310Z [SKIP] 37/121,0 opcA5DiffPlaces 22/35 data:21,gas:0,value:0  Not support opcode
+2024-09-14T09:02:40.523Z [SKIP] 37/121,0 opcA5DiffPlaces 23/35 data:22,gas:0,value:0  Not support opcode
+2024-09-14T09:02:40.738Z [SKIP] 37/121,0 opcA5DiffPlaces 24/35 data:23,gas:0,value:0  Not support opcode
+2024-09-14T09:02:40.953Z [SKIP] 37/121,0 opcA5DiffPlaces 25/35 data:24,gas:0,value:0  Not support opcode
+2024-09-14T09:02:41.167Z [SKIP] 37/121,0 opcA5DiffPlaces 26/35 data:25,gas:0,value:0  Not support opcode
+2024-09-14T09:02:41.387Z [SKIP] 37/121,0 opcA5DiffPlaces 27/35 data:26,gas:0,value:0  Not support opcode
+2024-09-14T09:02:41.601Z [SKIP] 37/121,0 opcA5DiffPlaces 28/35 data:27,gas:0,value:0  Not support opcode
+2024-09-14T09:02:41.815Z [SKIP] 37/121,0 opcA5DiffPlaces 29/35 data:28,gas:0,value:0  Not support opcode
+2024-09-14T09:02:42.029Z [SKIP] 37/121,0 opcA5DiffPlaces 30/35 data:29,gas:0,value:0  Not support opcode
+2024-09-14T09:02:42.242Z [SKIP] 37/121,0 opcA5DiffPlaces 31/35 data:30,gas:0,value:0  Not support opcode
+2024-09-14T09:02:42.456Z [SKIP] 37/121,0 opcA5DiffPlaces 32/35 data:31,gas:0,value:0  Not support opcode
+2024-09-14T09:02:42.670Z [SKIP] 37/121,0 opcA5DiffPlaces 33/35 data:32,gas:0,value:0  Not support opcode
+2024-09-14T09:02:42.884Z [SKIP] 37/121,0 opcA5DiffPlaces 34/35 data:33,gas:0,value:0  Not support opcode
+2024-09-14T09:02:43.108Z [SKIP] 37/121,0 opcA5DiffPlaces 35/35 data:34,gas:0,value:0  Not support opcode

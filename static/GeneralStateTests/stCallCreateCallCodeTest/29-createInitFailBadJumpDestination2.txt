@@ -1,0 +1,1 @@
+ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailBadJumpDestination2.json
