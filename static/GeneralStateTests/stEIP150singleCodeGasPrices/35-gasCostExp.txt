@@ -1,0 +1,10 @@
+ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/gasCostExp.json
+2024-09-15T10:55:09.973Z [PASSED] 35/40,0 gasCostExp 1/9 data:0,gas:0,value:0  
+2024-09-15T10:55:10.187Z [PASSED] 35/40,0 gasCostExp 2/9 data:1,gas:0,value:0  
+2024-09-15T10:55:10.410Z [PASSED] 35/40,0 gasCostExp 3/9 data:2,gas:0,value:0  
+2024-09-15T10:55:10.624Z [PASSED] 35/40,0 gasCostExp 4/9 data:3,gas:0,value:0  
+2024-09-15T10:55:10.837Z [PASSED] 35/40,0 gasCostExp 5/9 data:4,gas:0,value:0  
+2024-09-15T10:55:11.050Z [PASSED] 35/40,0 gasCostExp 6/9 data:5,gas:0,value:0  
+2024-09-15T10:55:11.263Z [PASSED] 35/40,0 gasCostExp 7/9 data:6,gas:0,value:0  
+2024-09-15T10:55:11.476Z [PASSED] 35/40,0 gasCostExp 8/9 data:7,gas:0,value:0  
+2024-09-15T10:55:11.893Z [PASSED] 35/40,0 gasCostExp 9/9 data:8,gas:0,value:0  

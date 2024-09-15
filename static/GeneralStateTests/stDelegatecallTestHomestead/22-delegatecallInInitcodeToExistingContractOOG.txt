@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/delegatecallInInitcodeToExistingContractOOG.json
+2024-09-15T10:53:31.816Z [PASSED] 22/28,0 delegatecallInInitcodeToExistingContractOOG 1/1 data:0,gas:0,value:0  

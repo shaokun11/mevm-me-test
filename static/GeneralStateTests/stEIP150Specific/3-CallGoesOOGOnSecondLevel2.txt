@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP150Specific/CallGoesOOGOnSecondLevel2.json
+2024-09-15T10:53:40.679Z [PASSED] 3/14,0 CallGoesOOGOnSecondLevel2 1/1 data:0,gas:0,value:0  

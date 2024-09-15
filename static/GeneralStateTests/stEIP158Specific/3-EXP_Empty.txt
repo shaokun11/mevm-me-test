@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP158Specific/EXP_Empty.json
+2024-09-15T10:55:50.321Z [PASSED] 3/8,0 EXP_Empty 1/1 data:0,gas:0,value:0  

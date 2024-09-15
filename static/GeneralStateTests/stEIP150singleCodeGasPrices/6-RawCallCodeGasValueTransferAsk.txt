@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP150singleCodeGasPrices/RawCallCodeGasValueTransferAsk.json
+2024-09-15T10:53:59.954Z [PASSED] 6/40,0 RawCallCodeGasValueTransferAsk 1/1 data:0,gas:0,value:0  
