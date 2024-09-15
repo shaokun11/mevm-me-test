@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateTransactionHighNonce.json
+2024-09-15T04:49:06.443Z [FAILED] 40/47,0 CreateTransactionHighNonce 1/2 data:0,gas:0,value:0  {"state_root":"0xfbdc88369aadef807861c359d06fae7292263e05b8acf8d7c5253c545f76c749","expected":"0x2fb5804c5079bae761a87f44bc870b2c8675b72980d98c99acd2e451cb84aa94","hash":"0x2aec2f16fa34b81130b1d823b07846cb115fddc235642609cd49f22449394040"}
+2024-09-15T04:49:06.656Z [FAILED] 40/47,0 CreateTransactionHighNonce 2/2 data:0,gas:0,value:1  {"state_root":"0x13ea436d902d6d0868cdbd42a29d9f7ad278862acf5252ac216105838973d128","expected":"0x2fb5804c5079bae761a87f44bc870b2c8675b72980d98c99acd2e451cb84aa94","hash":"0xb9636c01a4c5725d7b25787ac42ca6fe99067bad511313d9acb093a4e966fa0a"}

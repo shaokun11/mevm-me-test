@@ -1,0 +1,11 @@
+ethereum-tests/GeneralStateTests/stCreateTest/createFailResult.json
+2024-09-15T04:49:09.853Z [PASSED] 45/47,0 createFailResult 1/10 data:0,gas:0,value:0 CREATE--OOG 
+2024-09-15T04:49:10.067Z [PASSED] 45/47,0 createFailResult 2/10 data:1,gas:0,value:0 CREATE2-OOG 
+2024-09-15T04:49:10.290Z [PASSED] 45/47,0 createFailResult 3/10 data:2,gas:0,value:0 CREATE--GOOD 
+2024-09-15T04:49:10.505Z [PASSED] 45/47,0 createFailResult 4/10 data:3,gas:0,value:0 CREATE2-GOOD 
+2024-09-15T04:49:10.719Z [PASSED] 45/47,0 createFailResult 5/10 data:4,gas:0,value:0 CREATE--BAD 
+2024-09-15T04:49:10.933Z [PASSED] 45/47,0 createFailResult 6/10 data:5,gas:0,value:0 CREATE2-BAD 
+2024-09-15T04:49:11.149Z [PASSED] 45/47,0 createFailResult 7/10 data:6,gas:0,value:0 CREATE2-BOOM 
+2024-09-15T04:49:11.363Z [PASSED] 45/47,0 createFailResult 8/10 data:7,gas:0,value:0 CREATE2-BAD-BOOM 
+2024-09-15T04:49:11.576Z [PASSED] 45/47,0 createFailResult 9/10 data:8,gas:0,value:0 CREATE--BOOM 
+2024-09-15T04:49:11.801Z [PASSED] 45/47,0 createFailResult 10/10 data:9,gas:0,value:0 CREATE--BAD-BOOM 
