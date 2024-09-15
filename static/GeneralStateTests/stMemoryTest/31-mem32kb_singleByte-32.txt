@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/mem32kb_singleByte-32.json
+2024-09-15T16:30:46.257Z [PASSED] 31/71,0 mem32kb_singleByte-32 1/1 data:0,gas:0,value:0  

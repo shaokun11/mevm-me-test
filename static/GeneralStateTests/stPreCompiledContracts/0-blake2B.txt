@@ -1,0 +1,8 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/blake2B.json
+2024-09-15T16:31:39.015Z [FAILED] 0/9,0 blake2B 1/26 data:0,gas:0,value:0 fail {"state_root":"0xe376011c37f271422b1a370accc3d9582ea1bf1fde25c324b3269cff50d638c5","expected":"0x282b6c38bd69e59c165305dde0729efdc283f0e14c6ffb646b12f6fcc4b06176","hash":"0xe3978262a2526bd91e5dd66b93ca8ae0fbac2222c9a599e12bb5d77c2d87325c"}
+2024-09-15T16:31:39.237Z [FAILED] 0/9,0 blake2B 2/26 data:1,gas:0,value:0 fail {"state_root":"0xe2be7a3de34bb488043ea4760817583b4f2f6e09dc762a4b3ca6cf7e250dcc0c","expected":"0xb977bca56011384e962d4fe8ed68b3dd48ab97dda62a123661b09897a826709f","hash":"0xff0afbb572cd55502ed5033f6f7f4768aafc2114a250b2af07b0ef1fd90b0bd6"}
+2024-09-15T16:31:39.456Z [FAILED] 0/9,0 blake2B 3/26 data:2,gas:0,value:0 fail {"state_root":"0x9d3d47656109e226df9763d45b1a4f4ef7d74893583bce1578a34cc63a40c8f7","expected":"0xb977bca56011384e962d4fe8ed68b3dd48ab97dda62a123661b09897a826709f","hash":"0x40c89da3e709dd9d3169dc4dc36b761529c78ba08311f8cc7969a8a1e41b2d2d"}
+2024-09-15T16:31:39.674Z [FAILED] 0/9,0 blake2B 4/26 data:3,gas:0,value:0 fail {"state_root":"0x0b59e93e3ce4e8c4224a3777fbf201e94a41cfee1998b98e22290b6cccec9c01","expected":"0xda850485fe5e3bd1a6d8ae700071fb664c0e4088529a52d2800930be7f7e6952","hash":"0x54933f74addc3105d137c464fe58ef2ccf0cea09b99d5abd310395d6ac3480ae"}
+2024-09-15T16:31:39.892Z [PASSED] 0/9,0 blake2B 5/26 data:4,gas:0,value:0 case-04 
+2024-09-15T16:31:40.112Z [PASSED] 0/9,0 blake2B 6/26 data:5,gas:0,value:0 case-05 
+2024-09-15T16:31:40.328Z [PASSED] 0/9,0 blake2B 7/26 data:6,gas:0,value:0 case-06 

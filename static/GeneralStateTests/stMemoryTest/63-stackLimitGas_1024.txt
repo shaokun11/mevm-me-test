@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitGas_1024.json
+2024-09-15T16:31:04.191Z [PASSED] 63/71,0 stackLimitGas_1024 1/1 data:0,gas:0,value:0  

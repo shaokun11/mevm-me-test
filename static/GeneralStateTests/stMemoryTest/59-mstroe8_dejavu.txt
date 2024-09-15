@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/mstroe8_dejavu.json
+2024-09-15T16:30:52.267Z [PASSED] 59/71,0 mstroe8_dejavu 1/1 data:0,gas:0,value:0  

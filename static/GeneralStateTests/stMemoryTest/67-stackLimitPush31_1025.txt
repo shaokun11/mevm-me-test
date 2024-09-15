@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/stackLimitPush31_1025.json
+2024-09-15T16:31:05.048Z [PASSED] 67/71,0 stackLimitPush31_1025 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_TransactionCALLwithData_ToNonNonZeroBalance.json
+2024-09-15T16:31:32.959Z [PASSED] 22/24,0 NonZeroValue_TransactionCALLwithData_ToNonNonZeroBalance 1/1 data:0,gas:0,value:0  
