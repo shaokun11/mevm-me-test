@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE2_RefundEF.json
-2024-09-15T04:48:27.358Z [PASSED] 1/47,0 CREATE2_RefundEF 1/1 data:0,gas:0,value:0  
+2024-09-15T07:57:35.163Z [PASSED] 1/47,0 CREATE2_RefundEF 1/1 data:0,gas:0,value:0  

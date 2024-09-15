@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/CallRecursiveBombPreCall.json
+2024-09-15T08:00:10.378Z [FAILED] 4/28,0 CallRecursiveBombPreCall 1/1 data:0,gas:0,value:0  {"state_root":"0x8a09d2a1f0996bca73914de286d677de337af662abd423f14c39f1071e23ffb6","expected":"0xa12bfef53466fb5f1f0ceed6c9ca6afaf6c3db4926cd1139a30470e32e38a2ca","hash":"0x3fead1d57d03238fe8403b61b06ad9c7a05ff611eaf192318e8dbda2ea8096dc"}

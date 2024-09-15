@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Call1024BalanceTooLow.json
+2024-09-15T08:00:08.654Z [FAILED] 0/28,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  {"state_root":"0xca8b76b57eb7a9510bc79bb00de2e41a240df3e8a93f15f14ba47aaf6b2799c0","expected":"0xfc071ef580274c1c82c28f60253849317c156f6159f711582ef93da01f26f884","hash":"0x65454a767a8f3a25141fbd242863e1f4dcf072fffaeb20c5d73d577c4ff42584"}
