@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashSubcallSuicideCancun.json
+2024-09-15T15:20:25.546Z [SKIP] 34/36,0 extCodeHashSubcallSuicideCancun 1/1 data:0,gas:0,value:0  Not support opcode

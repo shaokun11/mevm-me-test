@@ -1,0 +1,11 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extcodehashEmpty_Paris.json
+2024-09-15T15:20:25.760Z [PASSED] 35/36,0 extcodehashEmpty_Paris 1/10 data:1,gas:0,value:0 empty 
+2024-09-15T15:20:25.974Z [PASSED] 35/36,0 extcodehashEmpty_Paris 2/10 data:0,gas:0,value:0 storage 
+2024-09-15T15:20:26.189Z [PASSED] 35/36,0 extcodehashEmpty_Paris 3/10 data:2,gas:0,value:0 balance 
+2024-09-15T15:20:26.403Z [PASSED] 35/36,0 extcodehashEmpty_Paris 4/10 data:3,gas:0,value:0 balance 
+2024-09-15T15:20:26.616Z [PASSED] 35/36,0 extcodehashEmpty_Paris 5/10 data:4,gas:0,value:0 nonce 
+2024-09-15T15:20:26.830Z [PASSED] 35/36,0 extcodehashEmpty_Paris 6/10 data:5,gas:0,value:0 nonce 
+2024-09-15T15:20:27.047Z [PASSED] 35/36,0 extcodehashEmpty_Paris 7/10 data:6,gas:0,value:0 hasCode 
+2024-09-15T15:20:27.261Z [SKIP] 35/36,0 extcodehashEmpty_Paris 8/10 data:7,gas:0,value:0 dead Not support opcode
+2024-09-15T15:20:27.476Z [PASSED] 35/36,0 extcodehashEmpty_Paris 9/10 data:8,gas:0,value:0 born 
+2024-09-15T15:20:27.690Z [PASSED] 35/36,0 extcodehashEmpty_Paris 10/10 data:9,gas:0,value:0 born2 

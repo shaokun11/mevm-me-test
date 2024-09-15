@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stLogTests/log4_emptyMem.json
+2024-09-15T15:21:08.518Z [PASSED] 38/46,0 log4_emptyMem 1/1 data:0,gas:0,value:0  

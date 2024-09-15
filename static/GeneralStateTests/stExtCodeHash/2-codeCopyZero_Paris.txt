@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/codeCopyZero_Paris.json
+2024-09-15T15:20:14.776Z [PASSED] 2/36,0 codeCopyZero_Paris 1/1 data:0,gas:0,value:0  

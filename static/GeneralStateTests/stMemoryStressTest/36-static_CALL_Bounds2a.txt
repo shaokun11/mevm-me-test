@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stMemoryStressTest/static_CALL_Bounds2a.json
+2024-09-15T15:21:43.095Z [PASSED] 36/38,0 static_CALL_Bounds2a 1/2 data:0,gas:0,value:0  
+2024-09-15T15:21:43.310Z [PASSED] 36/38,0 static_CALL_Bounds2a 2/2 data:0,gas:1,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExample/mergeTest.json
-2024-09-15T14:12:52.700Z [FAILED] 8/12,0 mergeTest 1/1 data:0,gas:0,value:0  {"state_root":"0x837ea3ea7b5c15fe042b0c822db0c28425194c19e6b41a98f6d3601dcf942ae9","expected":"0xd4f2185ab82a4ae3b8d82179153697aa6fde5c6cf829d3ef563a9e97fb0429c8","hash":"0xdd84dd93514caf6a27e4cbd9edc3f4dfc0c921fbc175f6371133b80c76f26248"}
+2024-09-15T14:36:01.946Z [PASSED] 8/12,0 mergeTest 1/1 data:0,gas:0,value:0  

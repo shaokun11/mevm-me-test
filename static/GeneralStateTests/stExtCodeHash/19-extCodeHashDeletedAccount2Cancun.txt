@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashDeletedAccount2Cancun.json
+2024-09-15T15:20:18.441Z [SKIP] 19/36,0 extCodeHashDeletedAccount2Cancun 1/1 data:0,gas:0,value:0  Not support opcode

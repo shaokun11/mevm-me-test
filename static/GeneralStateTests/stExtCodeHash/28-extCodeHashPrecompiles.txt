@@ -1,0 +1,10 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashPrecompiles.json
+2024-09-15T15:20:21.467Z [PASSED] 28/36,0 extCodeHashPrecompiles 1/9 data:0,gas:0,value:0  
+2024-09-15T15:20:21.685Z [PASSED] 28/36,0 extCodeHashPrecompiles 2/9 data:1,gas:0,value:0  
+2024-09-15T15:20:21.899Z [PASSED] 28/36,0 extCodeHashPrecompiles 3/9 data:2,gas:0,value:0  
+2024-09-15T15:20:22.114Z [PASSED] 28/36,0 extCodeHashPrecompiles 4/9 data:3,gas:0,value:0  
+2024-09-15T15:20:22.328Z [PASSED] 28/36,0 extCodeHashPrecompiles 5/9 data:4,gas:0,value:0  
+2024-09-15T15:20:22.542Z [PASSED] 28/36,0 extCodeHashPrecompiles 6/9 data:5,gas:0,value:0  
+2024-09-15T15:20:22.755Z [PASSED] 28/36,0 extCodeHashPrecompiles 7/9 data:6,gas:0,value:0  
+2024-09-15T15:20:22.968Z [PASSED] 28/36,0 extCodeHashPrecompiles 8/9 data:7,gas:0,value:0  
+2024-09-15T15:20:23.182Z [PASSED] 28/36,0 extCodeHashPrecompiles 9/9 data:8,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/DelegateCallOnEIPWithMemExpandingCalls.json
+2024-09-15T15:21:18.688Z [PASSED] 5/9,0 DelegateCallOnEIPWithMemExpandingCalls 1/1 data:0,gas:0,value:0  

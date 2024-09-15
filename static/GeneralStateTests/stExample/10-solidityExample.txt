@@ -1,1 +1,2 @@
 ethereum-tests/GeneralStateTests/stExample/solidityExample.json
+2024-09-15T14:36:07.316Z [PASSED] 10/12,0 solidityExample 1/1 data:0,gas:0,value:0  

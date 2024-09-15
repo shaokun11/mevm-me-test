@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashSelfInInit.json
+2024-09-15T15:20:23.829Z [PASSED] 31/36,0 extCodeHashSelfInInit 1/1 data:0,gas:0,value:0  
