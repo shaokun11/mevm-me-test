@@ -167,7 +167,7 @@ export async function runTask(opt) {
             }
             const access_addresses = [];
             const access_storage_keys = [];
-            const accessList = tx.accessLists?.[indexes["data"]] ?? [];
+            const accessList = tx?.accessList ?? tx.accessLists?.[indexes["data"]] ?? [];
 
             for (const item of accessList) {
                 access_addresses.push(toBuffer(item.address));
