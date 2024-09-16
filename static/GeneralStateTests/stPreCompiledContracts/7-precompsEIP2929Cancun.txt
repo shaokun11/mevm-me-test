@@ -1,1 +1,20 @@
 ethereum-tests/GeneralStateTests/stPreCompiledContracts/precompsEIP2929Cancun.json
+2024-09-16T09:27:16.586Z [PASSED] 7/9,0 precompsEIP2929Cancun 1/396 data:2,gas:0,value:0 no 
+2024-09-16T09:27:16.800Z [PASSED] 7/9,0 precompsEIP2929Cancun 2/396 data:3,gas:0,value:0 no 
+2024-09-16T09:27:17.027Z [PASSED] 7/9,0 precompsEIP2929Cancun 3/396 data:4,gas:0,value:0 yes 
+2024-09-16T09:27:17.241Z [PASSED] 7/9,0 precompsEIP2929Cancun 4/396 data:5,gas:0,value:0 yes 
+2024-09-16T09:27:17.454Z [PASSED] 7/9,0 precompsEIP2929Cancun 5/396 data:6,gas:0,value:0 yes 
+2024-09-16T09:27:17.668Z [PASSED] 7/9,0 precompsEIP2929Cancun 6/396 data:7,gas:0,value:0 yes 
+2024-09-16T09:27:17.883Z [FAILED] 7/9,0 precompsEIP2929Cancun 7/396 data:8,gas:0,value:0 yes {"state_root":"0x48b9e99c85c46545fb34075dc51a905f5dfa5ceb2e1a38db25f8a920c6e804f0","expected":"0x566e717581671b31c9dee8c0455c30d32fab1664a68cbcdc766eb26c072d6ecc","hash":"0x523404537408dc5b19720a093d1fd78323c578b9824dd097f18bde14e7175bde"}
+2024-09-16T09:27:18.097Z [FAILED] 7/9,0 precompsEIP2929Cancun 8/396 data:9,gas:0,value:0 yes {"state_root":"0x48b9e99c85c46545fb34075dc51a905f5dfa5ceb2e1a38db25f8a920c6e804f0","expected":"0x5a87d2c8c8abd8d2031893cef3bcd7798ae096ececdc0edb1a9a6c675a8a8f71","hash":"0x73362d7ea324a3a1d8952fb9551fdbc03c14eabcf8f772bbdd754f2b4b13e533"}
+2024-09-16T09:27:18.312Z [PASSED] 7/9,0 precompsEIP2929Cancun 9/396 data:10,gas:0,value:0 yes 
+2024-09-16T09:27:18.525Z [PASSED] 7/9,0 precompsEIP2929Cancun 10/396 data:11,gas:0,value:0 yes 
+2024-09-16T09:27:18.739Z [PASSED] 7/9,0 precompsEIP2929Cancun 11/396 data:12,gas:0,value:0 yes 
+2024-09-16T09:27:18.959Z [PASSED] 7/9,0 precompsEIP2929Cancun 12/396 data:26,gas:0,value:0 yes 
+2024-09-16T09:27:19.172Z [PASSED] 7/9,0 precompsEIP2929Cancun 13/396 data:27,gas:0,value:0 yes 
+2024-09-16T09:27:19.387Z [PASSED] 7/9,0 precompsEIP2929Cancun 14/396 data:35,gas:0,value:0 no 
+2024-09-16T09:27:19.600Z [PASSED] 7/9,0 precompsEIP2929Cancun 15/396 data:36,gas:0,value:0 no 
+2024-09-16T09:27:19.813Z [PASSED] 7/9,0 precompsEIP2929Cancun 16/396 data:37,gas:0,value:0 no 
+2024-09-16T09:27:20.026Z [PASSED] 7/9,0 precompsEIP2929Cancun 17/396 data:38,gas:0,value:0 no 
+2024-09-16T09:27:20.238Z [PASSED] 7/9,0 precompsEIP2929Cancun 18/396 data:39,gas:0,value:0 no 
+2024-09-16T09:27:20.451Z [PASSED] 7/9,0 precompsEIP2929Cancun 19/396 data:40,gas:0,value:0 new 
