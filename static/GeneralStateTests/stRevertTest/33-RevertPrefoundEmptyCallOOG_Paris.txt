@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrefoundEmptyCallOOG_Paris.json
+2024-09-17T01:29:39.575Z [PASSED] 33/46,0 RevertPrefoundEmptyCallOOG_Paris 1/1 data:0,gas:0,value:0  

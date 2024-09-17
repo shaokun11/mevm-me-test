@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideAddress.json
+2024-09-17T01:36:24.114Z [SKIP] 58/67,0 suicideAddress 1/1 data:0,gas:0,value:0  Not support opcode

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callCreate3.json
+2024-09-17T01:35:04.253Z [PASSED] 124/286,0 static_callCreate3 1/1 data:0,gas:0,value:0  

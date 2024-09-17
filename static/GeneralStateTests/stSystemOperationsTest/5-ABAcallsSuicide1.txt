@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/ABAcallsSuicide1.json
+2024-09-17T01:36:09.257Z [SKIP] 5/67,0 ABAcallsSuicide1 1/2 data:0,gas:0,value:0  Not support opcode
+2024-09-17T01:36:09.475Z [SKIP] 5/67,0 ABAcallsSuicide1 2/2 data:1,gas:0,value:0  Not support opcode

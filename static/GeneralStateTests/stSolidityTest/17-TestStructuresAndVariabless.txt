@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSolidityTest/TestStructuresAndVariabless.json
+2024-09-17T01:32:05.900Z [PASSED] 17/18,0 TestStructuresAndVariabless 1/1 data:0,gas:0,value:0  

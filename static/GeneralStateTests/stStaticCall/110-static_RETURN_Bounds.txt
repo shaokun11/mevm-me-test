@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_RETURN_Bounds.json
+2024-09-17T01:34:57.204Z [PASSED] 110/286,0 static_RETURN_Bounds 1/1 data:0,gas:0,value:0  

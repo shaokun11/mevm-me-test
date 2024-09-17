@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideOrigin.json
+2024-09-17T01:36:25.185Z [SKIP] 63/67,0 suicideOrigin 1/1 data:0,gas:0,value:0  Not support opcode

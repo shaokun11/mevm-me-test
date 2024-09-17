@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedIsOwnerFalse.json
+2024-09-17T02:00:16.892Z [PASSED] 18/42,0 multiOwnedIsOwnerFalse 1/1 data:0,gas:0,value:0  

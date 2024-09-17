@@ -1,0 +1,10 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/sstore_gasLeft.json
+2024-09-17T01:31:37.891Z [PASSED] 27/28,0 sstore_gasLeft 1/9 data:0,gas:0,value:0  
+2024-09-17T01:31:38.105Z [PASSED] 27/28,0 sstore_gasLeft 2/9 data:1,gas:0,value:0  
+2024-09-17T01:31:38.324Z [PASSED] 27/28,0 sstore_gasLeft 3/9 data:3,gas:0,value:0  
+2024-09-17T01:31:38.538Z [PASSED] 27/28,0 sstore_gasLeft 4/9 data:4,gas:0,value:0  
+2024-09-17T01:31:38.752Z [PASSED] 27/28,0 sstore_gasLeft 5/9 data:6,gas:0,value:0  
+2024-09-17T01:31:38.964Z [PASSED] 27/28,0 sstore_gasLeft 6/9 data:7,gas:0,value:0  
+2024-09-17T01:31:39.176Z [PASSED] 27/28,0 sstore_gasLeft 7/9 data:2,gas:0,value:0  
+2024-09-17T01:31:39.388Z [PASSED] 27/28,0 sstore_gasLeft 8/9 data:5,gas:0,value:0  
+2024-09-17T01:31:39.601Z [PASSED] 27/28,0 sstore_gasLeft 9/9 data:8,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecallcodecall_110_OOGMBefore.json
+2024-09-17T01:35:48.141Z [PASSED] 256/286,0 static_callcodecallcodecall_110_OOGMBefore 1/1 data:0,gas:0,value:0  

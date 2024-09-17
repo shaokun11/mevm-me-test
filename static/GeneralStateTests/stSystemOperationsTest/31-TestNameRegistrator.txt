@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/TestNameRegistrator.json
+2024-09-17T01:36:15.292Z [PASSED] 31/67,0 TestNameRegistrator 1/1 data:0,gas:0,value:0  

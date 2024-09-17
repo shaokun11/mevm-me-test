@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcodecall_10_2.json
+2024-09-17T01:35:31.233Z [PASSED] 210/286,0 static_callcodecall_10_2 1/1 data:0,gas:0,value:0  

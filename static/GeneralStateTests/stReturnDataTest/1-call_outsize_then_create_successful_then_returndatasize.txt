@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/call_outsize_then_create_successful_then_returndatasize.json
+2024-09-17T01:27:47.819Z [PASSED] 1/41,0 call_outsize_then_create_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

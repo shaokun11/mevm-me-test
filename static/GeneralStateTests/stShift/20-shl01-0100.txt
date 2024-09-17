@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stShift/shl01-0100.json
+2024-09-17T01:31:56.099Z [PASSED] 20/42,0 shl01-0100 1/1 data:0,gas:0,value:0  

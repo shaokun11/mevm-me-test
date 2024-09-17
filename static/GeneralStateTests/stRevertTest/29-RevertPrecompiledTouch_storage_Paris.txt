@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrecompiledTouch_storage_Paris.json
+2024-09-17T01:29:38.075Z [PASSED] 29/46,0 RevertPrecompiledTouch_storage_Paris 1/4 data:0,gas:0,value:0  
+2024-09-17T01:29:38.289Z [PASSED] 29/46,0 RevertPrecompiledTouch_storage_Paris 2/4 data:3,gas:0,value:0  
+2024-09-17T01:29:38.504Z [PASSED] 29/46,0 RevertPrecompiledTouch_storage_Paris 3/4 data:1,gas:0,value:0  
+2024-09-17T01:29:38.719Z [PASSED] 29/46,0 RevertPrecompiledTouch_storage_Paris 4/4 data:2,gas:0,value:0  

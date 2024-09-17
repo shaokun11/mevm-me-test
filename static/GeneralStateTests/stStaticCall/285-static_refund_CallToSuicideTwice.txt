@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_refund_CallToSuicideTwice.json
+2024-09-17T01:35:59.778Z [SKIP] 285/286,0 static_refund_CallToSuicideTwice 1/2 data:1,gas:0,value:0  Not support opcode
+2024-09-17T01:36:00.000Z [SKIP] 285/286,0 static_refund_CallToSuicideTwice 2/2 data:0,gas:0,value:0  Not support opcode

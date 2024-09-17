@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/CreateHashCollision.json
+2024-09-17T01:36:14.865Z [PASSED] 29/67,0 CreateHashCollision 1/1 data:0,gas:0,value:0  

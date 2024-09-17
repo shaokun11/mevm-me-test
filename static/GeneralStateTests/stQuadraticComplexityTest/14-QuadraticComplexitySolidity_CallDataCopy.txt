@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/QuadraticComplexitySolidity_CallDataCopy.json
+2024-09-17T01:25:33.946Z [PASSED] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 1/2 data:0,gas:0,value:0  
+2024-09-17T01:25:36.386Z [PASSED] 14/17,0 QuadraticComplexitySolidity_CallDataCopy 2/2 data:0,gas:1,value:0  

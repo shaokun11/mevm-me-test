@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_LoopCallsThenRevert.json
+2024-09-17T01:34:54.124Z [PASSED] 108/286,0 static_LoopCallsThenRevert 1/2 data:0,gas:0,value:0  
+2024-09-17T01:34:56.775Z [PASSED] 108/286,0 static_LoopCallsThenRevert 2/2 data:0,gas:1,value:0  

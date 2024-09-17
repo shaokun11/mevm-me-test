@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecmul_7827-6598_5617_21000_96.json
+2024-09-17T02:01:51.812Z [PASSED] 89/134,0 ecmul_7827-6598_5617_21000_96 1/4 data:0,gas:0,value:0  
+2024-09-17T02:01:52.029Z [PASSED] 89/134,0 ecmul_7827-6598_5617_21000_96 2/4 data:0,gas:1,value:0  
+2024-09-17T02:01:52.246Z [PASSED] 89/134,0 ecmul_7827-6598_5617_21000_96 3/4 data:0,gas:2,value:0  
+2024-09-17T02:01:52.462Z [PASSED] 89/134,0 ecmul_7827-6598_5617_21000_96 4/4 data:0,gas:3,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALL_ToOneStorageKey_OOGRevert_Paris.json
+2024-09-17T02:00:24.361Z [PASSED] 7/16,0 ZeroValue_CALL_ToOneStorageKey_OOGRevert_Paris 1/1 data:0,gas:0,value:0  

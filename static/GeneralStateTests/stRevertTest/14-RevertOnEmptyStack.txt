@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertOnEmptyStack.json
+2024-09-17T01:28:58.284Z [PASSED] 14/46,0 RevertOnEmptyStack 1/1 data:0,gas:0,value:0  

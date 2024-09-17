@@ -1,0 +1,6 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/modexp_modsize0_returndatasize.json
+2024-09-17T01:28:27.964Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 1/5 data:0,gas:0,value:0  
+2024-09-17T01:28:28.178Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 2/5 data:1,gas:0,value:0  
+2024-09-17T01:28:28.392Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 3/5 data:2,gas:0,value:0  
+2024-09-17T01:28:28.606Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 4/5 data:3,gas:0,value:0  
+2024-09-17T01:28:28.819Z [PASSED] 6/41,0 modexp_modsize0_returndatasize 5/5 data:4,gas:0,value:0  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CREATE_EmptyContractWithStorageAndCallIt_0wei.json
+2024-09-17T01:33:42.202Z [PASSED] 15/286,0 static_CREATE_EmptyContractWithStorageAndCallIt_0wei 1/1 data:0,gas:0,value:0  

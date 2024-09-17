@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_3_postfix0.json
+2024-09-17T01:34:38.226Z [PASSED] 87/286,0 static_CallSha256_3_postfix0 1/1 data:0,gas:0,value:0  

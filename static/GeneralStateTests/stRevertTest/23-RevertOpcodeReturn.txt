@@ -1,0 +1,13 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeReturn.json
+2024-09-17T01:29:11.437Z [PASSED] 23/46,0 RevertOpcodeReturn 1/12 data:0,gas:0,value:0  
+2024-09-17T01:29:11.652Z [PASSED] 23/46,0 RevertOpcodeReturn 2/12 data:0,gas:1,value:0  
+2024-09-17T01:29:11.868Z [PASSED] 23/46,0 RevertOpcodeReturn 3/12 data:1,gas:0,value:0  
+2024-09-17T01:29:12.082Z [PASSED] 23/46,0 RevertOpcodeReturn 4/12 data:1,gas:1,value:0  
+2024-09-17T01:29:12.298Z [PASSED] 23/46,0 RevertOpcodeReturn 5/12 data:2,gas:0,value:0  
+2024-09-17T01:29:12.513Z [PASSED] 23/46,0 RevertOpcodeReturn 6/12 data:2,gas:1,value:0  
+2024-09-17T01:29:12.728Z [PASSED] 23/46,0 RevertOpcodeReturn 7/12 data:3,gas:0,value:0  
+2024-09-17T01:29:12.943Z [PASSED] 23/46,0 RevertOpcodeReturn 8/12 data:3,gas:1,value:0  
+2024-09-17T01:29:13.157Z [PASSED] 23/46,0 RevertOpcodeReturn 9/12 data:4,gas:0,value:0  
+2024-09-17T01:29:13.373Z [PASSED] 23/46,0 RevertOpcodeReturn 10/12 data:4,gas:1,value:0  
+2024-09-17T01:29:13.587Z [PASSED] 23/46,0 RevertOpcodeReturn 11/12 data:5,gas:0,value:0  
+2024-09-17T01:29:13.802Z [PASSED] 23/46,0 RevertOpcodeReturn 12/12 data:5,gas:1,value:0  

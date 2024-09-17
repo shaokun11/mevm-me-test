@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_after_successful_callcode.json
+2024-09-17T01:28:34.613Z [PASSED] 31/41,0 returndatasize_after_successful_callcode 1/1 data:0,gas:0,value:0  

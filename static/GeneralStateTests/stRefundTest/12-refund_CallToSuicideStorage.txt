@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stRefundTest/refund_CallToSuicideStorage.json
+2024-09-17T01:27:44.708Z [SKIP] 12/22,0 refund_CallToSuicideStorage 1/2 data:0,gas:0,value:0  Not support opcode
+2024-09-17T01:27:44.928Z [SKIP] 12/22,0 refund_CallToSuicideStorage 2/2 data:1,gas:0,value:0  Not support opcode

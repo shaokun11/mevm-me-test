@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertOpcodeWithBigOutputInInit.json
+2024-09-17T01:29:14.016Z [PASSED] 24/46,0 RevertOpcodeWithBigOutputInInit 1/2 data:0,gas:0,value:0  
+2024-09-17T01:29:14.231Z [PASSED] 24/46,0 RevertOpcodeWithBigOutputInInit 2/2 data:0,gas:0,value:1  

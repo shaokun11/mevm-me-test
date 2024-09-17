@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts2/modexp_0_0_0_25000.json
+2024-09-17T01:25:19.542Z [PASSED] 100/102,0 modexp_0_0_0_25000 1/4 data:0,gas:0,value:0  
+2024-09-17T01:25:19.755Z [PASSED] 100/102,0 modexp_0_0_0_25000 2/4 data:0,gas:1,value:0  
+2024-09-17T01:25:19.970Z [PASSED] 100/102,0 modexp_0_0_0_25000 3/4 data:0,gas:2,value:0  
+2024-09-17T01:25:20.184Z [PASSED] 100/102,0 modexp_0_0_0_25000 4/4 data:0,gas:3,value:0  

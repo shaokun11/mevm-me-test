@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/balanceInputAddressTooBig.json
+2024-09-17T01:36:15.506Z [PASSED] 32/67,0 balanceInputAddressTooBig 1/1 data:0,gas:0,value:0  
