@@ -1,5 +1,9 @@
 [
-  
+  {
+    "key": "Cancun/stEIP1153-transientStorage/07_tloadAfterReentrancyStore.json/Cancun/0",
+    "value": "59013",
+    "evm": "N/A"
+  },
   {
     "key": "Cancun/stEIP1153-transientStorage/08_revertUndoesTransientStore.json/Cancun/0",
     "value": "39857",

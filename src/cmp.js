@@ -28,8 +28,9 @@ movelogs.forEach((move) => {
     if (evm) {
         info.push({
             key: move.key,
-            value: move.value,
-            evm: evm.value,
+            move: Math.floor(move.value / 1000),
+            evm: +evm.value,
+            diff: Math.floor(move.value / 1000) - evm.value,
         });
     } else {
         info2.push({
