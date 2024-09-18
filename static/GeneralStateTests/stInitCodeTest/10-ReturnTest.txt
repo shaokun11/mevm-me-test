@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stInitCodeTest/ReturnTest.json
-2024-09-15T15:20:49.000Z [PASSED] 10/17,0 ReturnTest 1/1 data:0,gas:0,value:0  
+2024-09-18T11:06:54.603Z [PASSED] 10/17,0 ReturnTest 1/1 data:0,gas:0,value:0  

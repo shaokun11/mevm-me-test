@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_TransactionCALLwithData_ToEmpty_Paris.json
+2024-09-18T11:09:44.598Z [PASSED] 32/36,0 NonZeroValue_TransactionCALLwithData_ToEmpty_Paris 1/1 data:0,gas:0,value:0  

@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_contractCreationMakeCallThatAskMoreGasThenTransactionProvided.json
+2024-09-18T11:24:45.790Z [PASSED] 268/287,0 static_contractCreationMakeCallThatAskMoreGasThenTransactionProvided 1/4 data:0,gas:0,value:0  
+2024-09-18T11:24:46.003Z [PASSED] 268/287,0 static_contractCreationMakeCallThatAskMoreGasThenTransactionProvided 2/4 data:1,gas:0,value:0  
+2024-09-18T11:24:46.216Z [PASSED] 268/287,0 static_contractCreationMakeCallThatAskMoreGasThenTransactionProvided 3/4 data:2,gas:0,value:0  
+2024-09-18T11:24:46.435Z [PASSED] 268/287,0 static_contractCreationMakeCallThatAskMoreGasThenTransactionProvided 4/4 data:3,gas:0,value:0  

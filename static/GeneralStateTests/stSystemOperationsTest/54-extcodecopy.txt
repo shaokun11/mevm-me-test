@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/extcodecopy.json
+2024-09-18T11:25:14.183Z [SKIP] 54/68,0 extcodecopy 1/1 data:0,gas:0,value:0  Not support opcode

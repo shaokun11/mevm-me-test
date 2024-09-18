@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stTimeConsuming/sstore_combinations_initial21.json
+2024-09-18T11:25:21.108Z [SKIP] 21/26,0 sstore_combinations_initial21 No Cancun post state found

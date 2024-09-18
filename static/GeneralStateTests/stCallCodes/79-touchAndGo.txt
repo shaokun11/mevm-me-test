@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCallCodes/touchAndGo.json
+2024-09-18T10:54:48.043Z [SKIP] 79/80,0 touchAndGo No Cancun post state found

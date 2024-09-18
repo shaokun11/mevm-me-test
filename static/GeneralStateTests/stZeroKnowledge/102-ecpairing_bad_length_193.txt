@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stZeroKnowledge/ecpairing_bad_length_193.json
+2024-09-18T11:50:49.694Z [PASSED] 102/135,0 ecpairing_bad_length_193 1/4 data:0,gas:0,value:0  
+2024-09-18T11:50:49.909Z [PASSED] 102/135,0 ecpairing_bad_length_193 2/4 data:0,gas:1,value:0  
+2024-09-18T11:50:50.123Z [PASSED] 102/135,0 ecpairing_bad_length_193 3/4 data:0,gas:2,value:0  
+2024-09-18T11:50:50.337Z [PASSED] 102/135,0 ecpairing_bad_length_193 4/4 data:0,gas:3,value:0  

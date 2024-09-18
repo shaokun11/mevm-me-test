@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/doubleSelfdestructTouch.json
+2024-09-18T11:24:59.780Z [SKIP] 52/68,0 doubleSelfdestructTouch No Cancun post state found

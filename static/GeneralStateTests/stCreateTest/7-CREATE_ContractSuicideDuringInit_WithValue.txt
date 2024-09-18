@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_ContractSuicideDuringInit_WithValue.json
-2024-09-15T07:57:37.119Z [SKIP] 7/47,0 CREATE_ContractSuicideDuringInit_WithValue 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T10:56:37.612Z [SKIP] 7/49,0 CREATE_ContractSuicideDuringInit_WithValue 1/1 data:0,gas:0,value:0  Not support opcode

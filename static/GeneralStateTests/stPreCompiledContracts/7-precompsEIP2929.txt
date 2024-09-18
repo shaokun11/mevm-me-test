@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stPreCompiledContracts/precompsEIP2929.json
+2024-09-18T11:09:45.429Z [SKIP] 7/10,0 precompsEIP2929 No Cancun post state found

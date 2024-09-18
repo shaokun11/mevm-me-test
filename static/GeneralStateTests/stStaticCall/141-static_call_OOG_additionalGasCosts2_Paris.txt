@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_call_OOG_additionalGasCosts2_Paris.json
+2024-09-18T11:23:59.878Z [PASSED] 141/287,0 static_call_OOG_additionalGasCosts2_Paris 1/1 data:0,gas:0,value:0  

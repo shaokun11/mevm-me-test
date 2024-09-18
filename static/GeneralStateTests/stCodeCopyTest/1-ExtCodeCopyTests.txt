@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCodeCopyTest/ExtCodeCopyTests.json
+2024-09-18T10:55:47.911Z [SKIP] 1/3,0 ExtCodeCopyTests No Cancun post state found

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallSha256_1_nonzeroValue.json
-2024-09-17T01:34:37.585Z [PASSED] 84/286,0 static_CallSha256_1_nonzeroValue 1/1 data:0,gas:0,value:0  
+2024-09-18T11:23:32.235Z [PASSED] 84/287,0 static_CallSha256_1_nonzeroValue 1/1 data:0,gas:0,value:0  

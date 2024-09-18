@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/twoOps.json
-2024-09-14T08:54:44.312Z [PASSED] 18/64,0 twoOps 1/1 data:0,gas:0,value:0  
+2024-09-18T10:37:35.355Z [PASSED] 18/64,0 twoOps 1/1 data:0,gas:0,value:0  

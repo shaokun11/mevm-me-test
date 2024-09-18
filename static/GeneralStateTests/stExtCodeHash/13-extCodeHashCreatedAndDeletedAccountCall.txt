@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stExtCodeHash/extCodeHashCreatedAndDeletedAccountCall.json
+2024-09-18T11:06:38.451Z [SKIP] 13/39,0 extCodeHashCreatedAndDeletedAccountCall 1/1 data:0,gas:0,value:0  Not support opcode

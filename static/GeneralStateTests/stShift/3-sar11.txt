@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stShift/sar11.json
-2024-09-17T01:31:50.178Z [PASSED] 3/42,0 sar11 1/1 data:0,gas:0,value:0  
+2024-09-18T11:20:43.578Z [PASSED] 3/42,0 sar11 1/1 data:0,gas:0,value:0  

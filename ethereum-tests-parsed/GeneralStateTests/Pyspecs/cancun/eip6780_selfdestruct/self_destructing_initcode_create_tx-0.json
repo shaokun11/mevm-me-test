@@ -2,17 +2,15 @@
   "self_destructing_initcode_create_tx-0": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Use a Create Transaction to execute a self-destructing initcode.\n\n    Behavior should be the same before and after EIP-6780.\n\n    Test using:\n        - Different initial balances for the self-destructing contract\n        - Different transaction value amounts",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "generatedTestHash": "eb4b86906fc32eb36ae3b982a763c56138744f64505da8a9205b786529322d43",
-      "hash": "0x152d74cf797981bf68f731a4ab6588f7be3caf6ed263f7d54dbe3c6ab96f6533",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "generatedTestHash": "1ed0f49ae544cde4c3717b07721fc6133941632b4860f4cdd8c3058c111cef0e",
+      "hash": "0x5d75e9e79455376fbc770601e38218df10296e9a7504cc710635e8ff7b4aac5a",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
-      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L561"
+      "sourceHash": "7496f4b06341e22fc1aee1b39620bd84c707689b1abfb02c00d645e6af9d387b"
     },
     "env": {
       "currentBaseFee": "0x07",
@@ -27,14 +25,14 @@
     "post": {
       "Cancun": [
         {
-          "hash": "0xb07439506a6c188eed619c1a16ea484366e36e327893e8a204a4be6af8db0207",
+          "hash": "0x3849ff222ebc7c146c0a72ad0b9d1e8cdd24007e0b237e8ca745f6fd9f2afa87",
           "indexes": {
             "data": 0,
             "gas": 0,
             "value": 0
           },
           "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
-          "txbytes": "0xf871800a8405f5e1008080a4600160005401600055730000000000000000000000000000000000001234ff60006000551ca09cd6143c6f74449ffd547052d0395d71e335ec9ac5ea8c986a20675adb8752c6a066c7791d8e6c22f5a992995664a60fb52940a136055933d28bd6417620f3bebb"
+          "txbytes": "0xf858800a8405f5e10080808b60015f54015f55611234ff1ca07584905c652a35ca0253d8568dfdfa796a5815044c76d5f0dac6f4f39252b39ca05a7122ead836bab8bd1f7b72166907da1c6b8e72c52c5b5ba901e97579041980"
         }
       ]
     },
@@ -49,13 +47,13 @@
       },
       "0x000000000000000000000000000000000000abcd": {
         "balance": "0x00",
-        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "code": "0x60015f54015f55611234ff",
         "nonce": "0x00",
         "storage": {}
       },
       "0x1111111111111111111111111111111111111111": {
         "balance": "0x00",
-        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "code": "0x60015f54015f55611234ff",
         "nonce": "0x00",
         "storage": {}
       },
@@ -68,7 +66,7 @@
     },
     "transaction": {
       "data": [
-        "0x600160005401600055730000000000000000000000000000000000001234ff6000600055"
+        "0x60015f54015f55611234ff"
       ],
       "gasLimit": [
         "0x05f5e100"

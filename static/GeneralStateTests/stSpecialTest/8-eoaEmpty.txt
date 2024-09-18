@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/eoaEmpty.json
+2024-09-18T11:20:57.301Z [SKIP] 8/18,0 eoaEmpty No Cancun post state found

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrecompiledTouch.json
+2024-09-18T11:17:43.921Z [SKIP] 26/57,0 RevertPrecompiledTouch No Cancun post state found

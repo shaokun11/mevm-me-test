@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_TransactionCALLwithData_ToEmpty.json
+2024-09-18T11:09:39.797Z [SKIP] 31/36,0 NonZeroValue_TransactionCALLwithData_ToEmpty No Cancun post state found

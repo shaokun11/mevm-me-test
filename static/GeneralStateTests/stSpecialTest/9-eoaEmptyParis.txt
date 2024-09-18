@@ -1,0 +1,9 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/eoaEmptyParis.json
+2024-09-18T11:20:59.138Z [SKIP] 9/18,0 eoaEmptyParis 1/8 data:0,gas:0,value:0  Not support opcode
+2024-09-18T11:20:59.358Z [SKIP] 9/18,0 eoaEmptyParis 2/8 data:1,gas:0,value:0  Not support opcode
+2024-09-18T11:20:59.575Z [PASSED] 9/18,0 eoaEmptyParis 3/8 data:0,gas:0,value:1  
+2024-09-18T11:20:59.790Z [PASSED] 9/18,0 eoaEmptyParis 4/8 data:1,gas:0,value:1  
+2024-09-18T11:21:00.005Z [SKIP] 9/18,0 eoaEmptyParis 5/8 data:0,gas:1,value:0  Not support opcode
+2024-09-18T11:21:00.223Z [SKIP] 9/18,0 eoaEmptyParis 6/8 data:1,gas:1,value:0  Not support opcode
+2024-09-18T11:21:00.439Z [SKIP] 9/18,0 eoaEmptyParis 7/8 data:0,gas:1,value:1  Not support opcode
+2024-09-18T11:21:00.653Z [SKIP] 9/18,0 eoaEmptyParis 8/8 data:1,gas:1,value:1  Not support opcode

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_SUICIDE_ToNonZeroBalance_OOGRevert.json
+2024-09-18T11:49:13.423Z [SKIP] 21/24,0 ZeroValue_SUICIDE_ToNonZeroBalance_OOGRevert 1/1 data:0,gas:0,value:0  Not support opcode

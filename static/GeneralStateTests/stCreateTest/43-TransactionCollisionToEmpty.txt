@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreateTest/TransactionCollisionToEmpty.json
+2024-09-18T10:56:35.250Z [SKIP] 43/49,0 TransactionCollisionToEmpty No Cancun post state found

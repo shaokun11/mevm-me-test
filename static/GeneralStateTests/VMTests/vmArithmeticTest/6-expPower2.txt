@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/VMTests/vmArithmeticTest/expPower2.json
-2024-09-14T08:54:26.907Z [PASSED] 6/64,0 expPower2 1/1 data:0,gas:0,value:0  
+2024-09-18T10:37:17.934Z [PASSED] 6/64,0 expPower2 1/1 data:0,gas:0,value:0  

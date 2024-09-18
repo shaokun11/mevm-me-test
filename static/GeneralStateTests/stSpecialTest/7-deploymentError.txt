@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSpecialTest/deploymentError.json
+2024-09-18T11:20:58.922Z [PASSED] 7/18,0 deploymentError 1/1 data:0,gas:0,value:0  

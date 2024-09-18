@@ -1,0 +1,13 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateCollisionToEmpty2.json
+2024-09-18T10:56:48.828Z [PASSED] 28/49,0 CreateCollisionToEmpty2 1/12 data:0,gas:1,value:0  
+2024-09-18T10:56:49.043Z [PASSED] 28/49,0 CreateCollisionToEmpty2 2/12 data:0,gas:1,value:1  
+2024-09-18T10:56:49.258Z [PASSED] 28/49,0 CreateCollisionToEmpty2 3/12 data:0,gas:0,value:0  
+2024-09-18T10:56:49.473Z [PASSED] 28/49,0 CreateCollisionToEmpty2 4/12 data:0,gas:0,value:1  
+2024-09-18T10:56:49.687Z [PASSED] 28/49,0 CreateCollisionToEmpty2 5/12 data:1,gas:1,value:0  
+2024-09-18T10:56:49.901Z [PASSED] 28/49,0 CreateCollisionToEmpty2 6/12 data:1,gas:1,value:1  
+2024-09-18T10:56:52.347Z [PASSED] 28/49,0 CreateCollisionToEmpty2 7/12 data:2,gas:1,value:0  
+2024-09-18T10:56:52.563Z [PASSED] 28/49,0 CreateCollisionToEmpty2 8/12 data:2,gas:1,value:1  
+2024-09-18T10:56:52.781Z [PASSED] 28/49,0 CreateCollisionToEmpty2 9/12 data:1,gas:0,value:0  
+2024-09-18T10:56:52.995Z [PASSED] 28/49,0 CreateCollisionToEmpty2 10/12 data:1,gas:0,value:1  
+2024-09-18T10:56:53.209Z [PASSED] 28/49,0 CreateCollisionToEmpty2 11/12 data:2,gas:0,value:0  
+2024-09-18T10:56:53.423Z [PASSED] 28/49,0 CreateCollisionToEmpty2 12/12 data:2,gas:0,value:1  

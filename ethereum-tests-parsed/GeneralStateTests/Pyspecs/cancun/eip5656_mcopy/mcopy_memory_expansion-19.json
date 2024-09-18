@@ -2,17 +2,15 @@
   "mcopy_memory_expansion-19": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Perform MCOPY operations that expand the memory, and verify the gas it costs to do so.",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
       "generatedTestHash": "8be222d2a18c6d93df9ed1b0b01771706a2358b55fc81c4b7fb915c7373e8b01",
-      "hash": "0x44fcc72821bd27d714c0280bdaf420f7e5cf40ffc0899cb1ee3e59a3bdaa0159",
+      "hash": "0x5e58211f4a8381c411b22b6c7fdf0b33fb6c9a87214ec3f87375d584a76bfa45",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip5656_mcopy/test_mcopy_memory_expansion.py",
-      "sourceHash": "aa6911701ec28c6c7997e7bd82916483fbde772a1a9de663e049343378e23484",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_0cf7c744_3edf_4222_98de_26b4f015ef78/test_mcopy_memory_expansion.py#L164"
+      "sourceHash": "aa6911701ec28c6c7997e7bd82916483fbde772a1a9de663e049343378e23484"
     },
     "env": {
       "currentBaseFee": "0x07",

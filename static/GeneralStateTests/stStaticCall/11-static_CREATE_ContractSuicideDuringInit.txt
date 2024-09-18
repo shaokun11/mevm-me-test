@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CREATE_ContractSuicideDuringInit.json
-2024-09-17T01:33:40.263Z [SKIP] 11/286,0 static_CREATE_ContractSuicideDuringInit 1/4 data:0,gas:0,value:0  Not support opcode
-2024-09-17T01:33:40.479Z [SKIP] 11/286,0 static_CREATE_ContractSuicideDuringInit 2/4 data:1,gas:0,value:0  Not support opcode
-2024-09-17T01:33:40.700Z [SKIP] 11/286,0 static_CREATE_ContractSuicideDuringInit 3/4 data:2,gas:0,value:0  Not support opcode
-2024-09-17T01:33:40.915Z [SKIP] 11/286,0 static_CREATE_ContractSuicideDuringInit 4/4 data:3,gas:0,value:0  Not support opcode
+2024-09-18T11:22:33.718Z [SKIP] 11/287,0 static_CREATE_ContractSuicideDuringInit 1/4 data:0,gas:0,value:0  Not support opcode
+2024-09-18T11:22:33.932Z [SKIP] 11/287,0 static_CREATE_ContractSuicideDuringInit 2/4 data:1,gas:0,value:0  Not support opcode
+2024-09-18T11:22:34.147Z [SKIP] 11/287,0 static_CREATE_ContractSuicideDuringInit 3/4 data:2,gas:0,value:0  Not support opcode
+2024-09-18T11:22:34.363Z [SKIP] 11/287,0 static_CREATE_ContractSuicideDuringInit 4/4 data:3,gas:0,value:0  Not support opcode

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideNotExistingAccount.json
+2024-09-18T11:25:19.210Z [SKIP] 63/68,0 suicideNotExistingAccount 1/1 data:0,gas:0,value:0  Not support opcode

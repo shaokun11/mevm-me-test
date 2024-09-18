@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_normal_gas.json
-2024-09-14T05:20:30.518Z [SKIP] 20/66,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_normal_gas[fork_Cancun-state_test-insufficient_max_fee_per_gas] 1/1 data:0,gas:0,value:0  Not support blob tx
+2024-09-18T10:35:14.729Z [SKIP] 20/65,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_normal_gas[fork_Cancun-state_test-insufficient_max_fee_per_gas] 1/1 data:0,gas:0,value:0  Not support blob tx

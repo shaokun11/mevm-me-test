@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/CallRecursiveBombPreCall.json
-2024-09-15T10:53:27.315Z [PASSED] 4/28,0 CallRecursiveBombPreCall 1/1 data:0,gas:0,value:0  
+2024-09-18T10:57:24.084Z [PASSED] 4/28,0 CallRecursiveBombPreCall 1/1 data:0,gas:0,value:0  

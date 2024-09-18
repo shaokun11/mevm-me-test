@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stReturnDataTest/returndatasize_after_failing_delegatecall.json
-2024-09-17T01:28:33.973Z [PASSED] 28/41,0 returndatasize_after_failing_delegatecall 1/1 data:0,gas:0,value:0  
+2024-09-18T11:17:28.360Z [PASSED] 28/41,0 returndatasize_after_failing_delegatecall 1/1 data:0,gas:0,value:0  

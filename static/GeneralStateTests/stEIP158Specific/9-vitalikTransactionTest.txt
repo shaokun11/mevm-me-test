@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP158Specific/vitalikTransactionTest.json
+2024-09-18T11:05:47.803Z [SKIP] 9/11,0 vitalikTransactionTest No Cancun post state found

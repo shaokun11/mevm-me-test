@@ -1,0 +1,25 @@
+ethereum-tests/GeneralStateTests/stCreateTest/CreateOOGFromCallRefunds.json
+2024-09-18T10:56:53.637Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 1/24 data:0,gas:0,value:0 SStore_Refund_NoOoG 
+2024-09-18T10:56:53.853Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 2/24 data:3,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:54.068Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 3/24 data:6,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:54.283Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 4/24 data:9,gas:0,value:0 SStore_Refund_NoOoG 
+2024-09-18T10:56:54.506Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 5/24 data:1,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:54.722Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 6/24 data:2,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:54.938Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 7/24 data:4,gas:0,value:0 SStore_Refund_NoOoG 
+2024-09-18T10:56:55.153Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 8/24 data:5,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:55.369Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 9/24 data:7,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:55.586Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 10/24 data:8,gas:0,value:0 SStore_Refund_NoOoG 
+2024-09-18T10:56:55.801Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 11/24 data:10,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:56.020Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 12/24 data:11,gas:0,value:0 SStore_Refund_OoG 
+2024-09-18T10:56:56.234Z [SKIP] 29/49,0 CreateOOGFromCallRefunds 13/24 data:12,gas:0,value:0 SelfDestruct_Refund_NoOoG Not support opcode
+2024-09-18T10:56:56.449Z [SKIP] 29/49,0 CreateOOGFromCallRefunds 14/24 data:13,gas:0,value:0 SelfDestruct_Refund_OoG Not support opcode
+2024-09-18T10:56:56.664Z [SKIP] 29/49,0 CreateOOGFromCallRefunds 15/24 data:14,gas:0,value:0 SelfDestruct_Refund_OoG Not support opcode
+2024-09-18T10:56:56.879Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 16/24 data:15,gas:0,value:0 LogOp_NoOoG 
+2024-09-18T10:56:57.097Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 17/24 data:16,gas:0,value:0 LogOp_OoG 
+2024-09-18T10:56:57.316Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 18/24 data:17,gas:0,value:0 LogOp_OoG 
+2024-09-18T10:56:57.536Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 19/24 data:18,gas:0,value:0 SStore_Create_Refund_NoOoG 
+2024-09-18T10:56:57.757Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 20/24 data:19,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-09-18T10:56:57.974Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 21/24 data:20,gas:0,value:0 SStore_Create_Refund_OoG 
+2024-09-18T10:56:58.190Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 22/24 data:21,gas:0,value:0 SStore_Create2_Refund_NoOoG 
+2024-09-18T10:56:58.406Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 23/24 data:22,gas:0,value:0 SStore_Create2_Refund_OoG 
+2024-09-18T10:56:58.622Z [PASSED] 29/49,0 CreateOOGFromCallRefunds 24/24 data:23,gas:0,value:0 SStore_Create2_Refund_OoG 

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stEIP158Specific/callToEmptyThenCallError.json
+2024-09-18T11:05:47.802Z [SKIP] 7/11,0 callToEmptyThenCallError No Cancun post state found

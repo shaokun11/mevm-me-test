@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreateTest/CREATE_AcreateB_BSuicide_BStore.json
-2024-09-15T07:57:35.383Z [SKIP] 2/47,0 CREATE_AcreateB_BSuicide_BStore 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T10:56:35.877Z [SKIP] 2/49,0 CREATE_AcreateB_BSuicide_BStore 1/1 data:0,gas:0,value:0  Not support opcode

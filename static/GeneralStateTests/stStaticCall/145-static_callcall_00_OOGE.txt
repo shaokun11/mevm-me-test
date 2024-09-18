@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcall_00_OOGE.json
+2024-09-18T11:24:00.958Z [PASSED] 145/287,0 static_callcall_00_OOGE 1/2 data:0,gas:0,value:0  
+2024-09-18T11:24:01.172Z [PASSED] 145/287,0 static_callcall_00_OOGE 2/2 data:1,gas:0,value:0  

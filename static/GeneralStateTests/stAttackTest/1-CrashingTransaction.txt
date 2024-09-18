@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stAttackTest/CrashingTransaction.json
-2024-09-14T08:57:20.967Z [SKIP] 1/2,0 CrashingTransaction 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T10:39:31.547Z [SKIP] 1/2,0 CrashingTransaction 1/1 data:0,gas:0,value:0  Not support opcode

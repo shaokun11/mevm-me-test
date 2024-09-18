@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_ecrec.json
-2024-09-17T01:33:48.530Z [PASSED] 25/286,0 static_Call50000_ecrec 1/2 data:0,gas:0,value:0  
-2024-09-17T01:33:49.957Z [PASSED] 25/286,0 static_Call50000_ecrec 2/2 data:1,gas:0,value:0  
+2024-09-18T11:22:41.969Z [PASSED] 25/287,0 static_Call50000_ecrec 1/2 data:0,gas:0,value:0  
+2024-09-18T11:22:43.603Z [PASSED] 25/287,0 static_Call50000_ecrec 2/2 data:1,gas:0,value:0  

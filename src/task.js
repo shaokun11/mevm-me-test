@@ -215,10 +215,22 @@ export async function runTask(opt) {
                         const root_data = res.events.find(
                             (e) => e.type === "0x1::evm_for_test_v2::ExecResultEvent"
                         );
-                        t.equals(root_data.data.state_root, post[i].hash);
+                        const ms = root_data.data.execute_time;
+                        let tName = testNames[i];
+                        if (tName) {
+                            if (source.endsWith(testNames[i] + ".json")) {
+                                tName = "";
+                            }
+                        } else {
+                            tName = "";
+                        }
 
+                        let fMsg = `${source}/${tName}/Cancun/${i}:${ms}`;
+                        t.equals(root_data.data.state_root, post[i].hash);
                         if (post[i].hash === root_data.data.state_root) {
                             status += RUN_STATUS.PASSED;
+                            fMsg = fMsg.replace("ethereum-tests/GeneralStateTests/", "");
+                            await appendFile("move.log", fMsg + "\n");
                         } else {
                             status += RUN_STATUS.FAILED;
                             msg += JSON.stringify({

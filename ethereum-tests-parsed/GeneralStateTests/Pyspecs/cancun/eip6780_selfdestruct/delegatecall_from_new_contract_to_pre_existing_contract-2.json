@@ -2,17 +2,15 @@
   "delegatecall_from_new_contract_to_pre_existing_contract-2": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Test that if an account created in the current transaction delegate-call a previously created\n    account that executes self-destruct, the calling account is deleted.",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "generatedTestHash": "ef7606c87847f2d74ebc54a34181661a140ac474289488f32cec40e0cb387d77",
-      "hash": "0x8e0cc38de993fb84e2158c18a9ba92c503fe780e6dfc49c3ee3eab6eba970c80",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "generatedTestHash": "6a12d83e0d0be106745d062d16bb404dc607f35ca435349c42076bdef4319b9d",
+      "hash": "0x2c7f2482998464cfefa711477ade9d10c250fce4e1e2f99a0600a63ca745a62e",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
-      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L1016"
+      "sourceHash": "7496f4b06341e22fc1aee1b39620bd84c707689b1abfb02c00d645e6af9d387b"
     },
     "env": {
       "currentBaseFee": "0x07",
@@ -27,7 +25,7 @@
     "post": {
       "Cancun": [
         {
-          "hash": "0xe586aad2aa334b4d13a642f59e9a803c6e706f210dbfc021b8a9a33a39abecdf",
+          "hash": "0xca62b6a664eb977785a5afaa5088f0625922fb5445bac70ee3be905bfeec034f",
           "indexes": {
             "data": 0,
             "gas": 0,
@@ -55,7 +53,7 @@
       },
       "0x1111111111111111111111111111111111111111": {
         "balance": "0x01",
-        "code": "0x600160005401600055730000000000000000000000000000000000001234ff6000600055",
+        "code": "0x60015f54015f55611234ff",
         "nonce": "0x00",
         "storage": {}
       },

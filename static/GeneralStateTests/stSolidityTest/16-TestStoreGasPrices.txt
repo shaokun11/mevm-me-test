@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/TestStoreGasPrices.json
-2024-09-17T01:32:05.686Z [PASSED] 16/18,0 TestStoreGasPrices 1/1 data:0,gas:0,value:0  
+2024-09-18T11:20:56.843Z [PASSED] 16/18,0 TestStoreGasPrices 1/1 data:0,gas:0,value:0  

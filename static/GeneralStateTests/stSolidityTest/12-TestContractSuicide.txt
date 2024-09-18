@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSolidityTest/TestContractSuicide.json
-2024-09-17T01:32:04.821Z [SKIP] 12/18,0 TestContractSuicide 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T11:20:55.979Z [SKIP] 12/18,0 TestContractSuicide 1/1 data:0,gas:0,value:0  Not support opcode

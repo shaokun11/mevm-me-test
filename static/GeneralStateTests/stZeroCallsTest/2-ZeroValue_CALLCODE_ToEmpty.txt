@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALLCODE_ToEmpty.json
+2024-09-18T11:49:13.868Z [SKIP] 2/36,0 ZeroValue_CALLCODE_ToEmpty No Cancun post state found

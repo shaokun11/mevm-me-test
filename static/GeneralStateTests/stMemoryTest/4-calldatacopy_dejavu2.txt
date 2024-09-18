@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stMemoryTest/calldatacopy_dejavu2.json
-2024-09-15T16:30:40.252Z [PASSED] 4/71,0 calldatacopy_dejavu2 1/1 data:0,gas:0,value:0  
+2024-09-18T11:09:16.391Z [PASSED] 4/71,0 calldatacopy_dejavu2 1/1 data:0,gas:0,value:0  

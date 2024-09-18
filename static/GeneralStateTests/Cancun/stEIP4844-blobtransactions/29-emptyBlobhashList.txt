@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/Cancun/stEIP4844-blobtransactions/emptyBlobhashList.json
-2024-09-14T05:16:28.547Z [SKIP] 29/37,0 emptyBlobhashList 1/1 data:0,gas:0,value:0  Not support blob tx
+2024-09-18T10:34:32.871Z [SKIP] 29/37,0 emptyBlobhashList 1/1 data:0,gas:0,value:0  Not support blob tx

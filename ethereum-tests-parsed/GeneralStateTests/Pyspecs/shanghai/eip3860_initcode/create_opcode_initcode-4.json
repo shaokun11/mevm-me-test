@@ -2,17 +2,15 @@
   "create_opcode_initcode-4": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test class documentation:\n\n    Test contract creation via the CREATE/CREATE2 opcodes that have an initcode\n    that is on/over the max allowed limit.\n    \n\nTest function documentation:\n\n        Test contract creation via the CREATE/CREATE2 opcodes that have an\n        initcode that is on/over the max allowed limit.",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
       "generatedTestHash": "3a75aef4f5a88de1cabec3e6d5c3ed45a67768052ce248e00b1ec429a61bac7b",
-      "hash": "0x7321e2fb4079f860637124297eca32f8d0cc41879f9edb281e8d6b8d76b9d6a5",
+      "hash": "0x5b0b18dcafa04fa984f92a8d7ae2fedb17da982555bafa995a5a44049a46f175",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/shanghai/eip3860_initcode/test_initcode.py",
-      "sourceHash": "4282f25f4d3c9b8259517761f8a22c3cbe2f0560c73bd7bad442f9d3ea1559b2",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_9f4beb9f_2238_40f6_a09e_8cdba701ff65/test_initcode.py#L510"
+      "sourceHash": "da8fee87d9a033efad889db9a9d59e050107c97fd6104d43e5989a358d64c485"
     },
     "env": {
       "currentBaseFee": "0x07",

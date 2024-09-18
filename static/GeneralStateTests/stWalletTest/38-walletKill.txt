@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletKill.json
-2024-09-17T02:00:21.675Z [SKIP] 38/42,0 walletKill 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T11:49:09.222Z [SKIP] 38/42,0 walletKill 1/1 data:0,gas:0,value:0  Not support opcode

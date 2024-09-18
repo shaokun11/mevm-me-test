@@ -2,17 +2,15 @@
   "selfdestruct_pre_existing-16": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Test calling a previously created account that contains a selfdestruct, and verify its balance\n    is sent to the destination address.\n\n    After EIP-6780, the balance should be sent to the send-all recipient address, similar to\n    the behavior before the EIP, but the account is not deleted.\n\n    Test using:\n        - Different send-all recipient addresses: single, multiple, including self\n        - Different initial balances for the self-destructing contract",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "generatedTestHash": "b2e9fa59c28bc41fd433c1d036f9be79ab2e6dc64661db3c2474380540dfccd7",
-      "hash": "0xb75293ba2feb601487ab02c7568e1984a46f250b2cc3b50ae91564e1f5c4d29e",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "generatedTestHash": "fc1906f10267dba228c083cfc0811c21d3e11b34e924d8737a298ec71d07d954",
+      "hash": "0x95df45dad505c6c39fe17eda397e40a7bbf9fab06c87f76c36c1a64dc47044a4",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
-      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L728"
+      "sourceHash": "7496f4b06341e22fc1aee1b39620bd84c707689b1abfb02c00d645e6af9d387b"
     },
     "env": {
       "currentBaseFee": "0x07",
@@ -27,7 +25,7 @@
     "post": {
       "Cancun": [
         {
-          "hash": "0xcb986e4539256567d43846cfb7a3024e4cf67738c98b369c44f06ed3ebc70d75",
+          "hash": "0xd285bbc916c56bab72f25a70bfe8287e67408e578829f4e00011715d70b90650",
           "indexes": {
             "data": 0,
             "gas": 0,
@@ -49,13 +47,13 @@
       },
       "0x000000000000000000000000000000000000abcd": {
         "balance": "0x00",
-        "code": "0x610024600081600b8239f3600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "code": "0x61000b600081600b8239f360015f54015f55611000ff",
         "nonce": "0x00",
         "storage": {}
       },
       "0x1111111111111111111111111111111111111111": {
         "balance": "0x0186a0",
-        "code": "0x600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "code": "0x60015f54015f55611000ff",
         "nonce": "0x00",
         "storage": {}
       },

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/walletKillNotByOwner.json
-2024-09-17T02:00:21.892Z [PASSED] 39/42,0 walletKillNotByOwner 1/1 data:0,gas:0,value:0  
+2024-09-18T11:49:09.448Z [PASSED] 39/42,0 walletKillNotByOwner 1/1 data:0,gas:0,value:0  

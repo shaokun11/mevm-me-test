@@ -1,10 +1,10 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover0_0input.json
-2024-09-17T01:34:25.961Z [PASSED] 39/286,0 static_CallEcrecover0_0input 1/9 data:8,gas:0,value:0  
-2024-09-17T01:34:26.175Z [PASSED] 39/286,0 static_CallEcrecover0_0input 2/9 data:0,gas:0,value:0  
-2024-09-17T01:34:26.391Z [PASSED] 39/286,0 static_CallEcrecover0_0input 3/9 data:1,gas:0,value:0  
-2024-09-17T01:34:26.604Z [PASSED] 39/286,0 static_CallEcrecover0_0input 4/9 data:4,gas:0,value:0  
-2024-09-17T01:34:26.819Z [PASSED] 39/286,0 static_CallEcrecover0_0input 5/9 data:5,gas:0,value:0  
-2024-09-17T01:34:27.034Z [PASSED] 39/286,0 static_CallEcrecover0_0input 6/9 data:6,gas:0,value:0  
-2024-09-17T01:34:27.248Z [PASSED] 39/286,0 static_CallEcrecover0_0input 7/9 data:7,gas:0,value:0  
-2024-09-17T01:34:27.466Z [PASSED] 39/286,0 static_CallEcrecover0_0input 8/9 data:2,gas:0,value:0  
-2024-09-17T01:34:27.681Z [PASSED] 39/286,0 static_CallEcrecover0_0input 9/9 data:3,gas:0,value:0  
+2024-09-18T11:23:20.437Z [PASSED] 39/287,0 static_CallEcrecover0_0input 1/9 data:8,gas:0,value:0  
+2024-09-18T11:23:20.650Z [PASSED] 39/287,0 static_CallEcrecover0_0input 2/9 data:0,gas:0,value:0  
+2024-09-18T11:23:20.864Z [PASSED] 39/287,0 static_CallEcrecover0_0input 3/9 data:1,gas:0,value:0  
+2024-09-18T11:23:21.078Z [PASSED] 39/287,0 static_CallEcrecover0_0input 4/9 data:4,gas:0,value:0  
+2024-09-18T11:23:21.295Z [PASSED] 39/287,0 static_CallEcrecover0_0input 5/9 data:5,gas:0,value:0  
+2024-09-18T11:23:21.509Z [PASSED] 39/287,0 static_CallEcrecover0_0input 6/9 data:6,gas:0,value:0  
+2024-09-18T11:23:21.724Z [PASSED] 39/287,0 static_CallEcrecover0_0input 7/9 data:7,gas:0,value:0  
+2024-09-18T11:23:21.938Z [PASSED] 39/287,0 static_CallEcrecover0_0input 8/9 data:2,gas:0,value:0  
+2024-09-18T11:23:22.153Z [PASSED] 39/287,0 static_CallEcrecover0_0input 9/9 data:3,gas:0,value:0  

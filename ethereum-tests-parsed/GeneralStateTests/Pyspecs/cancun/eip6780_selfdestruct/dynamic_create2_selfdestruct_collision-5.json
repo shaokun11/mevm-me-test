@@ -2,17 +2,15 @@
   "dynamic_create2_selfdestruct_collision-5": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\nDynamic Create2->Suicide->Create2 collision scenario:\n\n    Perform a CREATE2, make sure that the initcode sets at least a couple of storage keys,\n    then on a different call, in the same tx, perform a self-destruct.\n    Then:\n        a) on the same tx, attempt to recreate the contract   <=== Covered in this test\n            1) and create2 contract already in the state\n            2) and create2 contract is not in the state\n        b) on a different tx, attempt to recreate the contract\n    Perform a CREATE2, make sure that the initcode sets at least a couple of storage keys,\n    then in a different tx, perform a self-destruct.\n    Then:\n        a) on the same tx, attempt to recreate the contract\n        b) on a different tx, attempt to recreate the contract\n    Verify that the test case described\n    in https://wiki.hyperledger.org/pages/viewpage.action?pageId=117440824 is covered",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
       "generatedTestHash": "80d6761cb88fef53661f5c59f24f2463fde36063e83cdfff85e8553c962044a8",
-      "hash": "0x6b62bb40b6dc4ce5ab1982be0c7e135eb494567bd9b11bd5f80167f3955cb9f4",
+      "hash": "0xdc6c55493c8dd3274914bec9e9c215a35b0a068176b4fcbf3231632b0453204c",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_dynamic_create2_selfdestruct_collision.py",
-      "sourceHash": "74d096154e76bd7598cbd456e1e3d6bbccc5dba79a6b582710111d90717db23f",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_f87fedc7_aaa3_4327_adc9_00a885ecec0c/test_dynamic_create2_selfdestruct_collision.py#L42"
+      "sourceHash": "74d096154e76bd7598cbd456e1e3d6bbccc5dba79a6b582710111d90717db23f"
     },
     "env": {
       "currentBaseFee": "0x07",

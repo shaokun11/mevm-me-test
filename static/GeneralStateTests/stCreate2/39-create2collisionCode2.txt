@@ -1,0 +1,3 @@
+ethereum-tests/GeneralStateTests/stCreate2/create2collisionCode2.json
+2024-09-18T10:56:28.909Z [PASSED] 39/54,0 create2collisionCode2 1/2 data:0,gas:0,value:0  
+2024-09-18T10:56:29.123Z [PASSED] 39/54,0 create2collisionCode2 2/2 data:1,gas:0,value:0  

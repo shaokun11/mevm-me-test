@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP3607/transactionCollidingWithNonEmptyAccount_callsItself.json
-2024-09-15T14:12:39.090Z [PASSED] 2/5,0 transactionCollidingWithNonEmptyAccount_callsItself 1/1 data:0,gas:0,value:0  
+2024-09-18T11:06:24.468Z [PASSED] 2/7,0 transactionCollidingWithNonEmptyAccount_callsItself 1/1 data:0,gas:0,value:0  

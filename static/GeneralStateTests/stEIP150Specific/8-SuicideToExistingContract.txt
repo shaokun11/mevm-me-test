@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP150Specific/SuicideToExistingContract.json
-2024-09-15T10:53:41.761Z [SKIP] 8/14,0 SuicideToExistingContract 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T10:57:31.526Z [SKIP] 8/14,0 SuicideToExistingContract 1/1 data:0,gas:0,value:0  Not support opcode

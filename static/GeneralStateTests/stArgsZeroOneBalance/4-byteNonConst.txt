@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/byteNonConst.json
-2024-09-14T08:56:29.149Z [PASSED] 4/46,0 byteNonConst 1/2 data:0,gas:0,value:0  
-2024-09-14T08:56:29.364Z [PASSED] 4/46,0 byteNonConst 2/2 data:0,gas:0,value:1  
+2024-09-18T10:39:11.721Z [PASSED] 4/46,0 byteNonConst 1/2 data:0,gas:0,value:0  
+2024-09-18T10:39:11.939Z [PASSED] 4/46,0 byteNonConst 2/2 data:0,gas:0,value:1  

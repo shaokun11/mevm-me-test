@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/delegatecallNonConst.json
-2024-09-14T08:56:33.234Z [PASSED] 11/46,0 delegatecallNonConst 1/2 data:0,gas:0,value:0  
-2024-09-14T08:56:33.448Z [PASSED] 11/46,0 delegatecallNonConst 2/2 data:0,gas:0,value:1  
+2024-09-18T10:39:15.605Z [PASSED] 11/46,0 delegatecallNonConst 1/2 data:0,gas:0,value:0  
+2024-09-18T10:39:15.819Z [PASSED] 11/46,0 delegatecallNonConst 2/2 data:0,gas:0,value:1  

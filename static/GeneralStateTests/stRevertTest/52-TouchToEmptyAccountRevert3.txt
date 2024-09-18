@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/TouchToEmptyAccountRevert3.json
+2024-09-18T11:17:43.973Z [SKIP] 52/57,0 TouchToEmptyAccountRevert3 No Cancun post state found

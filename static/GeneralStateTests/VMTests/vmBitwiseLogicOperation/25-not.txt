@@ -1,7 +1,7 @@
 ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/not.json
-2024-09-14T08:54:51.174Z [PASSED] 25/64,0 not 1/6 data:0,gas:0,value:0 not_0 
-2024-09-14T08:54:51.389Z [PASSED] 25/64,0 not 2/6 data:1,gas:0,value:0 not_2 
-2024-09-14T08:54:51.605Z [PASSED] 25/64,0 not 3/6 data:2,gas:0,value:0 not_allones 
-2024-09-14T08:54:51.831Z [PASSED] 25/64,0 not 4/6 data:3,gas:0,value:0 not_neg2 
-2024-09-14T08:54:52.045Z [PASSED] 25/64,0 not 5/6 data:4,gas:0,value:0 not_neg_2_pow_256 
-2024-09-14T08:54:52.259Z [PASSED] 25/64,0 not 6/6 data:5,gas:0,value:0 not_neg0 
+2024-09-18T10:37:44.450Z [PASSED] 25/64,0 not 1/6 data:0,gas:0,value:0 not_0 
+2024-09-18T10:37:44.664Z [PASSED] 25/64,0 not 2/6 data:1,gas:0,value:0 not_2 
+2024-09-18T10:37:44.882Z [PASSED] 25/64,0 not 3/6 data:2,gas:0,value:0 not_allones 
+2024-09-18T10:37:45.099Z [PASSED] 25/64,0 not 4/6 data:3,gas:0,value:0 not_neg2 
+2024-09-18T10:37:45.314Z [PASSED] 25/64,0 not 5/6 data:4,gas:0,value:0 not_neg_2_pow_256 
+2024-09-18T10:37:45.530Z [PASSED] 25/64,0 not 6/6 data:5,gas:0,value:0 not_neg0 

@@ -1,3 +1,2 @@
 ethereum-tests/GeneralStateTests/Shanghai/stEIP3860-limitmeterinitcode/create2InitCodeSizeLimit.json
-2024-09-14T08:53:48.118Z [PASSED] 5/8,0 create2InitCodeSizeLimit 1/2 data:0,gas:0,value:0 valid 
-2024-09-14T08:53:48.340Z [PASSED] 5/8,0 create2InitCodeSizeLimit 2/2 data:1,gas:0,value:0 invalid 
+2024-09-18T10:36:42.229Z [SKIP] 5/8,0 create2InitCodeSizeLimit No Cancun post state found

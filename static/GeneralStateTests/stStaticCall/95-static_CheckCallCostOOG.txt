@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CheckCallCostOOG.json
-2024-09-17T01:34:39.947Z [PASSED] 95/286,0 static_CheckCallCostOOG 1/2 data:0,gas:0,value:0  
-2024-09-17T01:34:40.161Z [PASSED] 95/286,0 static_CheckCallCostOOG 2/2 data:0,gas:1,value:0  
+2024-09-18T11:23:34.594Z [PASSED] 95/287,0 static_CheckCallCostOOG 1/2 data:0,gas:0,value:0  
+2024-09-18T11:23:34.807Z [PASSED] 95/287,0 static_CheckCallCostOOG 2/2 data:0,gas:1,value:0  

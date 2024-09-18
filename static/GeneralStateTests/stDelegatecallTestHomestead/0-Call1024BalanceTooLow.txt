@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Call1024BalanceTooLow.json
-2024-09-15T10:53:25.589Z [PASSED] 0/28,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  
+2024-09-18T10:57:22.774Z [PASSED] 0/28,0 Call1024BalanceTooLow 1/1 data:0,gas:0,value:0  

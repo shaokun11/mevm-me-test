@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_SUICIDE_ToEmpty.json
+2024-09-18T11:09:39.791Z [SKIP] 19/36,0 NonZeroValue_SUICIDE_ToEmpty No Cancun post state found

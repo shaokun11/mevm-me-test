@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/dayLimitResetSpentToday.json
-2024-09-17T02:00:11.177Z [PASSED] 3/42,0 dayLimitResetSpentToday 1/1 data:0,gas:0,value:0  
+2024-09-18T11:49:00.969Z [PASSED] 3/42,0 dayLimitResetSpentToday 1/1 data:0,gas:0,value:0  

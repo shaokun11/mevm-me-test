@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/DelegatecallToPrecompileFromTransaction.json
-2024-09-17T01:36:07.447Z [PASSED] 11/13,0 DelegatecallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  
+2024-09-18T11:24:59.249Z [PASSED] 11/13,0 DelegatecallToPrecompileFromTransaction 1/1 data:0,gas:0,value:0  

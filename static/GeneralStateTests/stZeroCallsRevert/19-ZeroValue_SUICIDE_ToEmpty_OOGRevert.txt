@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_SUICIDE_ToEmpty_OOGRevert.json
+2024-09-18T11:49:10.125Z [SKIP] 19/24,0 ZeroValue_SUICIDE_ToEmpty_OOGRevert No Cancun post state found

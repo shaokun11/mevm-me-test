@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/sgt.json
-2024-09-14T08:54:53.759Z [PASSED] 27/64,0 sgt 1/4 data:0,gas:0,value:0 sgt_neg2_0 
-2024-09-14T08:54:53.973Z [PASSED] 27/64,0 sgt 2/4 data:1,gas:0,value:0 sgt_0_neg2 
-2024-09-14T08:54:54.185Z [PASSED] 27/64,0 sgt 3/4 data:2,gas:0,value:0 sgt_neg1_0 
-2024-09-14T08:54:54.398Z [PASSED] 27/64,0 sgt 4/4 data:3,gas:0,value:0 sgt_0_neg1 
+2024-09-18T10:37:47.246Z [PASSED] 27/64,0 sgt 1/4 data:0,gas:0,value:0 sgt_neg2_0 
+2024-09-18T10:37:47.462Z [PASSED] 27/64,0 sgt 2/4 data:1,gas:0,value:0 sgt_0_neg2 
+2024-09-18T10:37:47.677Z [PASSED] 27/64,0 sgt 3/4 data:2,gas:0,value:0 sgt_neg1_0 
+2024-09-18T10:37:47.893Z [PASSED] 27/64,0 sgt 4/4 data:3,gas:0,value:0 sgt_0_neg1 

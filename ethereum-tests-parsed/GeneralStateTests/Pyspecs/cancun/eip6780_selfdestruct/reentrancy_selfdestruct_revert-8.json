@@ -2,17 +2,15 @@
   "reentrancy_selfdestruct_revert-8": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Suicide reentrancy scenario:\n\n    Call|Callcode|Delegatecall the contract S.\n    S self destructs.\n    Call the revert proxy contract R.\n    R Calls|Callcode|Delegatecall S.\n    S self destructs (for the second time).\n    R reverts (including the effects of the second selfdestruct).\n    It is expected the S is self destructed after the transaction.",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
       "generatedTestHash": "cc714840d69ff025378d9f3ede26c15ce20b179af7657a32f134bb05158a2f98",
-      "hash": "0xcefc365ce0e7be5787f3e2a619232c0b45bc2098d5555c058ede07c514406c05",
+      "hash": "0x2da74f63b6d70811ab2fd86b48fcfe0994456991cf4e0bc706f31d79802237b1",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_reentrancy_selfdestruct_revert.py",
-      "sourceHash": "e2f4e511e7fa159efc349cb0c53c8ff499d77f037da177c53ee125e066fa4c10",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_7b48c1f5_cdc8_4ff9_a1f6_c4e180ee27a2/test_reentrancy_selfdestruct_revert.py#L35"
+      "sourceHash": "e2f4e511e7fa159efc349cb0c53c8ff499d77f037da177c53ee125e066fa4c10"
     },
     "env": {
       "currentBaseFee": "0x07",

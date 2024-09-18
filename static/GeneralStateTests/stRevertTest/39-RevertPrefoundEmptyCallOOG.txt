@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stRevertTest/RevertPrefoundEmptyCallOOG.json
+2024-09-18T11:17:43.966Z [SKIP] 39/57,0 RevertPrefoundEmptyCallOOG No Cancun post state found

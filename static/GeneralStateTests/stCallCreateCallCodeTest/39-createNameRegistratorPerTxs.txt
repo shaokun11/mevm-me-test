@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createNameRegistratorPerTxs.json
-2024-09-14T15:44:31.568Z [PASSED] 39/43,0 createNameRegistratorPerTxs 1/1 data:0,gas:0,value:0  
+2024-09-18T10:55:20.497Z [PASSED] 39/43,0 createNameRegistratorPerTxs 1/1 data:0,gas:0,value:0  

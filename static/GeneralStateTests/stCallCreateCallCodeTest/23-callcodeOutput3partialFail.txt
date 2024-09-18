@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/callcodeOutput3partialFail.json
-2024-09-14T15:44:27.492Z [PASSED] 23/43,0 callcodeOutput3partialFail 1/1 data:0,gas:0,value:0  
+2024-09-18T10:55:16.198Z [PASSED] 23/43,0 callcodeOutput3partialFail 1/1 data:0,gas:0,value:0  

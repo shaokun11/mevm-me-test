@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_CALL_ToOneStorageKey_OOGRevert.json
+2024-09-18T11:49:10.115Z [SKIP] 10/24,0 ZeroValue_CALL_ToOneStorageKey_OOGRevert No Cancun post state found

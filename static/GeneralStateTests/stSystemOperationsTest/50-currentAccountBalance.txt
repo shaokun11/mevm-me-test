@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/currentAccountBalance.json
-2024-09-17T01:36:19.602Z [PASSED] 50/67,0 currentAccountBalance 1/1 data:0,gas:0,value:0  
+2024-09-18T11:25:11.611Z [PASSED] 50/68,0 currentAccountBalance 1/1 data:0,gas:0,value:0  

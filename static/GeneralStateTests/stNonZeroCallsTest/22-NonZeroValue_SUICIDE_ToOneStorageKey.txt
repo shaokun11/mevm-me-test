@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_SUICIDE_ToOneStorageKey.json
+2024-09-18T11:09:39.793Z [SKIP] 22/36,0 NonZeroValue_SUICIDE_ToOneStorageKey No Cancun post state found

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_makeMoney.json
+2024-09-18T11:24:50.697Z [PASSED] 283/287,0 static_makeMoney 1/1 data:0,gas:0,value:0  

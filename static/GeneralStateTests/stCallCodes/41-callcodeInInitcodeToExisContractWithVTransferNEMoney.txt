@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExisContractWithVTransferNEMoney.json
-2024-09-14T14:12:33.682Z [PASSED] 41/79,0 callcodeInInitcodeToExisContractWithVTransferNEMoney 1/2 data:0,gas:0,value:0  
-2024-09-14T14:12:33.895Z [PASSED] 41/79,0 callcodeInInitcodeToExisContractWithVTransferNEMoney 2/2 data:1,gas:0,value:0  
+2024-09-18T10:55:00.592Z [PASSED] 41/80,0 callcodeInInitcodeToExisContractWithVTransferNEMoney 1/2 data:0,gas:0,value:0  
+2024-09-18T10:55:00.806Z [PASSED] 41/80,0 callcodeInInitcodeToExisContractWithVTransferNEMoney 2/2 data:1,gas:0,value:0  

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/ContractStoreClearsOOG.json
-2024-09-17T01:59:10.475Z [PASSED] 0/35,0 ContractStoreClearsOOG 1/1 data:0,gas:0,value:0  
+2024-09-18T11:47:57.168Z [PASSED] 0/37,0 ContractStoreClearsOOG 1/1 data:0,gas:0,value:0  

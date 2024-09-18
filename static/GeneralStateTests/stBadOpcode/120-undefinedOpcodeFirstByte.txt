@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stBadOpcode/undefinedOpcodeFirstByte.json
-2024-09-14T09:13:23.217Z [SKIP] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T10:54:45.435Z [SKIP] 120/121,0 undefinedOpcodeFirstByte 1/1 data:0,gas:0,value:0  Not support opcode

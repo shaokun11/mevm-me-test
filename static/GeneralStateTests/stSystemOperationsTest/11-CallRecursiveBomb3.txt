@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/CallRecursiveBomb3.json
-2024-09-17T01:36:10.767Z [PASSED] 11/67,0 CallRecursiveBomb3 1/1 data:0,gas:0,value:0  
+2024-09-18T11:25:02.583Z [PASSED] 11/68,0 CallRecursiveBomb3 1/1 data:0,gas:0,value:0  

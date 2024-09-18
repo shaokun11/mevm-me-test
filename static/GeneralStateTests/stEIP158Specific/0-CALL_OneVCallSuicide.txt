@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP158Specific/CALL_OneVCallSuicide.json
-2024-09-15T10:55:49.662Z [SKIP] 0/8,0 CALL_OneVCallSuicide 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-18T11:05:48.078Z [SKIP] 0/11,0 CALL_OneVCallSuicide 1/1 data:0,gas:0,value:0  Not support opcode

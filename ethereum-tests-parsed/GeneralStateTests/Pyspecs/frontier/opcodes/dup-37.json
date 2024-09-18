@@ -2,17 +2,15 @@
   "dup-37": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Test the DUP1-DUP16 opcodes.\n\n    note: Test case ported from:\n\n        - [ethereum/tests/GeneralStateTests/VMTests/vmTests/dup.json](https://github.com/ethereum/tests/blob/develop/GeneralStateTests/VMTests/vmTests/dup.json)\n        by Ori Pomerantz.",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
       "generatedTestHash": "839a4f47a45b0a377cbcf374718eb1aa93dd40dc29fafa499374bacdb66cb150",
-      "hash": "0x795ed0dd4257a0a49d852c04c0fc791faa743ab9488a618fcef77ca5a0bc9544",
+      "hash": "0xeeaf58dae9e72c1c001acad085db670e08df96264d31128b59e59f6762c2c6f4",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/frontier/opcodes/test_dup.py",
-      "sourceHash": "9e031def962ef8da83ef45cbe9cd1f52a64aa5f3f7f89ab3816e4f0af50e89e2",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_e3b4cb46_aa29_4eb3_b69f_2c12fe218a80/test_dup.py#L14"
+      "sourceHash": "9e031def962ef8da83ef45cbe9cd1f52a64aa5f3f7f89ab3816e4f0af50e89e2"
     },
     "env": {
       "currentBaseFee": "0x07",

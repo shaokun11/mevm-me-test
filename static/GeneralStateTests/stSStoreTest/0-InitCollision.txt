@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stSStoreTest/InitCollision.json
+2024-09-18T11:18:45.456Z [SKIP] 0/29,0 InitCollision No Cancun post state found

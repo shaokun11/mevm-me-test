@@ -1,3 +1,2 @@
 ethereum-tests/GeneralStateTests/stCodeSizeLimit/createCodeSizeLimit.json
-2024-09-14T16:24:44.178Z [PASSED] 4/5,0 createCodeSizeLimit 1/2 data:0,gas:0,value:0 valid 
-2024-09-14T16:24:44.397Z [PASSED] 4/5,0 createCodeSizeLimit 2/2 data:1,gas:0,value:0 invalid 
+2024-09-18T10:55:52.248Z [PASSED] 4/5,0 createCodeSizeLimit 1/1 data:0,gas:0,value:0 valid 

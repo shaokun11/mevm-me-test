@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stCreate2/RevertInCreateInInitCreate2.json
+2024-09-18T10:55:52.557Z [SKIP] 27/54,0 RevertInCreateInInitCreate2 No Cancun post state found

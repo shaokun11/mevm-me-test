@@ -1,0 +1,5 @@
+ethereum-tests/GeneralStateTests/stCreateTest/TransactionCollisionToEmptyButCode.json
+2024-09-18T10:57:14.977Z [PASSED] 45/49,0 TransactionCollisionToEmptyButCode 1/4 data:0,gas:0,value:0  
+2024-09-18T10:57:15.191Z [PASSED] 45/49,0 TransactionCollisionToEmptyButCode 2/4 data:0,gas:0,value:1  
+2024-09-18T10:57:15.404Z [PASSED] 45/49,0 TransactionCollisionToEmptyButCode 3/4 data:0,gas:1,value:0  
+2024-09-18T10:57:15.625Z [PASSED] 45/49,0 TransactionCollisionToEmptyButCode 4/4 data:0,gas:1,value:1  

@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stZeroCallsRevert/ZeroValue_DELEGATECALL_ToEmpty_OOGRevert.json
+2024-09-18T11:49:10.119Z [SKIP] 13/24,0 ZeroValue_DELEGATECALL_ToEmpty_OOGRevert No Cancun post state found

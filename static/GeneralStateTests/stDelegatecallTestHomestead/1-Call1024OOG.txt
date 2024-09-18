@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stDelegatecallTestHomestead/Call1024OOG.json
-2024-09-15T10:53:25.812Z [PASSED] 1/28,0 Call1024OOG 1/2 data:0,gas:0,value:0  
-2024-09-15T10:53:26.029Z [PASSED] 1/28,0 Call1024OOG 2/2 data:0,gas:1,value:0  
+2024-09-18T10:57:22.997Z [PASSED] 1/28,0 Call1024OOG 1/2 data:0,gas:0,value:0  
+2024-09-18T10:57:23.216Z [PASSED] 1/28,0 Call1024OOG 2/2 data:0,gas:1,value:0  

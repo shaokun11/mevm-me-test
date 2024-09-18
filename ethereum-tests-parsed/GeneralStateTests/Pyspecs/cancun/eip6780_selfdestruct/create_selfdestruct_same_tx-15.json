@@ -2,17 +2,15 @@
   "create_selfdestruct_same_tx-15": {
     "_info": {
       "comment": "`execution-spec-tests` generated test",
-      "description": "Test function documentation:\n\n    Use CREATE or CREATE2 to create a self-destructing contract, and call it in the same\n    transaction.\n\n    Behavior should be the same before and after EIP-6780.\n\n    Test using:\n        - Different send-all recipient addresses: single, multiple, including self\n        - Different initial balances for the self-destructing contract\n        - Different opcodes: CREATE, CREATE2",
-      "filling-rpc-server": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "filling-tool-version": "retesteth-0.3.2-cancun+commit.2a41f237.Linux.g++",
-      "filling-transition-tool": "evm version 1.14.4-unstable-3d8028a6-20240513",
-      "generatedTestHash": "a4bf0298349d88d7ff5cc5b546b703ec027eb32c9eddf0ebd738b51de8b98bac",
-      "hash": "0xf4ab60d9f282280fb6396234161cf80dbbd785c040ebff9e04e90aa10d6f6a96",
+      "filling-rpc-server": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "filling-tool-version": "retesteth-0.3.2-cancun+commit.a2aedace.Linux.g++",
+      "filling-transition-tool": "evm version 1.14.0-unstable-7aafad22-20240406",
+      "generatedTestHash": "4a4876f047552bb80393e4babf2d13bed07829737b55783d9c34e440d2734c8b",
+      "hash": "0xefd73f798d416645b23e6e424fbe16dabbb4f36f9c7bf44fcdf7e9c874198e99",
       "lllcversion": "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
       "solidity": "Version: 0.8.21+commit.d9974bed.Linux.g++",
       "source": "src/GeneralStateTestsFiller/Pyspecs/cancun/eip6780_selfdestruct/test_selfdestruct.py",
-      "sourceHash": "7bdea405ed06be78c52cd88afe0fe65136b48c3df6faf7321e45b3c09316e6f6",
-      "url": "https://github.com/ethereum/execution-spec-tests/blob/87ef9bee36585b5b9f72d6eaafeeb1999b641d3c/tests/tmp/tmptest_988c7541_d1e0_4151_b68f_5d0f49f4746c/test_selfdestruct.py#L230"
+      "sourceHash": "7496f4b06341e22fc1aee1b39620bd84c707689b1abfb02c00d645e6af9d387b"
     },
     "env": {
       "currentBaseFee": "0x07",
@@ -27,14 +25,14 @@
     "post": {
       "Cancun": [
         {
-          "hash": "0x8cfe99c4a6e17edf791f16f8ba61f8de5586165c9920e81bd668dade1f91b9c0",
+          "hash": "0x02cdbe1ef77e60e28927e359c262a016b0417d1273fc73bf69e3c13bd024b033",
           "indexes": {
             "data": 0,
             "gas": 0,
             "value": 0
           },
           "logs": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
-          "txbytes": "0xf90135800a8405f5e10080830186a0b8e4602f6000600073000000000000000000000000000000000000abcd3c602f60006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255730000000000000000000000000000000000001000600052600060006020600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba6316004557364e2ebd6405af8cb348aec519084d3fff42ebba63b6005557364e2ebd6405af8cb348aec519084d3fff42ebba63f6006556001602ff31ca078da9dfa73e1c3764fa7356800d9baeabbcd41e8f71331b8b00b9d449710aef1a042a23a9a922e9056e8365e4156fd9ee20ba2e546114061473c12ce98e83d624d"
+          "txbytes": "0xf90135800a8405f5e10080830186a0b8e460166000600073000000000000000000000000000000000000abcd3c601660006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255730000000000000000000000000000000000001000600052600060006020600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba6316004557364e2ebd6405af8cb348aec519084d3fff42ebba63b6005557364e2ebd6405af8cb348aec519084d3fff42ebba63f60065560016020f31ca08602c922ec1bf8c151657991c52692be517e9d72377c43fa3bcfa36f2f3cc169a00748ceeebc7ec0a1b78c6a10047a69d4955285e15adfcf15a07bdeb761544851"
         }
       ]
     },
@@ -49,13 +47,13 @@
       },
       "0x000000000000000000000000000000000000abcd": {
         "balance": "0x00",
-        "code": "0x610024600081600b8239f3600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "code": "0x61000b600081600b8239f360015f54015f55611000ff",
         "nonce": "0x00",
         "storage": {}
       },
       "0x1111111111111111111111111111111111111111": {
         "balance": "0x00",
-        "code": "0x600160005401600055730000000000000000000000000000000000001000ff6000600055",
+        "code": "0x60015f54015f55611000ff",
         "nonce": "0x00",
         "storage": {}
       },
@@ -68,7 +66,7 @@
     },
     "transaction": {
       "data": [
-        "0x602f6000600073000000000000000000000000000000000000abcd3c602f60006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255730000000000000000000000000000000000001000600052600060006020600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba6316004557364e2ebd6405af8cb348aec519084d3fff42ebba63b6005557364e2ebd6405af8cb348aec519084d3fff42ebba63f6006556001602ff3"
+        "0x60166000600073000000000000000000000000000000000000abcd3c601660006000f06000557364e2ebd6405af8cb348aec519084d3fff42ebba63b6001557364e2ebd6405af8cb348aec519084d3fff42ebba63f600255730000000000000000000000000000000000001000600052600060006020600060007364e2ebd6405af8cb348aec519084d3fff42ebba645f16003557364e2ebd6405af8cb348aec519084d3fff42ebba6316004557364e2ebd6405af8cb348aec519084d3fff42ebba63b6005557364e2ebd6405af8cb348aec519084d3fff42ebba63f60065560016020f3"
       ],
       "gasLimit": [
         "0x05f5e100"

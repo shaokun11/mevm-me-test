@@ -1,0 +1,2 @@
+ethereum-tests/GeneralStateTests/stStaticCall/static_callcode_checkPC.json
+2024-09-18T11:24:24.598Z [PASSED] 209/287,0 static_callcode_checkPC 1/1 data:0,gas:0,value:0  
