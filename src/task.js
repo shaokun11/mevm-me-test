@@ -219,13 +219,13 @@ export async function runTask(opt) {
                         let tName = testNames[i];
                         if (tName) {
                             if (source.endsWith(testNames[i] + ".json")) {
-                                tName = "";
+                                tName = "/";
                             }
                         } else {
-                            tName = "";
+                            tName = "/";
                         }
 
-                        let fMsg = `${source}/${tName}/Cancun/${i}:${ms}`;
+                        let fMsg = `${source}/${tName}Cancun/${i}:${ms}`;
                         t.equals(root_data.data.state_root, post[i].hash);
                         if (post[i].hash === root_data.data.state_root) {
                             status += RUN_STATUS.PASSED;
