@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALL_ToEmpty.json
-2024-09-18T11:49:13.871Z [SKIP] 7/36,0 ZeroValue_CALL_ToEmpty No Cancun post state found
+2024-09-20T02:50:37.022Z [SKIP] 7/36,0 ZeroValue_CALL_ToEmpty No Cancun post state found

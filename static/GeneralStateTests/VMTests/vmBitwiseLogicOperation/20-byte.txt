@@ -1,13 +1,13 @@
 ethereum-tests/GeneralStateTests/VMTests/vmBitwiseLogicOperation/byte.json
-2024-09-18T10:37:36.647Z [PASSED] 20/64,0 byte 1/12 data:0,gas:0,value:0 byte_31_big 
-2024-09-18T10:37:36.861Z [PASSED] 20/64,0 byte 2/12 data:1,gas:0,value:0 byte_30_big 
-2024-09-18T10:37:37.075Z [PASSED] 20/64,0 byte 3/12 data:2,gas:0,value:0 byte_29_big 
-2024-09-18T10:37:37.289Z [PASSED] 20/64,0 byte 4/12 data:3,gas:0,value:0 byte_28_big 
-2024-09-18T10:37:37.508Z [PASSED] 20/64,0 byte 5/12 data:4,gas:0,value:0 byte_27_big 
-2024-09-18T10:37:37.723Z [PASSED] 20/64,0 byte 6/12 data:5,gas:0,value:0 byte_26_big 
-2024-09-18T10:37:37.936Z [PASSED] 20/64,0 byte 7/12 data:6,gas:0,value:0 byte_25_big 
-2024-09-18T10:37:38.150Z [PASSED] 20/64,0 byte 8/12 data:7,gas:0,value:0 byte_24_big 
-2024-09-18T10:37:38.364Z [PASSED] 20/64,0 byte 9/12 data:8,gas:0,value:0 byte_00_big 
-2024-09-18T10:37:38.578Z [PASSED] 20/64,0 byte 10/12 data:9,gas:0,value:0 byte_00_big_2nd 
-2024-09-18T10:37:38.793Z [PASSED] 20/64,0 byte 11/12 data:10,gas:0,value:0 byte_asm 
-2024-09-18T10:37:39.008Z [PASSED] 20/64,0 byte 12/12 data:11,gas:0,value:0 byte_all 
+2024-09-20T01:39:03.169Z [PASSED] 20/64,0 byte 1/12 data:0,gas:0,value:0 byte_31_big 
+2024-09-20T01:39:03.383Z [PASSED] 20/64,0 byte 2/12 data:1,gas:0,value:0 byte_30_big 
+2024-09-20T01:39:03.598Z [PASSED] 20/64,0 byte 3/12 data:2,gas:0,value:0 byte_29_big 
+2024-09-20T01:39:03.812Z [PASSED] 20/64,0 byte 4/12 data:3,gas:0,value:0 byte_28_big 
+2024-09-20T01:39:04.025Z [PASSED] 20/64,0 byte 5/12 data:4,gas:0,value:0 byte_27_big 
+2024-09-20T01:39:04.252Z [PASSED] 20/64,0 byte 6/12 data:5,gas:0,value:0 byte_26_big 
+2024-09-20T01:39:04.467Z [PASSED] 20/64,0 byte 7/12 data:6,gas:0,value:0 byte_25_big 
+2024-09-20T01:39:04.681Z [PASSED] 20/64,0 byte 8/12 data:7,gas:0,value:0 byte_24_big 
+2024-09-20T01:39:04.899Z [PASSED] 20/64,0 byte 9/12 data:8,gas:0,value:0 byte_00_big 
+2024-09-20T01:39:05.113Z [PASSED] 20/64,0 byte 10/12 data:9,gas:0,value:0 byte_00_big_2nd 
+2024-09-20T01:39:05.328Z [PASSED] 20/64,0 byte 11/12 data:10,gas:0,value:0 byte_asm 
+2024-09-20T01:39:05.543Z [PASSED] 20/64,0 byte 12/12 data:11,gas:0,value:0 byte_all 

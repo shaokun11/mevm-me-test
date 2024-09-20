@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCodes/callcallcall_000_SuicideEnd.json
-2024-09-18T10:54:52.624Z [SKIP] 10/80,0 callcallcall_000_SuicideEnd 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T01:56:11.584Z [SKIP] 10/80,0 callcallcall_000_SuicideEnd 1/1 data:0,gas:0,value:0  Not support opcode

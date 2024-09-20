@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcallcallcode_ABCB_RECURSIVE2.json
-2024-09-18T11:24:09.958Z [PASSED] 172/287,0 static_callcallcallcode_ABCB_RECURSIVE2 1/1 data:0,gas:0,value:0  
+2024-09-20T02:25:32.936Z [PASSED] 172/287,0 static_callcallcallcode_ABCB_RECURSIVE2 1/1 data:0,gas:0,value:0  

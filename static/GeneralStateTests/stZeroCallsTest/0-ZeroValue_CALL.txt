@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALL.json
-2024-09-18T11:49:14.144Z [PASSED] 0/36,0 ZeroValue_CALL 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:37.294Z [PASSED] 0/36,0 ZeroValue_CALL 1/1 data:0,gas:0,value:0  

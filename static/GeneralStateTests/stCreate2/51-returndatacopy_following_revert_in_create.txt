@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/returndatacopy_following_revert_in_create.json
-2024-09-18T10:56:34.498Z [PASSED] 51/54,0 returndatacopy_following_revert_in_create 1/1 data:0,gas:0,value:0  
+2024-09-20T01:57:56.102Z [PASSED] 51/54,0 returndatacopy_following_revert_in_create 1/1 data:0,gas:0,value:0  

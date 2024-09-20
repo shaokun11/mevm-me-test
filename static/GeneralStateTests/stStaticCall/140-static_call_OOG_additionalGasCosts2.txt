@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_call_OOG_additionalGasCosts2.json
-2024-09-18T11:22:29.942Z [SKIP] 140/287,0 static_call_OOG_additionalGasCosts2 No Cancun post state found
+2024-09-20T02:23:49.917Z [SKIP] 140/287,0 static_call_OOG_additionalGasCosts2 No Cancun post state found

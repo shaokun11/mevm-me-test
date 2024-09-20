@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/PointAtInfinityECRecover.json
-2024-09-18T11:48:52.302Z [PASSED] 20/37,0 PointAtInfinityECRecover 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:15.400Z [PASSED] 20/37,0 PointAtInfinityECRecover 1/1 data:0,gas:0,value:0  

@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stMemExpandingEIP150Calls/OOGinReturn.json
-2024-09-18T11:07:10.596Z [PASSED] 8/9,0 OOGinReturn 1/2 data:0,gas:0,value:0  
-2024-09-18T11:07:10.814Z [PASSED] 8/9,0 OOGinReturn 2/2 data:1,gas:0,value:0  
+2024-09-20T02:08:30.573Z [PASSED] 8/9,0 OOGinReturn 1/2 data:0,gas:0,value:0  
+2024-09-20T02:08:30.788Z [PASSED] 8/9,0 OOGinReturn 2/2 data:1,gas:0,value:0  

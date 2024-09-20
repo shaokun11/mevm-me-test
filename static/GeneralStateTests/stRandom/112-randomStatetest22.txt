@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRandom/randomStatetest22.json
-2024-09-18T11:15:02.607Z [SKIP] 112/310,0 randomStatetest22 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:16:21.715Z [SKIP] 112/310,0 randomStatetest22 1/1 data:0,gas:0,value:0  Not support opcode

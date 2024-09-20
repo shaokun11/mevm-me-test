@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_CALLCODE_ToNonZeroBalance.json
-2024-09-18T11:49:14.801Z [PASSED] 4/36,0 ZeroValue_CALLCODE_ToNonZeroBalance 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:37.953Z [PASSED] 4/36,0 ZeroValue_CALLCODE_ToNonZeroBalance 1/1 data:0,gas:0,value:0  

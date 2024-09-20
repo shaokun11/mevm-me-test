@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertDepthCreateAddressCollision.json
-2024-09-18T11:17:46.135Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 1/8 data:1,gas:1,value:0  
-2024-09-18T11:17:46.351Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 2/8 data:1,gas:1,value:1  
-2024-09-18T11:17:46.567Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 3/8 data:0,gas:1,value:0  
-2024-09-18T11:17:46.781Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 4/8 data:0,gas:1,value:1  
-2024-09-18T11:17:46.995Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 5/8 data:1,gas:0,value:0  
-2024-09-18T11:17:47.211Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 6/8 data:1,gas:0,value:1  
-2024-09-18T11:17:47.426Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 7/8 data:0,gas:0,value:0  
-2024-09-18T11:17:47.642Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 8/8 data:0,gas:0,value:1  
+2024-09-20T02:19:07.809Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 1/8 data:1,gas:1,value:0  
+2024-09-20T02:19:08.025Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 2/8 data:1,gas:1,value:1  
+2024-09-20T02:19:08.245Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 3/8 data:0,gas:1,value:0  
+2024-09-20T02:19:08.460Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 4/8 data:0,gas:1,value:1  
+2024-09-20T02:19:08.675Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 5/8 data:1,gas:0,value:0  
+2024-09-20T02:19:08.890Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 6/8 data:1,gas:0,value:1  
+2024-09-20T02:19:09.106Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 7/8 data:0,gas:0,value:0  
+2024-09-20T02:19:09.329Z [PASSED] 8/57,0 RevertDepthCreateAddressCollision 8/8 data:0,gas:0,value:1  

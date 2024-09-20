@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes.json
-2024-09-18T11:23:35.022Z [PASSED] 96/287,0 static_CheckOpcodes 1/8 data:0,gas:1,value:0  
-2024-09-18T11:23:35.247Z [PASSED] 96/287,0 static_CheckOpcodes 2/8 data:0,gas:1,value:1  
-2024-09-18T11:23:35.461Z [PASSED] 96/287,0 static_CheckOpcodes 3/8 data:1,gas:1,value:0  
-2024-09-18T11:23:35.676Z [PASSED] 96/287,0 static_CheckOpcodes 4/8 data:1,gas:1,value:1  
-2024-09-18T11:23:35.889Z [PASSED] 96/287,0 static_CheckOpcodes 5/8 data:1,gas:0,value:0  
-2024-09-18T11:23:36.103Z [PASSED] 96/287,0 static_CheckOpcodes 6/8 data:1,gas:0,value:1  
-2024-09-18T11:23:36.317Z [PASSED] 96/287,0 static_CheckOpcodes 7/8 data:0,gas:0,value:0  
-2024-09-18T11:23:36.532Z [PASSED] 96/287,0 static_CheckOpcodes 8/8 data:0,gas:0,value:1  
+2024-09-20T02:24:55.703Z [PASSED] 96/287,0 static_CheckOpcodes 1/8 data:0,gas:1,value:0  
+2024-09-20T02:24:55.918Z [PASSED] 96/287,0 static_CheckOpcodes 2/8 data:0,gas:1,value:1  
+2024-09-20T02:24:56.145Z [PASSED] 96/287,0 static_CheckOpcodes 3/8 data:1,gas:1,value:0  
+2024-09-20T02:24:56.361Z [PASSED] 96/287,0 static_CheckOpcodes 4/8 data:1,gas:1,value:1  
+2024-09-20T02:24:56.575Z [PASSED] 96/287,0 static_CheckOpcodes 5/8 data:1,gas:0,value:0  
+2024-09-20T02:24:56.790Z [PASSED] 96/287,0 static_CheckOpcodes 6/8 data:1,gas:0,value:1  
+2024-09-20T02:24:57.006Z [PASSED] 96/287,0 static_CheckOpcodes 7/8 data:0,gas:0,value:0  
+2024-09-20T02:24:57.220Z [PASSED] 96/287,0 static_CheckOpcodes 8/8 data:0,gas:0,value:1  

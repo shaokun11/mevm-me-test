@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callToDelCallOpCodeCheck.json
-2024-09-18T11:23:58.173Z [PASSED] 133/287,0 static_callToDelCallOpCodeCheck 1/1 data:0,gas:0,value:0  
+2024-09-20T02:25:21.329Z [PASSED] 133/287,0 static_callToDelCallOpCodeCheck 1/1 data:0,gas:0,value:0  

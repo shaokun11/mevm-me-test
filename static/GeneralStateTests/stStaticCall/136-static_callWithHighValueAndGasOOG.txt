@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callWithHighValueAndGasOOG.json
-2024-09-18T11:23:58.812Z [PASSED] 136/287,0 static_callWithHighValueAndGasOOG 1/2 data:0,gas:0,value:0  
-2024-09-18T11:23:59.026Z [PASSED] 136/287,0 static_callWithHighValueAndGasOOG 2/2 data:1,gas:0,value:0  
+2024-09-20T02:25:21.971Z [PASSED] 136/287,0 static_callWithHighValueAndGasOOG 1/2 data:0,gas:0,value:0  
+2024-09-20T02:25:22.185Z [PASSED] 136/287,0 static_callWithHighValueAndGasOOG 2/2 data:1,gas:0,value:0  

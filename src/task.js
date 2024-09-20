@@ -219,10 +219,14 @@ export async function runTask(opt) {
                         let tName = testNames[i];
                         if (tName) {
                             if (source.endsWith(testNames[i] + ".json")) {
-                                tName = "/";
+                                tName = "
+                                
+                                
+                                
+                                ";
                             }
                         } else {
-                            tName = "/";
+                            tName = "";
                         }
 
                         let fMsg = `${source}/${tName}Cancun/${i}:${ms}`;

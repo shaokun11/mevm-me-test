@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallGoesOOGOnSecondLevel2.json
-2024-09-18T11:23:25.809Z [PASSED] 56/287,0 static_CallGoesOOGOnSecondLevel2 1/2 data:0,gas:0,value:0  
-2024-09-18T11:23:26.030Z [PASSED] 56/287,0 static_CallGoesOOGOnSecondLevel2 2/2 data:1,gas:0,value:0  
+2024-09-20T02:24:46.470Z [PASSED] 56/287,0 static_CallGoesOOGOnSecondLevel2 1/2 data:0,gas:0,value:0  
+2024-09-20T02:24:46.685Z [PASSED] 56/287,0 static_CallGoesOOGOnSecondLevel2 2/2 data:1,gas:0,value:0  

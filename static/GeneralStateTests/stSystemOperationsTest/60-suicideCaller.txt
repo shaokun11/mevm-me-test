@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/suicideCaller.json
-2024-09-18T11:25:18.566Z [SKIP] 60/68,0 suicideCaller 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:26:39.795Z [SKIP] 60/68,0 suicideCaller 1/1 data:0,gas:0,value:0  Not support opcode

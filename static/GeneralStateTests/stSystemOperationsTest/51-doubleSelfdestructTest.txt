@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stSystemOperationsTest/doubleSelfdestructTest.json
-2024-09-18T11:25:11.825Z [SKIP] 51/68,0 doubleSelfdestructTest 1/8 data:0,gas:0,value:0 called-self-destruct Not support opcode
-2024-09-18T11:25:12.039Z [SKIP] 51/68,0 doubleSelfdestructTest 2/8 data:1,gas:0,value:0 called-self-destruct Not support opcode
-2024-09-18T11:25:12.253Z [SKIP] 51/68,0 doubleSelfdestructTest 3/8 data:2,gas:0,value:0 called-self-destruct Not support opcode
-2024-09-18T11:25:12.467Z [SKIP] 51/68,0 doubleSelfdestructTest 4/8 data:3,gas:0,value:0 caller-self-destruct Not support opcode
-2024-09-18T11:25:12.683Z [SKIP] 51/68,0 doubleSelfdestructTest 5/8 data:7,gas:0,value:0 code-self-destruct Not support opcode
-2024-09-18T11:25:12.898Z [SKIP] 51/68,0 doubleSelfdestructTest 6/8 data:4,gas:0,value:0 code-self-destruct Not support opcode
-2024-09-18T11:25:13.115Z [SKIP] 51/68,0 doubleSelfdestructTest 7/8 data:5,gas:0,value:0 code-self-destruct Not support opcode
-2024-09-18T11:25:13.329Z [SKIP] 51/68,0 doubleSelfdestructTest 8/8 data:6,gas:0,value:0 caller-self-destruct Not support opcode
+2024-09-20T02:26:35.280Z [SKIP] 51/68,0 doubleSelfdestructTest 1/8 data:0,gas:0,value:0 called-self-destruct Not support opcode
+2024-09-20T02:26:35.495Z [SKIP] 51/68,0 doubleSelfdestructTest 2/8 data:1,gas:0,value:0 called-self-destruct Not support opcode
+2024-09-20T02:26:35.709Z [SKIP] 51/68,0 doubleSelfdestructTest 3/8 data:2,gas:0,value:0 called-self-destruct Not support opcode
+2024-09-20T02:26:35.924Z [SKIP] 51/68,0 doubleSelfdestructTest 4/8 data:3,gas:0,value:0 caller-self-destruct Not support opcode
+2024-09-20T02:26:36.139Z [SKIP] 51/68,0 doubleSelfdestructTest 5/8 data:7,gas:0,value:0 code-self-destruct Not support opcode
+2024-09-20T02:26:36.355Z [SKIP] 51/68,0 doubleSelfdestructTest 6/8 data:4,gas:0,value:0 code-self-destruct Not support opcode
+2024-09-20T02:26:36.569Z [SKIP] 51/68,0 doubleSelfdestructTest 7/8 data:5,gas:0,value:0 code-self-destruct Not support opcode
+2024-09-20T02:26:36.788Z [SKIP] 51/68,0 doubleSelfdestructTest 8/8 data:6,gas:0,value:0 caller-self-destruct Not support opcode

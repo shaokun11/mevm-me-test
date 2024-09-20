@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransactionTest/SuicidesStopAfterSuicide.json
-2024-09-18T11:48:54.448Z [SKIP] 29/37,0 SuicidesStopAfterSuicide 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:50:17.550Z [SKIP] 29/37,0 SuicidesStopAfterSuicide 1/1 data:0,gas:0,value:0  Not support opcode

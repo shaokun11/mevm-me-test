@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_PostToReturn1.json
-2024-09-18T11:23:48.978Z [PASSED] 109/287,0 static_PostToReturn1 1/1 data:0,gas:0,value:0  
+2024-09-20T02:25:11.930Z [PASSED] 109/287,0 static_PostToReturn1 1/1 data:0,gas:0,value:0  

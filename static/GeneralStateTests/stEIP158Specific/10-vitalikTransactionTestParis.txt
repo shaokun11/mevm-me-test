@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stEIP158Specific/vitalikTransactionTestParis.json
-2024-09-18T11:05:49.608Z [SKIP] 10/11,0 vitalikTransactionTestParis 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:07:12.051Z [SKIP] 10/11,0 vitalikTransactionTestParis 1/1 data:0,gas:0,value:0  Not support opcode

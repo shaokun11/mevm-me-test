@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stNonZeroCallsTest/NonZeroValue_SUICIDE_ToNonNonZeroBalance.json
-2024-09-18T11:09:43.093Z [SKIP] 21/36,0 NonZeroValue_SUICIDE_ToNonNonZeroBalance 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:11:04.721Z [SKIP] 21/36,0 NonZeroValue_SUICIDE_ToNonNonZeroBalance 1/1 data:0,gas:0,value:0  Not support opcode

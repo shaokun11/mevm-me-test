@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallLoseGasOOG.json
-2024-09-18T11:23:27.963Z [PASSED] 65/287,0 static_CallLoseGasOOG 1/1 data:0,gas:0,value:0  
+2024-09-20T02:24:48.620Z [PASSED] 65/287,0 static_CallLoseGasOOG 1/1 data:0,gas:0,value:0  

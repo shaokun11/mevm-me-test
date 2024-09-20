@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallIdentity_2.json
-2024-09-18T11:23:26.671Z [PASSED] 59/287,0 static_CallIdentity_2 1/1 data:0,gas:0,value:0  
+2024-09-20T02:24:47.331Z [PASSED] 59/287,0 static_CallIdentity_2 1/1 data:0,gas:0,value:0  

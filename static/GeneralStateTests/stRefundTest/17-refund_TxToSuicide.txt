@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refund_TxToSuicide.json
-2024-09-18T11:16:41.130Z [SKIP] 17/23,0 refund_TxToSuicide 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:18:02.440Z [SKIP] 17/23,0 refund_TxToSuicide 1/1 data:0,gas:0,value:0  Not support opcode

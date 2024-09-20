@@ -1,6 +1,6 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_log_Caller.json
-2024-09-18T11:24:49.627Z [PASSED] 282/287,0 static_log_Caller 1/5 data:0,gas:0,value:0  
-2024-09-18T11:24:49.840Z [PASSED] 282/287,0 static_log_Caller 2/5 data:1,gas:0,value:0  
-2024-09-18T11:24:50.057Z [PASSED] 282/287,0 static_log_Caller 3/5 data:2,gas:0,value:0  
-2024-09-18T11:24:50.271Z [PASSED] 282/287,0 static_log_Caller 4/5 data:3,gas:0,value:0  
-2024-09-18T11:24:50.484Z [PASSED] 282/287,0 static_log_Caller 5/5 data:4,gas:0,value:0  
+2024-09-20T02:26:13.058Z [PASSED] 282/287,0 static_log_Caller 1/5 data:0,gas:0,value:0  
+2024-09-20T02:26:13.272Z [PASSED] 282/287,0 static_log_Caller 2/5 data:1,gas:0,value:0  
+2024-09-20T02:26:13.494Z [PASSED] 282/287,0 static_log_Caller 3/5 data:2,gas:0,value:0  
+2024-09-20T02:26:13.708Z [PASSED] 282/287,0 static_log_Caller 4/5 data:3,gas:0,value:0  
+2024-09-20T02:26:13.921Z [PASSED] 282/287,0 static_log_Caller 5/5 data:4,gas:0,value:0  

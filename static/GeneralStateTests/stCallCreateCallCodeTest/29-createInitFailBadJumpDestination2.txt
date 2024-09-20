@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCallCreateCallCodeTest/createInitFailBadJumpDestination2.json
-2024-09-18T10:55:17.924Z [SKIP] 29/43,0 createInitFailBadJumpDestination2 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T01:56:36.859Z [SKIP] 29/43,0 createInitFailBadJumpDestination2 1/1 data:0,gas:0,value:0  Not support opcode

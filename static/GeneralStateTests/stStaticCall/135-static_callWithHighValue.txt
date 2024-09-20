@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callWithHighValue.json
-2024-09-18T11:23:58.599Z [PASSED] 135/287,0 static_callWithHighValue 1/1 data:0,gas:0,value:0  
+2024-09-20T02:25:21.757Z [PASSED] 135/287,0 static_callWithHighValue 1/1 data:0,gas:0,value:0  

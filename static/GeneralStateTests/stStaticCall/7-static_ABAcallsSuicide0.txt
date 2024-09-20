@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_ABAcallsSuicide0.json
-2024-09-18T11:22:32.421Z [SKIP] 7/287,0 static_ABAcallsSuicide0 1/2 data:0,gas:0,value:0  Not support opcode
-2024-09-18T11:22:32.642Z [SKIP] 7/287,0 static_ABAcallsSuicide0 2/2 data:1,gas:0,value:0  Not support opcode
+2024-09-20T02:23:52.403Z [SKIP] 7/287,0 static_ABAcallsSuicide0 1/2 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:23:52.619Z [SKIP] 7/287,0 static_ABAcallsSuicide0 2/2 data:1,gas:0,value:0  Not support opcode

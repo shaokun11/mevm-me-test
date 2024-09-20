@@ -1,11 +1,11 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CheckOpcodes2.json
-2024-09-18T11:23:36.745Z [PASSED] 97/287,0 static_CheckOpcodes2 1/10 data:0,gas:0,value:0  
-2024-09-18T11:23:36.960Z [PASSED] 97/287,0 static_CheckOpcodes2 2/10 data:0,gas:0,value:1  
-2024-09-18T11:23:37.179Z [PASSED] 97/287,0 static_CheckOpcodes2 3/10 data:2,gas:0,value:0  
-2024-09-18T11:23:37.394Z [PASSED] 97/287,0 static_CheckOpcodes2 4/10 data:2,gas:0,value:1  
-2024-09-18T11:23:37.609Z [PASSED] 97/287,0 static_CheckOpcodes2 5/10 data:3,gas:0,value:0  
-2024-09-18T11:23:37.824Z [PASSED] 97/287,0 static_CheckOpcodes2 6/10 data:3,gas:0,value:1  
-2024-09-18T11:23:38.038Z [PASSED] 97/287,0 static_CheckOpcodes2 7/10 data:4,gas:0,value:0  
-2024-09-18T11:23:38.251Z [PASSED] 97/287,0 static_CheckOpcodes2 8/10 data:4,gas:0,value:1  
-2024-09-18T11:23:38.466Z [PASSED] 97/287,0 static_CheckOpcodes2 9/10 data:1,gas:0,value:0  
-2024-09-18T11:23:38.680Z [PASSED] 97/287,0 static_CheckOpcodes2 10/10 data:1,gas:0,value:1  
+2024-09-20T02:24:57.436Z [PASSED] 97/287,0 static_CheckOpcodes2 1/10 data:0,gas:0,value:0  
+2024-09-20T02:24:57.650Z [PASSED] 97/287,0 static_CheckOpcodes2 2/10 data:0,gas:0,value:1  
+2024-09-20T02:24:57.865Z [PASSED] 97/287,0 static_CheckOpcodes2 3/10 data:2,gas:0,value:0  
+2024-09-20T02:24:58.085Z [PASSED] 97/287,0 static_CheckOpcodes2 4/10 data:2,gas:0,value:1  
+2024-09-20T02:24:58.301Z [PASSED] 97/287,0 static_CheckOpcodes2 5/10 data:3,gas:0,value:0  
+2024-09-20T02:25:00.749Z [PASSED] 97/287,0 static_CheckOpcodes2 6/10 data:3,gas:0,value:1  
+2024-09-20T02:25:00.965Z [PASSED] 97/287,0 static_CheckOpcodes2 7/10 data:4,gas:0,value:0  
+2024-09-20T02:25:01.180Z [PASSED] 97/287,0 static_CheckOpcodes2 8/10 data:4,gas:0,value:1  
+2024-09-20T02:25:01.395Z [PASSED] 97/287,0 static_CheckOpcodes2 9/10 data:1,gas:0,value:0  
+2024-09-20T02:25:01.610Z [PASSED] 97/287,0 static_CheckOpcodes2 10/10 data:1,gas:0,value:1  

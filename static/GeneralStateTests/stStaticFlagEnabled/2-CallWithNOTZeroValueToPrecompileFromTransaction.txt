@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stStaticFlagEnabled/CallWithNOTZeroValueToPrecompileFromTransaction.json
-2024-09-18T11:24:55.783Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  
-2024-09-18T11:24:56.000Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  
-2024-09-18T11:24:56.217Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  
-2024-09-18T11:24:56.432Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  
-2024-09-18T11:24:56.647Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  
-2024-09-18T11:24:56.868Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  
-2024-09-18T11:24:57.085Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  
-2024-09-18T11:24:57.300Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  
+2024-09-20T02:26:19.422Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 1/8 data:0,gas:0,value:0  
+2024-09-20T02:26:19.639Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 2/8 data:1,gas:0,value:0  
+2024-09-20T02:26:19.855Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 3/8 data:2,gas:0,value:0  
+2024-09-20T02:26:20.070Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 4/8 data:3,gas:0,value:0  
+2024-09-20T02:26:20.286Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 5/8 data:4,gas:0,value:0  
+2024-09-20T02:26:20.508Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 6/8 data:5,gas:0,value:0  
+2024-09-20T02:26:20.725Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 7/8 data:6,gas:0,value:0  
+2024-09-20T02:26:20.941Z [PASSED] 2/13,0 CallWithNOTZeroValueToPrecompileFromTransaction 8/8 data:7,gas:0,value:0  

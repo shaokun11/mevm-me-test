@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_Call50000_identity.json
-2024-09-18T11:22:45.239Z [PASSED] 26/287,0 static_Call50000_identity 1/2 data:0,gas:0,value:0  
-2024-09-18T11:22:46.871Z [PASSED] 26/287,0 static_Call50000_identity 2/2 data:1,gas:0,value:0  
+2024-09-20T02:24:07.875Z [PASSED] 26/287,0 static_Call50000_identity 1/2 data:0,gas:0,value:0  
+2024-09-20T02:24:09.511Z [PASSED] 26/287,0 static_Call50000_identity 2/2 data:1,gas:0,value:0  

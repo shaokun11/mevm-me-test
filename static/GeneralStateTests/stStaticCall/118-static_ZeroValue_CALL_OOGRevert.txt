@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_ZeroValue_CALL_OOGRevert.json
-2024-09-18T11:23:52.810Z [PASSED] 118/287,0 static_ZeroValue_CALL_OOGRevert 1/1 data:0,gas:0,value:0  
+2024-09-20T02:25:15.752Z [PASSED] 118/287,0 static_ZeroValue_CALL_OOGRevert 1/1 data:0,gas:0,value:0  

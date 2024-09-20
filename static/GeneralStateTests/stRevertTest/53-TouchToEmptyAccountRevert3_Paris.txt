@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/TouchToEmptyAccountRevert3_Paris.json
-2024-09-18T11:18:36.998Z [SKIP] 53/57,0 TouchToEmptyAccountRevert3_Paris 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:19:58.941Z [SKIP] 53/57,0 TouchToEmptyAccountRevert3_Paris 1/1 data:0,gas:0,value:0  Not support opcode

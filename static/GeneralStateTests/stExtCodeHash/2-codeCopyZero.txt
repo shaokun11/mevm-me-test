@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stExtCodeHash/codeCopyZero.json
-2024-09-18T11:06:34.486Z [SKIP] 2/39,0 codeCopyZero No Cancun post state found
+2024-09-20T02:07:56.663Z [SKIP] 2/39,0 codeCopyZero No Cancun post state found

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stInitCodeTest/TransactionCreateAutoSuicideContract.json
-2024-09-18T11:06:57.485Z [SKIP] 13/17,0 TransactionCreateAutoSuicideContract 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:08:17.445Z [SKIP] 13/17,0 TransactionCreateAutoSuicideContract 1/1 data:0,gas:0,value:0  Not support opcode

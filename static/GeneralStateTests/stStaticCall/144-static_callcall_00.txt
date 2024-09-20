@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callcall_00.json
-2024-09-18T11:24:00.531Z [PASSED] 144/287,0 static_callcall_00 1/2 data:0,gas:0,value:0  
-2024-09-18T11:24:00.744Z [PASSED] 144/287,0 static_callcall_00 2/2 data:1,gas:0,value:0  
+2024-09-20T02:25:23.691Z [PASSED] 144/287,0 static_callcall_00 1/2 data:0,gas:0,value:0  
+2024-09-20T02:25:23.904Z [PASSED] 144/287,0 static_callcall_00 2/2 data:1,gas:0,value:0  

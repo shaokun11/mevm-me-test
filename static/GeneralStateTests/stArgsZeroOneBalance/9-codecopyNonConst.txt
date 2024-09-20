@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/codecopyNonConst.json
-2024-09-18T10:39:14.748Z [PASSED] 9/46,0 codecopyNonConst 1/2 data:0,gas:0,value:0  
-2024-09-18T10:39:14.963Z [PASSED] 9/46,0 codecopyNonConst 2/2 data:0,gas:0,value:1  
+2024-09-20T01:40:40.502Z [PASSED] 9/46,0 codecopyNonConst 1/2 data:0,gas:0,value:0  
+2024-09-20T01:40:40.716Z [PASSED] 9/46,0 codecopyNonConst 2/2 data:0,gas:0,value:1  

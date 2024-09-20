@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRefundTest/refundResetFrontier.json
-2024-09-18T11:16:36.518Z [SKIP] 6/23,0 refundResetFrontier No Cancun post state found
+2024-09-20T02:17:57.836Z [SKIP] 6/23,0 refundResetFrontier No Cancun post state found

@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_CallEcrecover1.json
-2024-09-18T11:23:23.448Z [PASSED] 45/287,0 static_CallEcrecover1 1/1 data:0,gas:0,value:0  
+2024-09-20T02:24:44.099Z [PASSED] 45/287,0 static_CallEcrecover1 1/1 data:0,gas:0,value:0  

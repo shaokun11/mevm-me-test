@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTransitionTest/delegatecallAfterTransition.json
-2024-09-18T11:48:56.907Z [PASSED] 3/6,0 delegatecallAfterTransition 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:20.014Z [PASSED] 3/6,0 delegatecallAfterTransition 1/1 data:0,gas:0,value:0  

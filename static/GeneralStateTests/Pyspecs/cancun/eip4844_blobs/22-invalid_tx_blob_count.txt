@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/Pyspecs/cancun/eip4844_blobs/invalid_tx_blob_count.json
-2024-09-18T10:35:14.738Z [SKIP] 22/65,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_few_blobs] 1/1 data:0,gas:0,value:0  Not support blob tx
-2024-09-18T10:35:14.738Z [SKIP] 22/65,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_many_blobs] 1/1 data:0,gas:0,value:0  Not support blob tx
+2024-09-20T01:36:40.985Z [SKIP] 22/65,0 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_few_blobs] 1/1 data:0,gas:0,value:0  Not support blob tx
+2024-09-20T01:36:40.985Z [SKIP] 22/65,1 src/GeneralStateTestsFiller/Pyspecs/cancun/eip4844_blobs/test_blob_txs.py::test_invalid_tx_blob_count[fork_Cancun-state_test-too_many_blobs] 1/1 data:0,gas:0,value:0  Not support blob tx

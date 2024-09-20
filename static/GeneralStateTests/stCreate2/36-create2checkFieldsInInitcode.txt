@@ -1,9 +1,9 @@
 ethereum-tests/GeneralStateTests/stCreate2/create2checkFieldsInInitcode.json
-2024-09-18T10:56:25.661Z [PASSED] 36/54,0 create2checkFieldsInInitcode 1/8 data:0,gas:0,value:0  
-2024-09-18T10:56:25.879Z [PASSED] 36/54,0 create2checkFieldsInInitcode 2/8 data:4,gas:0,value:0  
-2024-09-18T10:56:26.095Z [PASSED] 36/54,0 create2checkFieldsInInitcode 3/8 data:1,gas:0,value:0  
-2024-09-18T10:56:26.310Z [PASSED] 36/54,0 create2checkFieldsInInitcode 4/8 data:2,gas:0,value:0  
-2024-09-18T10:56:26.525Z [PASSED] 36/54,0 create2checkFieldsInInitcode 5/8 data:3,gas:0,value:0  
-2024-09-18T10:56:26.740Z [PASSED] 36/54,0 create2checkFieldsInInitcode 6/8 data:7,gas:0,value:0  
-2024-09-18T10:56:26.961Z [PASSED] 36/54,0 create2checkFieldsInInitcode 7/8 data:5,gas:0,value:0  
-2024-09-18T10:56:27.177Z [PASSED] 36/54,0 create2checkFieldsInInitcode 8/8 data:6,gas:0,value:0  
+2024-09-20T01:57:47.090Z [PASSED] 36/54,0 create2checkFieldsInInitcode 1/8 data:0,gas:0,value:0  
+2024-09-20T01:57:47.305Z [PASSED] 36/54,0 create2checkFieldsInInitcode 2/8 data:4,gas:0,value:0  
+2024-09-20T01:57:47.519Z [PASSED] 36/54,0 create2checkFieldsInInitcode 3/8 data:1,gas:0,value:0  
+2024-09-20T01:57:47.739Z [PASSED] 36/54,0 create2checkFieldsInInitcode 4/8 data:2,gas:0,value:0  
+2024-09-20T01:57:47.953Z [PASSED] 36/54,0 create2checkFieldsInInitcode 5/8 data:3,gas:0,value:0  
+2024-09-20T01:57:48.168Z [PASSED] 36/54,0 create2checkFieldsInInitcode 6/8 data:7,gas:0,value:0  
+2024-09-20T01:57:48.585Z [PASSED] 36/54,0 create2checkFieldsInInitcode 7/8 data:5,gas:0,value:0  
+2024-09-20T01:57:48.800Z [PASSED] 36/54,0 create2checkFieldsInInitcode 8/8 data:6,gas:0,value:0  

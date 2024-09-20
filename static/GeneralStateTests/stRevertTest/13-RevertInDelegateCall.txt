@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertInDelegateCall.json
-2024-09-18T11:17:50.019Z [PASSED] 13/57,0 RevertInDelegateCall 1/1 data:0,gas:0,value:0  
+2024-09-20T02:19:11.688Z [PASSED] 13/57,0 RevertInDelegateCall 1/1 data:0,gas:0,value:0  

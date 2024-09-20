@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedChangeOwner_fromNotOwner.json
-2024-09-18T11:49:02.487Z [PASSED] 10/42,0 multiOwnedChangeOwner_fromNotOwner 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:25.605Z [PASSED] 10/42,0 multiOwnedChangeOwner_fromNotOwner 1/1 data:0,gas:0,value:0  

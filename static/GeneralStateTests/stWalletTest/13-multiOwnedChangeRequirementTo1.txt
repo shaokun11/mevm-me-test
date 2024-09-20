@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stWalletTest/multiOwnedChangeRequirementTo1.json
-2024-09-18T11:49:03.139Z [PASSED] 13/42,0 multiOwnedChangeRequirementTo1 1/1 data:0,gas:0,value:0  
+2024-09-20T02:50:26.256Z [PASSED] 13/42,0 multiOwnedChangeRequirementTo1 1/1 data:0,gas:0,value:0  

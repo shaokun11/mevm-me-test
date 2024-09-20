@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stTimeConsuming/sstore_combinations_initial11_2.json
-2024-09-18T11:25:20.820Z [SKIP] 14/26,0 sstore_combinations_initial11_2 No Cancun post state found
+2024-09-20T02:26:42.278Z [SKIP] 14/26,0 sstore_combinations_initial11_2 No Cancun post state found

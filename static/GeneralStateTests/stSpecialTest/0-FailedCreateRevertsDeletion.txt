@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stSpecialTest/FailedCreateRevertsDeletion.json
-2024-09-18T11:20:57.278Z [SKIP] 0/18,0 FailedCreateRevertsDeletion No Cancun post state found
+2024-09-20T02:22:19.254Z [SKIP] 0/18,0 FailedCreateRevertsDeletion No Cancun post state found

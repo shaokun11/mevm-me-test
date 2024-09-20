@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stStaticCall/static_callBasic.json
-2024-09-18T11:23:53.238Z [PASSED] 120/287,0 static_callBasic 1/4 data:0,gas:0,value:0  
-2024-09-18T11:23:53.452Z [PASSED] 120/287,0 static_callBasic 2/4 data:1,gas:0,value:0  
-2024-09-18T11:23:53.666Z [PASSED] 120/287,0 static_callBasic 3/4 data:2,gas:0,value:0  
-2024-09-18T11:23:53.880Z [PASSED] 120/287,0 static_callBasic 4/4 data:3,gas:0,value:0  
+2024-09-20T02:25:16.181Z [PASSED] 120/287,0 static_callBasic 1/4 data:0,gas:0,value:0  
+2024-09-20T02:25:16.394Z [PASSED] 120/287,0 static_callBasic 2/4 data:1,gas:0,value:0  
+2024-09-20T02:25:16.608Z [PASSED] 120/287,0 static_callBasic 3/4 data:2,gas:0,value:0  
+2024-09-20T02:25:16.821Z [PASSED] 120/287,0 static_callBasic 4/4 data:3,gas:0,value:0  

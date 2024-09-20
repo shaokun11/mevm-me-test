@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stZeroCallsTest/ZeroValue_SUICIDE.json
-2024-09-18T11:49:16.749Z [SKIP] 18/36,0 ZeroValue_SUICIDE 1/1 data:0,gas:0,value:0  Not support opcode
+2024-09-20T02:50:39.905Z [SKIP] 18/36,0 ZeroValue_SUICIDE 1/1 data:0,gas:0,value:0  Not support opcode

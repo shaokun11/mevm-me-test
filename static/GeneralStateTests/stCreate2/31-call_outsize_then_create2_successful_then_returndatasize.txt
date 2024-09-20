@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stCreate2/call_outsize_then_create2_successful_then_returndatasize.json
-2024-09-18T10:56:21.143Z [PASSED] 31/54,0 call_outsize_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  
+2024-09-20T01:57:40.346Z [PASSED] 31/54,0 call_outsize_then_create2_successful_then_returndatasize 1/1 data:0,gas:0,value:0  

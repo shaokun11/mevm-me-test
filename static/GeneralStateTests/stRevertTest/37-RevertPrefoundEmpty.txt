@@ -1,2 +1,2 @@
 ethereum-tests/GeneralStateTests/stRevertTest/RevertPrefoundEmpty.json
-2024-09-18T11:17:43.965Z [SKIP] 37/57,0 RevertPrefoundEmpty No Cancun post state found
+2024-09-20T02:19:05.635Z [SKIP] 37/57,0 RevertPrefoundEmpty No Cancun post state found

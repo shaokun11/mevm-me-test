@@ -1,3 +1,3 @@
 ethereum-tests/GeneralStateTests/stQuadraticComplexityTest/Return50000_2.json
-2024-09-18T11:14:35.472Z [PASSED] 16/17,0 Return50000_2 1/2 data:0,gas:1,value:0  
-2024-09-18T11:14:35.688Z [PASSED] 16/17,0 Return50000_2 2/2 data:0,gas:0,value:0  
+2024-09-20T02:15:56.866Z [PASSED] 16/17,0 Return50000_2 1/2 data:0,gas:1,value:0  
+2024-09-20T02:15:57.082Z [PASSED] 16/17,0 Return50000_2 2/2 data:0,gas:0,value:0  

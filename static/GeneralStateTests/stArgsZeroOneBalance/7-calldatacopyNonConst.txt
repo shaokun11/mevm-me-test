@@ -1,5 +1,5 @@
 ethereum-tests/GeneralStateTests/stArgsZeroOneBalance/calldatacopyNonConst.json
-2024-09-18T10:39:13.025Z [PASSED] 7/46,0 calldatacopyNonConst 1/4 data:0,gas:0,value:0  
-2024-09-18T10:39:13.239Z [PASSED] 7/46,0 calldatacopyNonConst 2/4 data:1,gas:0,value:0  
-2024-09-18T10:39:13.454Z [PASSED] 7/46,0 calldatacopyNonConst 3/4 data:0,gas:0,value:1  
-2024-09-18T10:39:13.669Z [PASSED] 7/46,0 calldatacopyNonConst 4/4 data:1,gas:0,value:1  
+2024-09-20T01:40:38.783Z [PASSED] 7/46,0 calldatacopyNonConst 1/4 data:0,gas:0,value:0  
+2024-09-20T01:40:38.997Z [PASSED] 7/46,0 calldatacopyNonConst 2/4 data:1,gas:0,value:0  
+2024-09-20T01:40:39.212Z [PASSED] 7/46,0 calldatacopyNonConst 3/4 data:0,gas:0,value:1  
+2024-09-20T01:40:39.426Z [PASSED] 7/46,0 calldatacopyNonConst 4/4 data:1,gas:0,value:1  
